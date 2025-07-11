@@ -1,0 +1,871 @@
+[
+  {
+    "id": 408,
+    "communeCode": -1,
+    "name": "Yên Bình",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 9,
+    "population": 653422,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.393,
+    "latitude": 22.036,
+    "previous": [
+      "Thị trấn Yên Bình",
+      "Xã Tân Hương",
+      "Xã Thịnh Hưng",
+      "Xã Đại Đồng"
+    ],
+    "treeCode": "0310.0408"
+  },
+  {
+    "id": 411,
+    "communeCode": 2406,
+    "name": "Búng Lao",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 145.85,
+    "population": 19657,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Búng Lao",
+    "longitude": 103.306,
+    "latitude": 21.5388,
+    "previous": [
+      "Xã Ẳng Tở",
+      "Xã Chiềng Đông",
+      "Xã Búng Lao"
+    ],
+    "treeCode": "0310.0411"
+  },
+  {
+    "id": 412,
+    "communeCode": 2385,
+    "name": "Chà Tở",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 227.92,
+    "population": 5208,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Chà Tở",
+    "longitude": 102.939,
+    "latitude": 21.988,
+    "previous": [
+      "Xã Nậm Khăn",
+      "Xã Chà Tở"
+    ],
+    "treeCode": "0310.0412"
+  },
+  {
+    "id": 413,
+    "communeCode": 2403,
+    "name": "Chiềng Sinh",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 218.01,
+    "population": 15371,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Nà Sáy",
+    "longitude": 103.34,
+    "latitude": 21.6201,
+    "previous": [
+      "Xã Nà Sáy",
+      "Xã Mường Thín",
+      "Xã Mường Khong",
+      "Xã Chiềng Sinh"
+    ],
+    "treeCode": "0310.0413"
+  },
+  {
+    "id": 414,
+    "communeCode": 2374,
+    "name": "Điện Biên Phủ",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "phường",
+    "areaKm2": 56.75,
+    "population": 49205,
+    "administrativeCenter": "Trụ sở Thành ủy, HĐND và UBND TP Điện Biên Phủ",
+    "longitude": 103.067,
+    "latitude": 21.4061,
+    "previous": [
+      "Phường Him Lam",
+      "Phường Tân Thanh",
+      "Phường Mường Thanh",
+      "Phường Thanh Bình",
+      "Phường Thanh Trường",
+      "Xã Thanh Minh"
+    ],
+    "treeCode": "0310.0414"
+  },
+  {
+    "id": 415,
+    "communeCode": 2400,
+    "name": "Mường Ảng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 85.94,
+    "population": 17604,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Mường Ảng",
+    "longitude": 103.214,
+    "latitude": 21.4915,
+    "previous": [
+      "Thị trấn Mường Ảng",
+      "Xã Ẳng Nưa",
+      "Xã Ẳng Cang"
+    ],
+    "treeCode": "0310.0415"
+  },
+  {
+    "id": 416,
+    "communeCode": 2377,
+    "name": "Mường Chà",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 462.28,
+    "population": 13884,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Chà Cang",
+    "longitude": 102.799,
+    "latitude": 21.9679,
+    "previous": [
+      "Xã Chà Cang",
+      "Xã Chà Nưa",
+      "Xã Nậm Tin",
+      "Xã Pa Tần"
+    ],
+    "treeCode": "0310.0416"
+  },
+  {
+    "id": 417,
+    "communeCode": 2407,
+    "name": "Mường Lạn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 264.89,
+    "population": 10901,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Lạn",
+    "longitude": 103.314,
+    "latitude": 21.4545,
+    "previous": [
+      "Xã Nặm Lịch",
+      "Xã Xuân Lao",
+      "Xã Mường Lạn"
+    ],
+    "treeCode": "0310.0417"
+  },
+  {
+    "id": 418,
+    "communeCode": 2375,
+    "name": "Mường Lay",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "phường",
+    "areaKm2": 222.65,
+    "population": 18208,
+    "administrativeCenter": "Trụ sở Thị ủy, HĐND và UBND thị xã Mường Lay",
+    "longitude": 103.174,
+    "latitude": 22.0203,
+    "previous": [
+      "Phường Sông Đà",
+      "Phường Na Lay",
+      "Xã Lay Nưa",
+      "Xã Sá Tổng"
+    ],
+    "treeCode": "0310.0418"
+  },
+  {
+    "id": 419,
+    "communeCode": 2393,
+    "name": "Mường Luân",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 186.22,
+    "population": 16012,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Luân",
+    "longitude": 103.385,
+    "latitude": 21.2474,
+    "previous": [
+      "Xã Chiềng Sơ",
+      "Xã Luân Giói",
+      "Xã Mường Luân"
+    ],
+    "treeCode": "0310.0419"
+  },
+  {
+    "id": 420,
+    "communeCode": 2402,
+    "name": "Mường Mùn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 252.84,
+    "population": 14374,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Mùn",
+    "longitude": 103.297,
+    "latitude": 21.7236,
+    "previous": [
+      "Xã Mùn Chung",
+      "Xã Pú Xi",
+      "Xã Mường Mùn"
+    ],
+    "treeCode": "0310.0420"
+  },
+  {
+    "id": 421,
+    "communeCode": 2414,
+    "name": "Mường Nhà",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 463,
+    "population": 9653,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Phu Luông",
+    "longitude": 103.166,
+    "latitude": 20.9745,
+    "previous": [
+      "Xã Mường Lói",
+      "Xã Phu Luông",
+      "Xã Mường Nhà"
+    ],
+    "treeCode": "0310.0421"
+  },
+  {
+    "id": 422,
+    "communeCode": 2378,
+    "name": "Mường Nhé",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 489.47,
+    "population": 24294,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Mường Nhé",
+    "longitude": 102.427,
+    "latitude": 22.2202,
+    "previous": [
+      "Xã Nậm Vì",
+      "Xã Chung Chải",
+      "Xã Mường Nhé"
+    ],
+    "treeCode": "0310.0422"
+  },
+  {
+    "id": 423,
+    "communeCode": 2408,
+    "name": "Mường Phăng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 166.7,
+    "population": 16063,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Phăng",
+    "longitude": 103.104,
+    "latitude": 21.466,
+    "previous": [
+      "Xã Nà Nhạn",
+      "Xã Pá Khoang",
+      "Xã Mường Phăng"
+    ],
+    "treeCode": "0310.0423"
+  },
+  {
+    "id": 424,
+    "communeCode": 2390,
+    "name": "Mường Pồn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 258.76,
+    "population": 10401,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Mươn",
+    "longitude": 103.032,
+    "latitude": 21.5931,
+    "previous": [
+      "Xã Mường Mươn",
+      "Xã Mường Pồn"
+    ],
+    "treeCode": "0310.0424"
+  },
+  {
+    "id": 425,
+    "communeCode": 2355,
+    "name": "Mường Thanh",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "phường",
+    "areaKm2": 27.56,
+    "population": 25517,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Điện Biên",
+    "longitude": 103.035,
+    "latitude": 21.3627,
+    "previous": [
+      "Phường Noong Bua",
+      "Phường Nam Thanh",
+      "Xã Thanh Xương"
+    ],
+    "treeCode": "0310.0425"
+  },
+  {
+    "id": 426,
+    "communeCode": 2380,
+    "name": "Mường Toong",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 230.69,
+    "population": 10832,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Toong",
+    "longitude": 102.696,
+    "latitude": 22.1576,
+    "previous": [
+      "Xã Huổi Lếch",
+      "Xã Mường Toong"
+    ],
+    "treeCode": "0310.0426"
+  },
+  {
+    "id": 427,
+    "communeCode": 2386,
+    "name": "Mường Tùng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 278.93,
+    "population": 945,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Mường Tùng",
+    "longitude": 103.081,
+    "latitude": 21.9457,
+    "previous": [
+      "Xã Huổi Lèng",
+      "Xã Mường Tùng"
+    ],
+    "treeCode": "0310.0427"
+  },
+  {
+    "id": 428,
+    "communeCode": 2383,
+    "name": "Nà Bủng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 162.52,
+    "population": 10114,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Vàng Đán",
+    "longitude": 102.714,
+    "latitude": 21.7218,
+    "previous": [
+      "Xã Vàng Đán",
+      "Xã Nà Bủng"
+    ],
+    "treeCode": "0310.0428"
+  },
+  {
+    "id": 429,
+    "communeCode": 2382,
+    "name": "Nà Hỳ",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 275.64,
+    "population": 1671,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Nậm Pồ",
+    "longitude": 102.724,
+    "latitude": 21.8366,
+    "previous": [
+      "Xã Nà Khoa",
+      "Xã Nậm Nhừ",
+      "Xã Nậm Chua",
+      "Xã Nà Hỳ"
+    ],
+    "treeCode": "0310.0429"
+  },
+  {
+    "id": 430,
+    "communeCode": 2384,
+    "name": "Na Sang",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 360.15,
+    "population": 19598,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Mường Chà",
+    "longitude": 103.068,
+    "latitude": 21.7742,
+    "previous": [
+      "Thị trấn Mường Chà",
+      "Xã Ma Thì Hồ",
+      "Xã Sa Lông",
+      "Xã Na Sang"
+    ],
+    "treeCode": "0310.0430"
+  },
+  {
+    "id": 431,
+    "communeCode": 2391,
+    "name": "Na Son",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 230.71,
+    "population": 15331,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Điện Biên Đông",
+    "longitude": 103.18,
+    "latitude": 21.2506,
+    "previous": [
+      "Thị trấn Điện Biên Đông",
+      "Xã Keo Lôm",
+      "Xã Na Son"
+    ],
+    "treeCode": "0310.0431"
+  },
+  {
+    "id": 432,
+    "communeCode": 2405,
+    "name": "Nà Tấu",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 188.55,
+    "population": 14939,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Nà Tấu",
+    "longitude": 103.154,
+    "latitude": 21.5724,
+    "previous": [
+      "Xã Mường Đăng",
+      "Xã Ngối Cáy",
+      "Xã Nà Tấu"
+    ],
+    "treeCode": "0310.0432"
+  },
+  {
+    "id": 433,
+    "communeCode": 2379,
+    "name": "Nậm Kè",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 224.7,
+    "population": 8977,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Nậm Kè",
+    "longitude": 102.608,
+    "latitude": 22.0997,
+    "previous": [
+      "Xã Pá Mỳ",
+      "Xã Nậm Kè"
+    ],
+    "treeCode": "0310.0433"
+  },
+  {
+    "id": 434,
+    "communeCode": 2388,
+    "name": "Nậm Nèn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 175,
+    "population": 7496,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Nậm Nèn",
+    "longitude": 103.215,
+    "latitude": 21.785,
+    "previous": [
+      "Xã Huổi Mí",
+      "Xã Nậm Nèn"
+    ],
+    "treeCode": "0310.0434"
+  },
+  {
+    "id": 435,
+    "communeCode": 2413,
+    "name": "Núa Ngam",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 264.78,
+    "population": 11804,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Núa Ngam",
+    "longitude": 103.043,
+    "latitude": 21.172,
+    "previous": [
+      "Xã Hẹ Muông",
+      "Xã Na Tông",
+      "Xã Núa Ngam"
+    ],
+    "treeCode": "0310.0435"
+  },
+  {
+    "id": 436,
+    "communeCode": 2387,
+    "name": "Pa Ham",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 135.84,
+    "population": 8171,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Pa Ham",
+    "longitude": 103.217,
+    "latitude": 21.888,
+    "previous": [
+      "Xã Hừa Ngài",
+      "Xã Pa Ham"
+    ],
+    "treeCode": "0310.0436"
+  },
+  {
+    "id": 437,
+    "communeCode": 2416,
+    "name": "Phình Giàng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 226.37,
+    "population": 10467,
+    "administrativeCenter": "Trụ sở HĐND và UBND xã Phình Giàng",
+    "longitude": 103.22,
+    "latitude": 21.1207,
+    "previous": [
+      "Xã Pú Hồng",
+      "Xã Phình Giàng"
+    ],
+    "treeCode": "0310.0437"
+  },
+  {
+    "id": 438,
+    "communeCode": 2415,
+    "name": "Pu Nhi",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 181.22,
+    "population": 999,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Pu Nhi",
+    "longitude": 103.144,
+    "latitude": 21.3505,
+    "previous": [
+      "Xã Nong U",
+      "Xã Pu Nhi"
+    ],
+    "treeCode": "0310.0438"
+  },
+  {
+    "id": 439,
+    "communeCode": 2401,
+    "name": "Pú Nhung",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 209.93,
+    "population": 12547,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Rạng Đông",
+    "longitude": 103.494,
+    "latitude": 21.7195,
+    "previous": [
+      "Xã Rạng Đông",
+      "Xã Ta Ma",
+      "Xã Pú Nhung"
+    ],
+    "treeCode": "0310.0439"
+  },
+  {
+    "id": 440,
+    "communeCode": 2404,
+    "name": "Quài Tở",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 182.01,
+    "population": 14887,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Quài Tở",
+    "longitude": 103.467,
+    "latitude": 21.5523,
+    "previous": [
+      "Xã Tỏa Tình",
+      "Xã Tênh Phông",
+      "Xã Quài Tở"
+    ],
+    "treeCode": "0310.0440"
+  },
+  {
+    "id": 441,
+    "communeCode": 2381,
+    "name": "Quảng Lâm",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 233.25,
+    "population": 10021,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Quảng Lâm",
+    "longitude": 102.604,
+    "latitude": 21.9966,
+    "previous": [
+      "Xã Na Cô Sa",
+      "Xã Quảng Lâm"
+    ],
+    "treeCode": "0310.0441"
+  },
+  {
+    "id": 442,
+    "communeCode": 2412,
+    "name": "Sam Mứn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 156.12,
+    "population": 8183,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Pom Lót",
+    "longitude": 102.953,
+    "latitude": 21.2182,
+    "previous": [
+      "Xã Pom Lót",
+      "Xã Na Ư"
+    ],
+    "treeCode": "0310.0442"
+  },
+  {
+    "id": 443,
+    "communeCode": 2398,
+    "name": "Sáng Nhè",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 190.02,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Xá Nhè",
+    "longitude": 103.462,
+    "latitude": 21.8456,
+    "previous": [
+      "Xã Xá Nhè",
+      "Xã Mường Đun",
+      "Xã Phình Sáng"
+    ],
+    "treeCode": "0310.0443"
+  },
+  {
+    "id": 444,
+    "communeCode": 2389,
+    "name": "Si Pa Phìn",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 241.65,
+    "population": 10772,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Si Pa Phìn",
+    "longitude": 102.921,
+    "latitude": 21.8069,
+    "previous": [
+      "Xã Phìn Hồ",
+      "Xã Si Pa Phìn"
+    ],
+    "treeCode": "0310.0444"
+  },
+  {
+    "id": 445,
+    "communeCode": 2396,
+    "name": "Sín Chải",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 189.13,
+    "population": 12915,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Tả Sìn Thàng",
+    "longitude": 103.331,
+    "latitude": 22.0568,
+    "previous": [
+      "Xã Tả Sìn Thàng",
+      "Xã Lao Xả Phình",
+      "Xã Sín Chải"
+    ],
+    "treeCode": "0310.0445"
+  },
+  {
+    "id": 446,
+    "communeCode": 2376,
+    "name": "Sín Thầu",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 516.42,
+    "population": 6058,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Leng Su Sìn",
+    "longitude": 102.293,
+    "latitude": 22.3799,
+    "previous": [
+      "Xã Sen Thượng",
+      "Xã Leng Su Sìn",
+      "Xã Sín Thầu"
+    ],
+    "treeCode": "0310.0446"
+  },
+  {
+    "id": 447,
+    "communeCode": 2397,
+    "name": "Sính Phình",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 174.53,
+    "population": 15815,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Sính Phình",
+    "longitude": 103.339,
+    "latitude": 21.939,
+    "previous": [
+      "Xã Trung Thu",
+      "Xã Tả Phìn",
+      "Xã Sính Phình"
+    ],
+    "treeCode": "0310.0447"
+  },
+  {
+    "id": 448,
+    "communeCode": 2411,
+    "name": "Thanh An",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 136.72,
+    "population": 25324,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Noong Hẹt",
+    "longitude": 103.039,
+    "latitude": 21.3068,
+    "previous": [
+      "Xã Noong Hẹt",
+      "Xã Sam Mứn",
+      "Xã Thanh An"
+    ],
+    "treeCode": "0310.0448"
+  },
+  {
+    "id": 449,
+    "communeCode": 2409,
+    "name": "Thanh Nưa",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 176.97,
+    "population": 29397,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Thanh Luông",
+    "longitude": 102.96,
+    "latitude": 21.4283,
+    "previous": [
+      "Xã Hua Thanh",
+      "Xã Thanh Luông",
+      "Xã Thanh Hưng",
+      "Xã Thanh Chăn",
+      "Xã Thanh Nưa"
+    ],
+    "treeCode": "0310.0449"
+  },
+  {
+    "id": 450,
+    "communeCode": 2410,
+    "name": "Thanh Yên",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 130.1,
+    "population": 15697,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Noong Luống",
+    "longitude": 102.921,
+    "latitude": 21.3062,
+    "previous": [
+      "Xã Noong Luống",
+      "Xã Pa Thơm",
+      "Xã Thanh Yên"
+    ],
+    "treeCode": "0310.0450"
+  },
+  {
+    "id": 451,
+    "communeCode": 2417,
+    "name": "Tìa Dình",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 166.76,
+    "population": 7292,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Háng Lìa",
+    "longitude": 103.341,
+    "latitude": 21.1393,
+    "previous": [
+      "Xã Háng Lìa",
+      "Xã Tìa Dình"
+    ],
+    "treeCode": "0310.0451"
+  },
+  {
+    "id": 452,
+    "communeCode": 2394,
+    "name": "Tủa Chùa",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 108.33,
+    "population": 17817,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Tủa Chùa",
+    "longitude": 103.36,
+    "latitude": 21.8236,
+    "previous": [
+      "Thị trấn Tủa Chùa",
+      "Xã Mường Báng",
+      "Xã Nà Tòng"
+    ],
+    "treeCode": "0310.0452"
+  },
+  {
+    "id": 453,
+    "communeCode": 2395,
+    "name": "Tủa Thàng",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 150.92,
+    "population": 8944,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Huổi Só",
+    "longitude": 103.434,
+    "latitude": 22,
+    "previous": [
+      "Xã Huổi Só",
+      "Xã Tủa Thàng"
+    ],
+    "treeCode": "0310.0453"
+  },
+  {
+    "id": 454,
+    "communeCode": 2399,
+    "name": "Tuần Giáo",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 108.49,
+    "population": 24303,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện Tuần Giáo",
+    "longitude": 103.434,
+    "latitude": 21.6313,
+    "previous": [
+      "Thị trấn Tuần Giáo",
+      "Xã Quài Cang",
+      "Xã Quài Nưa"
+    ],
+    "treeCode": "0310.0454"
+  },
+  {
+    "id": 455,
+    "communeCode": 2392,
+    "name": "Xa Dung",
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "type": "xã",
+    "areaKm2": 215.5,
+    "population": 15722,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND và UBND xã Phì Nhừ",
+    "longitude": 103.299,
+    "latitude": 21.3223,
+    "previous": [
+      "Xã Phì Nhừ",
+      "Xã Xa Dung"
+    ],
+    "treeCode": "0310.0455"
+  }
+]

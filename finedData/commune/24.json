@@ -1,0 +1,2538 @@
+[
+  {
+    "id": 2131,
+    "communeCode": 3101,
+    "name": "Al Bá",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 109.179,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.148,
+    "latitude": 13.7113,
+    "previous": [
+      "Xã Ayun (huyện Chư Sê)",
+      "Xã Kông Htok",
+      "Xã Al Bá"
+    ],
+    "treeCode": "2130.2131"
+  },
+  {
+    "id": 2132,
+    "communeCode": 3183,
+    "name": "An Bình",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 18.39,
+    "population": 5015,
+    "administrativeCenter": "UBND phường An Bình",
+    "longitude": 108.61,
+    "latitude": 13.969,
+    "previous": [
+      "Phường An Bình",
+      "Xã Tân An",
+      "Xã Cư An"
+    ],
+    "treeCode": "2130.2132"
+  },
+  {
+    "id": 2133,
+    "communeCode": 3127,
+    "name": "Ân Hảo",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 95.46,
+    "population": 2239,
+    "administrativeCenter": "Xã Ân Mỹ",
+    "longitude": 108.932,
+    "latitude": 14.476,
+    "previous": [
+      "Xã Ân Hảo Tây",
+      "Xã Ân Hảo Đông",
+      "Xã Ân Mỹ"
+    ],
+    "treeCode": "2130.2133"
+  },
+  {
+    "id": 2134,
+    "communeCode": 3119,
+    "name": "An Hòa",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 77.9,
+    "population": 19033,
+    "administrativeCenter": "Xã An Hòa",
+    "longitude": 108.855,
+    "latitude": 14.5274,
+    "previous": [
+      "Xã An Hòa",
+      "Xã An Quang",
+      "Xã An Nghĩa"
+    ],
+    "treeCode": "2130.2134"
+  },
+  {
+    "id": 2135,
+    "communeCode": 3184,
+    "name": "An Khê",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 57.44,
+    "population": 50495,
+    "administrativeCenter": "UBND thị xã An Khê",
+    "longitude": 108.672,
+    "latitude": 13.9929,
+    "previous": [
+      "Phường Ngô Mây",
+      "Phường Tây Sơn (thị xã An Khê)",
+      "Phường An Phú",
+      "Phường An Phước",
+      "Phường An Tân",
+      "Xã Thành An"
+    ],
+    "treeCode": "2130.2135"
+  },
+  {
+    "id": 2136,
+    "communeCode": 3116,
+    "name": "An Lão",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 103.87,
+    "population": 10703,
+    "administrativeCenter": "Thị trấn An Lão",
+    "longitude": 108.914,
+    "latitude": 14.6304,
+    "previous": [
+      "Thị trấn An Lão",
+      "Xã An Tân",
+      "Xã An Hưng"
+    ],
+    "treeCode": "2130.2136"
+  },
+  {
+    "id": 2137,
+    "communeCode": 3137,
+    "name": "An Lương",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 66.57,
+    "population": 37958,
+    "administrativeCenter": "Xã Mỹ Chánh",
+    "longitude": 109.168,
+    "latitude": 14.1804,
+    "previous": [
+      "Xã Mỹ Chánh",
+      "Xã Mỹ Thành",
+      "Xã Mỹ Cát"
+    ],
+    "treeCode": "2130.2137"
+  },
+  {
+    "id": 2138,
+    "communeCode": 3159,
+    "name": "An Nhơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 3.23,
+    "population": 114498,
+    "administrativeCenter": "Phường Đập Đá",
+    "longitude": 109.063,
+    "latitude": 13.9174,
+    "previous": [
+      "Phường Đập Đá",
+      "Xã Nhơn Mỹ",
+      "Xã Nhơn Hậu"
+    ],
+    "treeCode": "2130.2138"
+  },
+  {
+    "id": 2139,
+    "communeCode": 3160,
+    "name": "An Nhơn Bắc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 31.95,
+    "population": 38484,
+    "administrativeCenter": "Xã Nhơn Phong",
+    "longitude": 109.153,
+    "latitude": 13.9326,
+    "previous": [
+      "Phường Nhơn Thành",
+      "Xã Nhơn Phong",
+      "Xã Nhơn Hạnh"
+    ],
+    "treeCode": "2130.2139"
+  },
+  {
+    "id": 2140,
+    "communeCode": 3161,
+    "name": "An Nhơn Đông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 17.21,
+    "population": 26443,
+    "administrativeCenter": "Phường Nhơn Hưng",
+    "longitude": 109.112,
+    "latitude": 13.9106,
+    "previous": [
+      "Phường Nhơn Hưng",
+      "Xã Nhơn An"
+    ],
+    "treeCode": "2130.2140"
+  },
+  {
+    "id": 2141,
+    "communeCode": 3171,
+    "name": "An Nhơn Nam",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 60.05,
+    "population": 31651,
+    "administrativeCenter": "Phường Nhơn Hòa",
+    "longitude": 109.081,
+    "latitude": 13.851,
+    "previous": [
+      "Phường Nhơn Hòa",
+      "Xã Nhơn Thọ"
+    ],
+    "treeCode": "2130.2141"
+  },
+  {
+    "id": 2142,
+    "communeCode": 3172,
+    "name": "An Nhơn Tây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 77.7,
+    "population": 40896,
+    "administrativeCenter": "Xã Nhơn Lộc",
+    "longitude": 109.014,
+    "latitude": 13.8115,
+    "previous": [
+      "Xã Nhơn Lộc",
+      "Xã Nhơn Tân"
+    ],
+    "treeCode": "2130.2142"
+  },
+  {
+    "id": 2143,
+    "communeCode": 3193,
+    "name": "An Phú",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 16.85,
+    "population": 16293,
+    "administrativeCenter": "UBND xã An Phú",
+    "longitude": 108.065,
+    "latitude": 13.9746,
+    "previous": [
+      "Phường Thắng Lợi",
+      "Xã Chư Á",
+      "Xã An Phú"
+    ],
+    "treeCode": "2130.2143"
+  },
+  {
+    "id": 2144,
+    "communeCode": 3118,
+    "name": "An Toàn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 295.34,
+    "population": 179,
+    "administrativeCenter": "Xã An Toàn",
+    "longitude": 108.71,
+    "latitude": 14.4934,
+    "previous": [
+      "Xã An Toàn",
+      "Xã An Nghĩa (phần còn lại sau khi sáp nhập vào xã An Hòa)"
+    ],
+    "treeCode": "2130.2144"
+  },
+  {
+    "id": 2145,
+    "communeCode": 3131,
+    "name": "Ân Tường",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 227.45,
+    "population": 18582,
+    "administrativeCenter": "Xã Ân Hữu",
+    "longitude": 108.869,
+    "latitude": 14.3551,
+    "previous": [
+      "Xã Ân Tường Tây",
+      "Xã Ân Hữu",
+      "Xã Đak Mang"
+    ],
+    "treeCode": "2130.2145"
+  },
+  {
+    "id": 2146,
+    "communeCode": 3117,
+    "name": "An Vinh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 196.19,
+    "population": 6522,
+    "administrativeCenter": "Xã An Dũng",
+    "longitude": 108.814,
+    "latitude": 14.6136,
+    "previous": [
+      "Xã An Trung (huyện An Lão)",
+      "Xã An Dũng",
+      "Xã An Vinh"
+    ],
+    "treeCode": "2130.2146"
+  },
+  {
+    "id": 2147,
+    "communeCode": 3175,
+    "name": "Ayun",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 202.24,
+    "population": 12692,
+    "administrativeCenter": "UBND xã Đak Jơ Ta",
+    "longitude": 108.313,
+    "latitude": 14.1434,
+    "previous": [
+      "Xã Đak Jơ Ta",
+      "Xã Ayun (huyện Mang Yang)"
+    ],
+    "treeCode": "2130.2147"
+  },
+  {
+    "id": 2148,
+    "communeCode": 3108,
+    "name": "Ayun Pa",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 17.61,
+    "population": 2682,
+    "administrativeCenter": "UBND thị xã Ayun Pa",
+    "longitude": 108.435,
+    "latitude": 13.4094,
+    "previous": [
+      "Phường Đoàn Kết",
+      "Phường Sông Bờ",
+      "Phường Cheo Reo",
+      "Phường Hòa Bình"
+    ],
+    "treeCode": "2130.2148"
+  },
+  {
+    "id": 2149,
+    "communeCode": 3090,
+    "name": "Bàu Cạn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 114.25,
+    "population": 22266,
+    "administrativeCenter": "UBND xã Thăng Hưng",
+    "longitude": 107.888,
+    "latitude": 13.8341,
+    "previous": [
+      "Xã Thăng Hưng",
+      "Xã Bình Giáo",
+      "Xã Bàu Cạn"
+    ],
+    "treeCode": "2130.2149"
+  },
+  {
+    "id": 2150,
+    "communeCode": 3192,
+    "name": "Biển Hồ",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 170.44,
+    "population": 40983,
+    "administrativeCenter": "UBND xã Biển Hồ",
+    "longitude": 108.037,
+    "latitude": 14.0839,
+    "previous": [
+      "Xã Nghĩa Hưng",
+      "Xã Chư Đang Ya",
+      "Xã Hà Bầu",
+      "Xã Biển Hồ"
+    ],
+    "treeCode": "2130.2150"
+  },
+  {
+    "id": 2151,
+    "communeCode": 3144,
+    "name": "Bình An",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 73.43,
+    "population": 59475,
+    "administrativeCenter": "Xã Bình Hòa",
+    "longitude": 108.902,
+    "latitude": 13.9535,
+    "previous": [
+      "Xã Tây Vinh",
+      "Xã Tây Bình",
+      "Xã Bình Hòa",
+      "Xã Bình Thành"
+    ],
+    "treeCode": "2130.2151"
+  },
+  {
+    "id": 2152,
+    "communeCode": 3158,
+    "name": "Bình Định",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 25.16,
+    "population": 42768,
+    "administrativeCenter": "Phường Bình Định",
+    "longitude": 109.058,
+    "latitude": 13.8932,
+    "previous": [
+      "Phường Bình Định",
+      "Xã Nhơn Khánh",
+      "Xã Nhơn Phúc"
+    ],
+    "treeCode": "2130.2152"
+  },
+  {
+    "id": 2153,
+    "communeCode": 3133,
+    "name": "Bình Dương",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 65.81,
+    "population": 27314,
+    "administrativeCenter": "Thị trấn Bình Dương",
+    "longitude": 109.101,
+    "latitude": 14.2693,
+    "previous": [
+      "Thị trấn Bình Dương",
+      "Xã Mỹ Lợi",
+      "Xã Mỹ Phong"
+    ],
+    "treeCode": "2130.2153"
+  },
+  {
+    "id": 2154,
+    "communeCode": 3142,
+    "name": "Bình Hiệp",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 123.68,
+    "population": 2142,
+    "administrativeCenter": "Xã Bình Hòa",
+    "longitude": 108.941,
+    "latitude": 13.9982,
+    "previous": [
+      "Xã Bình Thuận",
+      "Xã Bình Tân",
+      "Xã Tây An"
+    ],
+    "treeCode": "2130.2154"
+  },
+  {
+    "id": 2155,
+    "communeCode": 3143,
+    "name": "Bình Khê",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 151.83,
+    "population": 2168,
+    "administrativeCenter": "Xã Tây Giang",
+    "longitude": 108.807,
+    "latitude": 13.9733,
+    "previous": [
+      "Xã Tây Giang",
+      "Xã Tây Thuận"
+    ],
+    "treeCode": "2130.2155"
+  },
+  {
+    "id": 2156,
+    "communeCode": 3145,
+    "name": "Bình Phú",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 47.3,
+    "population": 51081,
+    "administrativeCenter": "Xã Bình Tường",
+    "longitude": 108.843,
+    "latitude": 13.8632,
+    "previous": [
+      "Xã Vĩnh An",
+      "Xã Bình Tường",
+      "Xã Tây Phú"
+    ],
+    "treeCode": "2130.2156"
+  },
+  {
+    "id": 2157,
+    "communeCode": 3103,
+    "name": "Bờ Ngoong",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 172.11,
+    "population": 31436,
+    "administrativeCenter": "UBND xã Bờ Ngoong",
+    "longitude": 108.086,
+    "latitude": 13.81,
+    "previous": [
+      "Xã Bar Măih",
+      "Xã Ia Tiêm",
+      "Xã Chư Pơng",
+      "Xã Bờ Ngoong"
+    ],
+    "treeCode": "2130.2157"
+  },
+  {
+    "id": 2158,
+    "communeCode": 3121,
+    "name": "Bồng Sơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 81.11,
+    "population": 41435,
+    "administrativeCenter": "Phường Bồng Sơn",
+    "longitude": 109.029,
+    "latitude": 14.4036,
+    "previous": [
+      "Phường Hoài Đức",
+      "Phường Bồng Sơn"
+    ],
+    "treeCode": "2130.2158"
+  },
+  {
+    "id": 2159,
+    "communeCode": 3168,
+    "name": "Canh Liên",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 331.67,
+    "population": 2357,
+    "administrativeCenter": "Xã Canh Liên",
+    "longitude": 108.898,
+    "latitude": 13.6903,
+    "previous": [
+      "Xã Canh Liên (phần còn lại sau khi sáp nhập vào xã Canh Vinh)"
+    ],
+    "treeCode": "2130.2159"
+  },
+  {
+    "id": 2160,
+    "communeCode": 3169,
+    "name": "Canh Vinh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 258.72,
+    "population": 16832,
+    "administrativeCenter": "Xã Canh Vinh",
+    "longitude": 109.043,
+    "latitude": 13.683,
+    "previous": [
+      "Xã Canh Vinh",
+      "Xã Canh Hiển",
+      "Xã Canh Liên",
+      "Xã Canh Hiệp (phần còn lại sau khi sáp nhập vào xã Vân Canh)"
+    ],
+    "treeCode": "2130.2160"
+  },
+  {
+    "id": 2161,
+    "communeCode": 3152,
+    "name": "Cát Tiến",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 103.36,
+    "population": 33523,
+    "administrativeCenter": "Thị trấn Cát Tiến",
+    "longitude": 109.187,
+    "latitude": 14.0649,
+    "previous": [
+      "Thị trấn Cát Tiến",
+      "Xã Cát Thành",
+      "Xã Cát Hải"
+    ],
+    "treeCode": "2130.2161"
+  },
+  {
+    "id": 2162,
+    "communeCode": 3173,
+    "name": "Chơ Long",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 195.07,
+    "population": 7739,
+    "administrativeCenter": "UBND xã Chơ Long",
+    "longitude": 108.421,
+    "latitude": 13.7554,
+    "previous": [
+      "Xã Đăk Pơ Pho",
+      "Xã Chơ GLong"
+    ],
+    "treeCode": "2130.2162"
+  },
+  {
+    "id": 2163,
+    "communeCode": 3107,
+    "name": "Chư A Thai",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 133.92,
+    "population": 21654,
+    "administrativeCenter": "UBND xã Ia AKe",
+    "longitude": 108.279,
+    "latitude": 13.5684,
+    "previous": [
+      "Xã Ayun Hạ",
+      "Xã Ia Ake",
+      "Xã Chư A Thai"
+    ],
+    "treeCode": "2130.2163"
+  },
+  {
+    "id": 2164,
+    "communeCode": 3180,
+    "name": "Chư Krey",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 195.59,
+    "population": 9468,
+    "administrativeCenter": "UBND xã An Trung",
+    "longitude": 108.441,
+    "latitude": 13.8857,
+    "previous": [
+      "Xã An Trung (huyện Kông Chro)",
+      "Xã Chư Krey"
+    ],
+    "treeCode": "2130.2164"
+  },
+  {
+    "id": 2165,
+    "communeCode": 3098,
+    "name": "Chư Păh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 103.58,
+    "population": 19446,
+    "administrativeCenter": "UBND huyện Chư Păh",
+    "longitude": 107.962,
+    "latitude": 14.1359,
+    "previous": [
+      "Thị trấn Phú Hòa",
+      "Xã Nghĩa Hòa",
+      "Xã Hòa Phú"
+    ],
+    "treeCode": "2130.2165"
+  },
+  {
+    "id": 2166,
+    "communeCode": 3075,
+    "name": "Chư Prông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 124.77,
+    "population": 33892,
+    "administrativeCenter": "UBND huyện Chư",
+    "longitude": 107.94,
+    "latitude": 13.7786,
+    "previous": [
+      "Thị trấn Chư Prông",
+      "Xã Ia Phìn",
+      "Xã Ia Kly",
+      "Xã Ia Drang"
+    ],
+    "treeCode": "2130.2166"
+  },
+  {
+    "id": 2167,
+    "communeCode": 3100,
+    "name": "Chư Pưh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 184.44,
+    "population": 33374,
+    "administrativeCenter": "Huyện ủy Chư Pưh",
+    "longitude": 108.138,
+    "latitude": 13.518,
+    "previous": [
+      "Thị trấn Nhơn Hòa",
+      "Xã Chư Don",
+      "Xã Ia Phang"
+    ],
+    "treeCode": "2130.2167"
+  },
+  {
+    "id": 2168,
+    "communeCode": 3099,
+    "name": "Chư Sê",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 124.93,
+    "population": 68975,
+    "administrativeCenter": "UBND huyện Chư Sê",
+    "longitude": 108.071,
+    "latitude": 13.7038,
+    "previous": [
+      "Thị trấn Chư Sê",
+      "Xã Dun",
+      "Xã Ia Blang",
+      "Xã Ia Pal",
+      "Xã Ia Glai"
+    ],
+    "treeCode": "2130.2168"
+  },
+  {
+    "id": 2169,
+    "communeCode": 3185,
+    "name": "Cửu An",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 132.96,
+    "population": 19874,
+    "administrativeCenter": "UBND xã Cửu An",
+    "longitude": 108.676,
+    "latitude": 14.0725,
+    "previous": [
+      "Xã Tú An",
+      "Xã Xuân An",
+      "Xã Song An",
+      "Xã Cửu An"
+    ],
+    "treeCode": "2130.2169"
+  },
+  {
+    "id": 2170,
+    "communeCode": 3200,
+    "name": "Đak Đoa",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 83.37,
+    "population": 37049,
+    "administrativeCenter": "Trụ sở UBND huyện Đak Đoa",
+    "longitude": 108.137,
+    "latitude": 13.9614,
+    "previous": [
+      "Thị trấn Đak Đoa",
+      "Xã Tân Bình",
+      "Xã Glar"
+    ],
+    "treeCode": "2130.2170"
+  },
+  {
+    "id": 2171,
+    "communeCode": 3182,
+    "name": "Đak Pơ",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 223.33,
+    "population": 1858,
+    "administrativeCenter": "Trụ sở UBND huyện Đak Pơ",
+    "longitude": 108.508,
+    "latitude": 13.9687,
+    "previous": [
+      "Thị trấn Đak Pơ",
+      "Xã Hà Tam",
+      "Xã An Thành",
+      "Xã Yang Bắc"
+    ],
+    "treeCode": "2130.2171"
+  },
+  {
+    "id": 2172,
+    "communeCode": 3195,
+    "name": "Đak Rong",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 517.936,
+    "population": null,
+    "administrativeCenter": "UBND Đak Rong",
+    "longitude": 108.408,
+    "latitude": 14.4375,
+    "previous": [
+      "Xã Kon Pne",
+      "Xã Đak Rong"
+    ],
+    "treeCode": "2130.2172"
+  },
+  {
+    "id": 2173,
+    "communeCode": 3201,
+    "name": "Đak Sơmei",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 345.144,
+    "population": null,
+    "administrativeCenter": "UBND xã Đak Sơmei",
+    "longitude": 108.228,
+    "latitude": 14.2564,
+    "previous": [
+      "Xã Hà Đông",
+      "Xã Đak Sơmei"
+    ],
+    "treeCode": "2130.2173"
+  },
+  {
+    "id": 2174,
+    "communeCode": 3186,
+    "name": "Đăk Song",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 327.49,
+    "population": 4764,
+    "administrativeCenter": "UBND xã Đăk Song",
+    "longitude": 108.769,
+    "latitude": 13.6702,
+    "previous": [
+      "Xã Đăk Pling",
+      "Xã Đăk Song"
+    ],
+    "treeCode": "2130.2174"
+  },
+  {
+    "id": 2175,
+    "communeCode": 3148,
+    "name": "Đề Gi",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 94.97,
+    "population": 4555,
+    "administrativeCenter": "Thị trấn Cát Khánh",
+    "longitude": 109.138,
+    "latitude": 14.0999,
+    "previous": [
+      "Thị trấn Cát Khánh",
+      "Xã Cát Minh",
+      "Xã Cát Tài"
+    ],
+    "treeCode": "2130.2175"
+  },
+  {
+    "id": 2176,
+    "communeCode": 3189,
+    "name": "Diên Hồng",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 1.86,
+    "population": 75633,
+    "administrativeCenter": "Thành ủy Pleiku",
+    "longitude": 107.975,
+    "latitude": 13.9513,
+    "previous": [
+      "Phường Yên Đỗ",
+      "Phường Ia Kring",
+      "Phường Diên Hồng",
+      "Xã Diên Phú"
+    ],
+    "treeCode": "2130.2176"
+  },
+  {
+    "id": 2177,
+    "communeCode": 3085,
+    "name": "Đức Cơ",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 124.66,
+    "population": 23575,
+    "administrativeCenter": "Trụ sở UBND huyện Đức Cơ",
+    "longitude": 107.717,
+    "latitude": 13.7536,
+    "previous": [
+      "Thị trấn Chư Ty",
+      "Xã Ia Kriêng"
+    ],
+    "treeCode": "2130.2177"
+  },
+  {
+    "id": 2178,
+    "communeCode": 3097,
+    "name": "Gào",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 182.47,
+    "population": 15957,
+    "administrativeCenter": "UBND xã",
+    "longitude": 107.904,
+    "latitude": 13.9048,
+    "previous": [
+      "Xã Ia Kênh",
+      "Xã Ia Pếch",
+      "Xã Gào"
+    ],
+    "treeCode": "2130.2178"
+  },
+  {
+    "id": 2179,
+    "communeCode": 3149,
+    "name": "Hòa Hội",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 136.27,
+    "population": 36174,
+    "administrativeCenter": "Xã Cát Hanh",
+    "longitude": 109.019,
+    "latitude": 14.0463,
+    "previous": [
+      "Xã Cát Hanh",
+      "Xã Cát Hiệp"
+    ],
+    "treeCode": "2130.2179"
+  },
+  {
+    "id": 2180,
+    "communeCode": 3129,
+    "name": "Hoài Ân",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 115.72,
+    "population": 35037,
+    "administrativeCenter": "Thị trấn Tăng Bạt Hổ",
+    "longitude": 109.001,
+    "latitude": 14.3087,
+    "previous": [
+      "Thị trấn Tăng Bạt Hổ",
+      "Xã Ân Phong",
+      "Xã Ân Đức",
+      "Xã Ân Tường Đông"
+    ],
+    "treeCode": "2130.2180"
+  },
+  {
+    "id": 2181,
+    "communeCode": 3124,
+    "name": "Hoài Nhơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 40.32,
+    "population": 43167,
+    "administrativeCenter": "Phường Hoài Thanh Tây",
+    "longitude": 109.049,
+    "latitude": 14.5092,
+    "previous": [
+      "Phường Hoài Thanh",
+      "Phường Tam Quan Nam",
+      "Phường Hoài Thanh Tây"
+    ],
+    "treeCode": "2130.2181"
+  },
+  {
+    "id": 2182,
+    "communeCode": 3122,
+    "name": "Hoài Nhơn Bắc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 89.45,
+    "population": 44581,
+    "administrativeCenter": "Phường Tam Quan Bắc",
+    "longitude": 109.008,
+    "latitude": 14.6198,
+    "previous": [
+      "Phường Tam Quan Bắc",
+      "Xã Hoài Sơn",
+      "Xã Hoài Châu Bắc"
+    ],
+    "treeCode": "2130.2182"
+  },
+  {
+    "id": 2183,
+    "communeCode": 3125,
+    "name": "Hoài Nhơn Đông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 64.36,
+    "population": 44634,
+    "administrativeCenter": "Phường Hoài Hương",
+    "longitude": 109.087,
+    "latitude": 14.4479,
+    "previous": [
+      "Phường Hoài Hương",
+      "Xã Hoài Hải",
+      "Xã Hoài Mỹ"
+    ],
+    "treeCode": "2130.2183"
+  },
+  {
+    "id": 2184,
+    "communeCode": 3126,
+    "name": "Hoài Nhơn Nam",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 37.67,
+    "population": 32707,
+    "administrativeCenter": "Phường Hoài Tân",
+    "longitude": 109.018,
+    "latitude": 14.4646,
+    "previous": [
+      "Phường Hoài Tân",
+      "Phường Hoài Xuân"
+    ],
+    "treeCode": "2130.2184"
+  },
+  {
+    "id": 2185,
+    "communeCode": 3123,
+    "name": "Hoài Nhơn Tây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 78.15,
+    "population": 25572,
+    "administrativeCenter": "Phường Hoài Hảo",
+    "longitude": 108.984,
+    "latitude": 14.5372,
+    "previous": [
+      "Phường Hoài Hảo",
+      "Xã Hoài Phú"
+    ],
+    "treeCode": "2130.2185"
+  },
+  {
+    "id": 2186,
+    "communeCode": 3190,
+    "name": "Hội Phú",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 34.86,
+    "population": 46358,
+    "administrativeCenter": "UBND phường Chi Lăng",
+    "longitude": 108.02,
+    "latitude": 13.9341,
+    "previous": [
+      "Phường Trà Bá",
+      "Phường Chi Lăng",
+      "Phường Hội Phú"
+    ],
+    "treeCode": "2130.2186"
+  },
+  {
+    "id": 2187,
+    "communeCode": 3147,
+    "name": "Hội Sơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 182.34,
+    "population": 14314,
+    "administrativeCenter": "Xã Cát Lâm",
+    "longitude": 108.943,
+    "latitude": 14.1231,
+    "previous": [
+      "Xã Cát Lâm",
+      "Xã Cát Sơn"
+    ],
+    "treeCode": "2130.2187"
+  },
+  {
+    "id": 2188,
+    "communeCode": 3176,
+    "name": "Hra",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 230.89,
+    "population": 14355,
+    "administrativeCenter": "UBND xã Đak Ta Ley",
+    "longitude": 108.424,
+    "latitude": 14.0986,
+    "previous": [
+      "Xã Đak Ta Ley",
+      "Xã Hra"
+    ],
+    "treeCode": "2130.2188"
+  },
+  {
+    "id": 2189,
+    "communeCode": 3204,
+    "name": "Ia Băng",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 116.24,
+    "population": 31035,
+    "administrativeCenter": "UBND xã ADơk",
+    "longitude": 108.077,
+    "latitude": 13.899,
+    "previous": [
+      "Xã Ia Băng (huyện Đak Đoa)",
+      "Xã Adơk",
+      "Xã Ia Pết"
+    ],
+    "treeCode": "2130.2189"
+  },
+  {
+    "id": 2190,
+    "communeCode": 3077,
+    "name": "Ia Boòng",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 196.07,
+    "population": 1884,
+    "administrativeCenter": "UBND xã Ia Boòng",
+    "longitude": 107.84,
+    "latitude": 13.6794,
+    "previous": [
+      "Xã Ia O (huyện Chư Prông)",
+      "Xã Ia Me",
+      "Xã Ia Boòng"
+    ],
+    "treeCode": "2130.2190"
+  },
+  {
+    "id": 2191,
+    "communeCode": 3084,
+    "name": "Ia Chia",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 172.86,
+    "population": 9065,
+    "administrativeCenter": "Ia Chia",
+    "longitude": 107.585,
+    "latitude": 13.8857,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2191"
+  },
+  {
+    "id": 2192,
+    "communeCode": 3086,
+    "name": "Ia Dơk",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 100.53,
+    "population": 17829,
+    "administrativeCenter": "UBND xã Ia Kla",
+    "longitude": 107.677,
+    "latitude": 13.8513,
+    "previous": [
+      "Xã Ia Kla",
+      "Xã Ia Dơk"
+    ],
+    "treeCode": "2130.2192"
+  },
+  {
+    "id": 2193,
+    "communeCode": 3088,
+    "name": "Ia Dom",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 145.43,
+    "population": 9157,
+    "administrativeCenter": "Ia Dom",
+    "longitude": 107.535,
+    "latitude": 13.8078,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2193"
+  },
+  {
+    "id": 2194,
+    "communeCode": 3114,
+    "name": "Ia Dreh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 379.69,
+    "population": 16643,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.638,
+    "latitude": 13.0844,
+    "previous": [
+      "Xã Ia Rmok",
+      "Xã Krông Năng",
+      "Xã Ia Dreh"
+    ],
+    "treeCode": "2130.2194"
+  },
+  {
+    "id": 2195,
+    "communeCode": 3081,
+    "name": "Ia Grai",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 239.84,
+    "population": 24625,
+    "administrativeCenter": "UBND huyện Ia Grai",
+    "longitude": 107.792,
+    "latitude": 14.0105,
+    "previous": [
+      "Thị trấn Ia Kha",
+      "Xã Ia Bă",
+      "Xã Ia Grăng"
+    ],
+    "treeCode": "2130.2195"
+  },
+  {
+    "id": 2196,
+    "communeCode": 3109,
+    "name": "Ia Hiao",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 108.38,
+    "population": 21352,
+    "administrativeCenter": "UBND Ia Hiao",
+    "longitude": 108.35,
+    "latitude": 13.44,
+    "previous": [
+      "Xã Chrôh Pơnan",
+      "Xã Ia Peng",
+      "Xã Ia Hiao"
+    ],
+    "treeCode": "2130.2196"
+  },
+  {
+    "id": 2197,
+    "communeCode": 3102,
+    "name": "Ia Hrú",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 242.332,
+    "population": null,
+    "administrativeCenter": "UBND xã Ia Hrú",
+    "longitude": 108.179,
+    "latitude": 13.5956,
+    "previous": [
+      "Xã Ia Dreng",
+      "Xã Ia Rong",
+      "Xã HBông",
+      "Xã Ia Hrú"
+    ],
+    "treeCode": "2130.2197"
+  },
+  {
+    "id": 2198,
+    "communeCode": 3089,
+    "name": "Ia Hrung",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 169.15,
+    "population": 37219,
+    "administrativeCenter": "UBND xã Ia Sao",
+    "longitude": 107.919,
+    "latitude": 14.0207,
+    "previous": [
+      "Xã Ia Sao (huyện Ia Grai)",
+      "Xã Ia Yok",
+      "Xã Ia Dêr",
+      "Xã Ia Hrung"
+    ],
+    "treeCode": "2130.2198"
+  },
+  {
+    "id": 2199,
+    "communeCode": 3205,
+    "name": "Ia Khươl",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 351.97,
+    "population": 17151,
+    "administrativeCenter": "UBND xã Ia Khươl",
+    "longitude": 108.158,
+    "latitude": 14.2945,
+    "previous": [
+      "Xã Đăk Tơ Ver",
+      "Xã Hà Tây",
+      "Xã Ia Khươl"
+    ],
+    "treeCode": "2130.2199"
+  },
+  {
+    "id": 2200,
+    "communeCode": 3080,
+    "name": "Ia Ko",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 210.72,
+    "population": 24935,
+    "administrativeCenter": "UBND xã Ia Ko",
+    "longitude": 108.004,
+    "latitude": 13.5847,
+    "previous": [
+      "Xã Ia Hlốp",
+      "Xã Ia Hla",
+      "Xã Ia Ko"
+    ],
+    "treeCode": "2130.2200"
+  },
+  {
+    "id": 2201,
+    "communeCode": 3082,
+    "name": "Ia Krái",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 307.83,
+    "population": 28889,
+    "administrativeCenter": "UBND xã Ia Krái",
+    "longitude": 107.685,
+    "latitude": 14.0051,
+    "previous": [
+      "Xã Ia Tô",
+      "Xã Ia Khai",
+      "Xã Ia Krái"
+    ],
+    "treeCode": "2130.2201"
+  },
+  {
+    "id": 2202,
+    "communeCode": 3087,
+    "name": "Ia Krêl",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 146.92,
+    "population": 22944,
+    "administrativeCenter": "UBND xã Ia Din",
+    "longitude": 107.777,
+    "latitude": 13.8204,
+    "previous": [
+      "Xã Ia Lang",
+      "Xã Ia Din",
+      "Xã Ia Krêl"
+    ],
+    "treeCode": "2130.2202"
+  },
+  {
+    "id": 2203,
+    "communeCode": 3091,
+    "name": "Ia Lâu",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 215.02,
+    "population": 23105,
+    "administrativeCenter": "UBND xã Ia Piơr",
+    "longitude": 107.87,
+    "latitude": 13.4617,
+    "previous": [
+      "Xã Ia Piơr",
+      "Xã Ia Lâu"
+    ],
+    "treeCode": "2130.2203"
+  },
+  {
+    "id": 2204,
+    "communeCode": 3093,
+    "name": "Ia Le",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 316.88,
+    "population": 24289,
+    "administrativeCenter": "UBND xã Ia Le",
+    "longitude": 108.074,
+    "latitude": 13.4527,
+    "previous": [
+      "Xã Ia Blứ",
+      "Xã Ia Le"
+    ],
+    "treeCode": "2130.2204"
+  },
+  {
+    "id": 2205,
+    "communeCode": 3094,
+    "name": "Ia Ly",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 210.56,
+    "population": 13847,
+    "administrativeCenter": "UBND thị trấn Ia Ly",
+    "longitude": 107.778,
+    "latitude": 14.1852,
+    "previous": [
+      "Thị trấn Ia Ly",
+      "Xã Ia Mơ Nông",
+      "Xã Ia Kreng"
+    ],
+    "treeCode": "2130.2205"
+  },
+  {
+    "id": 2206,
+    "communeCode": 3092,
+    "name": "Ia Mơ",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 435.6,
+    "population": 338,
+    "administrativeCenter": "Ia Mơ",
+    "longitude": 107.71,
+    "latitude": 13.4616,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2206"
+  },
+  {
+    "id": 2207,
+    "communeCode": 3074,
+    "name": "Ia Nan",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 90.31,
+    "population": 8663,
+    "administrativeCenter": "Ia Nan",
+    "longitude": 107.58,
+    "latitude": 13.7232,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2207"
+  },
+  {
+    "id": 2208,
+    "communeCode": 3083,
+    "name": "Ia O",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 137.39,
+    "population": 11301,
+    "administrativeCenter": "xã Ia O",
+    "longitude": 107.543,
+    "latitude": 13.9504,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2208"
+  },
+  {
+    "id": 2209,
+    "communeCode": 3105,
+    "name": "Ia Pa",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 103.19,
+    "population": 31021,
+    "administrativeCenter": "UBND huyện Ia Pa",
+    "longitude": 108.447,
+    "latitude": 13.5159,
+    "previous": [
+      "Xã Ia Mrơn",
+      "Xã Kim Tân",
+      "Xã Ia Trôk"
+    ],
+    "treeCode": "2130.2209"
+  },
+  {
+    "id": 2210,
+    "communeCode": 3095,
+    "name": "Ia Phí",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 212.03,
+    "population": 23325,
+    "administrativeCenter": "UBND xã Ia Ka",
+    "longitude": 107.841,
+    "latitude": 14.1122,
+    "previous": [
+      "Xã Ia Ka",
+      "Xã Ia Nhin",
+      "Xã Ia Phí"
+    ],
+    "treeCode": "2130.2210"
+  },
+  {
+    "id": 2211,
+    "communeCode": 3079,
+    "name": "Ia Pia",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 238.59,
+    "population": 20326,
+    "administrativeCenter": "UBND xã Ia Pia",
+    "longitude": 107.898,
+    "latitude": 13.6004,
+    "previous": [
+      "Xã Ia Ga",
+      "Xã Ia Vê",
+      "Xã Ia Pia"
+    ],
+    "treeCode": "2130.2211"
+  },
+  {
+    "id": 2212,
+    "communeCode": 3073,
+    "name": "Ia Pnôn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 114.01,
+    "population": 5922,
+    "administrativeCenter": "Ia Pnôn",
+    "longitude": 107.633,
+    "latitude": 13.7101,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2212"
+  },
+  {
+    "id": 2213,
+    "communeCode": 3078,
+    "name": "Ia Púch",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 267.3,
+    "population": 4185,
+    "administrativeCenter": "Ia Púch",
+    "longitude": 107.692,
+    "latitude": 13.6198,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2213"
+  },
+  {
+    "id": 2214,
+    "communeCode": 3110,
+    "name": "Ia Rbol",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 154.97,
+    "population": 1022,
+    "administrativeCenter": "UBND xã Chư Băh",
+    "longitude": 108.385,
+    "latitude": 13.3494,
+    "previous": [
+      "Xã Chư Băh",
+      "Xã Ia Rbol"
+    ],
+    "treeCode": "2130.2214"
+  },
+  {
+    "id": 2215,
+    "communeCode": 3112,
+    "name": "Ia Rsai",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 473.69,
+    "population": 22578,
+    "administrativeCenter": "UBND xã Chư Rcăm",
+    "longitude": 108.681,
+    "latitude": 13.3584,
+    "previous": [
+      "Xã Chư RCăm",
+      "Xã Chư Gu",
+      "Xã Ia Rsai"
+    ],
+    "treeCode": "2130.2215"
+  },
+  {
+    "id": 2216,
+    "communeCode": 3111,
+    "name": "Ia Sao",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 114.6,
+    "population": 8397,
+    "administrativeCenter": "UBND xã Ia Sao",
+    "longitude": 108.438,
+    "latitude": 13.2701,
+    "previous": [
+      "Xã Ia Sao (thị xã Ayun Pa)",
+      "Xã Ia Rtô"
+    ],
+    "treeCode": "2130.2216"
+  },
+  {
+    "id": 2217,
+    "communeCode": 3076,
+    "name": "Ia Tôr",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 102.31,
+    "population": 17449,
+    "administrativeCenter": "UBND xã Ia Tôr",
+    "longitude": 107.979,
+    "latitude": 13.7532,
+    "previous": [
+      "Xã Ia Băng (huyện Chư Prông)",
+      "Xã Ia Bang",
+      "Xã Ia Tôr"
+    ],
+    "treeCode": "2130.2217"
+  },
+  {
+    "id": 2218,
+    "communeCode": 3113,
+    "name": "Ia Tul",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 587.51,
+    "population": 20304,
+    "administrativeCenter": "UBND xã Ia Tul",
+    "longitude": 108.579,
+    "latitude": 13.5038,
+    "previous": [
+      "Xã Chư Mố",
+      "Xã Ia Broăi",
+      "Xã Ia Kdăm",
+      "Xã Ia Tul"
+    ],
+    "treeCode": "2130.2218"
+  },
+  {
+    "id": 2219,
+    "communeCode": 3194,
+    "name": "Kbang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 288.83,
+    "population": 25281,
+    "administrativeCenter": "Trụ sở UBND huyện Kbang",
+    "longitude": 108.553,
+    "latitude": 14.1851,
+    "previous": [
+      "Thị trấn Kbang",
+      "Xã Lơ Ku",
+      "Xã Đak Smar"
+    ],
+    "treeCode": "2130.2219"
+  },
+  {
+    "id": 2220,
+    "communeCode": 3203,
+    "name": "KDang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 179.384,
+    "population": null,
+    "administrativeCenter": "UBND xã HNol",
+    "longitude": 108.19,
+    "latitude": 13.944,
+    "previous": [
+      "Xã Hnol",
+      "Xã Trang",
+      "Xã KDang"
+    ],
+    "treeCode": "2130.2220"
+  },
+  {
+    "id": 2221,
+    "communeCode": 3130,
+    "name": "Kim Sơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 29.4,
+    "population": 29382,
+    "administrativeCenter": "Xã Ân Nghĩa",
+    "longitude": 108.862,
+    "latitude": 14.2495,
+    "previous": [
+      "Xã Ân Nghĩa",
+      "Xã Bok Tới"
+    ],
+    "treeCode": "2130.2221"
+  },
+  {
+    "id": 2222,
+    "communeCode": 3178,
+    "name": "Kon Chiêng",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 273.51,
+    "population": 9971,
+    "administrativeCenter": "BND xã Kon Chiêng",
+    "longitude": 108.294,
+    "latitude": 13.7568,
+    "previous": [
+      "Xã Đak Trôi",
+      "Xã Kon Chiêng"
+    ],
+    "treeCode": "2130.2222"
+  },
+  {
+    "id": 2223,
+    "communeCode": 3202,
+    "name": "Kon Gang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 145.84,
+    "population": 22529,
+    "administrativeCenter": "UBND xã HNeng",
+    "longitude": 108.133,
+    "latitude": 14.0816,
+    "previous": [
+      "Xã Đak Krong",
+      "Xã Hneng",
+      "Xã Nam Yang",
+      "Xã Kon Gang"
+    ],
+    "treeCode": "2130.2223"
+  },
+  {
+    "id": 2224,
+    "communeCode": 3199,
+    "name": "Kông Bơ La",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 133.42,
+    "population": 17468,
+    "administrativeCenter": "UBND xã Kông Bơ La",
+    "longitude": 108.623,
+    "latitude": 14.0945,
+    "previous": [
+      "Xã Đông",
+      "Xã Nghĩa An",
+      "Xã Kông Bơ La"
+    ],
+    "treeCode": "2130.2224"
+  },
+  {
+    "id": 2225,
+    "communeCode": 3179,
+    "name": "Kông Chro",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 200.79,
+    "population": 20936,
+    "administrativeCenter": "Trụ sở UBND huyện Kông Chro",
+    "longitude": 108.513,
+    "latitude": 13.7115,
+    "previous": [
+      "Thị trấn Kông Chro",
+      "Xã Yang Trung",
+      "Xã Yang Nam"
+    ],
+    "treeCode": "2130.2225"
+  },
+  {
+    "id": 2226,
+    "communeCode": 3197,
+    "name": "Krong",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 311.58,
+    "population": 6046,
+    "administrativeCenter": "Xã Krong",
+    "longitude": 108.434,
+    "latitude": 14.2751,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2226"
+  },
+  {
+    "id": 2227,
+    "communeCode": 3177,
+    "name": "Lơ Pang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 316.16,
+    "population": 17666,
+    "administrativeCenter": "UBND xã Kon Thụp",
+    "longitude": 108.275,
+    "latitude": 13.8822,
+    "previous": [
+      "Xã Đê Ar",
+      "Xã Kon Thụp",
+      "Xã Lơ Pang"
+    ],
+    "treeCode": "2130.2227"
+  },
+  {
+    "id": 2228,
+    "communeCode": 3174,
+    "name": "Mang Yang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 173.59,
+    "population": 30302,
+    "administrativeCenter": "UBND huyện Mang Yang",
+    "longitude": 108.243,
+    "latitude": 14.0506,
+    "previous": [
+      "Thị trấn Kon Dơng",
+      "Xã Đăk Yă",
+      "Xã Đak Djrăng",
+      "Xã Hải Yang"
+    ],
+    "treeCode": "2130.2228"
+  },
+  {
+    "id": 2229,
+    "communeCode": 3150,
+    "name": "Ngô Mây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 61.42,
+    "population": 25651,
+    "administrativeCenter": "Xã Cát Hưng",
+    "longitude": 109.184,
+    "latitude": 13.9841,
+    "previous": [
+      "Xã Cát Hưng",
+      "Xã Cát Thắng",
+      "Xã Cát Chánh"
+    ],
+    "treeCode": "2130.2229"
+  },
+  {
+    "id": 2230,
+    "communeCode": 3321,
+    "name": "Nhơn Châu",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 3.62,
+    "population": 2350,
+    "administrativeCenter": "xã Nhơn Châu",
+    "longitude": 109.3473,
+    "latitude": 13.6209,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2130.2230"
+  },
+  {
+    "id": 2231,
+    "communeCode": 3146,
+    "name": "Phù Cát",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 83.96,
+    "population": 51436,
+    "administrativeCenter": "Thị trấn Ngô Mây",
+    "longitude": 109.074,
+    "latitude": 14.0023,
+    "previous": [
+      "Thị trấn Ngô Mây",
+      "Xã Cát Trinh",
+      "Xã Cát Tân"
+    ],
+    "treeCode": "2130.2231"
+  },
+  {
+    "id": 2232,
+    "communeCode": 3154,
+    "name": "Phù Mỹ",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 54.47,
+    "population": 28496,
+    "administrativeCenter": "Thị trấn Phù Mỹ",
+    "longitude": 109.086,
+    "latitude": 14.1867,
+    "previous": [
+      "Thị trấn Phù Mỹ",
+      "Xã Mỹ Quang",
+      "Xã Mỹ Chánh Tây"
+    ],
+    "treeCode": "2130.2232"
+  },
+  {
+    "id": 2233,
+    "communeCode": 3134,
+    "name": "Phù Mỹ Bắc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 100.98,
+    "population": 28766,
+    "administrativeCenter": "Xã Mỹ Châu",
+    "longitude": 109.069,
+    "latitude": 14.3318,
+    "previous": [
+      "Xã Mỹ Đức",
+      "Xã Mỹ Châu",
+      "Xã Mỹ Lộc"
+    ],
+    "treeCode": "2130.2233"
+  },
+  {
+    "id": 2234,
+    "communeCode": 3136,
+    "name": "Phù Mỹ Đông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 85.62,
+    "population": 43428,
+    "administrativeCenter": "Xã Mỹ An",
+    "longitude": 109.15,
+    "latitude": 14.2639,
+    "previous": [
+      "Xã Mỹ An",
+      "Xã Mỹ Thọ",
+      "Xã Mỹ Thắng"
+    ],
+    "treeCode": "2130.2234"
+  },
+  {
+    "id": 2235,
+    "communeCode": 3132,
+    "name": "Phù Mỹ Nam",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 85.1,
+    "population": 27185,
+    "administrativeCenter": "Xã Mỹ Hiệp",
+    "longitude": 109.046,
+    "latitude": 14.1276,
+    "previous": [
+      "Xã Mỹ Tài",
+      "Xã Mỹ Hiệp"
+    ],
+    "treeCode": "2130.2235"
+  },
+  {
+    "id": 2236,
+    "communeCode": 3135,
+    "name": "Phù Mỹ Tây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 97.53,
+    "population": 18543,
+    "administrativeCenter": "Xã Mỹ Trinh",
+    "longitude": 109.025,
+    "latitude": 14.214,
+    "previous": [
+      "Xã Mỹ Trinh",
+      "Xã Mỹ Hòa"
+    ],
+    "treeCode": "2130.2236"
+  },
+  {
+    "id": 2237,
+    "communeCode": 3106,
+    "name": "Phú Thiện",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 262.87,
+    "population": 49393,
+    "administrativeCenter": "Trụ sở UBND huyện Phú Thiệ",
+    "longitude": 108.317,
+    "latitude": 13.4886,
+    "previous": [
+      "Thị trấn Phú Thiện",
+      "Xã Ia Sol",
+      "Xã Ia Piar",
+      "Xã Ia Yeng"
+    ],
+    "treeCode": "2130.2237"
+  },
+  {
+    "id": 2238,
+    "communeCode": 3069,
+    "name": "Phú Túc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 63.14,
+    "population": 62073,
+    "administrativeCenter": "Trụ sở UBND huyện Krông Pa",
+    "longitude": 108.775,
+    "latitude": 13.2347,
+    "previous": [
+      "Thị trấn Phú Túc",
+      "Xã Phú Cần",
+      "Xã Chư Ngọc",
+      "Xã Ia Mlah",
+      "Xã Đất Bằng"
+    ],
+    "treeCode": "2130.2238"
+  },
+  {
+    "id": 2239,
+    "communeCode": 3096,
+    "name": "Pleiku",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 25,
+    "population": 79466,
+    "administrativeCenter": "UBND thành phố Pleiku",
+    "longitude": 108.046,
+    "latitude": 14.0074,
+    "previous": [
+      "Phường Tây Sơn (thành phố Pleiku)",
+      "Phường Hội Thương",
+      "Phường Hoa Lư",
+      "Phường Phù Đổng",
+      "Xã Trà Đa"
+    ],
+    "treeCode": "2130.2239"
+  },
+  {
+    "id": 2240,
+    "communeCode": 3104,
+    "name": "Pờ Tó",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 177.9,
+    "population": 14378,
+    "administrativeCenter": "UBND xã Pờ Tó",
+    "longitude": 108.381,
+    "latitude": 13.6474,
+    "previous": [
+      "Xã Chư Răng",
+      "Xã Pờ Tó"
+    ],
+    "treeCode": "2130.2240"
+  },
+  {
+    "id": 2241,
+    "communeCode": 3156,
+    "name": "Quy Nhơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 21.78,
+    "population": 129326,
+    "administrativeCenter": "Thành ủy Quy Nhơn",
+    "longitude": 109.233,
+    "latitude": 13.7843,
+    "previous": [
+      "Phường Đống Đa (thành phố Quy Nhơn)",
+      "Phường Hải Cảng",
+      "Phường Thị Nại",
+      "Phường Trần Phú"
+    ],
+    "treeCode": "2130.2241"
+  },
+  {
+    "id": 2242,
+    "communeCode": 3155,
+    "name": "Quy Nhơn Bắc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 23.7,
+    "population": 45746,
+    "administrativeCenter": "Phường Nhơn Phú",
+    "longitude": 109.167,
+    "latitude": 13.788,
+    "previous": [
+      "Phường Trần Quang Diệu",
+      "Phường Nhơn Phú"
+    ],
+    "treeCode": "2130.2242"
+  },
+  {
+    "id": 2243,
+    "communeCode": 3157,
+    "name": "Quy Nhơn Đông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 81.97,
+    "population": 47067,
+    "administrativeCenter": "Xã Nhơn Hội",
+    "longitude": 109.259,
+    "latitude": 13.8278,
+    "previous": [
+      "Phường Nhơn Bình",
+      "Xã Nhơn Hội",
+      "Xã Nhơn Lý",
+      "Xã Nhơn Hải"
+    ],
+    "treeCode": "2130.2243"
+  },
+  {
+    "id": 2244,
+    "communeCode": 3170,
+    "name": "Quy Nhơn Nam",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 36.36,
+    "population": 73296,
+    "administrativeCenter": "Phường Nguyễn Văn Cừ",
+    "longitude": 109.206,
+    "latitude": 13.729,
+    "previous": [
+      "Phường Ngô Mây (thành phố Quy Nhơn)",
+      "Phường Nguyễn Văn Cừ",
+      "Phường Quang Trung",
+      "Phường Ghềnh Ráng"
+    ],
+    "treeCode": "2130.2244"
+  },
+  {
+    "id": 2245,
+    "communeCode": 3166,
+    "name": "Quy Nhơn Tây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 118.63,
+    "population": 24859,
+    "administrativeCenter": "Phường Bùi Thị Xuân",
+    "longitude": 109.141,
+    "latitude": 13.7015,
+    "previous": [
+      "Phường Bùi Thị Xuân",
+      "Xã Phước Mỹ"
+    ],
+    "treeCode": "2130.2245"
+  },
+  {
+    "id": 2246,
+    "communeCode": 3196,
+    "name": "Sơn Lang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 451.01,
+    "population": 11106,
+    "administrativeCenter": "UBND xã Sơn Lang",
+    "longitude": 108.575,
+    "latitude": 14.3952,
+    "previous": [
+      "Xã Sơ Pai",
+      "Xã Sơn Lang"
+    ],
+    "treeCode": "2130.2246"
+  },
+  {
+    "id": 2247,
+    "communeCode": 3188,
+    "name": "SRó",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 344.719,
+    "population": null,
+    "administrativeCenter": "UBND xã SRó",
+    "longitude": 108.653,
+    "latitude": 13.7109,
+    "previous": [
+      "Xã Đăk Kơ Ning",
+      "Xã SRó"
+    ],
+    "treeCode": "2130.2247"
+  },
+  {
+    "id": 2248,
+    "communeCode": 3120,
+    "name": "Tam Quan",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 29.82,
+    "population": 24858,
+    "administrativeCenter": "Phường Tam Quan",
+    "longitude": 109.01,
+    "latitude": 14.5729,
+    "previous": [
+      "Phường Tam Quan",
+      "Xã Hoài Châu"
+    ],
+    "treeCode": "2130.2248"
+  },
+  {
+    "id": 2249,
+    "communeCode": 3141,
+    "name": "Tây Sơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 334.62,
+    "population": 11052,
+    "administrativeCenter": "Thị trấn Phú Phong",
+    "longitude": 108.956,
+    "latitude": 13.8712,
+    "previous": [
+      "Thị trấn Phú Phong",
+      "Xã Tây Xuân",
+      "Xã Bình Nghi"
+    ],
+    "treeCode": "2130.2249"
+  },
+  {
+    "id": 2250,
+    "communeCode": 3191,
+    "name": "Thống Nhất",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "phường",
+    "areaKm2": 22.92,
+    "population": 48721,
+    "administrativeCenter": "UBND phường Yên Thế",
+    "longitude": 107.995,
+    "latitude": 14.0137,
+    "previous": [
+      "Phường Đống Đa (thành phố Pleiku)",
+      "Phường Yên Thế",
+      "Phường Thống Nhất"
+    ],
+    "treeCode": "2130.2250"
+  },
+  {
+    "id": 2251,
+    "communeCode": 3198,
+    "name": "Tơ Tung",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 141.35,
+    "population": 10952,
+    "administrativeCenter": "UBND xã Kông Lơng Khơng",
+    "longitude": 108.526,
+    "latitude": 14.0671,
+    "previous": [
+      "Xã Kông Lơng Khơng",
+      "Xã Tơ Tung"
+    ],
+    "treeCode": "2130.2251"
+  },
+  {
+    "id": 2252,
+    "communeCode": 3162,
+    "name": "Tuy Phước",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 53.37,
+    "population": 77452,
+    "administrativeCenter": "Thị trấn Tuy Phước",
+    "longitude": 109.216,
+    "latitude": 13.8339,
+    "previous": [
+      "Thị trấn Tuy Phước",
+      "Thị trấn Diêu Trì",
+      "Xã Phước Thuận",
+      "Xã Phước Nghĩa",
+      "Xã Phước Lộc"
+    ],
+    "treeCode": "2130.2252"
+  },
+  {
+    "id": 2253,
+    "communeCode": 3164,
+    "name": "Tuy Phước Bắc",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 37.03,
+    "population": 49495,
+    "administrativeCenter": "Xã Phước Quang",
+    "longitude": 109.157,
+    "latitude": 13.8859,
+    "previous": [
+      "Xã Phước Hiệp",
+      "Xã Phước Hưng",
+      "Xã Phước Quang"
+    ],
+    "treeCode": "2130.2253"
+  },
+  {
+    "id": 2254,
+    "communeCode": 3163,
+    "name": "Tuy Phước Đông",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 60.66,
+    "population": 5844,
+    "administrativeCenter": "Xã Phước Sơn",
+    "longitude": 109.215,
+    "latitude": 13.8857,
+    "previous": [
+      "Xã Phước Sơn",
+      "Xã Phước Hòa",
+      "Xã Phước Thắng"
+    ],
+    "treeCode": "2130.2254"
+  },
+  {
+    "id": 2255,
+    "communeCode": 3165,
+    "name": "Tuy Phước Tây",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 68.81,
+    "population": 36006,
+    "administrativeCenter": "Xã Phước An",
+    "longitude": 109.103,
+    "latitude": 13.7929,
+    "previous": [
+      "Xã Phước An",
+      "Xã Phước Thành"
+    ],
+    "treeCode": "2130.2255"
+  },
+  {
+    "id": 2256,
+    "communeCode": 3115,
+    "name": "Uar",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 412.31,
+    "population": 22215,
+    "administrativeCenter": "UBND xã Uar",
+    "longitude": 108.542,
+    "latitude": 13.2257,
+    "previous": [
+      "Xã Ia Rsươm",
+      "Xã Chư Drăng",
+      "Xã Uar"
+    ],
+    "treeCode": "2130.2256"
+  },
+  {
+    "id": 2257,
+    "communeCode": 3167,
+    "name": "Vân Canh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 208.75,
+    "population": 1385,
+    "administrativeCenter": "Thị trấn Vân Canh",
+    "longitude": 108.982,
+    "latitude": 13.588,
+    "previous": [
+      "Thị trấn Vân Canh",
+      "Xã Canh Thuận",
+      "Xã Canh Hòa",
+      "Xã Canh Hiệp"
+    ],
+    "treeCode": "2130.2257"
+  },
+  {
+    "id": 2258,
+    "communeCode": 3128,
+    "name": "Vạn Đức",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 111.88,
+    "population": 21617,
+    "administrativeCenter": "Xã Ân Tín",
+    "longitude": 108.915,
+    "latitude": 14.4006,
+    "previous": [
+      "Xã Ân Sơn",
+      "Xã Ân Tín",
+      "Xã Ân Thạnh"
+    ],
+    "treeCode": "2130.2258"
+  },
+  {
+    "id": 2259,
+    "communeCode": 3153,
+    "name": "Vĩnh Quang",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 89.35,
+    "population": 9074,
+    "administrativeCenter": "Xã Vĩnh Quang",
+    "longitude": 108.742,
+    "latitude": 14.0843,
+    "previous": [
+      "Xã Vĩnh Thuận",
+      "Xã Vĩnh Hòa",
+      "Xã Vĩnh Quang"
+    ],
+    "treeCode": "2130.2259"
+  },
+  {
+    "id": 2260,
+    "communeCode": 3139,
+    "name": "Vĩnh Sơn",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 328.89,
+    "population": 6029,
+    "administrativeCenter": "Xã Vĩnh Sơn",
+    "longitude": 108.711,
+    "latitude": 14.3348,
+    "previous": [
+      "Xã Vĩnh Kim",
+      "Xã Vĩnh Sơn"
+    ],
+    "treeCode": "2130.2260"
+  },
+  {
+    "id": 2261,
+    "communeCode": 3138,
+    "name": "Vĩnh Thạnh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 65.9,
+    "population": 30522,
+    "administrativeCenter": "Thị trấn Vĩnh Thạnh",
+    "longitude": 108.727,
+    "latitude": 14.1791,
+    "previous": [
+      "Thị trấn Vĩnh Thạnh",
+      "Xã Vĩnh Hảo"
+    ],
+    "treeCode": "2130.2261"
+  },
+  {
+    "id": 2262,
+    "communeCode": 3140,
+    "name": "Vĩnh Thịnh",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 133.91,
+    "population": 10839,
+    "administrativeCenter": "Xã Vĩnh Hiệp",
+    "longitude": 108.815,
+    "latitude": 14.1413,
+    "previous": [
+      "Xã Vĩnh Hiệp",
+      "Xã Vĩnh Thịnh"
+    ],
+    "treeCode": "2130.2262"
+  },
+  {
+    "id": 2263,
+    "communeCode": 3151,
+    "name": "Xuân An",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 67.61,
+    "population": 30502,
+    "administrativeCenter": "Xã Cát Tường",
+    "longitude": 109.132,
+    "latitude": 13.985,
+    "previous": [
+      "Xã Cát Nhơn",
+      "Xã Cát Tường"
+    ],
+    "treeCode": "2130.2263"
+  },
+  {
+    "id": 2264,
+    "communeCode": 3187,
+    "name": "Ya Hội",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 215.75,
+    "population": 8753,
+    "administrativeCenter": "UBND xã Phú An",
+    "longitude": 108.698,
+    "latitude": 13.8942,
+    "previous": [
+      "Xã Phú An",
+      "Xã Ya Hội"
+    ],
+    "treeCode": "2130.2264"
+  },
+  {
+    "id": 2265,
+    "communeCode": 3181,
+    "name": "Ya Ma",
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "type": "xã",
+    "areaKm2": 176.88,
+    "population": 883,
+    "administrativeCenter": "UBND xã Kông Yang",
+    "longitude": 108.582,
+    "latitude": 13.8177,
+    "previous": [
+      "Xã Đăk Tơ Pang",
+      "Xã Kông Yang",
+      "Xã Ya Ma"
+    ],
+    "treeCode": "2130.2265"
+  }
+]

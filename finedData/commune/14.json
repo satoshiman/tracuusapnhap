@@ -1,0 +1,716 @@
+[
+  {
+    "id": 457,
+    "communeCode": 2212,
+    "name": "Bản Bo",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 100.82,
+    "population": 9496,
+    "administrativeCenter": "Trụ sở UBND xã Bản Bo, Bản Hưng Phong, xã Bản Bo",
+    "longitude": 103.697,
+    "latitude": 22.2846,
+    "previous": [
+      "Xã Nà Tăm",
+      "Xã Bản Bo"
+    ],
+    "treeCode": "0456.0457"
+  },
+  {
+    "id": 458,
+    "communeCode": 2210,
+    "name": "Bình Lư",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 173.91,
+    "population": 18606,
+    "administrativeCenter": "Số 170 Đường Võ Nguyên Giáp, xã Bình Lư",
+    "longitude": 103.678,
+    "latitude": 22.3532,
+    "previous": [
+      "Thị trấn Tam Đường",
+      "Xã Sơn Bình",
+      "Xã Bình Lư"
+    ],
+    "treeCode": "0456.0458"
+  },
+  {
+    "id": 459,
+    "communeCode": 2220,
+    "name": "Bum Nưa",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 315.13,
+    "population": 7147,
+    "administrativeCenter": "Bản Nà Hẻ, xã Bum Nưa",
+    "longitude": 102.85,
+    "latitude": 22.4925,
+    "previous": [
+      "Xã Pa Vệ Sủ",
+      "Xã Bum Nưa"
+    ],
+    "treeCode": "0456.0459"
+  },
+  {
+    "id": 460,
+    "communeCode": 2217,
+    "name": "Bum Tở",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 384.07,
+    "population": 11711,
+    "administrativeCenter": "Khu 8, xã Bum Tở",
+    "longitude": 102.791,
+    "latitude": 22.3407,
+    "previous": [
+      "Thị trấn Mường Tè",
+      "Xã Can Hồ",
+      "Xã Bum Tở"
+    ],
+    "treeCode": "0456.0460"
+  },
+  {
+    "id": 461,
+    "communeCode": 2234,
+    "name": "Dào San",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 137.29,
+    "population": 16123,
+    "administrativeCenter": "Bản Hợp 2, xã Dào San",
+    "longitude": 103.361,
+    "latitude": 22.6637,
+    "previous": [
+      "Xã Tung Qua Lìn",
+      "Xã Mù Sang",
+      "Xã Dào San"
+    ],
+    "treeCode": "0456.0461"
+  },
+  {
+    "id": 462,
+    "communeCode": 2208,
+    "name": "Đoàn Kết",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "phường",
+    "areaKm2": 134.31,
+    "population": 25403,
+    "administrativeCenter": "Số 68, Đường Võ Giáp, Phường Đoàn Kết",
+    "longitude": 103.397,
+    "latitude": 22.4412,
+    "previous": [
+      "Phường Đoàn Kết",
+      "Phường Quyết Tiến",
+      "Phường Quyết Thắng",
+      "Xã Lản Nhì Thàng",
+      "Xã Sùng Phài"
+    ],
+    "treeCode": "0456.0462"
+  },
+  {
+    "id": 463,
+    "communeCode": 2226,
+    "name": "Hồng Thu",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 178,
+    "population": 13368,
+    "administrativeCenter": "Bản Nậm Mạ Thái, xã Hồng Thu",
+    "longitude": 103.322,
+    "latitude": 22.4203,
+    "previous": [
+      "Xã Phìn Hồ",
+      "Xã Ma Quai",
+      "Xã Hồng Thu"
+    ],
+    "treeCode": "0456.0463"
+  },
+  {
+    "id": 464,
+    "communeCode": 2218,
+    "name": "Hua Bum",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 355.72,
+    "population": 5697,
+    "administrativeCenter": "Bản Chang Chảo Pá, xã Hua Bum",
+    "longitude": 102.98,
+    "latitude": 22.3565,
+    "previous": [
+      "Xã Vàng San",
+      "Xã Hua Bum"
+    ],
+    "treeCode": "0456.0464"
+  },
+  {
+    "id": 465,
+    "communeCode": 2244,
+    "name": "Khoen On",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 189.78,
+    "population": 10677,
+    "administrativeCenter": "Bản Củng, xã Khoen On",
+    "longitude": 103.854,
+    "latitude": 21.7686,
+    "previous": [
+      "Xã Ta Gia",
+      "Xã Khoen On"
+    ],
+    "treeCode": "0456.0465"
+  },
+  {
+    "id": 466,
+    "communeCode": 2235,
+    "name": "Khổng Lào",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 188.12,
+    "population": 16924,
+    "administrativeCenter": "Bản Khổng Lào, xã Khổng Lào",
+    "longitude": 103.372,
+    "latitude": 22.5935,
+    "previous": [
+      "Xã Hoang Thèn",
+      "Xã Bản Lang",
+      "Xã Khổng Lào"
+    ],
+    "treeCode": "0456.0466"
+  },
+  {
+    "id": 467,
+    "communeCode": 2211,
+    "name": "Khun Há",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 149.35,
+    "population": 9148,
+    "administrativeCenter": "Trụ sở xã Khun Há, bản Nậm Đích, xã Khun Há",
+    "longitude": 103.583,
+    "latitude": 22.2581,
+    "previous": [
+      "Xã Bản Hon",
+      "Xã Khun Há"
+    ],
+    "treeCode": "0456.0467"
+  },
+  {
+    "id": 468,
+    "communeCode": 2224,
+    "name": "Lê Lợi",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 288.36,
+    "population": 911,
+    "administrativeCenter": "Bản Chiềng Chăn 3, xã Lê Lợi",
+    "longitude": 103.154,
+    "latitude": 22.1699,
+    "previous": [
+      "Xã Nậm Pì",
+      "Xã Pú Đao",
+      "Xã Chăn Nưa",
+      "Xã Lê Lợi"
+    ],
+    "treeCode": "0456.0468"
+  },
+  {
+    "id": 469,
+    "communeCode": 2216,
+    "name": "Mù Cả",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 384.04,
+    "population": 3299,
+    "administrativeCenter": "Bản Mù Cả, xã Mù Cả",
+    "longitude": 102.459,
+    "latitude": 22.4844,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0456.0469"
+  },
+  {
+    "id": 470,
+    "communeCode": 2239,
+    "name": "Mường Khoa",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 168.83,
+    "population": 12529,
+    "administrativeCenter": "Bản Phiêng Tâm, xã Mường Khoa",
+    "longitude": 103.654,
+    "latitude": 22.1773,
+    "previous": [
+      "Xã Phúc Khoa",
+      "Xã Mường Khoa"
+    ],
+    "treeCode": "0456.0470"
+  },
+  {
+    "id": 471,
+    "communeCode": 2243,
+    "name": "Mường Kim",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 316.32,
+    "population": 20385,
+    "administrativeCenter": "Bản Nà Đình, xã Mường Kim",
+    "longitude": 103.798,
+    "latitude": 21.8809,
+    "previous": [
+      "Xã Tà Mung",
+      "Xã Tà Hừa",
+      "Xã Pha Mu",
+      "Xã Mường Kim"
+    ],
+    "treeCode": "0456.0471"
+  },
+  {
+    "id": 472,
+    "communeCode": 2221,
+    "name": "Mường Mô",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 395.16,
+    "population": 7335,
+    "administrativeCenter": "Bản Mường Mô, xã Mường Mô",
+    "longitude": 102.868,
+    "latitude": 22.1502,
+    "previous": [
+      "Xã Nậm Chà",
+      "Xã Mường Mô"
+    ],
+    "treeCode": "0456.0472"
+  },
+  {
+    "id": 473,
+    "communeCode": 2215,
+    "name": "Mường Tè",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 292,
+    "population": 6364,
+    "administrativeCenter": "Bản Bó, xã Mường Tè",
+    "longitude": 102.63,
+    "latitude": 22.482,
+    "previous": [
+      "Xã Nậm Khao",
+      "Xã Mường Tè"
+    ],
+    "treeCode": "0456.0473"
+  },
+  {
+    "id": 474,
+    "communeCode": 2242,
+    "name": "Mường Than",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 154.08,
+    "population": 13925,
+    "administrativeCenter": "Bản Nậm Ngùa, xã Mường Than",
+    "longitude": 103.861,
+    "latitude": 22.0198,
+    "previous": [
+      "Xã Phúc Than",
+      "Xã Mường Mít"
+    ],
+    "treeCode": "0456.0474"
+  },
+  {
+    "id": 475,
+    "communeCode": 2231,
+    "name": "Nậm Cuổi",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 177.16,
+    "population": 10799,
+    "administrativeCenter": "Bản Tân Lập, xã Nậm Cuổi",
+    "longitude": 103.503,
+    "latitude": 22.0735,
+    "previous": [
+      "Xã Nậm Hăn",
+      "Xã Nậm Cuổi"
+    ],
+    "treeCode": "0456.0475"
+  },
+  {
+    "id": 476,
+    "communeCode": 2222,
+    "name": "Nậm Hàng",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 335.92,
+    "population": 11218,
+    "administrativeCenter": "TDP Pá Kéo, xã Nậm Hàng",
+    "longitude": 103.019,
+    "latitude": 22.145,
+    "previous": [
+      "Thị trấn Nậm Nhùn",
+      "Xã Nậm Manh",
+      "Xã Nậm Hàng"
+    ],
+    "treeCode": "0456.0476"
+  },
+  {
+    "id": 477,
+    "communeCode": 2229,
+    "name": "Nậm Mạ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 112.73,
+    "population": 6504,
+    "administrativeCenter": "Bản Căn Co, xã Nậm Mạ",
+    "longitude": 103.425,
+    "latitude": 22.1516,
+    "previous": [
+      "Xã Căn Co",
+      "Xã Nậm Mạ"
+    ],
+    "treeCode": "0456.0477"
+  },
+  {
+    "id": 478,
+    "communeCode": 2240,
+    "name": "Nậm Sỏ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 263.35,
+    "population": null,
+    "administrativeCenter": "Bản Nà Ngò, xã Nậm Sỏ",
+    "longitude": 103.596,
+    "latitude": 22.085,
+    "previous": [
+      "Xã Tà Mít",
+      "Xã Nậm Sỏ"
+    ],
+    "treeCode": "0456.0478"
+  },
+  {
+    "id": 479,
+    "communeCode": 2227,
+    "name": "Nậm Tăm",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 242.28,
+    "population": 12753,
+    "administrativeCenter": "Bản Nà Tăm 1, xã Nậm Tăm",
+    "longitude": 103.382,
+    "latitude": 22.2929,
+    "previous": [
+      "Xã Lùng Thàng",
+      "Xã Nậm Cha",
+      "Xã Nậm Tăm"
+    ],
+    "treeCode": "0456.0479"
+  },
+  {
+    "id": 480,
+    "communeCode": 2225,
+    "name": "Pa Tần",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 316.53,
+    "population": 9039,
+    "administrativeCenter": "Bản Pa Tần 3, xã Pa Tần",
+    "longitude": 103.123,
+    "latitude": 22.415,
+    "previous": [
+      "Xã Nậm Ban",
+      "Xã Trung Chải",
+      "Xã Pa Tần"
+    ],
+    "treeCode": "0456.0480"
+  },
+  {
+    "id": 481,
+    "communeCode": 2214,
+    "name": "Pa Ủ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 444.58,
+    "population": 6084,
+    "administrativeCenter": "Bản Tham Pa, xã Pa Ủ",
+    "longitude": 102.649,
+    "latitude": 22.6252,
+    "previous": [
+      "Xã Tá Bạ",
+      "Xã Pa Ủ"
+    ],
+    "treeCode": "0456.0481"
+  },
+  {
+    "id": 482,
+    "communeCode": 2241,
+    "name": "Pắc Ta",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 168.58,
+    "population": 10704,
+    "administrativeCenter": "Trụ sở UBND xã - bản Pắc Ta, xã Pắc Ta",
+    "longitude": 103.859,
+    "latitude": 22.0992,
+    "previous": [
+      "Xã Hố Mít",
+      "Xã Pắc Ta"
+    ],
+    "treeCode": "0456.0482"
+  },
+  {
+    "id": 483,
+    "communeCode": 2232,
+    "name": "Phong Thổ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 266.71,
+    "population": 23295,
+    "administrativeCenter": "Đường Võ Nguyên Giáp, TDP Hữu Nghị, xã Phong Thổ",
+    "longitude": 103.269,
+    "latitude": 22.5296,
+    "previous": [
+      "Thị trấn Phong Thổ",
+      "Xã Huổi Luông",
+      "Xã Ma Li Pho",
+      "Xã Mường So"
+    ],
+    "treeCode": "0456.0483"
+  },
+  {
+    "id": 484,
+    "communeCode": 2228,
+    "name": "Pu Sam Cáp",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 152.23,
+    "population": 11611,
+    "administrativeCenter": "Bản Noong Hẻo 2, xã Pu Sam Cáp",
+    "longitude": 103.493,
+    "latitude": 22.2263,
+    "previous": [
+      "Xã Pa Khóa",
+      "Xã Noong Hẻo",
+      "Xã Pu Sam Cáp"
+    ],
+    "treeCode": "0456.0484"
+  },
+  {
+    "id": 485,
+    "communeCode": 2233,
+    "name": "Sì Lở Lầu",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 147.8,
+    "population": 16196,
+    "administrativeCenter": "Bản Mồ Sì San, xã Sì Lở Lầu",
+    "longitude": 103.36,
+    "latitude": 22.7547,
+    "previous": [
+      "Xã Vàng Ma Chải",
+      "Xã Mồ Sì San",
+      "Xã Pa Vây Sử",
+      "Xã Sì Lở Lầu"
+    ],
+    "treeCode": "0456.0485"
+  },
+  {
+    "id": 486,
+    "communeCode": 2223,
+    "name": "Sìn Hồ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 159.68,
+    "population": 14012,
+    "administrativeCenter": "Khu 3, xã Sìn Hồ",
+    "longitude": 103.226,
+    "latitude": 22.3263,
+    "previous": [
+      "Thị trấn Sìn Hồ",
+      "Xã Sà Dề Phìn",
+      "Xã Phăng Sô Lin",
+      "Xã Tả Phìn"
+    ],
+    "treeCode": "0456.0486"
+  },
+  {
+    "id": 487,
+    "communeCode": 2236,
+    "name": "Sin Suối Hồ",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 255.91,
+    "population": 16338,
+    "administrativeCenter": "Bản Đông Phong, xã Sin Suối Hồ",
+    "longitude": 103.492,
+    "latitude": 22.5207,
+    "previous": [
+      "Xã Nậm Xe",
+      "Xã Thèn Sin",
+      "Xã Sin Suối Hồ"
+    ],
+    "treeCode": "0456.0487"
+  },
+  {
+    "id": 488,
+    "communeCode": 2209,
+    "name": "Tả Lèng",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 128.36,
+    "population": 12628,
+    "administrativeCenter": "Bản Giang Ma, xã Tả Lèng",
+    "longitude": 103.558,
+    "latitude": 22.4009,
+    "previous": [
+      "Xã Giang Ma",
+      "Xã Hồ Thầu",
+      "Xã Tả Lèng"
+    ],
+    "treeCode": "0456.0488"
+  },
+  {
+    "id": 489,
+    "communeCode": 2219,
+    "name": "Tà Tổng",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 512.01,
+    "population": 7967,
+    "administrativeCenter": "Bản Tà Tổng, xã Tà Tổng",
+    "longitude": 102.604,
+    "latitude": 22.3233,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0456.0489"
+  },
+  {
+    "id": 490,
+    "communeCode": 2207,
+    "name": "Tân Phong",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "phường",
+    "areaKm2": 106.77,
+    "population": 36456,
+    "administrativeCenter": "Phố Trần Đại nghĩa, Tổ 26, Phường Tân Phong, tỉnh Lai Châu",
+    "longitude": 103.485,
+    "latitude": 22.3534,
+    "previous": [
+      "Phường Tân Phong",
+      "Phường Đông Phong",
+      "Xã San Thàng",
+      "Xã Nùng Nàng",
+      "Xã Bản Giang"
+    ],
+    "treeCode": "0456.0490"
+  },
+  {
+    "id": 491,
+    "communeCode": 2238,
+    "name": "Tân Uyên",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 296.25,
+    "population": 30415,
+    "administrativeCenter": "TDP số 26, xã Tân Uyên",
+    "longitude": 103.751,
+    "latitude": 22.1433,
+    "previous": [
+      "Thị trấn Tân Uyên",
+      "Xã Trung Đồng",
+      "Xã Thân Thuộc",
+      "Xã Nậm Cần"
+    ],
+    "treeCode": "0456.0491"
+  },
+  {
+    "id": 492,
+    "communeCode": 2237,
+    "name": "Than Uyên",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 132.09,
+    "population": 27283,
+    "administrativeCenter": "Khu 2, xã Than Uyên",
+    "longitude": 103.884,
+    "latitude": 21.957,
+    "previous": [
+      "Thị trấn Than Uyên",
+      "Xã Mường Than",
+      "Xã Hua Nà",
+      "Xã Mường Cang"
+    ],
+    "treeCode": "0456.0492"
+  },
+  {
+    "id": 493,
+    "communeCode": 2213,
+    "name": "Thu Lũm",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 251.55,
+    "population": 5255,
+    "administrativeCenter": "Bản Mé Gióng, xã Thu Lũm",
+    "longitude": 102.448,
+    "latitude": 22.6474,
+    "previous": [
+      "Xã Ka Lăng",
+      "Xã Thu Lũm"
+    ],
+    "treeCode": "0456.0493"
+  },
+  {
+    "id": 494,
+    "communeCode": 2230,
+    "name": "Tủa Sín Chải",
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "type": "xã",
+    "areaKm2": 292.88,
+    "population": 16199,
+    "administrativeCenter": "Bản Nhiều Sáng, xã Tủa Sín Chải",
+    "longitude": 103.273,
+    "latitude": 22.2005,
+    "previous": [
+      "Xã Làng Mô",
+      "Xã Tả Ngảo",
+      "Xã Tủa Sín Chải"
+    ],
+    "treeCode": "0456.0494"
+  }
+]

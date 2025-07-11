@@ -1,0 +1,1318 @@
+[
+  {
+    "id": 1683,
+    "communeCode": 2189,
+    "name": "Bắc Hồng Lĩnh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 35.31,
+    "population": 28729,
+    "administrativeCenter": "Thị ủy Hồng Lĩnh",
+    "longitude": 105.695,
+    "latitude": 18.5596,
+    "previous": [
+      "Phường Bắc Hồng",
+      "Phường Đức Thuận",
+      "Phường Trung Lương",
+      "Xã Xuân Lam"
+    ],
+    "treeCode": "1682.1683"
+  },
+  {
+    "id": 1684,
+    "communeCode": 2160,
+    "name": "Cẩm Bình",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 33.14,
+    "population": 25305,
+    "administrativeCenter": "UBND xã Cẩm Bình",
+    "longitude": 105.946,
+    "latitude": 18.295,
+    "previous": [
+      "Xã Cẩm Vịnh",
+      "Xã Thạch Bình",
+      "Xã Cẩm Thành",
+      "Xã Cẩm Bình"
+    ],
+    "treeCode": "1682.1684"
+  },
+  {
+    "id": 1685,
+    "communeCode": 2145,
+    "name": "Cẩm Duệ",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 193.57,
+    "population": 2387,
+    "administrativeCenter": "UBND xã Cẩm Mỹ",
+    "longitude": 105.932,
+    "latitude": 18.1632,
+    "previous": [
+      "Xã Cẩm Mỹ",
+      "Xã Cẩm Thạch",
+      "Xã Cẩm Duệ"
+    ],
+    "treeCode": "1682.1685"
+  },
+  {
+    "id": 1686,
+    "communeCode": 2146,
+    "name": "Cẩm Hưng",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 103.8,
+    "population": 21964,
+    "administrativeCenter": "UBND xã Cẩm Thịnh",
+    "longitude": 106.025,
+    "latitude": 18.156,
+    "previous": [
+      "Xã Cẩm Thịnh",
+      "Xã Cẩm Hà",
+      "Xã Cẩm Hưng"
+    ],
+    "treeCode": "1682.1686"
+  },
+  {
+    "id": 1687,
+    "communeCode": 2147,
+    "name": "Cẩm Lạc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 115.86,
+    "population": 19399,
+    "administrativeCenter": "UBND xã Cẩm Lạc",
+    "longitude": 106.086,
+    "latitude": 18.1609,
+    "previous": [
+      "Xã Cẩm Minh",
+      "Xã Cẩm Sơn",
+      "Xã Cẩm Lạc"
+    ],
+    "treeCode": "1682.1687"
+  },
+  {
+    "id": 1688,
+    "communeCode": 2156,
+    "name": "Cẩm Trung",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 32.72,
+    "population": 19466,
+    "administrativeCenter": "UBND xã Cẩm Trung",
+    "longitude": 106.114,
+    "latitude": 18.2379,
+    "previous": [
+      "Xã Cẩm Lĩnh",
+      "Xã Cẩm Lộc",
+      "Xã Cẩm Trung"
+    ],
+    "treeCode": "1682.1688"
+  },
+  {
+    "id": 1689,
+    "communeCode": 2155,
+    "name": "Cẩm Xuyên",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 82.98,
+    "population": 33977,
+    "administrativeCenter": "UBND huyện Cẩm Xuyên",
+    "longitude": 105.985,
+    "latitude": 18.2227,
+    "previous": [
+      "Thị trấn Cẩm Xuyên",
+      "Xã Cẩm Quang",
+      "Xã Cẩm Quan"
+    ],
+    "treeCode": "1682.1689"
+  },
+  {
+    "id": 1690,
+    "communeCode": 2180,
+    "name": "Can Lộc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 65.7,
+    "population": 41153,
+    "administrativeCenter": "UBND huyện Can Lộc",
+    "longitude": 105.767,
+    "latitude": 18.4847,
+    "previous": [
+      "Thị trấn Nghèn",
+      "Xã Thiên Lộc",
+      "Xã Vượng Lộc"
+    ],
+    "treeCode": "1682.1690"
+  },
+  {
+    "id": 1691,
+    "communeCode": 2187,
+    "name": "Cổ Đạm",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 62.67,
+    "population": 34635,
+    "administrativeCenter": "UBND xã Xuân Liên",
+    "longitude": 105.807,
+    "latitude": 18.5746,
+    "previous": [
+      "Xã Cương Gián",
+      "Xã Xuân Liên",
+      "Xã Cổ Đạm"
+    ],
+    "treeCode": "1682.1691"
+  },
+  {
+    "id": 1692,
+    "communeCode": 2164,
+    "name": "Đan Hải",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 37.77,
+    "population": 28212,
+    "administrativeCenter": "UBND xã Xuân Phổ",
+    "longitude": 105.771,
+    "latitude": 18.7163,
+    "previous": [
+      "Xã Đan Trường",
+      "Xã Xuân Hải",
+      "Xã Xuân Hội",
+      "Xã Xuân Phổ"
+    ],
+    "treeCode": "1682.1692"
+  },
+  {
+    "id": 1693,
+    "communeCode": 2178,
+    "name": "Đông Kinh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 27.57,
+    "population": 20986,
+    "administrativeCenter": "UBND xã Thạch Kênh",
+    "longitude": 105.82,
+    "latitude": 18.4251,
+    "previous": [
+      "Xã Thạch Kênh",
+      "Xã Thạch Liên",
+      "Xã Ích Hậu"
+    ],
+    "treeCode": "1682.1693"
+  },
+  {
+    "id": 1694,
+    "communeCode": 2176,
+    "name": "Đồng Lộc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 70.55,
+    "population": 27783,
+    "administrativeCenter": "UBND thị trấn Đồng Lộc",
+    "longitude": 105.718,
+    "latitude": 18.3869,
+    "previous": [
+      "Thị trấn Đồng Lộc",
+      "Xã Thượng Lộc",
+      "Xã Mỹ Lộc"
+    ],
+    "treeCode": "1682.1694"
+  },
+  {
+    "id": 1695,
+    "communeCode": 2148,
+    "name": "Đồng Tiến",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 33.57,
+    "population": 18614,
+    "administrativeCenter": "UBND xã Thạch Trị",
+    "longitude": 105.989,
+    "latitude": 18.3469,
+    "previous": [
+      "Xã Thạch Trị",
+      "Xã Thạch Hội",
+      "Xã Thạch Văn"
+    ],
+    "treeCode": "1682.1695"
+  },
+  {
+    "id": 1696,
+    "communeCode": 2193,
+    "name": "Đức Đồng",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 47.29,
+    "population": 11531,
+    "administrativeCenter": "UBND xã Đức Đồng",
+    "longitude": 105.587,
+    "latitude": 18.4362,
+    "previous": [
+      "Xã Đức Lạng",
+      "Xã Tân Hương",
+      "Xã Đức Đồng"
+    ],
+    "treeCode": "1682.1696"
+  },
+  {
+    "id": 1697,
+    "communeCode": 2202,
+    "name": "Đức Minh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 23.58,
+    "population": 18718,
+    "administrativeCenter": "UBND xã Trường Sơn",
+    "longitude": 105.59,
+    "latitude": 18.553,
+    "previous": [
+      "Xã Trường Sơn",
+      "Xã Tùng Châu",
+      "Xã Liên Minh"
+    ],
+    "treeCode": "1682.1697"
+  },
+  {
+    "id": 1698,
+    "communeCode": 2201,
+    "name": "Đức Quang",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 30.31,
+    "population": 17515,
+    "administrativeCenter": "UBND xã Bùi La Nhân",
+    "longitude": 105.637,
+    "latitude": 18.5467,
+    "previous": [
+      "Xã Quang Vĩnh",
+      "Xã Bùi La Nhân",
+      "Xã Yên Hồ"
+    ],
+    "treeCode": "1682.1698"
+  },
+  {
+    "id": 1699,
+    "communeCode": 2192,
+    "name": "Đức Thịnh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 53.39,
+    "population": 41401,
+    "administrativeCenter": "UBND xã Lâm Trung Thủy",
+    "longitude": 105.644,
+    "latitude": 18.4955,
+    "previous": [
+      "Xã Thanh Bình Thịnh",
+      "Xã Lâm Trung Thủy",
+      "Xã An Dũng"
+    ],
+    "treeCode": "1682.1699"
+  },
+  {
+    "id": 1700,
+    "communeCode": 2195,
+    "name": "Đức Thọ",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 48.93,
+    "population": 40064,
+    "administrativeCenter": "UBND huyện Đức Thọ",
+    "longitude": 105.579,
+    "latitude": 18.5014,
+    "previous": [
+      "Thị trấn Đức Thọ",
+      "Xã Tùng Ảnh",
+      "Xã Hòa Lạc",
+      "Xã Tân Dân"
+    ],
+    "treeCode": "1682.1700"
+  },
+  {
+    "id": 1701,
+    "communeCode": 2184,
+    "name": "Gia Hanh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 45.39,
+    "population": 28473,
+    "administrativeCenter": "UBND xã Khánh Vĩnh Yên",
+    "longitude": 105.703,
+    "latitude": 18.4401,
+    "previous": [
+      "Xã Khánh Vĩnh Yên",
+      "Xã Thanh Lộc",
+      "Xã Gia Hanh"
+    ],
+    "treeCode": "1682.1701"
+  },
+  {
+    "id": 1702,
+    "communeCode": 2138,
+    "name": "Hà Huy Tập",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 32.62,
+    "population": 28742,
+    "administrativeCenter": "UBND xã Tân Lâm Hương",
+    "longitude": 105.883,
+    "latitude": 18.3056,
+    "previous": [
+      "Xã Tân Lâm Hương",
+      "Xã Thạch Đài",
+      "Phường Đại Nài"
+    ],
+    "treeCode": "1682.1702"
+  },
+  {
+    "id": 1703,
+    "communeCode": 2172,
+    "name": "Hà Linh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 140.43,
+    "population": 12622,
+    "administrativeCenter": "UBND xã Hà Linh",
+    "longitude": 105.67,
+    "latitude": 18.3214,
+    "previous": [
+      "Xã Điền Mỹ",
+      "Xã Hà Linh"
+    ],
+    "treeCode": "1682.1703"
+  },
+  {
+    "id": 1704,
+    "communeCode": 2153,
+    "name": "Hải Ninh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 39.37,
+    "population": 20399,
+    "administrativeCenter": "UBND phường Kỳ Ninh",
+    "longitude": 106.325,
+    "latitude": 18.1128,
+    "previous": [
+      "Phường Kỳ Ninh",
+      "Xã Kỳ Hà",
+      "Xã Kỳ Hải"
+    ],
+    "treeCode": "1682.1704"
+  },
+  {
+    "id": 1705,
+    "communeCode": 2144,
+    "name": "Hoành Sơn",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 70.48,
+    "population": 21004,
+    "administrativeCenter": "UBND phường Kỳ Phương",
+    "longitude": 106.44,
+    "latitude": 17.9989,
+    "previous": [
+      "Phường Kỳ Nam",
+      "Phường Kỳ Phương",
+      "Phường Kỳ Liên",
+      "Xã Kỳ Lợi"
+    ],
+    "treeCode": "1682.1705"
+  },
+  {
+    "id": 1706,
+    "communeCode": 2183,
+    "name": "Hồng Lộc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 33.78,
+    "population": 17042,
+    "administrativeCenter": "UBND xã Tân Lộc",
+    "longitude": 105.834,
+    "latitude": 18.5015,
+    "previous": [
+      "Xã Tân Lộc",
+      "Xã Hồng Lộc"
+    ],
+    "treeCode": "1682.1706"
+  },
+  {
+    "id": 1707,
+    "communeCode": 2198,
+    "name": "Hương Bình",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 215.56,
+    "population": 1753,
+    "administrativeCenter": "UBND xã Hương Bình",
+    "longitude": 105.56,
+    "latitude": 18.2494,
+    "previous": [
+      "Xã Hòa Hải",
+      "Xã Phúc Đồng",
+      "Xã Hương Bình"
+    ],
+    "treeCode": "1682.1707"
+  },
+  {
+    "id": 1708,
+    "communeCode": 2162,
+    "name": "Hương Đô",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 140.83,
+    "population": 14287,
+    "administrativeCenter": "UBND xã Hương Trà",
+    "longitude": 105.825,
+    "latitude": 18.202,
+    "previous": [
+      "Xã Lộc Yên",
+      "Xã Hương Trà",
+      "Xã Hương Đô"
+    ],
+    "treeCode": "1682.1708"
+  },
+  {
+    "id": 1709,
+    "communeCode": 2196,
+    "name": "Hương Khê",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 165.89,
+    "population": 29994,
+    "administrativeCenter": "UBND huyện Hương Khê",
+    "longitude": 105.584,
+    "latitude": 18.1625,
+    "previous": [
+      "Thị trấn Hương Khê",
+      "Xã Hương Long",
+      "Xã Phú Gia"
+    ],
+    "treeCode": "1682.1709"
+  },
+  {
+    "id": 1710,
+    "communeCode": 2197,
+    "name": "Hương Phố",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 135.68,
+    "population": 18633,
+    "administrativeCenter": "UBND xã Gia Phố",
+    "longitude": 105.739,
+    "latitude": 18.2431,
+    "previous": [
+      "Xã Hương Giang",
+      "Xã Hương Thủy",
+      "Xã Gia Phố"
+    ],
+    "treeCode": "1682.1710"
+  },
+  {
+    "id": 1711,
+    "communeCode": 2171,
+    "name": "Hương Sơn",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 32.62,
+    "population": 31486,
+    "administrativeCenter": "UBND huyện Hương Sơn",
+    "longitude": 105.46,
+    "latitude": 18.5206,
+    "previous": [
+      "Thị trấn Phố Châu",
+      "Xã Sơn Phú",
+      "Xã Sơn Bằng",
+      "Xã Sơn Ninh",
+      "Xã Sơn Trung"
+    ],
+    "treeCode": "1682.1711"
+  },
+  {
+    "id": 1712,
+    "communeCode": 2163,
+    "name": "Hương Xuân",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 263.14,
+    "population": 17422,
+    "administrativeCenter": "UBND xã Hương Xuân",
+    "longitude": 105.655,
+    "latitude": 18.0769,
+    "previous": [
+      "Xã Hương Lâm",
+      "Xã Hương Vĩnh",
+      "Xã Hương Xuân"
+    ],
+    "treeCode": "1682.1712"
+  },
+  {
+    "id": 1713,
+    "communeCode": 2169,
+    "name": "Kim Hoa",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 88.28,
+    "population": 19114,
+    "administrativeCenter": "UBND xã Hàm Trường",
+    "longitude": 105.442,
+    "latitude": 18.4549,
+    "previous": [
+      "Xã Hàm Trường",
+      "Xã Kim Hoa"
+    ],
+    "treeCode": "1682.1713"
+  },
+  {
+    "id": 1714,
+    "communeCode": 2152,
+    "name": "Kỳ Anh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 64.74,
+    "population": 32689,
+    "administrativeCenter": "UBND huyện Kỳ Anh",
+    "longitude": 106.222,
+    "latitude": 18.183,
+    "previous": [
+      "Thị trấn Kỳ Đồng",
+      "Xã Kỳ Giang",
+      "Xã Kỳ Tiến",
+      "Xã Kỳ Phú"
+    ],
+    "treeCode": "1682.1714"
+  },
+  {
+    "id": 1715,
+    "communeCode": 2141,
+    "name": "Kỳ Hoa",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 73.28,
+    "population": 16045,
+    "administrativeCenter": "UBND xã Kỳ Tân",
+    "longitude": 106.259,
+    "latitude": 18.0337,
+    "previous": [
+      "Xã Kỳ Tân",
+      "Xã Kỳ Hoa"
+    ],
+    "treeCode": "1682.1715"
+  },
+  {
+    "id": 1716,
+    "communeCode": 2151,
+    "name": "Kỳ Khang",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 48.85,
+    "population": 23771,
+    "administrativeCenter": "UBND xã Kỳ Thọ",
+    "longitude": 106.266,
+    "latitude": 18.1439,
+    "previous": [
+      "Xã Kỳ Thọ",
+      "Xã Kỳ Thư",
+      "Xã Kỳ Khang"
+    ],
+    "treeCode": "1682.1716"
+  },
+  {
+    "id": 1717,
+    "communeCode": 2139,
+    "name": "Kỳ Lạc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 169.13,
+    "population": 12865,
+    "administrativeCenter": "UBND xã Lâm Hợp",
+    "longitude": 106.225,
+    "latitude": 17.9833,
+    "previous": [
+      "Xã Lâm Hợp",
+      "Xã Kỳ Lạc"
+    ],
+    "treeCode": "1682.1717"
+  },
+  {
+    "id": 1718,
+    "communeCode": 2140,
+    "name": "Kỳ Thượng",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 218.82,
+    "population": 15822,
+    "administrativeCenter": "UBND xã Kỳ Sơn",
+    "longitude": 106.101,
+    "latitude": 18.0096,
+    "previous": [
+      "Xã Kỳ Sơn",
+      "Xã Kỳ Thượng"
+    ],
+    "treeCode": "1682.1718"
+  },
+  {
+    "id": 1719,
+    "communeCode": 2154,
+    "name": "Kỳ Văn",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 135.75,
+    "population": 177,
+    "administrativeCenter": "UBND xã Kỳ Trung",
+    "longitude": 106.193,
+    "latitude": 18.1139,
+    "previous": [
+      "Xã Kỳ Tây",
+      "Xã Kỳ Trung",
+      "Xã Kỳ Văn"
+    ],
+    "treeCode": "1682.1719"
+  },
+  {
+    "id": 1720,
+    "communeCode": 2157,
+    "name": "Kỳ Xuân",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 72.94,
+    "population": 23574,
+    "administrativeCenter": "UBND xã Kỳ Phong",
+    "longitude": 106.165,
+    "latitude": 18.2086,
+    "previous": [
+      "Xã Kỳ Phong",
+      "Xã Kỳ Bắc",
+      "Xã Kỳ Xuân"
+    ],
+    "treeCode": "1682.1720"
+  },
+  {
+    "id": 1721,
+    "communeCode": 2181,
+    "name": "Lộc Hà",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 35.63,
+    "population": 40979,
+    "administrativeCenter": "UBND huyện Lộc Hà (cũ)",
+    "longitude": 105.881,
+    "latitude": 18.4828,
+    "previous": [
+      "Thị trấn Lộc Hà",
+      "Xã Bình An",
+      "Xã Thịnh Lộc",
+      "Xã Thạch Kim"
+    ],
+    "treeCode": "1682.1721"
+  },
+  {
+    "id": 1722,
+    "communeCode": 2167,
+    "name": "Mai Hoa",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 45.85,
+    "population": 11065,
+    "administrativeCenter": "UBND xã Đức Lĩnh",
+    "longitude": 105.517,
+    "latitude": 18.4429,
+    "previous": [
+      "Xã Ân Phú",
+      "Xã Đức Giang",
+      "Xã Đức Lĩnh"
+    ],
+    "treeCode": "1682.1722"
+  },
+  {
+    "id": 1723,
+    "communeCode": 2179,
+    "name": "Mai Phụ",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 31.93,
+    "population": 29828,
+    "administrativeCenter": "UBND xã Thạch Châu",
+    "longitude": 105.883,
+    "latitude": 18.4303,
+    "previous": [
+      "Xã Thạch Mỹ",
+      "Xã Thạch Châu",
+      "Xã Phù Lưu",
+      "Xã Mai Phụ"
+    ],
+    "treeCode": "1682.1723"
+  },
+  {
+    "id": 1724,
+    "communeCode": 2186,
+    "name": "Nam Hồng Lĩnh",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 36.47,
+    "population": 22309,
+    "administrativeCenter": "UBND phường Nam Hồng",
+    "longitude": 105.72,
+    "latitude": 18.5184,
+    "previous": [
+      "Phường Nam Hồng",
+      "Phường Đậu Liêu",
+      "Xã Thuận Lộc"
+    ],
+    "treeCode": "1682.1724"
+  },
+  {
+    "id": 1725,
+    "communeCode": 2165,
+    "name": "Nghi Xuân",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 77.65,
+    "population": 37524,
+    "administrativeCenter": "UBND thị trấn Xuân An",
+    "longitude": 105.733,
+    "latitude": 18.6118,
+    "previous": [
+      "Thị trấn Xuân An",
+      "Xã Xuân Giang",
+      "Xã Xuân Hồng",
+      "Xã Xuân Viên",
+      "Xã Xuân Lĩnh"
+    ],
+    "treeCode": "1682.1725"
+  },
+  {
+    "id": 1726,
+    "communeCode": 2161,
+    "name": "Phúc Trạch",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 201.42,
+    "population": 18135,
+    "administrativeCenter": "UBND xã Phúc Trạch",
+    "longitude": 105.809,
+    "latitude": 18.0935,
+    "previous": [
+      "Xã Hương Trạch",
+      "Xã Hương Liên",
+      "Xã Phúc Trạch"
+    ],
+    "treeCode": "1682.1726"
+  },
+  {
+    "id": 1727,
+    "communeCode": 2170,
+    "name": "Sơn Giang",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 86.32,
+    "population": 18962,
+    "administrativeCenter": "UBND xã Quang Diệm",
+    "longitude": 105.379,
+    "latitude": 18.5344,
+    "previous": [
+      "Xã Sơn Lâm",
+      "Xã Quang Diệm",
+      "Xã Sơn Giang"
+    ],
+    "treeCode": "1682.1727"
+  },
+  {
+    "id": 1728,
+    "communeCode": 2204,
+    "name": "Sơn Hồng",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 209.04,
+    "population": 8409,
+    "administrativeCenter": "UBND xã Sơn Lĩnh",
+    "longitude": 105.24,
+    "latitude": 18.5622,
+    "previous": [
+      "Xã Sơn Lĩnh",
+      "Xã Sơn Hồng"
+    ],
+    "treeCode": "1682.1728"
+  },
+  {
+    "id": 1729,
+    "communeCode": 2200,
+    "name": "Sơn Kim 1",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 208.46,
+    "population": 5123,
+    "administrativeCenter": "Giữ nguyên",
+    "longitude": 105.186,
+    "latitude": 18.4475,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1682.1729"
+  },
+  {
+    "id": 1730,
+    "communeCode": 2199,
+    "name": "Sơn Kim 2",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 208.599,
+    "population": null,
+    "administrativeCenter": "Giữ nguyên",
+    "longitude": 105.277,
+    "latitude": 18.3677,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1682.1730"
+  },
+  {
+    "id": 1731,
+    "communeCode": 2168,
+    "name": "Sơn Tây",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 127.06,
+    "population": 9832,
+    "administrativeCenter": "UBND thị trấn Sơn Tây",
+    "longitude": 105.317,
+    "latitude": 18.4644,
+    "previous": [
+      "Thị trấn Tây Sơn",
+      "Xã Sơn Tây"
+    ],
+    "treeCode": "1682.1731"
+  },
+  {
+    "id": 1732,
+    "communeCode": 2203,
+    "name": "Sơn Tiến",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 80.97,
+    "population": 20935,
+    "administrativeCenter": "UBND xã An Hòa Thịnh",
+    "longitude": 105.47,
+    "latitude": 18.5718,
+    "previous": [
+      "Xã Sơn Lễ",
+      "Xã An Hòa Thịnh",
+      "Xã Sơn Tiến"
+    ],
+    "treeCode": "1682.1732"
+  },
+  {
+    "id": 1733,
+    "communeCode": 2142,
+    "name": "Sông Trí",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 69.9,
+    "population": 37314,
+    "administrativeCenter": "UBND phường Sông Trí",
+    "longitude": 106.324,
+    "latitude": 18.0464,
+    "previous": [
+      "Phường Hưng Trí",
+      "Phường Kỳ Trinh",
+      "Xã Kỳ Châu",
+      "Xã Kỳ Lợi"
+    ],
+    "treeCode": "1682.1733"
+  },
+  {
+    "id": 1734,
+    "communeCode": 2174,
+    "name": "Thạch Hà",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 31.18,
+    "population": 3122,
+    "administrativeCenter": "UBND huyện Thạch Hà",
+    "longitude": 105.854,
+    "latitude": 18.3863,
+    "previous": [
+      "Thị trấn Thạch Hà",
+      "Xã Thạch Long",
+      "Xã Thạch Sơn"
+    ],
+    "treeCode": "1682.1734"
+  },
+  {
+    "id": 1735,
+    "communeCode": 2150,
+    "name": "Thạch Khê",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 46.32,
+    "population": 17528,
+    "administrativeCenter": "UBND xã Thạch Khê",
+    "longitude": 105.941,
+    "latitude": 18.4124,
+    "previous": [
+      "Xã Đỉnh Bàn",
+      "Xã Thạch Hải",
+      "Xã Thạch Khê"
+    ],
+    "treeCode": "1682.1735"
+  },
+  {
+    "id": 1736,
+    "communeCode": 2149,
+    "name": "Thạch Lạc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 27.6,
+    "population": 17682,
+    "administrativeCenter": "UBND xã Tượng Sơn",
+    "longitude": 105.954,
+    "latitude": 18.3505,
+    "previous": [
+      "Xã Tượng Sơn",
+      "Xã Thạch Thắng",
+      "Xã Thạch Lạc"
+    ],
+    "treeCode": "1682.1736"
+  },
+  {
+    "id": 1737,
+    "communeCode": 2188,
+    "name": "Thạch Xuân",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 72.53,
+    "population": 16015,
+    "administrativeCenter": "UBND xã Nam Điền",
+    "longitude": 105.86,
+    "latitude": 18.2579,
+    "previous": [
+      "Xã Nam Điền",
+      "Xã Thạch Xuân"
+    ],
+    "treeCode": "1682.1737"
+  },
+  {
+    "id": 1738,
+    "communeCode": 2206,
+    "name": "Thành Sen",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 28.23,
+    "population": 90983,
+    "administrativeCenter": "UBND thành phố Hà Tĩnh",
+    "longitude": 105.903,
+    "latitude": 18.3419,
+    "previous": [
+      "Phường Bắc Hà",
+      "Phường Thạch Quý",
+      "Phường Tân Giang",
+      "Phường Thạch Hưng",
+      "Phường Nam Hà",
+      "Phường Trần Phú",
+      "Phường Hà Huy Tập",
+      "Phường Văn Yên",
+      "Phường Đại Nài"
+    ],
+    "treeCode": "1682.1738"
+  },
+  {
+    "id": 1739,
+    "communeCode": 2158,
+    "name": "Thiên Cầm",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 40.55,
+    "population": 32998,
+    "administrativeCenter": "UBND thị trấn Thiên Cầm",
+    "longitude": 106.063,
+    "latitude": 18.2594,
+    "previous": [
+      "Thị trấn Thiên Cầm",
+      "Xã Nam Phúc Thăng",
+      "Xã Cẩm Nhượng"
+    ],
+    "treeCode": "1682.1739"
+  },
+  {
+    "id": 1740,
+    "communeCode": 2191,
+    "name": "Thượng Đức",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 216.37,
+    "population": 2252,
+    "administrativeCenter": "UBND xã Đức Hương",
+    "longitude": 105.573,
+    "latitude": 18.3933,
+    "previous": [
+      "Xã Đức Bồng",
+      "Xã Đức Hương",
+      "Xã Đức Liên"
+    ],
+    "treeCode": "1682.1740"
+  },
+  {
+    "id": 1741,
+    "communeCode": 2173,
+    "name": "Tiên Điền",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 31.6,
+    "population": 24833,
+    "administrativeCenter": "UBND huyện Nghi Xuân",
+    "longitude": 105.782,
+    "latitude": 18.6398,
+    "previous": [
+      "Thị trấn Tiên Điền",
+      "Xã Xuân Yên",
+      "Xã Xuân Mỹ",
+      "Xã Xuân Thành"
+    ],
+    "treeCode": "1682.1741"
+  },
+  {
+    "id": 1742,
+    "communeCode": 2190,
+    "name": "Toàn Lưu",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 60.65,
+    "population": 18784,
+    "administrativeCenter": "UBND xã Lưu Vĩnh Sơn",
+    "longitude": 105.802,
+    "latitude": 18.3235,
+    "previous": [
+      "Xã Ngọc Sơn",
+      "Xã Lưu Vĩnh Sơn"
+    ],
+    "treeCode": "1682.1742"
+  },
+  {
+    "id": 1743,
+    "communeCode": 2205,
+    "name": "Trần Phú",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 29.5,
+    "population": 38404,
+    "administrativeCenter": "UBND xã Thạch Hạ",
+    "longitude": 105.897,
+    "latitude": 18.3841,
+    "previous": [
+      "Phường Thạch Trung",
+      "Phường Đồng Môn",
+      "Phường Thạch Hạ",
+      "Xã Hộ Độ"
+    ],
+    "treeCode": "1682.1743"
+  },
+  {
+    "id": 1744,
+    "communeCode": 2185,
+    "name": "Trường Lưu",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 49.92,
+    "population": 23569,
+    "administrativeCenter": "UBND xã Kim Song Trường",
+    "longitude": 105.665,
+    "latitude": 18.452,
+    "previous": [
+      "Xã Kim Song Trường",
+      "Xã Thường Nga",
+      "Xã Phú Lộc"
+    ],
+    "treeCode": "1682.1744"
+  },
+  {
+    "id": 1745,
+    "communeCode": 2194,
+    "name": "Tứ Mỹ",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 38.68,
+    "population": 20069,
+    "administrativeCenter": "UBND xã Mỹ Long",
+    "longitude": 105.523,
+    "latitude": 18.5203,
+    "previous": [
+      "Xã Châu Bình",
+      "Xã Tân Mỹ Hà",
+      "Xã Mỹ Long"
+    ],
+    "treeCode": "1682.1745"
+  },
+  {
+    "id": 1746,
+    "communeCode": 2182,
+    "name": "Tùng Lộc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 37.49,
+    "population": 20944,
+    "administrativeCenter": "UBND xã Thuần Thiện",
+    "longitude": 105.804,
+    "latitude": 18.4902,
+    "previous": [
+      "Xã Thuần Thiện",
+      "Xã Tùng Lộc"
+    ],
+    "treeCode": "1682.1746"
+  },
+  {
+    "id": 1747,
+    "communeCode": 2177,
+    "name": "Việt Xuyên",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 32.1,
+    "population": 16986,
+    "administrativeCenter": "UBND xã Việt Tiến",
+    "longitude": 105.806,
+    "latitude": 18.3723,
+    "previous": [
+      "Xã Việt Tiến",
+      "Xã Thạch Ngọc"
+    ],
+    "treeCode": "1682.1747"
+  },
+  {
+    "id": 1748,
+    "communeCode": 2166,
+    "name": "Vũ Quang",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 533.5,
+    "population": 14991,
+    "administrativeCenter": "UBND huyện Vũ Quang",
+    "longitude": 105.427,
+    "latitude": 18.3072,
+    "previous": [
+      "Thị trấn Vũ Quang",
+      "Xã Hương Minh",
+      "Xã Quang Thọ",
+      "Xã Thọ Điền"
+    ],
+    "treeCode": "1682.1748"
+  },
+  {
+    "id": 1749,
+    "communeCode": 2143,
+    "name": "Vũng Áng",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "phường",
+    "areaKm2": 82.98,
+    "population": 21339,
+    "administrativeCenter": "UBND phường Kỳ Thịnh",
+    "longitude": 106.389,
+    "latitude": 18.0498,
+    "previous": [
+      "Phường Kỳ Long",
+      "Phường Kỳ Thịnh",
+      "Xã Kỳ Lợi"
+    ],
+    "treeCode": "1682.1749"
+  },
+  {
+    "id": 1750,
+    "communeCode": 2175,
+    "name": "Xuân Lộc",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 140.5,
+    "population": 104304,
+    "administrativeCenter": "UBND xã Quang Lộc",
+    "longitude": 105.781,
+    "latitude": 18.3884,
+    "previous": [
+      "Xã Sơn Lộc",
+      "Xã Quang Lộc",
+      "Xã Xuân Lộc"
+    ],
+    "treeCode": "1682.1750"
+  },
+  {
+    "id": 1751,
+    "communeCode": 2159,
+    "name": "Yên Hòa",
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "type": "xã",
+    "areaKm2": 38.27,
+    "population": 17597,
+    "administrativeCenter": "UBND xã Cẩm Dương",
+    "longitude": 106.031,
+    "latitude": 18.3159,
+    "previous": [
+      "Xã Cẩm Dương",
+      "Xã Yên Hòa"
+    ],
+    "treeCode": "1682.1751"
+  }
+]

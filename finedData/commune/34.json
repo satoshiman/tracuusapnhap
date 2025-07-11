@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 3292,
+    "communeCode": 180,
+    "name": "An Trạch",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 49.22,
+    "population": 15251,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.36,
+    "latitude": 9.16773,
+    "previous": [
+      "Xã An Trạch A",
+      "Xã An Trạch"
+    ],
+    "treeCode": "3291.3292"
+  },
+  {
+    "id": 3293,
+    "communeCode": 182,
+    "name": "An Xuyên",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 69.9,
+    "population": 81303,
+    "administrativeCenter": "Số 07, Khu Dân cư phường An Xuyên",
+    "longitude": 105.178,
+    "latitude": 9.22461,
+    "previous": [
+      "Phường 1 (thành phố Cà Mau)",
+      "Phường 2 (thành phố Cà Mau)",
+      "Phường 9",
+      "Phường Tân Xuyên",
+      "Xã An Xuyên"
+    ],
+    "treeCode": "3291.3293"
+  },
+  {
+    "id": 3294,
+    "communeCode": 150,
+    "name": "Bạc Liêu",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 5.98,
+    "population": 24456,
+    "administrativeCenter": "Số 12, Đường Trần Phú, phường Bạc Liêu",
+    "longitude": 105.712,
+    "latitude": 9.28998,
+    "previous": [
+      "Phường 1 (thành phố Bạc Liêu)",
+      "Phường 2 (thành phố Bạc Liêu)",
+      "Phường 7 (thành phố Bạc Liêu)",
+      "Phường 8 (thành phố Bạc Liêu)",
+      "Phường 3"
+    ],
+    "treeCode": "3291.3294"
+  },
+  {
+    "id": 3295,
+    "communeCode": 190,
+    "name": "Biển Bạch",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 158.2,
+    "population": 35702,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.061,
+    "latitude": 9.46597,
+    "previous": [
+      "Xã Tân Bằng",
+      "Xã Biển Bạch Đông",
+      "Xã Biển Bạch"
+    ],
+    "treeCode": "3291.3295"
+  },
+  {
+    "id": 3296,
+    "communeCode": 224,
+    "name": "Cái Đôi Vàm",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 131.1,
+    "population": 36444,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.831,
+    "latitude": 8.82877,
+    "previous": [
+      "Thị trấn Cái Đôi Vàm",
+      "Xã Nguyễn Việt Khái"
+    ],
+    "treeCode": "3291.3296"
+  },
+  {
+    "id": 3297,
+    "communeCode": 204,
+    "name": "Cái Nước",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 118.25,
+    "population": 54397,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.025,
+    "latitude": 8.91576,
+    "previous": [
+      "Thị trấn Cái Nước",
+      "Xã Trần Thới",
+      "Xã Đông Hưng (phần còn lại)",
+      "Xã Đông Thới (phần còn lại)",
+      "Xã Tân Hưng Đông (phần còn lại)"
+    ],
+    "treeCode": "3291.3297"
+  },
+  {
+    "id": 3298,
+    "communeCode": 167,
+    "name": "Châu Thới",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 23.04,
+    "population": 12491,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.591,
+    "latitude": 9.39101,
+    "previous": [
+      "Xã Vĩnh Hưng",
+      "Xã Vĩnh Hưng A",
+      "Xã Châu Thới"
+    ],
+    "treeCode": "3291.3298"
+  },
+  {
+    "id": 3299,
+    "communeCode": 201,
+    "name": "Đá Bạc",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 211.9,
+    "population": 41022,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.891,
+    "latitude": 9.21304,
+    "previous": [
+      "Xã Khánh Bình Tây (bao gồm Hòn Đá Bạc)",
+      "Xã Khánh Bình Tây Bắc",
+      "Xã Trần Hợi (một phần)"
+    ],
+    "treeCode": "3291.3299"
+  },
+  {
+    "id": 3300,
+    "communeCode": 210,
+    "name": "Đầm Dơi",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 96.2,
+    "population": 38106,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.198,
+    "latitude": 8.96261,
+    "previous": [
+      "Thị trấn Đầm Dơi",
+      "Xã Tân Duyệt",
+      "Xã Tân Dân",
+      "Xã Tạ An Khương (phần còn lại sau khi sáp nhập vào xã Tạ An Khương mới)"
+    ],
+    "treeCode": "3291.3300"
+  },
+  {
+    "id": 3301,
+    "communeCode": 222,
+    "name": "Đất Mới",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 222.94,
+    "population": 27683,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.926,
+    "latitude": 8.76042,
+    "previous": [
+      "Xã Lâm Hải",
+      "Xã Đất Mới",
+      "Thị trấn Năm Căn",
+      "Xã Hàm Rồng",
+      "Xã Viên An (phần còn lại sau khi sáp nhập vào xã Đất Mũi)"
+    ],
+    "treeCode": "3291.3301"
+  },
+  {
+    "id": 3302,
+    "communeCode": 230,
+    "name": "Đất Mũi",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 271.2,
+    "population": 33298,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.82,
+    "latitude": 8.63765,
+    "previous": [
+      "Xã Đất Mũi",
+      "Xã Viên An",
+      "Xã Tân Ân (phần còn lại sau khi sáp nhập vào xã Phan Ngọc Hiển)"
+    ],
+    "treeCode": "3291.3302"
+  },
+  {
+    "id": 3303,
+    "communeCode": 181,
+    "name": "Định Thành",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 31.58,
+    "population": 13056,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.364,
+    "latitude": 9.09784,
+    "previous": [
+      "Xã An Phúc",
+      "Xã Định Thành A",
+      "Xã Định Thành"
+    ],
+    "treeCode": "3291.3303"
+  },
+  {
+    "id": 3304,
+    "communeCode": 174,
+    "name": "Đông Hải",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 100.16,
+    "population": 23062,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.532,
+    "latitude": 9.1817,
+    "previous": [
+      "Xã Long Điền Đông",
+      "Xã Long Điền Đông A"
+    ],
+    "treeCode": "3291.3304"
+  },
+  {
+    "id": 3305,
+    "communeCode": 173,
+    "name": "Gành Hào",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 13.4,
+    "population": 17587,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.428,
+    "latitude": 9.08855,
+    "previous": [
+      "Thị trấn Gành Hào",
+      "Xã Long Điền Tây"
+    ],
+    "treeCode": "3291.3305"
+  },
+  {
+    "id": 3306,
+    "communeCode": 170,
+    "name": "Giá Rai",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 11.76,
+    "population": 21974,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.409,
+    "latitude": 9.27477,
+    "previous": [
+      "Phường 1 (thị xã Giá Rai)",
+      "Phường Hộ Phòng",
+      "Xã Phong Thạnh",
+      "Xã Phong Thạnh A"
+    ],
+    "treeCode": "3291.3306"
+  },
+  {
+    "id": 3307,
+    "communeCode": 154,
+    "name": "Hiệp Thành",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 29.05,
+    "population": 11864,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.771,
+    "latitude": 9.24855,
+    "previous": [
+      "Phường Nhà Mát",
+      "Xã Vĩnh Trạch Đông",
+      "Xã Hiệp Thành"
+    ],
+    "treeCode": "3291.3307"
+  },
+  {
+    "id": 3308,
+    "communeCode": 194,
+    "name": "Hồ Thị Kỷ",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 93.6,
+    "population": 27283,
+    "administrativeCenter": "Đường Võ Văn Kiệt, ấp Tắc Thủ, xã Hồ Thị Kỷ",
+    "longitude": 105.118,
+    "latitude": 9.26101,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3291.3308"
+  },
+  {
+    "id": 3309,
+    "communeCode": 163,
+    "name": "Hoà Bình",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 26.54,
+    "population": 25794,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.588,
+    "latitude": 9.23882,
+    "previous": [
+      "Thị trấn Hòa Bình",
+      "Xã Vĩnh Mỹ A",
+      "Xã Long Thạnh"
+    ],
+    "treeCode": "3291.3309"
+  },
+  {
+    "id": 3310,
+    "communeCode": 186,
+    "name": "Hoà Thành",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 97.29,
+    "population": 47167,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.206,
+    "latitude": 9.13035,
+    "previous": [
+      "Xã Hòa Tân",
+      "Xã Hòa Thành",
+      "Phường 7 (thành phố Cà Mau) (phần còn lại sau khi sáp nhập vào phường Tân Thành)",
+      "Phường 6 (phần còn lại sau khi sáp nhập vào phường Tân Thành)",
+      "Xã Định Bình (phần còn lại sau khi sáp nhập vào phường Tân Thành)",
+      "Xã Tắc Vân (phần còn lại sau khi sáp nhập vào phường Tân Thành)"
+    ],
+    "treeCode": "3291.3310"
+  },
+  {
+    "id": 3311,
+    "communeCode": 156,
+    "name": "Hồng Dân",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 15.62,
+    "population": 13838,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.452,
+    "latitude": 9.53724,
+    "previous": [
+      "Thị trấn Ngan Dừa",
+      "Xã Lộc Ninh",
+      "Xã Ninh Hòa"
+    ],
+    "treeCode": "3291.3311"
+  },
+  {
+    "id": 3312,
+    "communeCode": 165,
+    "name": "Hưng Hội",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 28.38,
+    "population": 14748,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.796,
+    "latitude": 9.35235,
+    "previous": [
+      "Xã Hưng Thành",
+      "Xã Hưng Hội"
+    ],
+    "treeCode": "3291.3312"
+  },
+  {
+    "id": 3313,
+    "communeCode": 209,
+    "name": "Hưng Mỹ",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 98.4,
+    "population": 38687,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.013,
+    "latitude": 9.00541,
+    "previous": [
+      "Xã Hưng Mỹ",
+      "Xã Tân Hưng Đông",
+      "Xã Hòa Mỹ (phần còn lại sau khi sáp nhập vào xã Phú Mỹ, xã Tân Hưng)"
+    ],
+    "treeCode": "3291.3313"
+  },
+  {
+    "id": 3314,
+    "communeCode": 189,
+    "name": "Khánh An",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 177.7,
+    "population": 2717,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.012,
+    "latitude": 9.25708,
+    "previous": [
+      "Xã Khánh An",
+      "Xã Nguyễn Phích (phần còn lại sau khi sáp nhập vào xã Nguyễn Phích, xã Khánh Lâm)"
+    ],
+    "treeCode": "3291.3314"
+  },
+  {
+    "id": 3315,
+    "communeCode": 202,
+    "name": "Khánh Bình",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 104.5,
+    "population": 39823,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.018,
+    "latitude": 9.1519,
+    "previous": [
+      "Xã Khánh Bình Đông",
+      "Xã Khánh Bình"
+    ],
+    "treeCode": "3291.3315"
+  },
+  {
+    "id": 3316,
+    "communeCode": 203,
+    "name": "Khánh Hưng",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 129.6,
+    "population": 41212,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.867,
+    "latitude": 9.10862,
+    "previous": [
+      "Xã Khánh Hải",
+      "Xã Khánh Hưng"
+    ],
+    "treeCode": "3291.3316"
+  },
+  {
+    "id": 3317,
+    "communeCode": 188,
+    "name": "Khánh Lâm",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 208.2,
+    "population": 3888,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.913,
+    "latitude": 9.33522,
+    "previous": [
+      "Xã Khánh Hội",
+      "Xã Nguyễn Phích",
+      "Xã Khánh Lâm (phần còn lại sau khi sáp nhập vào xã U Minh)"
+    ],
+    "treeCode": "3291.3317"
+  },
+  {
+    "id": 3318,
+    "communeCode": 171,
+    "name": "Láng Tròn",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 32.18,
+    "population": 21468,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.475,
+    "latitude": 9.29621,
+    "previous": [
+      "Phường Láng Tròn",
+      "Xã Phong Tân",
+      "Xã Phong Thạnh Đông"
+    ],
+    "treeCode": "3291.3318"
+  },
+  {
+    "id": 3319,
+    "communeCode": 179,
+    "name": "Long Điền",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 87.72,
+    "population": 29479,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.463,
+    "latitude": 9.16165,
+    "previous": [
+      "Xã Điền Hải",
+      "Xã Long Điền"
+    ],
+    "treeCode": "3291.3319"
+  },
+  {
+    "id": 3320,
+    "communeCode": 207,
+    "name": "Lương Thế Trân",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 142.42,
+    "population": 66191,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.076,
+    "latitude": 9.10579,
+    "previous": [
+      "Xã Thạnh Phú",
+      "Xã Phú Hưng",
+      "Xã Lương Thế Trân",
+      "Xã Lợi An"
+    ],
+    "treeCode": "3291.3320"
+  },
+  {
+    "id": 3321,
+    "communeCode": 185,
+    "name": "Lý Văn Lâm",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 44.5,
+    "population": 50014,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.125,
+    "latitude": 9.16453,
+    "previous": [
+      "Phường 8 (thành phố Cà Mau)",
+      "Xã Lý Văn Lâm",
+      "Xã Lợi An (phần còn lại sau khi sáp nhập vào xã Trần Văn Thời, xã Lương Thế Trân)"
+    ],
+    "treeCode": "3291.3321"
+  },
+  {
+    "id": 3322,
+    "communeCode": 221,
+    "name": "Năm Căn",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 70.06,
+    "population": 30135,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.036,
+    "latitude": 8.80956,
+    "previous": [
+      "Xã Hàng Vịnh",
+      "Thị trấn Năm Căn (phần còn lại)",
+      "Xã Hàm Rồng (phần còn lại)"
+    ],
+    "treeCode": "3291.3322"
+  },
+  {
+    "id": 3323,
+    "communeCode": 231,
+    "name": "Nguyễn Phích",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 245,
+    "population": 3733,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.974,
+    "latitude": 9.46584,
+    "previous": [
+      "Thị trấn U Minh",
+      "Xã Nguyễn Phích",
+      "Xã Khánh Thuận (phần còn lại sau khi sáp nhập vào xã U Minh)"
+    ],
+    "treeCode": "3291.3323"
+  },
+  {
+    "id": 3324,
+    "communeCode": 227,
+    "name": "Nguyễn Việt Khái",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 129.9,
+    "population": 37307,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.93,
+    "latitude": 8.86914,
+    "previous": [
+      "Xã Tân Hưng Tây",
+      "Xã Rạch Chèo",
+      "Xã Việt Thắng"
+    ],
+    "treeCode": "3291.3324"
+  },
+  {
+    "id": 3325,
+    "communeCode": 155,
+    "name": "Ninh Quới",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 32.42,
+    "population": 13994,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.525,
+    "latitude": 9.52536,
+    "previous": [
+      "Xã Ninh Quới A",
+      "Xã Ninh Quới"
+    ],
+    "treeCode": "3291.3325"
+  },
+  {
+    "id": 3326,
+    "communeCode": 158,
+    "name": "Ninh Thạnh Lợi",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 66.4,
+    "population": 14437,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.345,
+    "latitude": 9.46717,
+    "previous": [
+      "Xã Ninh Thạnh Lợi A",
+      "Xã Ninh Thạnh Lợi"
+    ],
+    "treeCode": "3291.3326"
+  },
+  {
+    "id": 3327,
+    "communeCode": 229,
+    "name": "Phan Ngọc Hiển",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 237.7,
+    "population": 35328,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.943,
+    "latitude": 8.64616,
+    "previous": [
+      "Thị trấn Rạch Gốc",
+      "Xã Viên An Đông",
+      "Xã Tân Ân"
+    ],
+    "treeCode": "3291.3327"
+  },
+  {
+    "id": 3328,
+    "communeCode": 162,
+    "name": "Phong Hiệp",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 55.97,
+    "population": 13523,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.318,
+    "latitude": 9.33702,
+    "previous": [
+      "Xã Phong Thạnh Tây A",
+      "Xã Phong Thạnh Tây B"
+    ],
+    "treeCode": "3291.3328"
+  },
+  {
+    "id": 3329,
+    "communeCode": 172,
+    "name": "Phong Thạnh",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 27.08,
+    "population": 1111,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.315,
+    "latitude": 9.23435,
+    "previous": [
+      "Xã Tân Thạnh",
+      "Xã Phong Thạnh Tây",
+      "Xã Tân Phong"
+    ],
+    "treeCode": "3291.3329"
+  },
+  {
+    "id": 3330,
+    "communeCode": 225,
+    "name": "Phú Mỹ",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 87.81,
+    "population": 26205,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.925,
+    "latitude": 8.96361,
+    "previous": [
+      "Xã Phú Thuận",
+      "Xã Phú Mỹ",
+      "Xã Hòa Mỹ"
+    ],
+    "treeCode": "3291.3330"
+  },
+  {
+    "id": 3331,
+    "communeCode": 226,
+    "name": "Phú Tân",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 101.7,
+    "population": 33381,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.846,
+    "latitude": 8.92852,
+    "previous": [
+      "Xã Tân Hải",
+      "Xã Phú Tân"
+    ],
+    "treeCode": "3291.3331"
+  },
+  {
+    "id": 3332,
+    "communeCode": 159,
+    "name": "Phước Long",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 49.48,
+    "population": 24984,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.485,
+    "latitude": 9.44253,
+    "previous": [
+      "Thị trấn Phước Long",
+      "Xã Vĩnh Phú Đông"
+    ],
+    "treeCode": "3291.3332"
+  },
+  {
+    "id": 3333,
+    "communeCode": 215,
+    "name": "Quách Phẩm",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 73.8,
+    "population": 28844,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.108,
+    "latitude": 8.89358,
+    "previous": [
+      "Xã Quách Phẩm Bắc",
+      "Xã Quách Phẩm"
+    ],
+    "treeCode": "3291.3333"
+  },
+  {
+    "id": 3334,
+    "communeCode": 198,
+    "name": "Sông Đốc",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 83.95,
+    "population": 46353,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.857,
+    "latitude": 9.02492,
+    "previous": [
+      "Thị trấn Sông Đốc (bao gồm cụm đảo Hòn Chuối)",
+      "Xã Phong Điền"
+    ],
+    "treeCode": "3291.3334"
+  },
+  {
+    "id": 3335,
+    "communeCode": 211,
+    "name": "Tạ An Khương",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 104.2,
+    "population": 33179,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.23,
+    "latitude": 9.04732,
+    "previous": [
+      "Xã Tạ An Khương Đông",
+      "Xã Tạ An Khương Nam",
+      "Xã Tạ An Khương"
+    ],
+    "treeCode": "3291.3335"
+  },
+  {
+    "id": 3336,
+    "communeCode": 223,
+    "name": "Tam Giang",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 205.2,
+    "population": 23277,
+    "administrativeCenter": "Ấp Kinh 17, xã Tam Giang",
+    "longitude": 105.127,
+    "latitude": 8.80317,
+    "previous": [
+      "Xã Hiệp Tùng",
+      "Xã Tam Giang Đông",
+      "Xã Tam Giang"
+    ],
+    "treeCode": "3291.3336"
+  },
+  {
+    "id": 3337,
+    "communeCode": 228,
+    "name": "Tân Ân",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 218.3,
+    "population": 23787,
+    "administrativeCenter": "Ấp Tân Tiến, xã Tân Ân",
+    "longitude": 105.078,
+    "latitude": 8.72769,
+    "previous": [
+      "Xã Tam Giang Tây",
+      "Xã Tân Ân Tây"
+    ],
+    "treeCode": "3291.3337"
+  },
+  {
+    "id": 3338,
+    "communeCode": 208,
+    "name": "Tân Hưng",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 92.41,
+    "population": 35222,
+    "administrativeCenter": "Ấp 4, xã Tân Hưng",
+    "longitude": 105.091,
+    "latitude": 9.01029,
+    "previous": [
+      "Xã Tân Hưng",
+      "Xã Đông Hưng",
+      "Xã Đông Thới",
+      "Xã Hòa Mỹ"
+    ],
+    "treeCode": "3291.3338"
+  },
+  {
+    "id": 3339,
+    "communeCode": 193,
+    "name": "Tân Lộc",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 96.8,
+    "population": 3545,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.225,
+    "latitude": 9.2926,
+    "previous": [
+      "Xã Tân Lộc Bắc",
+      "Xã Tân Lộc Đông",
+      "Xã Tân Lộc"
+    ],
+    "treeCode": "3291.3339"
+  },
+  {
+    "id": 3340,
+    "communeCode": 184,
+    "name": "Tân Thành",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 48.42,
+    "population": 83758,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.217,
+    "latitude": 9.18698,
+    "previous": [
+      "Phường 5 (thành phố Cà Mau)",
+      "Phường Tân Thành",
+      "Xã Tân Thành",
+      "Phường 7 (thành phố Cà Mau)",
+      "Phường 6",
+      "Xã Định Bình",
+      "Xã Tắc Vân"
+    ],
+    "treeCode": "3291.3340"
+  },
+  {
+    "id": 3341,
+    "communeCode": 213,
+    "name": "Tân Thuận",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 169.8,
+    "population": 35473,
+    "administrativeCenter": "Ấp Lưu Hoa Thanh, xã Tân Thuận",
+    "longitude": 105.33,
+    "latitude": 9.01932,
+    "previous": [
+      "Xã Tân Đức",
+      "Xã Tân Thuận"
+    ],
+    "treeCode": "3291.3341"
+  },
+  {
+    "id": 3342,
+    "communeCode": 214,
+    "name": "Tân Tiến",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 207.2,
+    "population": 33994,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.304,
+    "latitude": 8.90883,
+    "previous": [
+      "Xã Nguyễn Huân",
+      "Xã Tân Tiến"
+    ],
+    "treeCode": "3291.3342"
+  },
+  {
+    "id": 3343,
+    "communeCode": 220,
+    "name": "Thanh Tùng",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 89.9,
+    "population": 26573,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.185,
+    "latitude": 8.88087,
+    "previous": [
+      "Xã Ngọc Chánh",
+      "Xã Thanh Tùng"
+    ],
+    "treeCode": "3291.3343"
+  },
+  {
+    "id": 3344,
+    "communeCode": 192,
+    "name": "Thới Bình",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 121,
+    "population": 38116,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.116,
+    "latitude": 9.34044,
+    "previous": [
+      "Thị trấn Thới Bình",
+      "Xã Thới Bình"
+    ],
+    "treeCode": "3291.3344"
+  },
+  {
+    "id": 3345,
+    "communeCode": 212,
+    "name": "Trần Phán",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 74.9,
+    "population": 29949,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.142,
+    "latitude": 9.00809,
+    "previous": [
+      "Xã Tân Trung",
+      "Xã Trần Phán"
+    ],
+    "treeCode": "3291.3345"
+  },
+  {
+    "id": 3346,
+    "communeCode": 197,
+    "name": "Trần Văn Thời",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 128.72,
+    "population": 59365,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.951,
+    "latitude": 9.08574,
+    "previous": [
+      "Thị trấn Trần Văn Thời",
+      "Xã Khánh Lộc",
+      "Xã Phong Lạc",
+      "Xã Lợi An",
+      "Xã Trần Hợi (phần còn lại sau khi sáp nhập vào xã Đá Bạc)",
+      "Xã Phong Điền (phần còn lại sau khi sáp nhập vào xã Sông Đốc)"
+    ],
+    "treeCode": "3291.3346"
+  },
+  {
+    "id": 3347,
+    "communeCode": 191,
+    "name": "Trí Phải",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 166.6,
+    "population": 4977,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.192,
+    "latitude": 9.39955,
+    "previous": [
+      "Xã Trí Lực",
+      "Xã Tân Phú",
+      "Xã Trí Phải"
+    ],
+    "treeCode": "3291.3347"
+  },
+  {
+    "id": 3348,
+    "communeCode": 187,
+    "name": "U Minh",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 145,
+    "population": 32991,
+    "administrativeCenter": "Ấp 5, xã U Minh",
+    "longitude": 104.875,
+    "latitude": 9.43525,
+    "previous": [
+      "Xã Khánh Tiến",
+      "Xã Khánh Hòa",
+      "Xã Khánh Thuận",
+      "Xã Khánh Lâm"
+    ],
+    "treeCode": "3291.3348"
+  },
+  {
+    "id": 3349,
+    "communeCode": 169,
+    "name": "Vĩnh Hậu",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 105.94,
+    "population": 17948,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.649,
+    "latitude": 9.20426,
+    "previous": [
+      "Xã Vĩnh Thịnh",
+      "Xã Vĩnh Hậu A",
+      "Xã Vĩnh Hậu"
+    ],
+    "treeCode": "3291.3349"
+  },
+  {
+    "id": 3350,
+    "communeCode": 157,
+    "name": "Vĩnh Lộc",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 48.47,
+    "population": 12047,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.357,
+    "latitude": 9.56159,
+    "previous": [
+      "Xã Vĩnh Lộc A",
+      "Xã Vĩnh Lộc"
+    ],
+    "treeCode": "3291.3350"
+  },
+  {
+    "id": 3351,
+    "communeCode": 164,
+    "name": "Vĩnh Lợi",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 31.98,
+    "population": 17236,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.737,
+    "latitude": 9.36717,
+    "previous": [
+      "Thị trấn Châu Hưng",
+      "Xã Châu Hưng A"
+    ],
+    "treeCode": "3291.3351"
+  },
+  {
+    "id": 3352,
+    "communeCode": 168,
+    "name": "Vĩnh Mỹ",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 40.72,
+    "population": 15558,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.576,
+    "latitude": 9.31852,
+    "previous": [
+      "Xã Minh Diệu",
+      "Xã Vĩnh Bình",
+      "Xã Vĩnh Mỹ B"
+    ],
+    "treeCode": "3291.3352"
+  },
+  {
+    "id": 3353,
+    "communeCode": 160,
+    "name": "Vĩnh Phước",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 75.5,
+    "population": 20014,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.41,
+    "latitude": 9.39891,
+    "previous": [
+      "Xã Phước Long",
+      "Xã Vĩnh Phú Tây"
+    ],
+    "treeCode": "3291.3353"
+  },
+  {
+    "id": 3354,
+    "communeCode": 161,
+    "name": "Vĩnh Thanh",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "xã",
+    "areaKm2": 37.37,
+    "population": 19291,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.519,
+    "latitude": 9.35997,
+    "previous": [
+      "Xã Hưng Phú",
+      "Xã Vĩnh Thanh"
+    ],
+    "treeCode": "3291.3354"
+  },
+  {
+    "id": 3355,
+    "communeCode": 151,
+    "name": "Vĩnh Trạch",
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "type": "phường",
+    "areaKm2": 10.22,
+    "population": 23085,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.774,
+    "latitude": 9.29729,
+    "previous": [
+      "Phường 5 (thành phố Bạc Liêu)",
+      "Xã Vĩnh Trạch"
+    ],
+    "treeCode": "3291.3355"
+  }
+]

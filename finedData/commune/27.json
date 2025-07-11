@@ -1,0 +1,1841 @@
+[
+  {
+    "id": 2495,
+    "communeCode": 1474,
+    "name": "An Lục Long",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 33.75,
+    "population": 29485,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.462,
+    "latitude": 10.4188,
+    "previous": [
+      "Xã Dương Xuân Hội",
+      "Xã Long Trì",
+      "Xã An Lục Long"
+    ],
+    "treeCode": "2494.2495"
+  },
+  {
+    "id": 2496,
+    "communeCode": 1509,
+    "name": "An Ninh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 68.81,
+    "population": 40,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.313,
+    "latitude": 10.9815,
+    "previous": [
+      "Xã Lộc Giang",
+      "Xã An Ninh Đông",
+      "Xã An Ninh Tây"
+    ],
+    "treeCode": "2494.2496"
+  },
+  {
+    "id": 2497,
+    "communeCode": 2874,
+    "name": "An Tịnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 78.44,
+    "population": 61212,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.407,
+    "latitude": 11.0572,
+    "previous": [
+      "Phường Lộc Hưng",
+      "Phường An Tịnh"
+    ],
+    "treeCode": "2494.2497"
+  },
+  {
+    "id": 2498,
+    "communeCode": 2876,
+    "name": "Bến Cầu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 112.02,
+    "population": 49228,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.195,
+    "latitude": 11.1097,
+    "previous": [
+      "Thị trấn Bến Cầu",
+      "Xã An Thạnh (huyện Bến Cầu)",
+      "Xã Tiên Thuận",
+      "Xã Lợi Thuận"
+    ],
+    "treeCode": "2494.2498"
+  },
+  {
+    "id": 2499,
+    "communeCode": 1518,
+    "name": "Bến Lức",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 48.75,
+    "population": 569,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.483,
+    "latitude": 10.6618,
+    "previous": [
+      "Xã An Thạnh (huyện Bến Lức)",
+      "Xã Thanh Phú",
+      "Thị trấn Bến Lức"
+    ],
+    "treeCode": "2494.2499"
+  },
+  {
+    "id": 2500,
+    "communeCode": 1154,
+    "name": "Bình Đức",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 51.2,
+    "population": 3511,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.456,
+    "latitude": 10.622,
+    "previous": [
+      "Xã Thạnh Đức (huyện Bến Lức)",
+      "Xã Nhựt Chánh",
+      "Xã Bình Đức"
+    ],
+    "treeCode": "2494.2500"
+  },
+  {
+    "id": 2501,
+    "communeCode": 1138,
+    "name": "Bình Hiệp",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 123.68,
+    "population": 2142,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.958,
+    "latitude": 10.8318,
+    "previous": [
+      "Xã Thạnh Trị",
+      "Xã Bình Tân",
+      "Xã Bình Hòa Tây",
+      "Xã Bình Hiệp"
+    ],
+    "treeCode": "2494.2501"
+  },
+  {
+    "id": 2502,
+    "communeCode": 1140,
+    "name": "Bình Hòa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 48.63,
+    "population": 56484,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.029,
+    "latitude": 10.776,
+    "previous": [
+      "Xã Bình Thạnh (huyện Mộc Hóa)",
+      "Xã Bình Hòa Đông",
+      "Xã Bình Hòa Trung"
+    ],
+    "treeCode": "2494.2502"
+  },
+  {
+    "id": 2503,
+    "communeCode": 2895,
+    "name": "Bình Minh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 23.86,
+    "population": 34193,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.128,
+    "latitude": 11.3841,
+    "previous": [
+      "Phường Ninh Sơn",
+      "Xã Tân Bình (thành phố Tây Ninh)",
+      "Xã Bình Minh",
+      "Xã Thạnh Tân",
+      "Xã Suối Đá",
+      "Xã Phan"
+    ],
+    "treeCode": "2494.2503"
+  },
+  {
+    "id": 2504,
+    "communeCode": 1501,
+    "name": "Bình Thành",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 72.1,
+    "population": 32182,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.186,
+    "latitude": 10.7554,
+    "previous": [
+      "Xã Tân Hiệp (huyện Thạnh Hóa)",
+      "Xã Thuận Bình",
+      "Xã Bình Hòa Hưng"
+    ],
+    "treeCode": "2494.2504"
+  },
+  {
+    "id": 2505,
+    "communeCode": 1478,
+    "name": "Cần Đước",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 48.56,
+    "population": 50473,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.593,
+    "latitude": 10.4898,
+    "previous": [
+      "Thị trấn Cần Đước",
+      "Xã Phước Tuy",
+      "Xã Tân Ân",
+      "Xã Tân Chánh"
+    ],
+    "treeCode": "2494.2505"
+  },
+  {
+    "id": 2506,
+    "communeCode": 1421,
+    "name": "Cần Giuộc",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 60.4,
+    "population": 77704,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.689,
+    "latitude": 10.6154,
+    "previous": [
+      "Thị trấn Cần Giuộc",
+      "Xã Phước Lại",
+      "Xã Long Hậu"
+    ],
+    "treeCode": "2494.2506"
+  },
+  {
+    "id": 2507,
+    "communeCode": 2887,
+    "name": "Cầu Khởi",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 90.51,
+    "population": 25431,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.241,
+    "latitude": 11.3067,
+    "previous": [
+      "Xã Phước Ninh",
+      "Xã Cầu Khởi",
+      "Xã Chà Là"
+    ],
+    "treeCode": "2494.2507"
+  },
+  {
+    "id": 2508,
+    "communeCode": 2891,
+    "name": "Châu Thành",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 47.71,
+    "population": 39104,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.048,
+    "latitude": 11.3359,
+    "previous": [
+      "Thị trấn Châu Thành",
+      "Xã Đồng Khởi",
+      "Xã An Bình",
+      "Xã Thái Bình"
+    ],
+    "treeCode": "2494.2508"
+  },
+  {
+    "id": 2509,
+    "communeCode": 1504,
+    "name": "Đông Thành",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 130.94,
+    "population": 27169,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.246,
+    "latitude": 10.8706,
+    "previous": [
+      "Thị trấn Đông Thành",
+      "Xã Mỹ Thạnh Tây",
+      "Xã Mỹ Thạnh Đông",
+      "Xã Mỹ Bình"
+    ],
+    "treeCode": "2494.2509"
+  },
+  {
+    "id": 2510,
+    "communeCode": 1508,
+    "name": "Đức Hòa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 63.31,
+    "population": 49864,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.45,
+    "latitude": 10.7967,
+    "previous": [
+      "Thị trấn Đức Hòa",
+      "Xã Hựu Thạnh",
+      "Xã Đức Hòa Hạ"
+    ],
+    "treeCode": "2494.2510"
+  },
+  {
+    "id": 2511,
+    "communeCode": 1506,
+    "name": "Đức Huệ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 134.13,
+    "population": 2293,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.313,
+    "latitude": 10.8072,
+    "previous": [
+      "Xã Bình Hòa Bắc",
+      "Xã Bình Hòa Nam",
+      "Xã Bình Thành"
+    ],
+    "treeCode": "2494.2511"
+  },
+  {
+    "id": 2512,
+    "communeCode": 1515,
+    "name": "Đức Lập",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 59.41,
+    "population": 31722,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.469,
+    "latitude": 10.9,
+    "previous": [
+      "Xã Đức Lập Hạ",
+      "Xã Mỹ Hạnh Bắc",
+      "Xã Đức Hòa Thượng"
+    ],
+    "treeCode": "2494.2512"
+  },
+  {
+    "id": 2513,
+    "communeCode": 2896,
+    "name": "Dương Minh Châu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 177.15,
+    "population": 35878,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.262,
+    "latitude": 11.4016,
+    "previous": [
+      "Thị trấn Dương Minh Châu",
+      "Xã Phan",
+      "Xã Suối Đá",
+      "Xã Phước Minh"
+    ],
+    "treeCode": "2494.2513"
+  },
+  {
+    "id": 2514,
+    "communeCode": 2877,
+    "name": "Gia Lộc",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 50.26,
+    "population": 37354,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.341,
+    "latitude": 11.0977,
+    "previous": [
+      "Xã Phước Đông (huyện Gò Dầu)",
+      "Phường Gia Lộc"
+    ],
+    "treeCode": "2494.2514"
+  },
+  {
+    "id": 2515,
+    "communeCode": 2875,
+    "name": "Gò Dầu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 43.09,
+    "population": 6634,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.298,
+    "latitude": 11.0751,
+    "previous": [
+      "Phường Gia Bình",
+      "Thị trấn Gò Dầu",
+      "Xã Thanh Phước"
+    ],
+    "treeCode": "2494.2515"
+  },
+  {
+    "id": 2516,
+    "communeCode": 2894,
+    "name": "Hảo Đước",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 93.75,
+    "population": 32503,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.993,
+    "latitude": 11.3693,
+    "previous": [
+      "Xã An Cơ",
+      "Xã Trí Bình",
+      "Xã Hảo Đước"
+    ],
+    "treeCode": "2494.2516"
+  },
+  {
+    "id": 2517,
+    "communeCode": 1507,
+    "name": "Hậu Nghĩa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 66.48,
+    "population": 46745,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.399,
+    "latitude": 10.9372,
+    "previous": [
+      "Thị trấn Hậu Nghĩa",
+      "Xã Đức Lập Thượng",
+      "Xã Tân Mỹ"
+    ],
+    "treeCode": "2494.2517"
+  },
+  {
+    "id": 2518,
+    "communeCode": 1499,
+    "name": "Hậu Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 93.82,
+    "population": 19336,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.868,
+    "latitude": 10.6586,
+    "previous": [
+      "Xã Hậu Thạnh Đông",
+      "Xã Hậu Thạnh Tây",
+      "Xã Bắc Hòa"
+    ],
+    "treeCode": "2494.2518"
+  },
+  {
+    "id": 2519,
+    "communeCode": 1510,
+    "name": "Hiệp Hòa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 54.9936,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.345,
+    "latitude": 10.9133,
+    "previous": [
+      "Xã Tân Phú (huyện Đức Hòa)",
+      "Xã Hiệp Hòa",
+      "Thị trấn Hiệp Hòa"
+    ],
+    "treeCode": "2494.2519"
+  },
+  {
+    "id": 2520,
+    "communeCode": 2892,
+    "name": "Hòa Hội",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 136.27,
+    "population": 36174,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.923,
+    "latitude": 11.3252,
+    "previous": [
+      "Xã Biên Giới",
+      "Xã Hòa Thạnh",
+      "Xã Hòa Hội"
+    ],
+    "treeCode": "2494.2520"
+  },
+  {
+    "id": 2521,
+    "communeCode": 1516,
+    "name": "Hòa Khánh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 59.9321,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.393,
+    "latitude": 10.85,
+    "previous": [
+      "Xã Hòa Khánh Tây",
+      "Xã Hòa Khánh Nam",
+      "Xã Hòa Khánh Đông"
+    ],
+    "treeCode": "2494.2521"
+  },
+  {
+    "id": 2522,
+    "communeCode": 2882,
+    "name": "Hòa Thành",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 97.29,
+    "population": 47167,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.113,
+    "latitude": 11.2635,
+    "previous": [
+      "Phường Long Thành Trung",
+      "Xã Long Thành Nam"
+    ],
+    "treeCode": "2494.2522"
+  },
+  {
+    "id": 2523,
+    "communeCode": 1116,
+    "name": "Hưng Điền",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 131.16,
+    "population": 19308,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.604,
+    "latitude": 10.9302,
+    "previous": [
+      "Xã Hưng Hà",
+      "Xã Hưng Điền B",
+      "Xã Hưng Điền"
+    ],
+    "treeCode": "2494.2523"
+  },
+  {
+    "id": 2524,
+    "communeCode": 2881,
+    "name": "Hưng Thuận",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 102.72,
+    "population": 26546,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.387,
+    "latitude": 11.1551,
+    "previous": [
+      "Xã Đôn Thuận",
+      "Xã Hưng Thuận"
+    ],
+    "treeCode": "2494.2524"
+  },
+  {
+    "id": 2525,
+    "communeCode": 1114,
+    "name": "Khánh Hậu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 22.81,
+    "population": 28965,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.36,
+    "latitude": 10.5377,
+    "previous": [
+      "Phường Tân Khánh",
+      "Phường Khánh Hậu",
+      "Xã Lợi Bình Nhơn"
+    ],
+    "treeCode": "2494.2525"
+  },
+  {
+    "id": 2526,
+    "communeCode": 1127,
+    "name": "Khánh Hưng",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 129.6,
+    "population": 41212,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.73,
+    "latitude": 10.9896,
+    "previous": [
+      "Xã Hưng Điền A",
+      "Xã Thái Bình Trung",
+      "Xã Vĩnh Trị",
+      "Xã Thái Trị",
+      "Xã Khánh Hưng"
+    ],
+    "treeCode": "2494.2526"
+  },
+  {
+    "id": 2527,
+    "communeCode": 1137,
+    "name": "Kiến Tường",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 26.28,
+    "population": 23738,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.939,
+    "latitude": 10.7559,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3 (thị xã Kiến Tường)"
+    ],
+    "treeCode": "2494.2527"
+  },
+  {
+    "id": 2528,
+    "communeCode": 2886,
+    "name": "Lộc Ninh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 67.4,
+    "population": 32213,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.319,
+    "latitude": 11.2917,
+    "previous": [
+      "Xã Bến Củi",
+      "Xã Lộc Ninh",
+      "Xã Phước Minh"
+    ],
+    "treeCode": "2494.2528"
+  },
+  {
+    "id": 2529,
+    "communeCode": 1109,
+    "name": "Long An",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 34.9,
+    "population": 106667,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.405,
+    "latitude": 10.5476,
+    "previous": [
+      "Phường 1 (thành phố Tân An)",
+      "Phường 3 (thành phố Tân An)",
+      "Phường 4",
+      "Phường 5",
+      "Phường 6",
+      "Xã Hướng Thọ Phú",
+      "Xã Bình Thạnh (huyện Thủ Thừa)"
+    ],
+    "treeCode": "2494.2529"
+  },
+  {
+    "id": 2530,
+    "communeCode": 1165,
+    "name": "Long Cang",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 31.73,
+    "population": 32686,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.519,
+    "latitude": 10.5947,
+    "previous": [
+      "Xã Long Định",
+      "Xã Phước Vân",
+      "Xã Long Cang"
+    ],
+    "treeCode": "2494.2530"
+  },
+  {
+    "id": 2531,
+    "communeCode": 2880,
+    "name": "Long Chữ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 92,
+    "population": 17746,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.115,
+    "latitude": 11.2062,
+    "previous": [
+      "Xã Long Vĩnh",
+      "Xã Long Phước",
+      "Xã Long Chữ"
+    ],
+    "treeCode": "2494.2531"
+  },
+  {
+    "id": 2532,
+    "communeCode": 2889,
+    "name": "Long Hoa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 55.99,
+    "population": 106017,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.164,
+    "latitude": 11.26,
+    "previous": [
+      "Phường Long Thành Bắc",
+      "Phường Long Hoa",
+      "Xã Trường Hòa",
+      "Xã Trường Tây",
+      "Xã Trường Đông"
+    ],
+    "treeCode": "2494.2532"
+  },
+  {
+    "id": 2533,
+    "communeCode": 1420,
+    "name": "Long Hựu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 36.89,
+    "population": 29057,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.691,
+    "latitude": 10.4786,
+    "previous": [
+      "Xã Long Hựu Đông",
+      "Xã Long Hựu Tây"
+    ],
+    "treeCode": "2494.2533"
+  },
+  {
+    "id": 2534,
+    "communeCode": 2878,
+    "name": "Long Thuận",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 65.61,
+    "population": 24518,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.1,
+    "latitude": 11.1271,
+    "previous": [
+      "Xã Long Thuận (huyện Bến Cầu)",
+      "Xã Long Giang",
+      "Xã Long Khánh"
+    ],
+    "treeCode": "2494.2534"
+  },
+  {
+    "id": 2535,
+    "communeCode": 1153,
+    "name": "Lương Hòa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 37.48,
+    "population": 2594,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.45,
+    "latitude": 10.7083,
+    "previous": [
+      "Xã Tân Bửu",
+      "Xã Lương Hòa"
+    ],
+    "treeCode": "2494.2535"
+  },
+  {
+    "id": 2536,
+    "communeCode": 1141,
+    "name": "Mộc Hóa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 135.182,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.022,
+    "latitude": 10.7135,
+    "previous": [
+      "Xã Tân Thành",
+      "Xã Tân Lập (huyện Mộc Hóa)",
+      "Thị trấn Bình Phong Thạnh"
+    ],
+    "treeCode": "2494.2536"
+  },
+  {
+    "id": 2537,
+    "communeCode": 1159,
+    "name": "Mỹ An",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 32.76,
+    "population": 20682,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.341,
+    "latitude": 10.5762,
+    "previous": [
+      "Xã Mỹ Phú",
+      "Xã Mỹ An"
+    ],
+    "treeCode": "2494.2537"
+  },
+  {
+    "id": 2538,
+    "communeCode": 1517,
+    "name": "Mỹ Hạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 63.44,
+    "population": 56793,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.482,
+    "latitude": 10.8472,
+    "previous": [
+      "Xã Đức Hòa Đông",
+      "Xã Mỹ Hạnh Nam",
+      "Xã Đức Hòa Thượng"
+    ],
+    "treeCode": "2494.2538"
+  },
+  {
+    "id": 2539,
+    "communeCode": 1166,
+    "name": "Mỹ Lệ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 39.85,
+    "population": 36969,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.575,
+    "latitude": 10.5599,
+    "previous": [
+      "Xã Tân Trạch",
+      "Xã Long Sơn",
+      "Xã Mỹ Lệ"
+    ],
+    "treeCode": "2494.2539"
+  },
+  {
+    "id": 2540,
+    "communeCode": 1469,
+    "name": "Mỹ Lộc",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 32.71,
+    "population": 40199,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.625,
+    "latitude": 10.5934,
+    "previous": [
+      "Xã Phước Lâm",
+      "Xã Thuận Thành",
+      "Xã Mỹ Lộc"
+    ],
+    "treeCode": "2494.2540"
+  },
+  {
+    "id": 2541,
+    "communeCode": 1505,
+    "name": "Mỹ Quý",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 132.98,
+    "population": 28537,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.219,
+    "latitude": 10.9385,
+    "previous": [
+      "Xã Mỹ Thạnh Bắc",
+      "Xã Mỹ Quý Đông",
+      "Xã Mỹ Quý Tây"
+    ],
+    "treeCode": "2494.2541"
+  },
+  {
+    "id": 2542,
+    "communeCode": 1158,
+    "name": "Mỹ Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 63.7,
+    "population": 2653,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.361,
+    "latitude": 10.6365,
+    "previous": [
+      "Xã Bình An",
+      "Xã Mỹ Lạc",
+      "Xã Mỹ Thạnh",
+      "Xã Tân Thành (huyện Thủ Thừa)"
+    ],
+    "treeCode": "2494.2542"
+  },
+  {
+    "id": 2543,
+    "communeCode": 1155,
+    "name": "Mỹ Yên",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 29.23,
+    "population": 49248,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.533,
+    "latitude": 10.6387,
+    "previous": [
+      "Xã Long Hiệp",
+      "Xã Phước Lợi",
+      "Xã Mỹ Yên"
+    ],
+    "treeCode": "2494.2543"
+  },
+  {
+    "id": 2544,
+    "communeCode": 1477,
+    "name": "Nhơn Hòa Lập",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 109.77,
+    "population": 19949,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.96,
+    "latitude": 10.6339,
+    "previous": [
+      "Xã Tân Lập (huyện Tân Thạnh)",
+      "Xã Nhơn Hòa",
+      "Xã Nhơn Hòa Lập"
+    ],
+    "treeCode": "2494.2544"
+  },
+  {
+    "id": 2545,
+    "communeCode": 1500,
+    "name": "Nhơn Ninh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 92.67,
+    "population": 27099,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.946,
+    "latitude": 10.5709,
+    "previous": [
+      "Xã Tân Thành (huyện Tân Thạnh)",
+      "Xã Tân Ninh",
+      "Xã Nhơn Ninh"
+    ],
+    "treeCode": "2494.2545"
+  },
+  {
+    "id": 2546,
+    "communeCode": 1160,
+    "name": "Nhựt Tảo",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 36.45,
+    "population": 30168,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.477,
+    "latitude": 10.5677,
+    "previous": [
+      "Xã Tân Bình (huyện Tân Trụ)",
+      "Xã Quê Mỹ Thạnh",
+      "Xã Lạc Tấn",
+      "Xã Nhị Thành",
+      "Thủ Thừa"
+    ],
+    "treeCode": "2494.2546"
+  },
+  {
+    "id": 2547,
+    "communeCode": 2885,
+    "name": "Ninh Điền",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 152.23,
+    "population": 2347,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.992,
+    "latitude": 11.2357,
+    "previous": [
+      "Xã Thành Long",
+      "Xã Ninh Điền"
+    ],
+    "treeCode": "2494.2547"
+  },
+  {
+    "id": 2548,
+    "communeCode": 2893,
+    "name": "Ninh Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 52.66,
+    "population": 52249,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.157,
+    "latitude": 11.3275,
+    "previous": [
+      "Phường Ninh Thạnh",
+      "Xã Bàu Năng",
+      "Xã Chà Là"
+    ],
+    "treeCode": "2494.2548"
+  },
+  {
+    "id": 2549,
+    "communeCode": 2872,
+    "name": "Phước Chỉ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 82.84,
+    "population": 31461,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.231,
+    "latitude": 11.0172,
+    "previous": [
+      "Xã Phước Bình",
+      "Xã Phước Chỉ"
+    ],
+    "treeCode": "2494.2549"
+  },
+  {
+    "id": 2550,
+    "communeCode": 1468,
+    "name": "Phước Lý",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 27.37,
+    "population": 4284,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.609,
+    "latitude": 10.631,
+    "previous": [
+      "Xã Long Thượng",
+      "Xã Phước Hậu",
+      "Xã Phước Lý"
+    ],
+    "treeCode": "2494.2550"
+  },
+  {
+    "id": 2551,
+    "communeCode": 2879,
+    "name": "Phước Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 70.89,
+    "population": 44113,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.267,
+    "latitude": 11.139,
+    "previous": [
+      "Xã Hiệp Thạnh (huyện Gò Dầu)",
+      "Xã Phước Trạch",
+      "Xã Phước Thạnh"
+    ],
+    "treeCode": "2494.2551"
+  },
+  {
+    "id": 2552,
+    "communeCode": 2897,
+    "name": "Phước Vinh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 165.08,
+    "population": 23314,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.929,
+    "latitude": 11.4551,
+    "previous": [
+      "Xã Hòa Hiệp",
+      "Xã Phước Vinh"
+    ],
+    "treeCode": "2494.2552"
+  },
+  {
+    "id": 2553,
+    "communeCode": 1470,
+    "name": "Phước Vĩnh Tây",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 34.4,
+    "population": 28127,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.666,
+    "latitude": 10.5587,
+    "previous": [
+      "Xã Long An",
+      "Xã Long Phụng",
+      "Xã Phước Vĩnh Tây"
+    ],
+    "treeCode": "2494.2553"
+  },
+  {
+    "id": 2554,
+    "communeCode": 1164,
+    "name": "Rạch Kiến",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 24.53,
+    "population": 38795,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.575,
+    "latitude": 10.6077,
+    "previous": [
+      "Xã Long Trạch",
+      "Xã Long Khê",
+      "Xã Long Hòa"
+    ],
+    "treeCode": "2494.2554"
+  },
+  {
+    "id": 2555,
+    "communeCode": 1472,
+    "name": "Tầm Vu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 43.5,
+    "population": 35956,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.48,
+    "latitude": 10.4743,
+    "previous": [
+      "Thị trấn Tầm Vu",
+      "Xã Hiệp Thạnh (huyện Châu Thành)",
+      "Xã Phú Ngãi Trị",
+      "Xã Phước Tân Hưng"
+    ],
+    "treeCode": "2494.2555"
+  },
+  {
+    "id": 2556,
+    "communeCode": 1113,
+    "name": "Tân An",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 8.06,
+    "population": 85997,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.407,
+    "latitude": 10.5101,
+    "previous": [
+      "Phường 7",
+      "Xã Bình Tâm",
+      "Xã Nhơn Thạnh Trung",
+      "Xã An Vĩnh Ngãi"
+    ],
+    "treeCode": "2494.2556"
+  },
+  {
+    "id": 2557,
+    "communeCode": 2901,
+    "name": "Tân Biên",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 244.71,
+    "population": 36771,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.925,
+    "latitude": 11.5694,
+    "previous": [
+      "Xã Tân Bình (huyện Tân Biên)",
+      "Xã Thạnh Tây",
+      "Thị trấn Tân Biên"
+    ],
+    "treeCode": "2494.2557"
+  },
+  {
+    "id": 2558,
+    "communeCode": 2902,
+    "name": "Tân Châu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 54.77,
+    "population": 24072,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.149,
+    "latitude": 11.5522,
+    "previous": [
+      "Thị trấn Tân Châu",
+      "Xã Thạnh Đông",
+      "Xã Tân Phú (huyện Tân Châu)",
+      "Xã Suối Dây"
+    ],
+    "treeCode": "2494.2558"
+  },
+  {
+    "id": 2559,
+    "communeCode": 2906,
+    "name": "Tân Đông",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 50.4,
+    "population": 51413,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.213,
+    "latitude": 11.6962,
+    "previous": [
+      "Xã Tân Đông (huyện Tân Châu)",
+      "Xã Tân Hà"
+    ],
+    "treeCode": "2494.2559"
+  },
+  {
+    "id": 2560,
+    "communeCode": 2904,
+    "name": "Tân Hòa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 58.6,
+    "population": 50989,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.373,
+    "latitude": 11.5893,
+    "previous": [
+      "Xã Tân Hòa (huyện Tân Châu)",
+      "Xã Suối Ngô"
+    ],
+    "treeCode": "2494.2560"
+  },
+  {
+    "id": 2561,
+    "communeCode": 2905,
+    "name": "Tân Hội",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 146.28,
+    "population": 4945,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.165,
+    "latitude": 11.6371,
+    "previous": [
+      "Xã Tân Hiệp (huyện Tân Châu)",
+      "Xã Tân Hội"
+    ],
+    "treeCode": "2494.2561"
+  },
+  {
+    "id": 2562,
+    "communeCode": 1115,
+    "name": "Tân Hưng",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 92.41,
+    "population": 35222,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.719,
+    "latitude": 10.8155,
+    "previous": [
+      "Thị trấn Tân Hưng",
+      "Xã Vĩnh Thạnh",
+      "Xã Vĩnh Lợi"
+    ],
+    "treeCode": "2494.2562"
+  },
+  {
+    "id": 2563,
+    "communeCode": 1167,
+    "name": "Tân Lân",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 38.93,
+    "population": 29984,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.632,
+    "latitude": 10.507,
+    "previous": [
+      "Xã Phước Đông (huyện Cần Đước)",
+      "Xã Tân Lân"
+    ],
+    "treeCode": "2494.2563"
+  },
+  {
+    "id": 2564,
+    "communeCode": 2907,
+    "name": "Tân Lập",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 257.61,
+    "population": 1681,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.04,
+    "latitude": 11.6778,
+    "previous": [
+      "Xã Tân Lập (huyện Tân Biên)",
+      "Xã Thạnh Bắc"
+    ],
+    "treeCode": "2494.2564"
+  },
+  {
+    "id": 2565,
+    "communeCode": 1157,
+    "name": "Tân Long",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 102.12,
+    "population": 35492,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.298,
+    "latitude": 10.7074,
+    "previous": [
+      "Xã Long Thuận (huyện Thủ Thừa)",
+      "Xã Long Thạnh",
+      "Xã Tân Long"
+    ],
+    "treeCode": "2494.2565"
+  },
+  {
+    "id": 2566,
+    "communeCode": 2890,
+    "name": "Tân Ninh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 21.35,
+    "population": 8936,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.103,
+    "latitude": 11.3153,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3 (thành phố Tây Ninh)",
+      "Phường IV",
+      "Phường Hiệp Ninh",
+      "Xã Thái Bình"
+    ],
+    "treeCode": "2494.2566"
+  },
+  {
+    "id": 2567,
+    "communeCode": 2899,
+    "name": "Tân Phú",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 38.6,
+    "population": 3136,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.162,
+    "latitude": 11.4746,
+    "previous": [
+      "Xã Tân Hưng",
+      "Xã Mỏ Công",
+      "Xã Trà Vong",
+      "Xã Tân Phong",
+      "Xã Tân Phú (huyện Tân Châu)"
+    ],
+    "treeCode": "2494.2567"
+  },
+  {
+    "id": 2568,
+    "communeCode": 1471,
+    "name": "Tân Tập",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 60.22,
+    "population": 44767,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.709,
+    "latitude": 10.5367,
+    "previous": [
+      "Xã Đông Thạnh",
+      "Xã Phước Vĩnh Đông",
+      "Xã Tân Tập"
+    ],
+    "treeCode": "2494.2568"
+  },
+  {
+    "id": 2569,
+    "communeCode": 1503,
+    "name": "Tân Tây",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 113.45,
+    "population": 19438,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.254,
+    "latitude": 10.6223,
+    "previous": [
+      "Xã Tân Đông (huyện Thạnh Hóa)",
+      "Xã Thủy Đông",
+      "Xã Tân Tây"
+    ],
+    "treeCode": "2494.2569"
+  },
+  {
+    "id": 2570,
+    "communeCode": 2900,
+    "name": "Tân Thành",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 64.8,
+    "population": 30611,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.269,
+    "latitude": 11.5098,
+    "previous": [
+      "Xã Tân Thành (huyện Tân Châu)",
+      "Xã Suối Dây"
+    ],
+    "treeCode": "2494.2570"
+  },
+  {
+    "id": 2571,
+    "communeCode": 1467,
+    "name": "Tân Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 70.8,
+    "population": 35806,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.054,
+    "latitude": 10.5834,
+    "previous": [
+      "Xã Tân Bình",
+      "Xã Tân Hòa (huyện Tân Thạnh)",
+      "Xã Kiến Bình",
+      "Thị trấn Tân Thạnh"
+    ],
+    "treeCode": "2494.2571"
+  },
+  {
+    "id": 2572,
+    "communeCode": 1475,
+    "name": "Tân Trụ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 30.84,
+    "population": 26855,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.5,
+    "latitude": 10.5283,
+    "previous": [
+      "Thị trấn Tân Trụ",
+      "Xã Bình Trinh Đông",
+      "Xã Bình Lãng",
+      "Xã Bình Tịnh"
+    ],
+    "treeCode": "2494.2572"
+  },
+  {
+    "id": 2573,
+    "communeCode": 2903,
+    "name": "Thạnh Bình",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 174.92,
+    "population": 30764,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.059,
+    "latitude": 11.5357,
+    "previous": [
+      "Xã Thạnh Bình",
+      "Xã Tân Phong"
+    ],
+    "treeCode": "2494.2573"
+  },
+  {
+    "id": 2574,
+    "communeCode": 2888,
+    "name": "Thanh Điền",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 30.73,
+    "population": 43528,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.086,
+    "latitude": 11.2709,
+    "previous": [
+      "Phường Hiệp Tân",
+      "Xã Thanh Điền"
+    ],
+    "treeCode": "2494.2574"
+  },
+  {
+    "id": 2575,
+    "communeCode": 2884,
+    "name": "Thạnh Đức",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 99.06,
+    "population": 44539,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.203,
+    "latitude": 11.1967,
+    "previous": [
+      "Xã Thạnh Đức (huyện Gò Dầu)",
+      "Xã Cẩm Giang"
+    ],
+    "treeCode": "2494.2575"
+  },
+  {
+    "id": 2576,
+    "communeCode": 1148,
+    "name": "Thạnh Hóa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 108.18,
+    "population": 16738,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.146,
+    "latitude": 10.6197,
+    "previous": [
+      "Thị trấn Thạnh Hóa",
+      "Xã Thủy Tây",
+      "Xã Thạnh An"
+    ],
+    "treeCode": "2494.2576"
+  },
+  {
+    "id": 2577,
+    "communeCode": 1152,
+    "name": "Thạnh Lợi",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 96.52,
+    "population": 24037,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.399,
+    "latitude": 10.7438,
+    "previous": [
+      "Xã Thạnh Hòa",
+      "Xã Lương Bình",
+      "Xã Thạnh Lợi"
+    ],
+    "treeCode": "2494.2577"
+  },
+  {
+    "id": 2578,
+    "communeCode": 1502,
+    "name": "Thạnh Phước",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 76.99,
+    "population": 21208,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.134,
+    "latitude": 10.6927,
+    "previous": [
+      "Xã Thuận Nghĩa Hòa",
+      "Xã Thạnh Phú",
+      "Xã Thạnh Phước"
+    ],
+    "treeCode": "2494.2578"
+  },
+  {
+    "id": 2579,
+    "communeCode": 1156,
+    "name": "Thủ Thừa",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 50.45,
+    "population": 44485,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.412,
+    "latitude": 10.6039,
+    "previous": [
+      "Thị trấn Thủ Thừa",
+      "Xã Bình Thạnh",
+      "Xã Tân Thành (huyện Thủ Thừa)",
+      "Xã Nhị Thành"
+    ],
+    "treeCode": "2494.2579"
+  },
+  {
+    "id": 2580,
+    "communeCode": 1476,
+    "name": "Thuận Mỹ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 53.37,
+    "population": 3933,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.539,
+    "latitude": 10.4502,
+    "previous": [
+      "Xã Thanh Phú Long",
+      "Xã Thanh Vĩnh Đông",
+      "Xã Thuận Mỹ"
+    ],
+    "treeCode": "2494.2580"
+  },
+  {
+    "id": 2581,
+    "communeCode": 2898,
+    "name": "Trà Vong",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 88.67,
+    "population": 24316,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.057,
+    "latitude": 11.4432,
+    "previous": [
+      "Xã Mỏ Công",
+      "Xã Trà Vong"
+    ],
+    "treeCode": "2494.2581"
+  },
+  {
+    "id": 2582,
+    "communeCode": 2873,
+    "name": "Trảng Bàng",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "phường",
+    "areaKm2": 36.97,
+    "population": 53532,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.325,
+    "latitude": 11.0323,
+    "previous": [
+      "Phường An Hòa",
+      "Phường Trảng Bàng"
+    ],
+    "treeCode": "2494.2582"
+  },
+  {
+    "id": 2583,
+    "communeCode": 2883,
+    "name": "Truông Mít",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 74.43,
+    "population": 40174,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.294,
+    "latitude": 11.2046,
+    "previous": [
+      "Xã Bàu Đồn",
+      "Xã Truông Mít"
+    ],
+    "treeCode": "2494.2583"
+  },
+  {
+    "id": 2584,
+    "communeCode": 1133,
+    "name": "Tuyên Bình",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 137.81,
+    "population": 19158,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.832,
+    "latitude": 10.8355,
+    "previous": [
+      "Xã Tuyên Bình",
+      "Xã Tuyên Bình Tây",
+      "Xã Vĩnh Bình",
+      "Xã Vĩnh Thuận",
+      "Xã Thái Bình Trung"
+    ],
+    "treeCode": "2494.2584"
+  },
+  {
+    "id": 2585,
+    "communeCode": 1139,
+    "name": "Tuyên Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 108.81,
+    "population": 15331,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.875,
+    "latitude": 10.7424,
+    "previous": [
+      "Xã Thạnh Hưng (thị xã Kiến Tường)",
+      "Xã Tuyên Thạnh",
+      "Xã Bắc Hòa"
+    ],
+    "treeCode": "2494.2585"
+  },
+  {
+    "id": 2586,
+    "communeCode": 1161,
+    "name": "Vàm Cỏ",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 40.6547,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.541,
+    "latitude": 10.5072,
+    "previous": [
+      "Xã Tân Phước Tây",
+      "Xã Nhựt Ninh",
+      "Xã Đức Tân"
+    ],
+    "treeCode": "2494.2586"
+  },
+  {
+    "id": 2587,
+    "communeCode": 1125,
+    "name": "Vĩnh Châu",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 144.28,
+    "population": 13022,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.757,
+    "latitude": 10.7312,
+    "previous": [
+      "Xã Vĩnh Đại",
+      "Xã Vĩnh Bửu",
+      "Xã Vĩnh Châu A"
+    ],
+    "treeCode": "2494.2587"
+  },
+  {
+    "id": 2588,
+    "communeCode": 1473,
+    "name": "Vĩnh Công",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 24.71,
+    "population": 22784,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.445,
+    "latitude": 10.4997,
+    "previous": [
+      "Xã Hòa Phú",
+      "Xã Bình Quới",
+      "Xã Vĩnh Công"
+    ],
+    "treeCode": "2494.2588"
+  },
+  {
+    "id": 2589,
+    "communeCode": 1126,
+    "name": "Vĩnh Hưng",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 95.26,
+    "population": 21204,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.789,
+    "latitude": 10.8788,
+    "previous": [
+      "Thị trấn Vĩnh Hưng",
+      "Xã Vĩnh Trị",
+      "Xã Thái Trị",
+      "Xã Khánh Hưng",
+      "Xã Thái Bình Trung",
+      "Xã Vĩnh Thuận",
+      "Xã Vĩnh Bình"
+    ],
+    "treeCode": "2494.2589"
+  },
+  {
+    "id": 2590,
+    "communeCode": 1124,
+    "name": "Vĩnh Thạnh",
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "type": "xã",
+    "areaKm2": 65.9,
+    "population": 30522,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.717,
+    "latitude": 10.8824,
+    "previous": [
+      "Xã Thạnh Hưng (huyện Tân Hưng)",
+      "Xã Vĩnh Châu B",
+      "Xã Hưng Thạnh"
+    ],
+    "treeCode": "2494.2590"
+  }
+]

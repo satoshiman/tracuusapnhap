@@ -1,0 +1,1885 @@
+[
+  {
+    "id": 311,
+    "communeCode": 1348,
+    "name": "A Mú Sung",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 104.4,
+    "population": 5955,
+    "administrativeCenter": "Thôn Y Giang, xã A Mú Sung (Trụ sở xã A Mú Sung cũ)",
+    "longitude": 103.659,
+    "latitude": 22.7296,
+    "previous": [
+      "Xã Nậm Chạc",
+      "Xã A Mú Sung"
+    ],
+    "treeCode": "0310.0311"
+  },
+  {
+    "id": 312,
+    "communeCode": 1272,
+    "name": "Âu Lâu",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 66.17,
+    "population": 23245,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.909,
+    "latitude": 21.6592,
+    "previous": [
+      "Phường Hợp Minh",
+      "Xã Giới Phiên",
+      "Xã Minh Quân",
+      "Xã Âu Lâu"
+    ],
+    "treeCode": "0310.0312"
+  },
+  {
+    "id": 313,
+    "communeCode": 1305,
+    "name": "Bắc Hà",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 179.7,
+    "population": 30521,
+    "administrativeCenter": "TDP Nậm Sắt 2, xã Bắc Hà (Trụ sở thị trấn Bắc Hà cũ)",
+    "longitude": 104.307,
+    "latitude": 22.5246,
+    "previous": [
+      "Thị trấn Bắc Hà",
+      "Xã Na Hối",
+      "Xã Thải Giàng Phố",
+      "Xã Bản Phố",
+      "Xã Hoàng Thu Phố",
+      "Xã Nậm Mòn"
+    ],
+    "treeCode": "0310.0313"
+  },
+  {
+    "id": 314,
+    "communeCode": 1363,
+    "name": "Bản Hồ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 166.2,
+    "population": 9351,
+    "administrativeCenter": "Thôn Bản Sái, Xã Bản Hồ (Trụ sở xã Bản Hồ cũ)",
+    "longitude": 103.954,
+    "latitude": 22.24,
+    "previous": [
+      "Xã Thanh Bình (thị xã Sa Pa)",
+      "Xã Bản Hồ"
+    ],
+    "treeCode": "0310.0314"
+  },
+  {
+    "id": 315,
+    "communeCode": 1302,
+    "name": "Bản Lầu",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 125.3,
+    "population": 18559,
+    "administrativeCenter": "Thôn Bản Sen, xã Bản Lầu mới (Trụ sở xã Bản Sen cũ)",
+    "longitude": 104.07,
+    "latitude": 22.5943,
+    "previous": [
+      "Xã Bản Sen",
+      "Xã Lùng Vai",
+      "Xã Bản Lầu"
+    ],
+    "treeCode": "0310.0315"
+  },
+  {
+    "id": 316,
+    "communeCode": 1309,
+    "name": "Bản Liền",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 76.7,
+    "population": 4221,
+    "administrativeCenter": "Thôn Đội 2, xã Bản Liền (Trụ sở xã Bản Liền cũ)",
+    "longitude": 104.384,
+    "latitude": 22.4986,
+    "previous": [
+      "Xã Nậm Khánh",
+      "Xã Bản Liền"
+    ],
+    "treeCode": "0310.0316"
+  },
+  {
+    "id": 317,
+    "communeCode": 1352,
+    "name": "Bản Xèo",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 78.3,
+    "population": 856,
+    "administrativeCenter": "Thôn Bản Xèo, xã Bản Xèo (Trụ sở xã Bản Xèo cũ)",
+    "longitude": 103.773,
+    "latitude": 22.5248,
+    "previous": [
+      "Xã Pa Cheo",
+      "Xã Mường Vi",
+      "Xã Bản Xèo"
+    ],
+    "treeCode": "0310.0317"
+  },
+  {
+    "id": 318,
+    "communeCode": 1294,
+    "name": "Bảo Ái",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 163.41,
+    "population": 24303,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.846,
+    "latitude": 21.8976,
+    "previous": [
+      "Xã Cảm Ân",
+      "Xã Mông Sơn",
+      "Xã Tân Nguyên",
+      "Xã Bảo Ái"
+    ],
+    "treeCode": "0310.0318"
+  },
+  {
+    "id": 319,
+    "communeCode": 1322,
+    "name": "Bảo Hà",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 243,
+    "population": 34115,
+    "administrativeCenter": "Bản Lâm Sản, xã Bảo Hà (Trụ sở xã Bảo Hà cũ)",
+    "longitude": 104.326,
+    "latitude": 22.205,
+    "previous": [
+      "Xã Kim Sơn",
+      "Xã Cam Cọn",
+      "Xã Tân An",
+      "Xã Tân Thượng",
+      "Xã Bảo Hà"
+    ],
+    "treeCode": "0310.0319"
+  },
+  {
+    "id": 320,
+    "communeCode": 1310,
+    "name": "Bảo Nhai",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 156,
+    "population": 17349,
+    "administrativeCenter": "Thôn Bảo Tấn 1, xã Bảo Nhai (Trụ sở xã Bảo Nhai cũ)",
+    "longitude": 104.258,
+    "latitude": 22.4185,
+    "previous": [
+      "Xã Nậm Đét",
+      "Xã Cốc Ly",
+      "Xã Bảo Nhai"
+    ],
+    "treeCode": "0310.0320"
+  },
+  {
+    "id": 321,
+    "communeCode": 1313,
+    "name": "Bảo Thắng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 160.4,
+    "population": 328,
+    "administrativeCenter": "Số 85, đường 19/5, TDP Phú Thành 3, xã Bảo Thắng (Trụ sở UBND xã Bảo Thắng cũ)",
+    "longitude": 104.14,
+    "latitude": 22.3729,
+    "previous": [
+      "Thị trấn Phố Lu",
+      "Xã Sơn Hà",
+      "Xã Sơn Hải",
+      "Xã Thái Niên"
+    ],
+    "treeCode": "0310.0321"
+  },
+  {
+    "id": 322,
+    "communeCode": 1321,
+    "name": "Bảo Yên",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 119.1,
+    "population": 2156,
+    "administrativeCenter": "Tổ dân phố 3A, thị trấn Phố Ràng (Trụ sở UBND xã Bảo Yên cũ)",
+    "longitude": 104.491,
+    "latitude": 22.2155,
+    "previous": [
+      "Thị trấn Phố Ràng",
+      "Xã Yên Sơn",
+      "Xã Lương Sơn",
+      "Xã Xuân Thượng"
+    ],
+    "treeCode": "0310.0322"
+  },
+  {
+    "id": 323,
+    "communeCode": 1347,
+    "name": "Bát Xát",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 190,
+    "population": 27229,
+    "administrativeCenter": "Số 479, đường Hùng Vương, xã Bát Xát (Trụ sở thị trấn Bát Xát cũ)",
+    "longitude": 103.851,
+    "latitude": 22.5196,
+    "previous": [
+      "Thị trấn Bát Xát",
+      "Xã Bản Vược",
+      "Xã Bản Qua",
+      "Xã Phìn Ngan",
+      "Xã Quang Kim"
+    ],
+    "treeCode": "0310.0323"
+  },
+  {
+    "id": 324,
+    "communeCode": 1297,
+    "name": "Cam Đường",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 59.9,
+    "population": 67877,
+    "administrativeCenter": "Đường Nguyễn Hữu An, Phường Cam Đường (Trụ sở Phường Bình Minh cũ)",
+    "longitude": 104.006,
+    "latitude": 22.4316,
+    "previous": [
+      "Phường Nam Cường (thành phố Lào Cai)",
+      "Phường Xuân Tăng",
+      "Phường Pom Hán",
+      "Phường Bắc Cường",
+      "Phường Bắc Lệnh",
+      "Phường Bình Minh",
+      "Xã Cam Đường"
+    ],
+    "treeCode": "0310.0324"
+  },
+  {
+    "id": 325,
+    "communeCode": 1293,
+    "name": "Cảm Nhân",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 151.77,
+    "population": 1734,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.928,
+    "latitude": 22.0006,
+    "previous": [
+      "Xã Xuân Long",
+      "Xã Ngọc Chấn",
+      "Xã Cảm Nhân"
+    ],
+    "treeCode": "0310.0325"
+  },
+  {
+    "id": 326,
+    "communeCode": 1301,
+    "name": "Cao Sơn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 124.93,
+    "population": 8872,
+    "administrativeCenter": "Thôn Lồ Suối Tủng, xã Cao Sơn mới (Trụ sở xã Cao Sơn cũ)",
+    "longitude": 104.156,
+    "latitude": 22.6154,
+    "previous": [
+      "Xã Lùng Khấu Nhin",
+      "Xã Tả Thàng",
+      "Xã La Pan Tẩn",
+      "Xã Cao Sơn"
+    ],
+    "treeCode": "0310.0326"
+  },
+  {
+    "id": 327,
+    "communeCode": 1286,
+    "name": "Cát Thịnh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 169.11,
+    "population": 11369,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.682,
+    "latitude": 21.4558,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0327"
+  },
+  {
+    "id": 328,
+    "communeCode": 1246,
+    "name": "Cầu Thia",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 31.84,
+    "population": 25234,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.502,
+    "latitude": 21.5515,
+    "previous": [
+      "Phường Cầu Thia",
+      "Xã Thanh Lương",
+      "Xã Thạch Lương",
+      "Xã Phúc Sơn",
+      "Xã Hạnh Sơn"
+    ],
+    "treeCode": "0310.0328"
+  },
+  {
+    "id": 329,
+    "communeCode": 1287,
+    "name": "Chấn Thịnh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 120.54,
+    "population": 1879,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.814,
+    "latitude": 21.5087,
+    "previous": [
+      "Xã Tân Thịnh (huyện Văn Chấn)",
+      "Xã Đại Lịch",
+      "Xã Chấn Thịnh"
+    ],
+    "treeCode": "0310.0329"
+  },
+  {
+    "id": 330,
+    "communeCode": 1255,
+    "name": "Châu Quế",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 162.25,
+    "population": 13457,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.458,
+    "latitude": 22.0246,
+    "previous": [
+      "Xã Châu Quế Thượng",
+      "Xã Châu Quế Hạ"
+    ],
+    "treeCode": "0310.0330"
+  },
+  {
+    "id": 331,
+    "communeCode": 1267,
+    "name": "Chế Tạo",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 234.44,
+    "population": 265,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.037,
+    "latitude": 21.7104,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0331"
+  },
+  {
+    "id": 332,
+    "communeCode": 1329,
+    "name": "Chiềng Ken",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 191.3,
+    "population": 9306,
+    "administrativeCenter": "Thôn Bẻ 3, xã Chiềng Ken (Trụ sở xã Chiềng Ken cũ)",
+    "longitude": 104.395,
+    "latitude": 21.9828,
+    "previous": [
+      "Xã Nậm Tha",
+      "Xã Chiềng Ken"
+    ],
+    "treeCode": "0310.0332"
+  },
+  {
+    "id": 333,
+    "communeCode": 1311,
+    "name": "Cốc Lầu",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 135.8,
+    "population": 88,
+    "administrativeCenter": "Thôn Hà Tiên, xã Cốc Lầu (Trụ sở xã Cốc Lầu cũ)",
+    "longitude": 104.362,
+    "latitude": 22.3864,
+    "previous": [
+      "Xã Nậm Lúc",
+      "Xã Bản Cái",
+      "Xã Cốc Lầu"
+    ],
+    "treeCode": "0310.0333"
+  },
+  {
+    "id": 334,
+    "communeCode": 1354,
+    "name": "Cốc San",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 57.2,
+    "population": 11085,
+    "administrativeCenter": "Thôn Tòng Chú 3, xã Cốc San (Trụ sở xã Cốc San cũ)",
+    "longitude": 103.926,
+    "latitude": 22.4531,
+    "previous": [
+      "Xã Đồng Tuyển",
+      "Xã Tòng Sành",
+      "Xã Cốc San"
+    ],
+    "treeCode": "0310.0334"
+  },
+  {
+    "id": 335,
+    "communeCode": 1351,
+    "name": "Dền Sáng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 148.2,
+    "population": 1216,
+    "administrativeCenter": "Thôn Dền Sáng, xã Dền Sáng (Trụ sở xã Dền Sáng cũ)",
+    "longitude": 103.656,
+    "latitude": 22.5683,
+    "previous": [
+      "Xã Dền Thàng",
+      "Xã Sàng Ma Sáo",
+      "Xã Dền Sáng"
+    ],
+    "treeCode": "0310.0335"
+  },
+  {
+    "id": 336,
+    "communeCode": 1256,
+    "name": "Đông Cuông",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 146.3,
+    "population": 21938,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.597,
+    "latitude": 21.9769,
+    "previous": [
+      "Xã Quang Minh",
+      "Xã An Bình",
+      "Xã Đông An",
+      "Xã Đông Cuông"
+    ],
+    "treeCode": "0310.0336"
+  },
+  {
+    "id": 337,
+    "communeCode": 1337,
+    "name": "Dương Quỳ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 157.1,
+    "population": 8925,
+    "administrativeCenter": "Thôn Tông Hốc, Xã Dương Quỳ (Trụ sở xã Dương Quỳ cũ)",
+    "longitude": 104.152,
+    "latitude": 22.0253,
+    "previous": [
+      "Xã Thẳm Dương",
+      "Xã Dương Quỳ"
+    ],
+    "treeCode": "0310.0337"
+  },
+  {
+    "id": 338,
+    "communeCode": 1283,
+    "name": "Gia Hội",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 213.25,
+    "population": 14908,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.39,
+    "latitude": 21.7075,
+    "previous": [
+      "Xã Nậm Búng",
+      "Xã Nậm Lành",
+      "Xã Gia Hội"
+    ],
+    "treeCode": "0310.0338"
+  },
+  {
+    "id": 339,
+    "communeCode": 1315,
+    "name": "Gia Phú",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 102.4,
+    "population": 28458,
+    "administrativeCenter": "Thôn Phú Xuân, xã Gia Phú (Trụ sở xã Gia Phú cũ)",
+    "longitude": 104.077,
+    "latitude": 22.3442,
+    "previous": [
+      "Xã Xuân Giao",
+      "Xã Thống Nhất",
+      "Xã Gia Phú"
+    ],
+    "treeCode": "0310.0339"
+  },
+  {
+    "id": 340,
+    "communeCode": 1277,
+    "name": "Hạnh Phúc",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 193.85,
+    "population": 13763,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.347,
+    "latitude": 21.4875,
+    "previous": [
+      "Thị trấn Trạm Tấu",
+      "Xã Bản Công",
+      "Xã Hát Lừu",
+      "Xã Xà Hồ"
+    ],
+    "treeCode": "0310.0340"
+  },
+  {
+    "id": 341,
+    "communeCode": 1298,
+    "name": "Hợp Thành",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 41.2,
+    "population": 10828,
+    "administrativeCenter": "Thôn Cóc 2, xã Hợp Thành (Trụ sở xã Tả Phời cũ)",
+    "longitude": 103.966,
+    "latitude": 22.3678,
+    "previous": [
+      "Xã Tả Phời",
+      "Xã Hợp Thành"
+    ],
+    "treeCode": "0310.0341"
+  },
+  {
+    "id": 342,
+    "communeCode": 1275,
+    "name": "Hưng Khánh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 122.18,
+    "population": 14054,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.716,
+    "latitude": 21.592,
+    "previous": [
+      "Xã Hồng Ca",
+      "Xã Hưng Khánh"
+    ],
+    "treeCode": "0310.0342"
+  },
+  {
+    "id": 343,
+    "communeCode": 1251,
+    "name": "Khánh Hòa",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 149.77,
+    "population": 17589,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.649,
+    "latitude": 22.1125,
+    "previous": [
+      "Xã Tô Mậu",
+      "Xã An Lạc",
+      "Xã Động Quan",
+      "Xã Khánh Hòa"
+    ],
+    "treeCode": "0310.0343"
+  },
+  {
+    "id": 344,
+    "communeCode": 1330,
+    "name": "Khánh Yên",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 173.6,
+    "population": 14272,
+    "administrativeCenter": "Thôn Độc Lập (Trụ sở xã Khánh Yên Hạ cũ)",
+    "longitude": 104.29,
+    "latitude": 21.9971,
+    "previous": [
+      "Xã Khánh Yên Trung",
+      "Xã Liêm Phú",
+      "Xã Khánh Yên Hạ"
+    ],
+    "treeCode": "0310.0344"
+  },
+  {
+    "id": 345,
+    "communeCode": 1265,
+    "name": "Khao Mang",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 120.06,
+    "population": 9343,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 103.974,
+    "latitude": 21.8999,
+    "previous": [
+      "Xã Hồ Bốn",
+      "Xã Khao Mang"
+    ],
+    "treeCode": "0310.0345"
+  },
+  {
+    "id": 346,
+    "communeCode": 1254,
+    "name": "Lâm Giang",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 179.48,
+    "population": 16452,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.484,
+    "latitude": 22.1039,
+    "previous": [
+      "Xã Lang Thíp",
+      "Xã Lâm Giang"
+    ],
+    "treeCode": "0310.0346"
+  },
+  {
+    "id": 347,
+    "communeCode": 1248,
+    "name": "Lâm Thượng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 128,
+    "population": 19576,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.669,
+    "latitude": 22.2287,
+    "previous": [
+      "Xã Mai Sơn",
+      "Xã Khánh Thiện",
+      "Xã Tân Phượng",
+      "Xã Lâm Thượng"
+    ],
+    "treeCode": "0310.0347"
+  },
+  {
+    "id": 348,
+    "communeCode": 1346,
+    "name": "Lào Cai",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 72.32,
+    "population": 76981,
+    "administrativeCenter": "Số 591 đường Hoàng Liên, Phường Lào Cai (Trụ sở HĐND&UBND thành phố Lào Cai cũ)",
+    "longitude": 104.015,
+    "latitude": 22.4979,
+    "previous": [
+      "Phường Duyên Hải",
+      "Phường Cốc Lếu",
+      "Phường Kim Tân",
+      "Phường Lào Cai",
+      "Xã Vạn Hòa",
+      "Xã Bản Phiệt"
+    ],
+    "treeCode": "0310.0348"
+  },
+  {
+    "id": 349,
+    "communeCode": 1266,
+    "name": "Lao Chải",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 157.99,
+    "population": 10135,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104,
+    "latitude": 21.818,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0349"
+  },
+  {
+    "id": 350,
+    "communeCode": 1281,
+    "name": "Liên Sơn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 120.21,
+    "population": 31834,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.494,
+    "latitude": 21.642,
+    "previous": [
+      "Thị trấn Nông trường Liên Sơn",
+      "Xã Sơn A",
+      "Xã Nghĩa Phúc"
+    ],
+    "treeCode": "0310.0350"
+  },
+  {
+    "id": 351,
+    "communeCode": 1247,
+    "name": "Lục Yên",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 79.94,
+    "population": 30159,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.779,
+    "latitude": 22.1181,
+    "previous": [
+      "Thị trấn Yên Thế",
+      "Xã Minh Xuân",
+      "Xã Yên Thắng",
+      "Xã Liễu Đô"
+    ],
+    "treeCode": "0310.0351"
+  },
+  {
+    "id": 352,
+    "communeCode": 1307,
+    "name": "Lùng Phình",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 101,
+    "population": 12131,
+    "administrativeCenter": "Thôn Lùng Phình, xã Lùng Phình (Trụ sở xã Lùng Phình cũ)",
+    "longitude": 104.322,
+    "latitude": 22.6105,
+    "previous": [
+      "Xã Tả Van Chư",
+      "Xã Lùng Phình",
+      "Xã Lùng Thẩn"
+    ],
+    "treeCode": "0310.0352"
+  },
+  {
+    "id": 353,
+    "communeCode": 1271,
+    "name": "Lương Thịnh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 94.21,
+    "population": 12692,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.787,
+    "latitude": 21.6416,
+    "previous": [
+      "Xã Hưng Thịnh",
+      "Xã Lương Thịnh"
+    ],
+    "treeCode": "0310.0353"
+  },
+  {
+    "id": 354,
+    "communeCode": 1253,
+    "name": "Mậu A",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 144.52,
+    "population": 40652,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.701,
+    "latitude": 21.8958,
+    "previous": [
+      "Thị trấn Mậu A",
+      "Xã Yên Thái",
+      "Xã An Thịnh",
+      "Xã Mậu Đông",
+      "Xã Ngòi A"
+    ],
+    "treeCode": "0310.0354"
+  },
+  {
+    "id": 355,
+    "communeCode": 1338,
+    "name": "Minh Lương",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 206.6,
+    "population": 9155,
+    "administrativeCenter": "Thôn Nậm Van, xã Minh Lương (Trụ sở xã Minh Lương cũ)",
+    "longitude": 104.112,
+    "latitude": 21.9531,
+    "previous": [
+      "Xã Nậm Xây",
+      "Xã Minh Lương"
+    ],
+    "treeCode": "0310.0355"
+  },
+  {
+    "id": 356,
+    "communeCode": 1262,
+    "name": "Mỏ Vàng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 167.617,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.634,
+    "latitude": 21.7126,
+    "previous": [
+      "Xã An Lương",
+      "Xã Mỏ Vàng"
+    ],
+    "treeCode": "0310.0356"
+  },
+  {
+    "id": 357,
+    "communeCode": 1263,
+    "name": "Mù Cang Chải",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 146.95,
+    "population": 14773,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.119,
+    "latitude": 21.8563,
+    "previous": [
+      "Thị trấn Mù Cang Chải",
+      "Xã Kim Nọi",
+      "Xã Mồ Dề",
+      "Xã Chế Cu Nha"
+    ],
+    "treeCode": "0310.0357"
+  },
+  {
+    "id": 358,
+    "communeCode": 1324,
+    "name": "Mường Bo",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 148.3,
+    "population": 7225,
+    "administrativeCenter": "Thôn Mường Bo 1, xã Mường Bo (Trụ sở xã Mường Bo cũ)",
+    "longitude": 104.026,
+    "latitude": 22.221,
+    "previous": [
+      "Xã Liên Minh",
+      "Xã Mường Bo"
+    ],
+    "treeCode": "0310.0358"
+  },
+  {
+    "id": 359,
+    "communeCode": 1353,
+    "name": "Mường Hum",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 212.8,
+    "population": 6814,
+    "administrativeCenter": "Thôn Mường Hum, xã Mường Hum (Trụ sở xã Mường Hum cũ)",
+    "longitude": 103.658,
+    "latitude": 22.4668,
+    "previous": [
+      "Xã Nậm Pung",
+      "Xã Trung Lèng Hồ",
+      "Xã Mường Hum"
+    ],
+    "treeCode": "0310.0359"
+  },
+  {
+    "id": 360,
+    "communeCode": 1300,
+    "name": "Mường Khương",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 169.2,
+    "population": 24433,
+    "administrativeCenter": "Tổ dân phố Sàng Chải, xã Mường Khương mới (Trụ sở UBND huyện Mường Khương hiện tại)",
+    "longitude": 104.104,
+    "latitude": 22.7302,
+    "previous": [
+      "Thị trấn Mường Khương",
+      "Xã Thanh Bình (huyện Mường Khương)",
+      "Xã Nậm Chảy",
+      "Xã Tung Chung Phố",
+      "Xã Nấm Lư"
+    ],
+    "treeCode": "0310.0360"
+  },
+  {
+    "id": 361,
+    "communeCode": 1249,
+    "name": "Mường Lai",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 143.84,
+    "population": 25574,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.838,
+    "latitude": 22.0682,
+    "previous": [
+      "Xã An Phú",
+      "Xã Vĩnh Lạc",
+      "Xã Minh Tiến",
+      "Xã Mường Lai"
+    ],
+    "treeCode": "0310.0361"
+  },
+  {
+    "id": 362,
+    "communeCode": 1327,
+    "name": "Nậm Chày",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 142.1,
+    "population": 5605,
+    "administrativeCenter": "Thôn Hỏm Dưới, xã Nậm Chày (Trụ sở xã Nậm Chày cũ)",
+    "longitude": 104.089,
+    "latitude": 22.1185,
+    "previous": [
+      "Xã Dần Thàng",
+      "Xã Nậm Chày"
+    ],
+    "treeCode": "0310.0362"
+  },
+  {
+    "id": 363,
+    "communeCode": 1264,
+    "name": "Nậm Có",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 201.6,
+    "population": 10019,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.294,
+    "latitude": 21.8586,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0363"
+  },
+  {
+    "id": 364,
+    "communeCode": 1244,
+    "name": "Nam Cường",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 46.09,
+    "population": 17754,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.879,
+    "latitude": 21.748,
+    "previous": [
+      "Phường Nam Cường (thành phố Yên Bái)",
+      "Xã Minh Bảo",
+      "Xã Tuy Lộc",
+      "Xã Cường Thịnh"
+    ],
+    "treeCode": "0310.0364"
+  },
+  {
+    "id": 365,
+    "communeCode": 1328,
+    "name": "Nậm Xé",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 170.96,
+    "population": 1478,
+    "administrativeCenter": "Thôn Tu Hạ, xã Nậm Xé (Trụ sở xã Nậm Xé cũ)",
+    "longitude": 103.995,
+    "latitude": 22.0459,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0365"
+  },
+  {
+    "id": 366,
+    "communeCode": 1317,
+    "name": "Nghĩa Đô",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 159.4,
+    "population": 13906,
+    "administrativeCenter": "Bản Nà Đình, xã Nghĩa Đô (Trụ sở Đảng uỷ - HĐND đặt tại trụ sở xã Vĩnh Yên cũ)",
+    "longitude": 104.485,
+    "latitude": 22.3822,
+    "previous": [
+      "Xã Tân Tiến",
+      "Xã Vĩnh Yên",
+      "Xã Nghĩa Đô"
+    ],
+    "treeCode": "0310.0366"
+  },
+  {
+    "id": 367,
+    "communeCode": 1296,
+    "name": "Nghĩa Lộ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 17.07,
+    "population": 73556,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.481,
+    "latitude": 21.5935,
+    "previous": [
+      "Phường Tân An",
+      "Phường Pú Trạng",
+      "Xã Nghĩa An",
+      "Xã Nghĩa Sơn"
+    ],
+    "treeCode": "0310.0367"
+  },
+  {
+    "id": 368,
+    "communeCode": 1289,
+    "name": "Nghĩa Tâm",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 133.1,
+    "population": 18979,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.854,
+    "latitude": 21.4129,
+    "previous": [
+      "Xã Bình Thuận",
+      "Xã Minh An",
+      "Xã Nghĩa Tâm"
+    ],
+    "treeCode": "0310.0368"
+  },
+  {
+    "id": 369,
+    "communeCode": 1360,
+    "name": "Ngũ Chỉ Sơn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 82.47,
+    "population": 7503,
+    "administrativeCenter": "Thôn Can Hồ B, xã Ngũ Chỉ Sơn (Trụ sở xã Ngũ Chỉ Sơn cũ)",
+    "longitude": 103.782,
+    "latitude": 22.4296,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0369"
+  },
+  {
+    "id": 370,
+    "communeCode": 1299,
+    "name": "Pha Long",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 105.6,
+    "population": 14449,
+    "administrativeCenter": "Thôn Pha Long 1, xã Pha Long mới (Trụ sở xã Pha Long cũ)",
+    "longitude": 104.223,
+    "latitude": 22.7818,
+    "previous": [
+      "Xã Tả Ngài Chồ",
+      "Xã Dìn Chin",
+      "Xã Tả Gia Khâu",
+      "Xã Pha Long"
+    ],
+    "treeCode": "0310.0370"
+  },
+  {
+    "id": 371,
+    "communeCode": 1278,
+    "name": "Phình Hồ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 226.02,
+    "population": 10957,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.499,
+    "latitude": 21.4412,
+    "previous": [
+      "Xã Làng Nhì",
+      "Xã Bản Mù",
+      "Xã Phình Hồ"
+    ],
+    "treeCode": "0310.0371"
+  },
+  {
+    "id": 372,
+    "communeCode": 1257,
+    "name": "Phong Dụ Hạ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 138.39,
+    "population": 8025,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.489,
+    "latitude": 21.9059,
+    "previous": [
+      "Xã Xuân Tầm",
+      "Xã Phong Dụ Hạ"
+    ],
+    "treeCode": "0310.0372"
+  },
+  {
+    "id": 373,
+    "communeCode": 1260,
+    "name": "Phong Dụ Thượng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 195.21,
+    "population": 6691,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.431,
+    "latitude": 21.8311,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0373"
+  },
+  {
+    "id": 374,
+    "communeCode": 1312,
+    "name": "Phong Hải",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 120.9,
+    "population": 16942,
+    "administrativeCenter": "Tổ dân phố số 4, xã Phong Hải (Trụ sở xã Phong Hải cũ)",
+    "longitude": 104.121,
+    "latitude": 22.4832,
+    "previous": [
+      "Thị trấn Nông trường Phong Hải",
+      "Xã Bản Cầm"
+    ],
+    "treeCode": "0310.0374"
+  },
+  {
+    "id": 375,
+    "communeCode": 1323,
+    "name": "Phúc Khánh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 114,
+    "population": 8534,
+    "administrativeCenter": "Thôn Cầu Cóc, xã Phúc Khánh (Trụ sở xã Phúc Khánh cũ)",
+    "longitude": 104.559,
+    "latitude": 22.1694,
+    "previous": [
+      "Xã Việt Tiến",
+      "Xã Phúc Khánh"
+    ],
+    "treeCode": "0310.0375"
+  },
+  {
+    "id": 376,
+    "communeCode": 1252,
+    "name": "Phúc Lợi",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 160.71,
+    "population": 15369,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.704,
+    "latitude": 22.0076,
+    "previous": [
+      "Xã Trúc Lâu",
+      "Xã Trung Tâm",
+      "Xã Phúc Lợi"
+    ],
+    "treeCode": "0310.0376"
+  },
+  {
+    "id": 377,
+    "communeCode": 1268,
+    "name": "Púng Luông",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 253.24,
+    "population": 19516,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.196,
+    "latitude": 21.7264,
+    "previous": [
+      "Xã Nậm Khắt",
+      "Xã La Pán Tẩn",
+      "Xã Dế Xu Phình",
+      "Xã Púng Luông"
+    ],
+    "treeCode": "0310.0377"
+  },
+  {
+    "id": 378,
+    "communeCode": 1270,
+    "name": "Quy Mông",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 149.17,
+    "population": 16169,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.757,
+    "latitude": 21.722,
+    "previous": [
+      "Xã Kiên Thành",
+      "Xã Y Can",
+      "Xã Quy Mông"
+    ],
+    "treeCode": "0310.0378"
+  },
+  {
+    "id": 379,
+    "communeCode": 1355,
+    "name": "Sa Pa",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 54.63,
+    "population": 22882,
+    "administrativeCenter": "Số 091 Đường Xuân Viên (Trụ sở phường Sa Pa cũ)",
+    "longitude": 103.837,
+    "latitude": 22.3497,
+    "previous": [
+      "Phường Hàm Rồng",
+      "Phường Ô Quý Hồ",
+      "Phường Sa Pả",
+      "Phường Cầu Mây",
+      "Phường Phan Si Păng",
+      "Phường Sa Pa"
+    ],
+    "treeCode": "0310.0379"
+  },
+  {
+    "id": 380,
+    "communeCode": 1303,
+    "name": "Si Ma Cai",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 109,
+    "population": 22871,
+    "administrativeCenter": "Thôn Hoàng Thu Phố, xã Si Ma Cai (Trụ sở HĐND-UBND huyện cũ)",
+    "longitude": 104.285,
+    "latitude": 22.6801,
+    "previous": [
+      "Thị trấn Si Ma Cai",
+      "Xã Sán Chải",
+      "Xã Nàn Sán",
+      "Xã Cán Cấu",
+      "Xã Quan Hồ Thẩn"
+    ],
+    "treeCode": "0310.0380"
+  },
+  {
+    "id": 381,
+    "communeCode": 1304,
+    "name": "Sín Chéng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 88,
+    "population": 5703,
+    "administrativeCenter": "Thôn Mào Sao Chải, xã Sín Chéng (Trụ sở UBND xã Sín Chéng cũ)",
+    "longitude": 104.213,
+    "latitude": 22.6641,
+    "previous": [
+      "Xã Bản Mế",
+      "Xã Thào Chư Phìn",
+      "Xã Nàn Sín",
+      "Xã Sín Chéng"
+    ],
+    "treeCode": "0310.0381"
+  },
+  {
+    "id": 382,
+    "communeCode": 1284,
+    "name": "Sơn Lương",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 96.92,
+    "population": 23365,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.52,
+    "latitude": 21.7017,
+    "previous": [
+      "Xã Nậm Mười",
+      "Xã Sùng Đô",
+      "Xã Suối Quyền",
+      "Xã Sơn Lương"
+    ],
+    "treeCode": "0310.0382"
+  },
+  {
+    "id": 383,
+    "communeCode": 1308,
+    "name": "Tả Củ Tỷ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 67.1453,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.411,
+    "latitude": 22.6033,
+    "previous": [
+      "Xã Lùng Cải",
+      "Xã Tả Củ Tỷ"
+    ],
+    "treeCode": "0310.0383"
+  },
+  {
+    "id": 384,
+    "communeCode": 1361,
+    "name": "Tả Phìn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 74.68,
+    "population": 9928,
+    "administrativeCenter": "Thôn Sả Xéng, xã Tả Phìn (Trụ sở xã Tả Phìn cũ)",
+    "longitude": 103.874,
+    "latitude": 22.3955,
+    "previous": [
+      "Xã Trung Chải",
+      "Xã Tả Phìn"
+    ],
+    "treeCode": "0310.0384"
+  },
+  {
+    "id": 385,
+    "communeCode": 1362,
+    "name": "Tả Van",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 158.5,
+    "population": 18636,
+    "administrativeCenter": "Thôn Hòa Sử Pán 1, xã Tả Van (Đang sửa chữa, tạm thời làm việc tại trụ sở phường Cầu Mây cũ)",
+    "longitude": 103.862,
+    "latitude": 22.2772,
+    "previous": [
+      "Xã Hoàng Liên",
+      "Xã Mường Hoa",
+      "Xã Tả Van"
+    ],
+    "treeCode": "0310.0385"
+  },
+  {
+    "id": 386,
+    "communeCode": 1280,
+    "name": "Tà Xi Láng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 88.5022,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.6,
+    "latitude": 21.4804,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0310.0386"
+  },
+  {
+    "id": 387,
+    "communeCode": 1258,
+    "name": "Tân Hợp",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 200.45,
+    "population": 11506,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.577,
+    "latitude": 21.8273,
+    "previous": [
+      "Xã Đại Sơn",
+      "Xã Nà Hẩu",
+      "Xã Tân Hợp"
+    ],
+    "treeCode": "0310.0387"
+  },
+  {
+    "id": 388,
+    "communeCode": 1250,
+    "name": "Tân Lĩnh",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 147.75,
+    "population": 20155,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.729,
+    "latitude": 22.0941,
+    "previous": [
+      "Xã Minh Chuẩn",
+      "Xã Tân Lập",
+      "Xã Phan Thanh",
+      "Xã Khai Trung",
+      "Xã Tân Lĩnh"
+    ],
+    "treeCode": "0310.0388"
+  },
+  {
+    "id": 389,
+    "communeCode": 1314,
+    "name": "Tằng Loỏng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 125.718,
+    "population": null,
+    "administrativeCenter": "TDP số 6, xã Tằng Loỏng (Trụ sở xã Tằng Loỏng cũ)",
+    "longitude": 104.132,
+    "latitude": 22.2577,
+    "previous": [
+      "Thị trấn Tằng Loỏng",
+      "Xã Phú Nhuận"
+    ],
+    "treeCode": "0310.0389"
+  },
+  {
+    "id": 390,
+    "communeCode": 1292,
+    "name": "Thác Bà",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 142.54,
+    "population": 35122,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.039,
+    "latitude": 21.7704,
+    "previous": [
+      "Thị trấn Thác Bà",
+      "Xã Vũ Linh",
+      "Xã Bạch Hà",
+      "Xã Hán Đà",
+      "Xã Vĩnh Kiên",
+      "Xã Đại Minh"
+    ],
+    "treeCode": "0310.0390"
+  },
+  {
+    "id": 391,
+    "communeCode": 1288,
+    "name": "Thượng Bằng La",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 111.61,
+    "population": 14697,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.771,
+    "latitude": 21.4057,
+    "previous": [
+      "Thị trấn Nông trường Trần Phú",
+      "Xã Thượng Bằng La"
+    ],
+    "treeCode": "0310.0391"
+  },
+  {
+    "id": 392,
+    "communeCode": 1320,
+    "name": "Thượng Hà",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 143.8,
+    "population": 1416,
+    "administrativeCenter": "Bản 3 Vài Siêu, xã Thượng Hà (Trụ sở Đảng uỷ đặt tại trụ sở xã Minh Tân cũ)",
+    "longitude": 104.382,
+    "latitude": 22.292,
+    "previous": [
+      "Xã Điện Quan",
+      "Xã Minh Tân",
+      "Xã Thượng Hà"
+    ],
+    "treeCode": "0310.0392"
+  },
+  {
+    "id": 393,
+    "communeCode": 1279,
+    "name": "Trạm Tấu",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 238.29,
+    "population": 11493,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.404,
+    "latitude": 21.568,
+    "previous": [
+      "Xã Pá Lau",
+      "Xã Pá Hu",
+      "Xã Túc Đán",
+      "Xã Trạm Tấu"
+    ],
+    "treeCode": "0310.0393"
+  },
+  {
+    "id": 394,
+    "communeCode": 1269,
+    "name": "Trấn Yên",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 110.72,
+    "population": 29258,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.816,
+    "latitude": 21.8103,
+    "previous": [
+      "Thị trấn Cổ Phúc",
+      "Xã Báo Đáp",
+      "Xã Tân Đồng",
+      "Xã Thành Thịnh",
+      "Xã Hòa Cuông",
+      "Xã Minh Quán"
+    ],
+    "treeCode": "0310.0394"
+  },
+  {
+    "id": 395,
+    "communeCode": 1349,
+    "name": "Trịnh Tường",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 146.6,
+    "population": 12376,
+    "administrativeCenter": "Thôn Phố Mới 1, xã Trịnh Tường (Trụ sở xã Trịnh Tường cũ)",
+    "longitude": 103.738,
+    "latitude": 22.6417,
+    "previous": [
+      "Xã Cốc Mỳ",
+      "Xã Trịnh Tường"
+    ],
+    "treeCode": "0310.0395"
+  },
+  {
+    "id": 396,
+    "communeCode": 1245,
+    "name": "Trung Tâm",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 43.15,
+    "population": 26888,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.539,
+    "latitude": 21.5919,
+    "previous": [
+      "Phường Trung Tâm",
+      "Xã Phù Nham",
+      "Xã Nghĩa Lợi",
+      "Xã Nghĩa Lộ"
+    ],
+    "treeCode": "0310.0396"
+  },
+  {
+    "id": 397,
+    "communeCode": 1282,
+    "name": "Tú Lệ",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 115.35,
+    "population": 13301,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.26,
+    "latitude": 21.7832,
+    "previous": [
+      "Xã Cao Phạ",
+      "Xã Tú Lệ"
+    ],
+    "treeCode": "0310.0397"
+  },
+  {
+    "id": 398,
+    "communeCode": 1325,
+    "name": "Văn Bàn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 156.7,
+    "population": 23943,
+    "administrativeCenter": "Thôn Văn Tiến, xã Văn Bàn (Trụ sở xã Văn Bàn cũ)",
+    "longitude": 104.241,
+    "latitude": 22.1117,
+    "previous": [
+      "Thị trấn Khánh Yên",
+      "Xã Khánh Yên Thượng",
+      "Xã Sơn Thuỷ",
+      "Xã Làng Giàng",
+      "Xã Hòa Mạc"
+    ],
+    "treeCode": "0310.0398"
+  },
+  {
+    "id": 399,
+    "communeCode": 1285,
+    "name": "Văn Chấn",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 140.24,
+    "population": 23772,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.617,
+    "latitude": 21.5809,
+    "previous": [
+      "Thị trấn Sơn Thịnh",
+      "Xã Đồng Khê",
+      "Xã Suối Bu",
+      "Xã Suối Giàng"
+    ],
+    "treeCode": "0310.0399"
+  },
+  {
+    "id": 400,
+    "communeCode": 1273,
+    "name": "Văn Phú",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 51.46,
+    "population": 26573,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.948,
+    "latitude": 21.6944,
+    "previous": [
+      "Phường Yên Thịnh",
+      "Xã Tân Thịnh (thành phố Yên Bái)",
+      "Xã Văn Phú",
+      "Xã Phú Thịnh"
+    ],
+    "treeCode": "0310.0400"
+  },
+  {
+    "id": 401,
+    "communeCode": 1276,
+    "name": "Việt Hồng",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 101.37,
+    "population": 10802,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.851,
+    "latitude": 21.5998,
+    "previous": [
+      "Xã Việt Cường",
+      "Xã Vân Hội",
+      "Xã Việt Hồng"
+    ],
+    "treeCode": "0310.0401"
+  },
+  {
+    "id": 402,
+    "communeCode": 1326,
+    "name": "Võ Lao",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 152.8,
+    "population": 17912,
+    "administrativeCenter": "Thôn Là 1, Xã Võ Lao (Trụ sở xã Võ Lao cũ)",
+    "longitude": 104.176,
+    "latitude": 22.1826,
+    "previous": [
+      "Xã Nậm Mả",
+      "Xã Nậm Dạng",
+      "Xã Võ Lao"
+    ],
+    "treeCode": "0310.0402"
+  },
+  {
+    "id": 403,
+    "communeCode": 1261,
+    "name": "Xuân Ái",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 123.93,
+    "population": 24747,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.697,
+    "latitude": 21.8067,
+    "previous": [
+      "Xã Đại Phác",
+      "Xã Yên Phú",
+      "Xã Yên Hợp",
+      "Xã Viễn Sơn",
+      "Xã Xuân Ái"
+    ],
+    "treeCode": "0310.0403"
+  },
+  {
+    "id": 404,
+    "communeCode": 1318,
+    "name": "Xuân Hòa",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 306,
+    "population": 78491,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.505,
+    "latitude": 22.308,
+    "previous": [
+      "Xã Tân Dương",
+      "Xã Xuân Hòa"
+    ],
+    "treeCode": "0310.0404"
+  },
+  {
+    "id": 405,
+    "communeCode": 1316,
+    "name": "Xuân Quang",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 137.7,
+    "population": 27218,
+    "administrativeCenter": "Thôn Hang Đá, xã Xuân Quang (Trụ sở HĐND đặt tại trụ sở UBND xã Phong Niên cũ)",
+    "longitude": 104.237,
+    "latitude": 22.3595,
+    "previous": [
+      "Xã Phong Niên",
+      "Xã Trì Quang",
+      "Xã Xuân Quang"
+    ],
+    "treeCode": "0310.0405"
+  },
+  {
+    "id": 406,
+    "communeCode": 1350,
+    "name": "Y Tý",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 127.6,
+    "population": 10304,
+    "administrativeCenter": "Thôn Ngải Trồ, xã Y Tý (Trụ sở xã Y Tý cũ)",
+    "longitude": 103.601,
+    "latitude": 22.6516,
+    "previous": [
+      "Xã A Lù",
+      "Xã Y Tý"
+    ],
+    "treeCode": "0310.0406"
+  },
+  {
+    "id": 407,
+    "communeCode": 1243,
+    "name": "Yên Bái",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "phường",
+    "areaKm2": 16.92,
+    "population": 70391,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.896,
+    "latitude": 21.719,
+    "previous": [
+      "Phường Đồng Tâm",
+      "Phường Yên Ninh",
+      "Phường Minh Tân",
+      "Phường Nguyễn Thái Học",
+      "Phường Hồng Hà"
+    ],
+    "treeCode": "0310.0407"
+  },
+  {
+    "id": 409,
+    "communeCode": 1295,
+    "name": "Yên Thành",
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "type": "xã",
+    "areaKm2": 38.13,
+    "population": 4778,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.963,
+    "latitude": 21.9051,
+    "previous": [
+      "Xã Phúc Ninh",
+      "Xã Mỹ Gia",
+      "Xã Xuân Lai",
+      "Xã Phúc An",
+      "Xã Yên Thành"
+    ],
+    "treeCode": "0310.0409"
+  }
+]

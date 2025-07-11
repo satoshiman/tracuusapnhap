@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 665,
+    "communeCode": 1935,
+    "name": "Ba Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 154.96,
+    "population": 10416,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Xuất Lễ",
+    "longitude": 107.015,
+    "latitude": 21.9033,
+    "previous": [
+      "Xã Mẫu Sơn (huyện Cao Lộc)",
+      "Xã Cao Lâu",
+      "Xã Xuất Lễ"
+    ],
+    "treeCode": "0664.0665"
+  },
+  {
+    "id": 666,
+    "communeCode": 1981,
+    "name": "Bắc Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 80.46,
+    "population": 16907,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Bắc Sơn",
+    "longitude": 106.329,
+    "latitude": 21.9122,
+    "previous": [
+      "Thị trấn Bắc Sơn",
+      "Xã Long Đống",
+      "Xã Bắc Quỳnh"
+    ],
+    "treeCode": "0664.0666"
+  },
+  {
+    "id": 667,
+    "communeCode": 1946,
+    "name": "Bằng Mạc",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 117.82,
+    "population": 13647,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Gia Lộc",
+    "longitude": 106.528,
+    "latitude": 21.7164,
+    "previous": [
+      "Xã Gia Lộc",
+      "Xã Bằng Hữu",
+      "Xã Thượng Cường",
+      "Xã Bằng Mạc"
+    ],
+    "treeCode": "0664.0667"
+  },
+  {
+    "id": 668,
+    "communeCode": 1979,
+    "name": "Bình Gia",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 104.98,
+    "population": 15008,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Bình Gia",
+    "longitude": 106.374,
+    "latitude": 21.9681,
+    "previous": [
+      "Xã Hoàng Văn Thụ (huyện Bình Gia)",
+      "Xã Mông Ân",
+      "Thị trấn Bình Gia"
+    ],
+    "treeCode": "0664.0668"
+  },
+  {
+    "id": 669,
+    "communeCode": 1944,
+    "name": "Cai Kinh",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 105.56,
+    "population": 12027,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Cai Kinh",
+    "longitude": 106.408,
+    "latitude": 21.5876,
+    "previous": [
+      "Xã Yên Vượng",
+      "Xã Yên Sơn",
+      "Xã Cai Kinh"
+    ],
+    "treeCode": "0664.0669"
+  },
+  {
+    "id": 670,
+    "communeCode": 1934,
+    "name": "Cao Lộc",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 103.86,
+    "population": 692,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thanh Lòa",
+    "longitude": 106.816,
+    "latitude": 21.9434,
+    "previous": [
+      "Xã Lộc Yên",
+      "Xã Thanh Lòa",
+      "Xã Thạch Đạn"
+    ],
+    "treeCode": "0664.0670"
+  },
+  {
+    "id": 671,
+    "communeCode": 1998,
+    "name": "Châu Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 301.31,
+    "population": 5948,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Châu Sơn",
+    "longitude": 107.16,
+    "latitude": 21.4501,
+    "previous": [
+      "Xã Bắc Lãng",
+      "Xã Đồng Thắng",
+      "Xã Cường Lợi",
+      "Xã Châu Sơn",
+      "Xã Kiên Mộc"
+    ],
+    "treeCode": "0664.0671"
+  },
+  {
+    "id": 672,
+    "communeCode": 1932,
+    "name": "Chi Lăng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 80.2056,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Đồng Mỏ",
+    "longitude": 106.546,
+    "latitude": 21.6099,
+    "previous": [
+      "Xã Chi Lăng (huyện Chi Lăng)",
+      "Thị trấn Chi Lăng",
+      "Thị trấn Đồng Mỏ"
+    ],
+    "treeCode": "0664.0672"
+  },
+  {
+    "id": 673,
+    "communeCode": 1945,
+    "name": "Chiến Thắng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 114.27,
+    "population": 11563,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Chiến Thắng",
+    "longitude": 106.759,
+    "latitude": 21.7333,
+    "previous": [
+      "Xã Chiến Thắng (huyện Chi Lăng)",
+      "Xã Vân An",
+      "Xã Liên Sơn",
+      "Xã Vân Thủy"
+    ],
+    "treeCode": "0664.0673"
+  },
+  {
+    "id": 674,
+    "communeCode": 1936,
+    "name": "Công Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 84.74,
+    "population": 6506,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hải Yến",
+    "longitude": 106.866,
+    "latitude": 21.8792,
+    "previous": [
+      "Xã Hòa Cư",
+      "Xã Hải Yến",
+      "Xã Công Sơn"
+    ],
+    "treeCode": "0664.0674"
+  },
+  {
+    "id": 675,
+    "communeCode": 1956,
+    "name": "Điềm He",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 103.12,
+    "population": 1134,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Điềm He",
+    "longitude": 106.565,
+    "latitude": 21.9462,
+    "previous": [
+      "Xã Trấn Ninh",
+      "Xã Liên Hội",
+      "Xã Điềm He"
+    ],
+    "treeCode": "0664.0675"
+  },
+  {
+    "id": 676,
+    "communeCode": 1996,
+    "name": "Đình Lập",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 164.66,
+    "population": 9916,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Đình Lập",
+    "longitude": 107.071,
+    "latitude": 21.5854,
+    "previous": [
+      "Thị trấn Đình Lập",
+      "Xã Đình Lập",
+      "Xã Bính Xá"
+    ],
+    "treeCode": "0664.0676"
+  },
+  {
+    "id": 677,
+    "communeCode": 1967,
+    "name": "Đoàn Kết",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 240.66,
+    "population": 17938,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đoàn Kết",
+    "longitude": 106.262,
+    "latitude": 22.3868,
+    "previous": [
+      "Xã Khánh Long",
+      "Xã Cao Minh",
+      "Xã Đoàn Kết"
+    ],
+    "treeCode": "0664.0677"
+  },
+  {
+    "id": 678,
+    "communeCode": 1933,
+    "name": "Đồng Đăng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 91.57,
+    "population": 24976,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Đồng Đăng",
+    "longitude": 106.722,
+    "latitude": 21.9461,
+    "previous": [
+      "Thị trấn Đồng Đăng",
+      "Xã Thụy Hùng (huyện Cao Lộc)",
+      "Xã Phú Xá",
+      "Xã Hồng Phong",
+      "Xã Bảo Lâm"
+    ],
+    "treeCode": "0664.0678"
+  },
+  {
+    "id": 679,
+    "communeCode": 1930,
+    "name": "Đông Kinh",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "phường",
+    "areaKm2": 54.71,
+    "population": 50436,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Vĩnh Trại",
+    "longitude": 106.771,
+    "latitude": 21.8068,
+    "previous": [
+      "Phường Vĩnh Trại",
+      "Phường Đông Kinh",
+      "Xã Yên Trạch",
+      "Xã Mai Pha"
+    ],
+    "treeCode": "0664.0679"
+  },
+  {
+    "id": 680,
+    "communeCode": 1973,
+    "name": "Hoa Thám",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 151.78,
+    "population": 6131,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hoa Thám",
+    "longitude": 106.364,
+    "latitude": 22.1832,
+    "previous": [
+      "Xã Hưng Đạo",
+      "Xã Hoa Thám"
+    ],
+    "treeCode": "0664.0680"
+  },
+  {
+    "id": 681,
+    "communeCode": 1929,
+    "name": "Hoàng Văn Thụ",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 61.7,
+    "population": 41624,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tân Mỹ",
+    "longitude": 106.816,
+    "latitude": 21.8425,
+    "previous": [
+      "Xã Hồng Thái",
+      "Xã Hoàng Văn Thụ (huyện Văn Lãng)",
+      "Xã Tân Mỹ",
+      "Xã Nhạc Kỳ",
+      "Xã Tân Thanh"
+    ],
+    "treeCode": "0664.0681"
+  },
+  {
+    "id": 682,
+    "communeCode": 1953,
+    "name": "Hội Hoan",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 117.43,
+    "population": 7479,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hội Hoan",
+    "longitude": 106.485,
+    "latitude": 22.0321,
+    "previous": [
+      "Xã Gia Miễn",
+      "Xã Hội Hoan"
+    ],
+    "treeCode": "0664.0682"
+  },
+  {
+    "id": 683,
+    "communeCode": 1975,
+    "name": "Hồng Phong",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 132.98,
+    "population": 6885,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hồng Phong",
+    "longitude": 106.416,
+    "latitude": 22.0681,
+    "previous": [
+      "Xã Hồng Phong (huyện Bình Gia)",
+      "Xã Minh Khai"
+    ],
+    "treeCode": "0664.0683"
+  },
+  {
+    "id": 684,
+    "communeCode": 1962,
+    "name": "Hưng Vũ",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 133.24,
+    "population": 12122,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hưng Vũ",
+    "longitude": 106.366,
+    "latitude": 21.805,
+    "previous": [
+      "Xã Trấn Yên",
+      "Xã Hưng Vũ"
+    ],
+    "treeCode": "0664.0684"
+  },
+  {
+    "id": 685,
+    "communeCode": 1943,
+    "name": "Hữu Liên",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 122.56,
+    "population": 8754,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Thịnh",
+    "longitude": 106.367,
+    "latitude": 21.6616,
+    "previous": [
+      "Xã Yên Thịnh",
+      "Xã Hữu Liên"
+    ],
+    "treeCode": "0664.0685"
+  },
+  {
+    "id": 686,
+    "communeCode": 1983,
+    "name": "Hữu Lũng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 52.87,
+    "population": 30848,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Hữu Lũng",
+    "longitude": 106.368,
+    "latitude": 21.5134,
+    "previous": [
+      "Thị trấn Hữu Lũng",
+      "Xã Đồng Tân",
+      "Xã Hồ Sơn"
+    ],
+    "treeCode": "0664.0686"
+  },
+  {
+    "id": 687,
+    "communeCode": 1971,
+    "name": "Kháng Chiến",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 142,
+    "population": 5684,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Kháng Chiến",
+    "longitude": 106.59,
+    "latitude": 22.268,
+    "previous": [
+      "Xã Trung Thành",
+      "Xã Tân Minh",
+      "Xã Kháng Chiến"
+    ],
+    "treeCode": "0664.0687"
+  },
+  {
+    "id": 688,
+    "communeCode": 1957,
+    "name": "Khánh Khê",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 93.64,
+    "population": 13373,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Khánh Khê",
+    "longitude": 106.667,
+    "latitude": 21.85,
+    "previous": [
+      "Xã Xuân Long",
+      "Xã Bình Trung",
+      "Xã Khánh Khê"
+    ],
+    "treeCode": "0664.0688"
+  },
+  {
+    "id": 689,
+    "communeCode": 1992,
+    "name": "Khuất Xá",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 124.91,
+    "population": 9283,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Khuất Xá",
+    "longitude": 107.09,
+    "latitude": 21.729,
+    "previous": [
+      "Xã Tam Gia",
+      "Xã Khuất Xá"
+    ],
+    "treeCode": "0664.0689"
+  },
+  {
+    "id": 690,
+    "communeCode": 1995,
+    "name": "Kiên Mộc",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 417.78,
+    "population": 7976,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Kiên Mộc",
+    "longitude": 107.222,
+    "latitude": 21.6343,
+    "previous": [
+      "Xã Bắc Xa",
+      "Xã Bính Xá",
+      "Xã Kiên Mộc"
+    ],
+    "treeCode": "0664.0690"
+  },
+  {
+    "id": 691,
+    "communeCode": -1,
+    "name": "Kỳ Lừa",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "phường",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Cao Lộc",
+    "longitude": 106.75417,
+    "latitude": 21.85926,
+    "previous": [
+      "Phường Hoàng Văn Thụ",
+      "Thị trấn Cao Lộc",
+      "Xã Hợp Thành",
+      "Xã Tân Liên",
+      "Xã Gia Cát"
+    ],
+    "treeCode": "0664.0691"
+  },
+  {
+    "id": 692,
+    "communeCode": 1990,
+    "name": "Lộc Bình",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 79.15,
+    "population": 23316,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Lộc Bình",
+    "longitude": 106.908,
+    "latitude": 21.7668,
+    "previous": [
+      "Thị trấn Lộc Bình",
+      "Xã Khánh Xuân",
+      "Xã Đồng Bục",
+      "Xã Hữu Khánh"
+    ],
+    "treeCode": "0664.0692"
+  },
+  {
+    "id": 693,
+    "communeCode": 1993,
+    "name": "Lợi Bác",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 139.11,
+    "population": 7163,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lợi Bác",
+    "longitude": 107.032,
+    "latitude": 21.6727,
+    "previous": [
+      "Xã Sàn Viên",
+      "Xã Lợi Bác"
+    ],
+    "treeCode": "0664.0693"
+  },
+  {
+    "id": 694,
+    "communeCode": 1931,
+    "name": "Lương Văn Tri",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "phường",
+    "areaKm2": 31.76,
+    "population": 23136,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Chi Lăng",
+    "longitude": 106.729,
+    "latitude": 21.8236,
+    "previous": [
+      "Phường Chi Lăng",
+      "Xã Quảng Lạc"
+    ],
+    "treeCode": "0664.0694"
+  },
+  {
+    "id": 695,
+    "communeCode": 1991,
+    "name": "Mẫu Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 136.04,
+    "population": 9655,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Khoái",
+    "longitude": 107.005,
+    "latitude": 21.8008,
+    "previous": [
+      "Xã Mẫu Sơn (huyện Lộc Bình)",
+      "Xã Yên Khoái",
+      "Xã Tú Mịch"
+    ],
+    "treeCode": "0664.0695"
+  },
+  {
+    "id": 696,
+    "communeCode": 1989,
+    "name": "Na Dương",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 109.91,
+    "population": 24369,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Na Dương",
+    "longitude": 106.909,
+    "latitude": 21.6992,
+    "previous": [
+      "Thị trấn Na Dương",
+      "Xã Đông Quan",
+      "Xã Tú Đoạn"
+    ],
+    "treeCode": "0664.0696"
+  },
+  {
+    "id": 697,
+    "communeCode": 1951,
+    "name": "Na Sầm",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 94.47,
+    "population": 14117,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Na Sầm",
+    "longitude": 106.607,
+    "latitude": 22.0766,
+    "previous": [
+      "Thị trấn Na Sầm",
+      "Xã Hoàng Việt",
+      "Xã Bắc Hùng"
+    ],
+    "treeCode": "0664.0697"
+  },
+  {
+    "id": 698,
+    "communeCode": 1947,
+    "name": "Nhân Lý",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 126.86,
+    "population": 11077,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Nhân Lý",
+    "longitude": 106.661,
+    "latitude": 21.6949,
+    "previous": [
+      "Xã Mai Sao",
+      "Xã Bắc Thủy",
+      "Xã Lâm Sơn",
+      "Xã Nhân Lý"
+    ],
+    "treeCode": "0664.0698"
+  },
+  {
+    "id": 699,
+    "communeCode": 1965,
+    "name": "Nhất Hòa",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 143.72,
+    "population": 114,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Nhất Hòa",
+    "longitude": 106.26,
+    "latitude": 21.739,
+    "previous": [
+      "Xã Tân Thành (huyện Bắc Sơn)",
+      "Xã Nhất Tiến",
+      "Xã Nhất Hòa"
+    ],
+    "treeCode": "0664.0699"
+  },
+  {
+    "id": 700,
+    "communeCode": 1949,
+    "name": "Quan Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 98.2,
+    "population": 7511,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quan Sơn",
+    "longitude": 106.727,
+    "latitude": 21.6123,
+    "previous": [
+      "Xã Hữu Kiên",
+      "Xã Quan Sơn"
+    ],
+    "treeCode": "0664.0700"
+  },
+  {
+    "id": 701,
+    "communeCode": 1968,
+    "name": "Quốc Khánh",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 168.15,
+    "population": 13962,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tri Phương",
+    "longitude": 106.527,
+    "latitude": 22.3439,
+    "previous": [
+      "Xã Tri Phương",
+      "Xã Đội Cấn",
+      "Xã Quốc Khánh"
+    ],
+    "treeCode": "0664.0701"
+  },
+  {
+    "id": 702,
+    "communeCode": 1972,
+    "name": "Quốc Việt",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 117.97,
+    "population": 5906,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quốc Việt",
+    "longitude": 106.629,
+    "latitude": 22.2101,
+    "previous": [
+      "Xã Đào Viên",
+      "Xã Quốc Việt"
+    ],
+    "treeCode": "0664.0702"
+  },
+  {
+    "id": 703,
+    "communeCode": 1974,
+    "name": "Quý Hòa",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 130.28,
+    "population": 3001,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quý Hòa",
+    "longitude": 106.27,
+    "latitude": 22.1664,
+    "previous": [
+      "Xã Vĩnh Yên",
+      "Xã Quý Hòa"
+    ],
+    "treeCode": "0664.0703"
+  },
+  {
+    "id": 704,
+    "communeCode": 1928,
+    "name": "Tam Thanh",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "phường",
+    "areaKm2": 27.35,
+    "population": 30301,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hoàng Đồng",
+    "longitude": 106.743,
+    "latitude": 21.8837,
+    "previous": [
+      "Phường Tam Thanh",
+      "Xã Hoàng Đồng"
+    ],
+    "treeCode": "0664.0704"
+  },
+  {
+    "id": 705,
+    "communeCode": 1958,
+    "name": "Tân Đoàn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 100.41,
+    "population": 10589,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tràng Phái",
+    "longitude": 106.631,
+    "latitude": 21.7784,
+    "previous": [
+      "Xã Tân Thành (huyện Cao Lộc)",
+      "Xã Tràng Phái",
+      "Xã Tân Đoàn"
+    ],
+    "treeCode": "0664.0705"
+  },
+  {
+    "id": 706,
+    "communeCode": 1987,
+    "name": "Tân Thành",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 64.8,
+    "population": 30611,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hòa Sơn",
+    "longitude": 106.459,
+    "latitude": 21.5013,
+    "previous": [
+      "Xã Tân Thành (huyện Hữu Lũng)",
+      "Xã Hòa Lạc",
+      "Xã Hòa Sơn"
+    ],
+    "treeCode": "0664.0706"
+  },
+  {
+    "id": 707,
+    "communeCode": 1969,
+    "name": "Tân Tiến",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 207.2,
+    "population": 33994,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tân Tiến",
+    "longitude": 106.325,
+    "latitude": 22.287,
+    "previous": [
+      "Xã Tân Yên",
+      "Xã Kim Đồng",
+      "Xã Tân Tiến"
+    ],
+    "treeCode": "0664.0707"
+  },
+  {
+    "id": 708,
+    "communeCode": 1961,
+    "name": "Tân Tri",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 137.61,
+    "population": 11485,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đồng ý",
+    "longitude": 106.183,
+    "latitude": 21.886,
+    "previous": [
+      "Xã Đồng Ý",
+      "Xã Vạn Thủy",
+      "Xã Tân Tri"
+    ],
+    "treeCode": "0664.0708"
+  },
+  {
+    "id": 709,
+    "communeCode": 1980,
+    "name": "Tân Văn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 112.06,
+    "population": 9497,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hồng Thái",
+    "longitude": 106.455,
+    "latitude": 21.9275,
+    "previous": [
+      "Xã Hồng Thái (huyện Bình Gia)",
+      "Xã Bình La",
+      "Xã Tân Văn"
+    ],
+    "treeCode": "0664.0709"
+  },
+  {
+    "id": 710,
+    "communeCode": 1997,
+    "name": "Thái Bình",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 305.25,
+    "population": 8346,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Nông trường Thái Bình",
+    "longitude": 106.943,
+    "latitude": 21.4796,
+    "previous": [
+      "Thị trấn Nông Trường Thái Bình",
+      "Xã Lâm Ca",
+      "Xã Thái Bình"
+    ],
+    "treeCode": "0664.0710"
+  },
+  {
+    "id": 711,
+    "communeCode": 1966,
+    "name": "Thất Khê",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 100.52,
+    "population": 20153,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Cao Lộc",
+    "longitude": 106.4,
+    "latitude": 22.3367,
+    "previous": [
+      "Xã Chi Lăng (huyện Tràng Định)",
+      "Xã Chí Minh",
+      "Thị trấn Thất Khê"
+    ],
+    "treeCode": "0664.0711"
+  },
+  {
+    "id": 712,
+    "communeCode": 1976,
+    "name": "Thiện Hòa",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 160.31,
+    "population": 6771,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thiện Hòa",
+    "longitude": 106.216,
+    "latitude": 22.0794,
+    "previous": [
+      "Xã Yên Lỗ",
+      "Xã Thiện Hòa"
+    ],
+    "treeCode": "0664.0712"
+  },
+  {
+    "id": 713,
+    "communeCode": 1978,
+    "name": "Thiện Long",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 167.26,
+    "population": 5774,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hòa Bình",
+    "longitude": 106.174,
+    "latitude": 21.9783,
+    "previous": [
+      "Xã Hòa Bình (huyện Bình Gia)",
+      "Xã Tân Hòa",
+      "Xã Thiện Long"
+    ],
+    "treeCode": "0664.0713"
+  },
+  {
+    "id": 714,
+    "communeCode": 1985,
+    "name": "Thiện Tân",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 93.07,
+    "population": 14827,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thanh Sơn",
+    "longitude": 106.211,
+    "latitude": 21.5592,
+    "previous": [
+      "Xã Thanh Sơn",
+      "Xã Đồng Tiến",
+      "Xã Thiện Tân"
+    ],
+    "treeCode": "0664.0714"
+  },
+  {
+    "id": 715,
+    "communeCode": 1977,
+    "name": "Thiện Thuật",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 134.5,
+    "population": 7305,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thiện Thuật",
+    "longitude": 106.3,
+    "latitude": 22.0306,
+    "previous": [
+      "Xã Quang Trung",
+      "Xã Thiện Thuật"
+    ],
+    "treeCode": "0664.0715"
+  },
+  {
+    "id": 716,
+    "communeCode": 1982,
+    "name": "Thống Nhất",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 120.1,
+    "population": 71665,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thống Nhất",
+    "longitude": 106.824,
+    "latitude": 21.6804,
+    "previous": [
+      "Xã Minh Hiệp",
+      "Xã Hữu Lân",
+      "Xã Thống Nhất"
+    ],
+    "treeCode": "0664.0716"
+  },
+  {
+    "id": 717,
+    "communeCode": 1950,
+    "name": "Thụy Hùng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 108.76,
+    "population": 689,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thanh Long",
+    "longitude": 106.66,
+    "latitude": 22.1161,
+    "previous": [
+      "Xã Thụy Hùng (huyện Văn Lãng)",
+      "Xã Thanh Long",
+      "Xã Trùng Khánh"
+    ],
+    "treeCode": "0664.0717"
+  },
+  {
+    "id": 718,
+    "communeCode": 1970,
+    "name": "Tràng Định",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 118.41,
+    "population": 11529,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đề Thám",
+    "longitude": 106.471,
+    "latitude": 22.2023,
+    "previous": [
+      "Xã Đề Thám",
+      "Xã Hùng Sơn",
+      "Xã Hùng Việt"
+    ],
+    "treeCode": "0664.0718"
+  },
+  {
+    "id": 719,
+    "communeCode": 1959,
+    "name": "Tri Lễ",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 243.95,
+    "population": 14432,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tri Lễ",
+    "longitude": 106.438,
+    "latitude": 21.7795,
+    "previous": [
+      "Xã Lương Năng",
+      "Xã Hữu Lễ",
+      "Xã Tri Lễ"
+    ],
+    "treeCode": "0664.0719"
+  },
+  {
+    "id": 720,
+    "communeCode": 1988,
+    "name": "Tuấn Sơn",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 111.21,
+    "population": 20611,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Minh Hòa",
+    "longitude": 106.35,
+    "latitude": 21.4533,
+    "previous": [
+      "Xã Minh Sơn",
+      "Xã Minh Hòa",
+      "Xã Hòa Thắng"
+    ],
+    "treeCode": "0664.0720"
+  },
+  {
+    "id": 721,
+    "communeCode": 1952,
+    "name": "Văn Lãng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 132.28,
+    "population": 7689,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Bắc Việt",
+    "longitude": 106.541,
+    "latitude": 22.0881,
+    "previous": [
+      "Xã Bắc Việt",
+      "Xã Bắc La",
+      "Xã Tân Tác",
+      "Xã Thành Hòa"
+    ],
+    "treeCode": "0664.0721"
+  },
+  {
+    "id": 722,
+    "communeCode": 1948,
+    "name": "Vạn Linh",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 126.54,
+    "population": 14197,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Vạn Linh",
+    "longitude": 106.485,
+    "latitude": 21.6405,
+    "previous": [
+      "Xã Hòa Bình (huyện Chi Lăng)",
+      "Xã Y Tịch",
+      "Xã Vạn Linh"
+    ],
+    "treeCode": "0664.0722"
+  },
+  {
+    "id": 723,
+    "communeCode": 1986,
+    "name": "Vân Nham",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 81.22,
+    "population": 19497,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Minh Tiến",
+    "longitude": 106.281,
+    "latitude": 21.5342,
+    "previous": [
+      "Xã Minh Tiến",
+      "Xã Nhật Tiến",
+      "Xã Vân Nham"
+    ],
+    "treeCode": "0664.0723"
+  },
+  {
+    "id": 724,
+    "communeCode": 1955,
+    "name": "Văn Quan",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 87.57,
+    "population": 9955,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Văn Quan",
+    "longitude": 106.505,
+    "latitude": 21.8669,
+    "previous": [
+      "Xã Hòa Bình (huyện Văn Quan)",
+      "Xã Tú Xuyên",
+      "Thị trấn Văn Quan"
+    ],
+    "treeCode": "0664.0724"
+  },
+  {
+    "id": 725,
+    "communeCode": 1963,
+    "name": "Vũ Lăng",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 112.27,
+    "population": 13562,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Vũ Lăng",
+    "longitude": 106.283,
+    "latitude": 21.8336,
+    "previous": [
+      "Xã Tân Lập",
+      "Xã Tân Hương",
+      "Xã Chiêu Vũ",
+      "Xã Vũ Lăng"
+    ],
+    "treeCode": "0664.0725"
+  },
+  {
+    "id": 726,
+    "communeCode": 1964,
+    "name": "Vũ Lễ",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 92.1,
+    "population": 12944,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Chiến Thắng",
+    "longitude": 106.182,
+    "latitude": 21.8158,
+    "previous": [
+      "Xã Chiến Thắng (huyện Bắc Sơn)",
+      "Xã Vũ Sơn",
+      "Xã Vũ Lễ"
+    ],
+    "treeCode": "0664.0726"
+  },
+  {
+    "id": 727,
+    "communeCode": 1994,
+    "name": "Xuân Dương",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 206.7,
+    "population": 6621,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Xuân Dương",
+    "longitude": 106.895,
+    "latitude": 21.5822,
+    "previous": [
+      "Xã Nam Quan",
+      "Xã Ái Quốc",
+      "Xã Xuân Dương"
+    ],
+    "treeCode": "0664.0727"
+  },
+  {
+    "id": 728,
+    "communeCode": 1984,
+    "name": "Yên Bình",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 119.22,
+    "population": 14813,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Bình",
+    "longitude": 106.269,
+    "latitude": 21.6423,
+    "previous": [
+      "Xã Hòa Bình (huyện Hữu Lũng)",
+      "Xã Quyết Thắng",
+      "Xã Yên Bình"
+    ],
+    "treeCode": "0664.0728"
+  },
+  {
+    "id": 729,
+    "communeCode": 1960,
+    "name": "Yên Phúc",
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "type": "xã",
+    "areaKm2": 117.93,
+    "population": 16585,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Phúc",
+    "longitude": 106.552,
+    "latitude": 21.8164,
+    "previous": [
+      "Xã An Sơn",
+      "Xã Bình Phúc",
+      "Xã Yên Phúc"
+    ],
+    "treeCode": "0664.0729"
+  }
+]

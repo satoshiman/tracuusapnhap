@@ -1,0 +1,2320 @@
+[
+  {
+    "id": 186,
+    "communeCode": 2496,
+    "name": "An Tường",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 53.44,
+    "population": 42952,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.22,
+    "latitude": 21.7747,
+    "previous": [
+      "Phường Hưng Thành",
+      "Phường An Tường",
+      "Xã Lưỡng Vượng",
+      "Xã An Khang",
+      "Xã Hoàng Khai"
+    ],
+    "treeCode": "0185.0186"
+  },
+  {
+    "id": 187,
+    "communeCode": 2546,
+    "name": "Bắc Mê",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 154.3,
+    "population": 13043,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.33,
+    "latitude": 22.7505,
+    "previous": [
+      "Thị trấn Yên Phú",
+      "Xã Yên Phong",
+      "Xã Lạc Nông"
+    ],
+    "treeCode": "0185.0187"
+  },
+  {
+    "id": 188,
+    "communeCode": 2560,
+    "name": "Bắc Quang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 141.93,
+    "population": 33644,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.845,
+    "latitude": 22.4245,
+    "previous": [
+      "Thị trấn Việt Quang",
+      "Xã Quang Minh",
+      "Xã Việt Vinh"
+    ],
+    "treeCode": "0185.0188"
+  },
+  {
+    "id": 189,
+    "communeCode": 2525,
+    "name": "Bạch Đích",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 95.17,
+    "population": 12747,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.03,
+    "latitude": 23.1838,
+    "previous": [
+      "Xã Phú Lũng",
+      "Xã Na Khê",
+      "Xã Bạch Đích"
+    ],
+    "treeCode": "0185.0189"
+  },
+  {
+    "id": 190,
+    "communeCode": 2570,
+    "name": "Bạch Ngọc",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 72.2,
+    "population": 29021,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.081,
+    "latitude": 22.5885,
+    "previous": [
+      "Xã Ngọc Minh",
+      "Xã Bạch Ngọc"
+    ],
+    "treeCode": "0185.0190"
+  },
+  {
+    "id": 191,
+    "communeCode": 2480,
+    "name": "Bạch Xa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 127.41,
+    "population": 15309,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.952,
+    "latitude": 22.267,
+    "previous": [
+      "Xã Yên Thuận",
+      "Xã Minh Khương",
+      "Xã Bạch Xa"
+    ],
+    "treeCode": "0185.0191"
+  },
+  {
+    "id": 192,
+    "communeCode": 2549,
+    "name": "Bản Máy",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 76.17,
+    "population": 9792,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.594,
+    "latitude": 22.7983,
+    "previous": [
+      "Xã Bản Phùng",
+      "Xã Chiến Phố",
+      "Xã Bản Máy"
+    ],
+    "treeCode": "0185.0192"
+  },
+  {
+    "id": 193,
+    "communeCode": 2563,
+    "name": "Bằng Hành",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 151.72,
+    "population": 1656,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.955,
+    "latitude": 22.4066,
+    "previous": [
+      "Xã Kim Ngọc",
+      "Xã Vô Điếm",
+      "Xã Bằng Hành"
+    ],
+    "treeCode": "0185.0193"
+  },
+  {
+    "id": 194,
+    "communeCode": 2567,
+    "name": "Bằng Lang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 115.66,
+    "population": 12167,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.614,
+    "latitude": 22.3696,
+    "previous": [
+      "Xã Yên Hà",
+      "Xã Bằng Lang"
+    ],
+    "treeCode": "0185.0194"
+  },
+  {
+    "id": 195,
+    "communeCode": 2468,
+    "name": "Bình An",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 73.43,
+    "population": 59475,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.184,
+    "latitude": 22.4068,
+    "previous": [
+      "Xã Thổ Bình",
+      "Xã Bình An"
+    ],
+    "treeCode": "0185.0195"
+  },
+  {
+    "id": 196,
+    "communeCode": 2502,
+    "name": "Bình Ca",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 69.48,
+    "population": 24339,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.296,
+    "latitude": 21.7276,
+    "previous": [
+      "Xã Thượng Ấm",
+      "Xã Cấp Tiến",
+      "Xã Vĩnh Lợi"
+    ],
+    "treeCode": "0185.0196"
+  },
+  {
+    "id": 197,
+    "communeCode": 2497,
+    "name": "Bình Thuận",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 45.16,
+    "population": 47858,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.232,
+    "latitude": 21.7245,
+    "previous": [
+      "Phường Đội Cấn",
+      "Xã Thái Long"
+    ],
+    "treeCode": "0185.0197"
+  },
+  {
+    "id": 198,
+    "communeCode": 2483,
+    "name": "Bình Xa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 91.17,
+    "population": 17998,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.114,
+    "latitude": 22.1067,
+    "previous": [
+      "Xã Minh Hương",
+      "Xã Bình Xa"
+    ],
+    "treeCode": "0185.0198"
+  },
+  {
+    "id": 199,
+    "communeCode": 2530,
+    "name": "Cán Tỷ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 85.13,
+    "population": 9824,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.012,
+    "latitude": 23.1266,
+    "previous": [
+      "Xã Bát Đại Sơn",
+      "Xã Cán Tỷ"
+    ],
+    "treeCode": "0185.0199"
+  },
+  {
+    "id": 200,
+    "communeCode": 2540,
+    "name": "Cao Bồ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 111.18,
+    "population": 4211,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.882,
+    "latitude": 22.7574,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0200"
+  },
+  {
+    "id": 201,
+    "communeCode": 2467,
+    "name": "Chiêm Hóa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 111.265,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.276,
+    "latitude": 22.1621,
+    "previous": [
+      "Thị trấn Vĩnh Lộc",
+      "Xã Xuân Quang",
+      "Xã Phúc Thịnh",
+      "Xã Ngọc Hội",
+      "Xã Trung Hòa"
+    ],
+    "treeCode": "0185.0201"
+  },
+  {
+    "id": 202,
+    "communeCode": 2463,
+    "name": "Côn Lôn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 160.76,
+    "population": 5734,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.4,
+    "latitude": 22.5599,
+    "previous": [
+      "Xã Sinh Long",
+      "Xã Côn Lôn"
+    ],
+    "treeCode": "0185.0202"
+  },
+  {
+    "id": 203,
+    "communeCode": 2561,
+    "name": "Đồng Tâm",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 248.8,
+    "population": 35573,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.989,
+    "latitude": 22.5008,
+    "previous": [
+      "Xã Đồng Tiến",
+      "Xã Tân Phước",
+      "Xã Đồng Tâm"
+    ],
+    "treeCode": "0185.0203"
+  },
+  {
+    "id": 204,
+    "communeCode": 2503,
+    "name": "Đông Thọ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 74.86,
+    "population": 18085,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.286,
+    "latitude": 21.6528,
+    "previous": [
+      "Xã Đồng Quý",
+      "Xã Quyết Thắng",
+      "Xã Đông Thọ"
+    ],
+    "treeCode": "0185.0204"
+  },
+  {
+    "id": 205,
+    "communeCode": 2515,
+    "name": "Đồng Văn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 122.49,
+    "population": 26015,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.347,
+    "latitude": 23.2568,
+    "previous": [
+      "Thị trấn Đồng Văn",
+      "Xã Tả Lủng (huyện Đồng Văn)",
+      "Xã Tả Phìn",
+      "Xã Thài Phìn Tủng",
+      "Xã Pải Lủng"
+    ],
+    "treeCode": "0185.0205"
+  },
+  {
+    "id": 206,
+    "communeCode": 2575,
+    "name": "Đồng Yên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 79.36,
+    "population": 18326,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.786,
+    "latitude": 22.225,
+    "previous": [
+      "Xã Vĩnh Phúc",
+      "Xã Đồng Yên"
+    ],
+    "treeCode": "0185.0206"
+  },
+  {
+    "id": 207,
+    "communeCode": 2529,
+    "name": "Du Già",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 126.94,
+    "population": 15829,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.234,
+    "latitude": 22.9154,
+    "previous": [
+      "Xã Du Tiến",
+      "Xã Du Già"
+    ],
+    "treeCode": "0185.0207"
+  },
+  {
+    "id": 208,
+    "communeCode": 2572,
+    "name": "Đường Hồng",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 135.42,
+    "population": 11645,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.44,
+    "latitude": 22.6431,
+    "previous": [
+      "Xã Đường Âm",
+      "Xã Phú Nam",
+      "Xã Đường Hồng"
+    ],
+    "treeCode": "0185.0208"
+  },
+  {
+    "id": 209,
+    "communeCode": 2528,
+    "name": "Đường Thượng",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 103.25,
+    "population": 14376,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.209,
+    "latitude": 22.9901,
+    "previous": [
+      "Xã Lũng Hồ",
+      "Xã Đường Thượng"
+    ],
+    "treeCode": "0185.0209"
+  },
+  {
+    "id": 210,
+    "communeCode": 2545,
+    "name": "Giáp Trung",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 73.21,
+    "population": 622,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.295,
+    "latitude": 22.8059,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0210"
+  },
+  {
+    "id": 211,
+    "communeCode": 2511,
+    "name": "Hà Giang 1",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 82.69,
+    "population": 21652,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.935,
+    "latitude": 22.8072,
+    "previous": [
+      "Phường Nguyễn Trãi",
+      "Xã Phương Thiện",
+      "Xã Phương Độ",
+      "Phường Quang Trung"
+    ],
+    "treeCode": "0185.0211"
+  },
+  {
+    "id": 212,
+    "communeCode": 2510,
+    "name": "Hà Giang 2",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 60.62,
+    "population": 331,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.963,
+    "latitude": 22.8605,
+    "previous": [
+      "Phường Ngọc Hà",
+      "Phường Trần Phú",
+      "Phường Minh Khai",
+      "Phường Quang Trung",
+      "Xã Phong Quang"
+    ],
+    "treeCode": "0185.0212"
+  },
+  {
+    "id": 213,
+    "communeCode": 2479,
+    "name": "Hàm Yên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 126.19,
+    "population": 29508,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.034,
+    "latitude": 22.048,
+    "previous": [
+      "Thị trấn Tân Yên",
+      "Xã Tân Thành (huyện Hàm Yên)",
+      "Xã Bằng Cốc",
+      "Xã Nhân Mục"
+    ],
+    "treeCode": "0185.0213"
+  },
+  {
+    "id": 214,
+    "communeCode": 2554,
+    "name": "Hồ Thầu",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 136.83,
+    "population": 8709,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.659,
+    "latitude": 22.6054,
+    "previous": [
+      "Xã Nậm Khòa",
+      "Xã Nam Sơn",
+      "Xã Hồ Thầu"
+    ],
+    "treeCode": "0185.0214"
+  },
+  {
+    "id": 215,
+    "communeCode": 2476,
+    "name": "Hòa An",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 61.62,
+    "population": 32937,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.238,
+    "latitude": 22.0916,
+    "previous": [
+      "Xã Tân Thịnh",
+      "Xã Nhân Lý",
+      "Xã Hòa An"
+    ],
+    "treeCode": "0185.0215"
+  },
+  {
+    "id": 216,
+    "communeCode": 2548,
+    "name": "Hoàng Su Phì",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 86.65,
+    "population": 15645,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.686,
+    "latitude": 22.7245,
+    "previous": [
+      "Thị trấn Vinh Quang",
+      "Xã Bản Luốc",
+      "Xã Ngàm Đăng Vài",
+      "Xã Tụ Nhân",
+      "Xã Đản Ván"
+    ],
+    "treeCode": "0185.0216"
+  },
+  {
+    "id": 217,
+    "communeCode": 2505,
+    "name": "Hồng Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 189.01,
+    "population": 29875,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.286,
+    "latitude": 21.5933,
+    "previous": [
+      "Xã Chi Thiết",
+      "Xã Văn Phú",
+      "Xã Hồng Sơn"
+    ],
+    "treeCode": "0185.0217"
+  },
+  {
+    "id": 218,
+    "communeCode": 2465,
+    "name": "Hồng Thái",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 101.64,
+    "population": 25049,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.503,
+    "latitude": 22.417,
+    "previous": [
+      "Xã Đà Vị",
+      "Xã Sơn Phú",
+      "Xã Hồng Thái"
+    ],
+    "treeCode": "0185.0218"
+  },
+  {
+    "id": 219,
+    "communeCode": 2564,
+    "name": "Hùng An",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 118.57,
+    "population": 17224,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.823,
+    "latitude": 22.3352,
+    "previous": [
+      "Xã Việt Hồng",
+      "Xã Tiên Kiều",
+      "Xã Hùng An"
+    ],
+    "treeCode": "0185.0219"
+  },
+  {
+    "id": 220,
+    "communeCode": 2486,
+    "name": "Hùng Đức",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 63.63,
+    "population": 10368,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.068,
+    "latitude": 21.8983,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0220"
+  },
+  {
+    "id": 221,
+    "communeCode": 2490,
+    "name": "Hùng Lợi",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 168.93,
+    "population": 10882,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.49,
+    "latitude": 21.924,
+    "previous": [
+      "Xã Trung Minh",
+      "Xã Hùng Lợi"
+    ],
+    "treeCode": "0185.0221"
+  },
+  {
+    "id": 222,
+    "communeCode": 2522,
+    "name": "Khâu Vai",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 107.46,
+    "population": 22755,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.481,
+    "latitude": 23.1162,
+    "previous": [
+      "Xã Cán Chu Phìn",
+      "Xã Lũng Pù",
+      "Xã Khâu Vai"
+    ],
+    "treeCode": "0185.0222"
+  },
+  {
+    "id": 223,
+    "communeCode": 2559,
+    "name": "Khuôn Lùng",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 120.28,
+    "population": 802,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.493,
+    "latitude": 22.5228,
+    "previous": [
+      "Xã Nà Chì",
+      "Xã Khuôn Lùng"
+    ],
+    "treeCode": "0185.0223"
+  },
+  {
+    "id": 224,
+    "communeCode": 2474,
+    "name": "Kiên Đài",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 130.82,
+    "population": 9351,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.408,
+    "latitude": 22.1216,
+    "previous": [
+      "Xã Phú Bình",
+      "Xã Kiên Đài"
+    ],
+    "treeCode": "0185.0224"
+  },
+  {
+    "id": 225,
+    "communeCode": 2488,
+    "name": "Kiến Thiết",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 109.48,
+    "population": 6783,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.333,
+    "latitude": 21.9778,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0225"
+  },
+  {
+    "id": 226,
+    "communeCode": 2475,
+    "name": "Kim Bình",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 92.09,
+    "population": 16873,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.314,
+    "latitude": 22.0782,
+    "previous": [
+      "Xã Vinh Quang",
+      "Xã Bình Nhân",
+      "Xã Kim Bình"
+    ],
+    "treeCode": "0185.0226"
+  },
+  {
+    "id": 227,
+    "communeCode": 2461,
+    "name": "Lâm Bình",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 327.65,
+    "population": 12399,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.193,
+    "latitude": 22.5503,
+    "previous": [
+      "Thị trấn Lăng Can",
+      "Xã Phúc Yên",
+      "Xã Xuân Lập"
+    ],
+    "treeCode": "0185.0227"
+  },
+  {
+    "id": 228,
+    "communeCode": 2539,
+    "name": "Lao Chải",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 157.99,
+    "population": 10135,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.79,
+    "latitude": 22.8549,
+    "previous": [
+      "Xã Xín Chải",
+      "Xã Thanh Đức",
+      "Xã Lao Chải"
+    ],
+    "treeCode": "0185.0228"
+  },
+  {
+    "id": 229,
+    "communeCode": 2574,
+    "name": "Liên Hiệp",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 166.67,
+    "population": 10566,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.04,
+    "latitude": 22.3792,
+    "previous": [
+      "Xã Hữu Sản",
+      "Xã Đức Xuân",
+      "Xã Liên Hiệp"
+    ],
+    "treeCode": "0185.0229"
+  },
+  {
+    "id": 230,
+    "communeCode": 2542,
+    "name": "Linh Hồ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 181.44,
+    "population": 21725,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.096,
+    "latitude": 22.6951,
+    "previous": [
+      "Xã Ngọc Linh",
+      "Xã Trung Thành",
+      "Xã Linh Hồ"
+    ],
+    "treeCode": "0185.0230"
+  },
+  {
+    "id": 231,
+    "communeCode": 2487,
+    "name": "Lực Hành",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 87.97,
+    "population": 11022,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.199,
+    "latitude": 22.0078,
+    "previous": [
+      "Xã Quý Quân",
+      "Xã Chiêu Yên",
+      "Xã Lực Hành"
+    ],
+    "treeCode": "0185.0231"
+  },
+  {
+    "id": 232,
+    "communeCode": 2514,
+    "name": "Lũng Cú",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 95.2,
+    "population": 15115,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.302,
+    "latitude": 23.3241,
+    "previous": [
+      "Xã Má Lé",
+      "Xã Lũng Táo",
+      "Xã Lũng Cú"
+    ],
+    "treeCode": "0185.0232"
+  },
+  {
+    "id": 233,
+    "communeCode": 2517,
+    "name": "Lũng Phìn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 69.46,
+    "population": 16476,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.262,
+    "latitude": 23.1378,
+    "previous": [
+      "Xã Sủng Trái",
+      "Xã Hố Quáng Phìn",
+      "Xã Lũng Phìn"
+    ],
+    "treeCode": "0185.0233"
+  },
+  {
+    "id": 234,
+    "communeCode": 2533,
+    "name": "Lùng Tám",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 124.14,
+    "population": 10971,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.077,
+    "latitude": 23.0115,
+    "previous": [
+      "Xã Thái An",
+      "Xã Đông Hà",
+      "Xã Lùng Tám"
+    ],
+    "treeCode": "0185.0234"
+  },
+  {
+    "id": 235,
+    "communeCode": 2526,
+    "name": "Mậu Duệ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 163.31,
+    "population": 19005,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.236,
+    "latitude": 23.0564,
+    "previous": [
+      "Xã Ngam La",
+      "Xã Mậu Long",
+      "Xã Mậu Duệ"
+    ],
+    "treeCode": "0185.0235"
+  },
+  {
+    "id": 236,
+    "communeCode": 2518,
+    "name": "Mèo Vạc",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 92.21,
+    "population": 19675,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.41,
+    "latitude": 23.1802,
+    "previous": [
+      "Thị trấn Mèo Vạc",
+      "Xã Tả Lủng (huyện Mèo Vạc)",
+      "Xã Giàng Chu Phìn",
+      "Xã Pả Vi"
+    ],
+    "treeCode": "0185.0236"
+  },
+  {
+    "id": 237,
+    "communeCode": 2547,
+    "name": "Minh Ngọc",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 159.34,
+    "population": 7878,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.218,
+    "latitude": 22.7017,
+    "previous": [
+      "Xã Minh Ngọc",
+      "Xã Thượng Tân",
+      "Xã Yên Định"
+    ],
+    "treeCode": "0185.0237"
+  },
+  {
+    "id": 238,
+    "communeCode": 2469,
+    "name": "Minh Quang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 191.34,
+    "population": 20122,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.238,
+    "latitude": 22.3105,
+    "previous": [
+      "Xã Phúc Sơn",
+      "Xã Hồng Quang",
+      "Xã Minh Quang"
+    ],
+    "treeCode": "0185.0238"
+  },
+  {
+    "id": 239,
+    "communeCode": 2544,
+    "name": "Minh Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 81.77,
+    "population": 29388,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.204,
+    "latitude": 22.8496,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0239"
+  },
+  {
+    "id": 240,
+    "communeCode": 2535,
+    "name": "Minh Tân",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 105.7,
+    "population": 7485,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.919,
+    "latitude": 22.9612,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0240"
+  },
+  {
+    "id": 241,
+    "communeCode": 2500,
+    "name": "Minh Thanh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 78.57,
+    "population": 13453,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.444,
+    "latitude": 21.7343,
+    "previous": [
+      "Xã Bình Yên",
+      "Xã Lương Thiện",
+      "Xã Minh Thanh"
+    ],
+    "treeCode": "0185.0241"
+  },
+  {
+    "id": 242,
+    "communeCode": 2458,
+    "name": "Minh Xuân",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 34.9,
+    "population": 72,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.185,
+    "latitude": 21.8257,
+    "previous": [
+      "Phường Ỷ La",
+      "Phường Tân Hà",
+      "Phường Phan Thiết",
+      "Phường Minh Xuân",
+      "Phường Tân Quang",
+      "Xã Kim Phú"
+    ],
+    "treeCode": "0185.0242"
+  },
+  {
+    "id": 243,
+    "communeCode": 2495,
+    "name": "Mỹ Lâm",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 80.2,
+    "population": 31446,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.127,
+    "latitude": 21.7659,
+    "previous": [
+      "Phường Mỹ Lâm",
+      "Xã Mỹ Bằng",
+      "Xã Kim Phú"
+    ],
+    "treeCode": "0185.0243"
+  },
+  {
+    "id": 244,
+    "communeCode": 2460,
+    "name": "Nà Hang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 256.53,
+    "population": 17364,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.354,
+    "latitude": 22.3334,
+    "previous": [
+      "Thị trấn Na Hang",
+      "Xã Năng Khả",
+      "Xã Thanh Tương"
+    ],
+    "treeCode": "0185.0244"
+  },
+  {
+    "id": 245,
+    "communeCode": 2577,
+    "name": "Nấm Dẩn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 86.11,
+    "population": 11929,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.509,
+    "latitude": 22.6199,
+    "previous": [
+      "Xã Chế Là",
+      "Xã Tả Nhìu",
+      "Xã Nấm Dẩn"
+    ],
+    "treeCode": "0185.0245"
+  },
+  {
+    "id": 246,
+    "communeCode": 2553,
+    "name": "Nậm Dịch",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 97.78,
+    "population": 854,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.751,
+    "latitude": 22.641,
+    "previous": [
+      "Xã Nậm Ty",
+      "Xã Tả Sử Choóng",
+      "Xã Nậm Dịch"
+    ],
+    "treeCode": "0185.0246"
+  },
+  {
+    "id": 247,
+    "communeCode": 2509,
+    "name": "Nghĩa Thuận",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 80.12,
+    "population": 99,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.938,
+    "latitude": 23.1222,
+    "previous": [
+      "Xã Thanh Vân",
+      "Xã Nghĩa Thuận"
+    ],
+    "treeCode": "0185.0247"
+  },
+  {
+    "id": 248,
+    "communeCode": 2512,
+    "name": "Ngọc Đường",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 98.07,
+    "population": 7858,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.094,
+    "latitude": 22.8101,
+    "previous": [
+      "Xã Ngọc Đường",
+      "Xã Yên Định"
+    ],
+    "treeCode": "0185.0248"
+  },
+  {
+    "id": 249,
+    "communeCode": 2527,
+    "name": "Ngọc Long",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 84.26,
+    "population": 9989,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.332,
+    "latitude": 22.99,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0249"
+  },
+  {
+    "id": 250,
+    "communeCode": 2498,
+    "name": "Nhữ Khê",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 59.04,
+    "population": 21799,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.177,
+    "latitude": 21.7012,
+    "previous": [
+      "Xã Nhữ Hán",
+      "Xã Đội Bình",
+      "Xã Nhữ Khê"
+    ],
+    "treeCode": "0185.0250"
+  },
+  {
+    "id": 251,
+    "communeCode": 2523,
+    "name": "Niêm Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 81.73,
+    "population": 12255,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.431,
+    "latitude": 23.0308,
+    "previous": [
+      "Xã Niêm Tòng",
+      "Xã Niêm Sơn"
+    ],
+    "treeCode": "0185.0251"
+  },
+  {
+    "id": 252,
+    "communeCode": 2459,
+    "name": "Nông Tiến",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "phường",
+    "areaKm2": 26.99,
+    "population": 15393,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.229,
+    "latitude": 21.8384,
+    "previous": [
+      "Phường Nông Tiến",
+      "Xã Tràng Đà",
+      "Xã Thái Bình"
+    ],
+    "treeCode": "0185.0252"
+  },
+  {
+    "id": 253,
+    "communeCode": 2576,
+    "name": "Pà Vầy Sủ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 83.3,
+    "population": 15806,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.426,
+    "latitude": 22.6704,
+    "previous": [
+      "Thị trấn Cốc Pài",
+      "Xã Nàn Ma",
+      "Xã Bản Ngò",
+      "Xã Pà Vầy Sủ"
+    ],
+    "treeCode": "0185.0253"
+  },
+  {
+    "id": 254,
+    "communeCode": 2581,
+    "name": "Phố Bảng",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 77.71,
+    "population": 15593,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.174,
+    "latitude": 23.2231,
+    "previous": [
+      "Thị trấn Phố Bảng",
+      "Xã Phố Là",
+      "Xã Phố Cáo",
+      "Xã Lũng Thầu"
+    ],
+    "treeCode": "0185.0254"
+  },
+  {
+    "id": 255,
+    "communeCode": 2513,
+    "name": "Phú Linh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 112.37,
+    "population": 1227,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.047,
+    "latitude": 22.756,
+    "previous": [
+      "Xã Kim Thạch",
+      "Xã Kim Linh",
+      "Xã Phú Linh"
+    ],
+    "treeCode": "0185.0255"
+  },
+  {
+    "id": 256,
+    "communeCode": 2507,
+    "name": "Phú Lương",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 112.39,
+    "population": 43914,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.393,
+    "latitude": 21.5456,
+    "previous": [
+      "Xã Đại Phú",
+      "Xã Tam Đa",
+      "Xã Phú Lương"
+    ],
+    "treeCode": "0185.0256"
+  },
+  {
+    "id": 257,
+    "communeCode": 2481,
+    "name": "Phù Lưu",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 120.45,
+    "population": 16154,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.032,
+    "latitude": 22.1846,
+    "previous": [
+      "Xã Minh Dân",
+      "Xã Phù Lưu"
+    ],
+    "treeCode": "0185.0257"
+  },
+  {
+    "id": 258,
+    "communeCode": 2552,
+    "name": "Pờ Ly Ngài",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 49.34,
+    "population": 6239,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.62,
+    "latitude": 22.7068,
+    "previous": [
+      "Xã Sán Sả Hồ",
+      "Xã Nàng Đôn",
+      "Xã Pờ Ly Ngài"
+    ],
+    "treeCode": "0185.0258"
+  },
+  {
+    "id": 259,
+    "communeCode": 2532,
+    "name": "Quản Bạ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 102.87,
+    "population": 18436,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.978,
+    "latitude": 23.028,
+    "previous": [
+      "Thị trấn Tam Sơn",
+      "Xã Quyết Tiến",
+      "Xã Quản Bạ"
+    ],
+    "treeCode": "0185.0259"
+  },
+  {
+    "id": 260,
+    "communeCode": 2579,
+    "name": "Quang Bình",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 130.14,
+    "population": 10635,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.593,
+    "latitude": 22.458,
+    "previous": [
+      "Thị trấn Yên Bình",
+      "Xã Tân Nam"
+    ],
+    "treeCode": "0185.0260"
+  },
+  {
+    "id": 261,
+    "communeCode": 2558,
+    "name": "Quảng Nguyên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 99.48,
+    "population": 5949,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.57,
+    "latitude": 22.5802,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0261"
+  },
+  {
+    "id": 262,
+    "communeCode": 2516,
+    "name": "Sà Phìn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 83.5,
+    "population": 16816,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.245,
+    "latitude": 23.225,
+    "previous": [
+      "Xã Sủng Là",
+      "Xã Sính Lủng",
+      "Xã Sảng Tủng",
+      "Xã Sà Phìn"
+    ],
+    "treeCode": "0185.0262"
+  },
+  {
+    "id": 263,
+    "communeCode": 2499,
+    "name": "Sơn Dương",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 123.17,
+    "population": 41954,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.366,
+    "latitude": 21.6824,
+    "previous": [
+      "Thị trấn Sơn Dương",
+      "Xã Hợp Thành",
+      "Xã Phúc Ứng",
+      "Xã Tú Thịnh"
+    ],
+    "treeCode": "0185.0263"
+  },
+  {
+    "id": 264,
+    "communeCode": 2506,
+    "name": "Sơn Thủy",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 95.77,
+    "population": 12658,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.488,
+    "latitude": 21.5665,
+    "previous": [
+      "Xã Ninh Lai",
+      "Xã Thiện Kế",
+      "Xã Sơn Nam"
+    ],
+    "treeCode": "0185.0264"
+  },
+  {
+    "id": 265,
+    "communeCode": 2520,
+    "name": "Sơn Vĩ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 110.62,
+    "population": 19975,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.479,
+    "latitude": 23.214,
+    "previous": [
+      "Xã Thượng Phùng",
+      "Xã Xín Cái",
+      "Xã Sơn Vĩ"
+    ],
+    "treeCode": "0185.0265"
+  },
+  {
+    "id": 266,
+    "communeCode": 2519,
+    "name": "Sủng Máng",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 76.15,
+    "population": 12568,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.328,
+    "latitude": 23.1606,
+    "previous": [
+      "Xã Lũng Chinh",
+      "Xã Sủng Trà",
+      "Xã Sủng Máng"
+    ],
+    "treeCode": "0185.0266"
+  },
+  {
+    "id": 267,
+    "communeCode": 2473,
+    "name": "Tân An",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 40.61,
+    "population": 41922,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.152,
+    "latitude": 22.2197,
+    "previous": [
+      "Xã Hà Lang",
+      "Xã Tân An"
+    ],
+    "treeCode": "0185.0267"
+  },
+  {
+    "id": 268,
+    "communeCode": 2493,
+    "name": "Tân Long",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 102.12,
+    "population": 35492,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.266,
+    "latitude": 21.8913,
+    "previous": [
+      "Xã Tân Tiến (huyện Yên Sơn)",
+      "Xã Tân Long"
+    ],
+    "treeCode": "0185.0268"
+  },
+  {
+    "id": 269,
+    "communeCode": 2471,
+    "name": "Tân Mỹ",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 102.57,
+    "population": 24644,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.294,
+    "latitude": 22.2396,
+    "previous": [
+      "Xã Hùng Mỹ",
+      "Xã Tân Mỹ"
+    ],
+    "treeCode": "0185.0269"
+  },
+  {
+    "id": 270,
+    "communeCode": 2562,
+    "name": "Tân Quang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 174.14,
+    "population": 12425,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.85,
+    "latitude": 22.5408,
+    "previous": [
+      "Xã Tân Thành (huyện Bắc Quang)",
+      "Xã Tân Lập",
+      "Xã Tân Quang"
+    ],
+    "treeCode": "0185.0270"
+  },
+  {
+    "id": 271,
+    "communeCode": 2504,
+    "name": "Tân Thanh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 114.5,
+    "population": 18116,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.41,
+    "latitude": 21.6081,
+    "previous": [
+      "Xã Kháng Nhật",
+      "Xã Hợp Hòa",
+      "Xã Tân Thanh"
+    ],
+    "treeCode": "0185.0271"
+  },
+  {
+    "id": 272,
+    "communeCode": 2551,
+    "name": "Tân Tiến",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 207.2,
+    "population": 33994,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.762,
+    "latitude": 22.7479,
+    "previous": [
+      "Xã Tân Tiến (huyện Hoàng Su Phì)",
+      "Xã Bản Nhùng",
+      "Xã Túng Sán"
+    ],
+    "treeCode": "0185.0272"
+  },
+  {
+    "id": 273,
+    "communeCode": 2501,
+    "name": "Tân Trào",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 98.57,
+    "population": 14911,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.458,
+    "latitude": 21.8125,
+    "previous": [
+      "Xã Kim Quan",
+      "Xã Trung Yên",
+      "Xã Tân Trào"
+    ],
+    "treeCode": "0185.0273"
+  },
+  {
+    "id": 274,
+    "communeCode": 2566,
+    "name": "Tân Trịnh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 114.75,
+    "population": 1078,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.712,
+    "latitude": 22.4212,
+    "previous": [
+      "Xã Tân Bắc",
+      "Xã Tân Trịnh"
+    ],
+    "treeCode": "0185.0274"
+  },
+  {
+    "id": 275,
+    "communeCode": 2521,
+    "name": "Tát Ngà",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 90.6,
+    "population": 7765,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.384,
+    "latitude": 23.09,
+    "previous": [
+      "Xã Nậm Ban",
+      "Xã Tát Ngà"
+    ],
+    "treeCode": "0185.0275"
+  },
+  {
+    "id": 276,
+    "communeCode": 2494,
+    "name": "Thái Bình",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 305.25,
+    "population": 8346,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.312,
+    "latitude": 21.8014,
+    "previous": [
+      "Xã Phú Thịnh",
+      "Xã Tiến Bộ",
+      "Xã Thái Bình"
+    ],
+    "treeCode": "0185.0276"
+  },
+  {
+    "id": 277,
+    "communeCode": 2485,
+    "name": "Thái Hòa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 29,
+    "population": 23943,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.118,
+    "latitude": 21.9619,
+    "previous": [
+      "Xã Đức Ninh",
+      "Xã Thái Hòa"
+    ],
+    "treeCode": "0185.0277"
+  },
+  {
+    "id": 278,
+    "communeCode": 2484,
+    "name": "Thái Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 93.54,
+    "population": 16385,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.081,
+    "latitude": 22.0209,
+    "previous": [
+      "Xã Thành Long",
+      "Xã Thái Sơn"
+    ],
+    "treeCode": "0185.0278"
+  },
+  {
+    "id": 279,
+    "communeCode": 2580,
+    "name": "Thắng Mố",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 67.68,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.116,
+    "latitude": 23.1948,
+    "previous": [
+      "Xã Sủng Cháng",
+      "Xã Sủng Thài",
+      "Xã Thắng Mố"
+    ],
+    "treeCode": "0185.0279"
+  },
+  {
+    "id": 280,
+    "communeCode": 2550,
+    "name": "Thàng Tín",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 70.78,
+    "population": 7638,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.677,
+    "latitude": 22.7985,
+    "previous": [
+      "Xã Pố Lồ",
+      "Xã Thèn Chu Phìn",
+      "Xã Thàng Tín"
+    ],
+    "treeCode": "0185.0280"
+  },
+  {
+    "id": 281,
+    "communeCode": 2538,
+    "name": "Thanh Thủy",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 101.705,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.864,
+    "latitude": 22.8672,
+    "previous": [
+      "Xã Phương Tiến",
+      "Xã Thanh Thủy"
+    ],
+    "treeCode": "0185.0281"
+  },
+  {
+    "id": 282,
+    "communeCode": 2555,
+    "name": "Thông Nguyên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 108.7,
+    "population": 6255,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.748,
+    "latitude": 22.5307,
+    "previous": [
+      "Xã Xuân Minh",
+      "Xã Thông Nguyên"
+    ],
+    "treeCode": "0185.0282"
+  },
+  {
+    "id": 283,
+    "communeCode": 2536,
+    "name": "Thuận Hòa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 45.86,
+    "population": 29846,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.008,
+    "latitude": 22.9243,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0283"
+  },
+  {
+    "id": 284,
+    "communeCode": 2466,
+    "name": "Thượng Lâm",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 277.16,
+    "population": 9886,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.312,
+    "latitude": 22.5174,
+    "previous": [
+      "Xã Khuôn Hà",
+      "Xã Thượng Lâm"
+    ],
+    "treeCode": "0185.0284"
+  },
+  {
+    "id": 285,
+    "communeCode": 2462,
+    "name": "Thượng Nông",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 79.83,
+    "population": 7204,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.493,
+    "latitude": 22.5893,
+    "previous": [
+      "Xã Thượng Giáp",
+      "Xã Thượng Nông"
+    ],
+    "treeCode": "0185.0285"
+  },
+  {
+    "id": 286,
+    "communeCode": 2541,
+    "name": "Thượng Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 142.6,
+    "population": 6144,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.835,
+    "latitude": 22.6584,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0286"
+  },
+  {
+    "id": 287,
+    "communeCode": 2565,
+    "name": "Tiên Nguyên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 90.13,
+    "population": 5027,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.671,
+    "latitude": 22.4944,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0287"
+  },
+  {
+    "id": 288,
+    "communeCode": 2569,
+    "name": "Tiên Yên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 97.18,
+    "population": 14241,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.699,
+    "latitude": 22.2874,
+    "previous": [
+      "Xã Vĩ Thượng",
+      "Xã Hương Sơn",
+      "Xã Tiên Yên"
+    ],
+    "treeCode": "0185.0288"
+  },
+  {
+    "id": 289,
+    "communeCode": 2477,
+    "name": "Tri Phú",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 170.26,
+    "population": 8686,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.413,
+    "latitude": 22.025,
+    "previous": [
+      "Xã Linh Phú",
+      "Xã Tri Phú"
+    ],
+    "treeCode": "0185.0289"
+  },
+  {
+    "id": 290,
+    "communeCode": 2470,
+    "name": "Trung Hà",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 103.18,
+    "population": 8303,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.067,
+    "latitude": 22.2854,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0290"
+  },
+  {
+    "id": 291,
+    "communeCode": 2491,
+    "name": "Trung Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 76.81,
+    "population": 3254,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.378,
+    "latitude": 21.8641,
+    "previous": [
+      "Xã Đạo Viện",
+      "Xã Công Đa",
+      "Xã Trung Sơn"
+    ],
+    "treeCode": "0185.0291"
+  },
+  {
+    "id": 292,
+    "communeCode": 2557,
+    "name": "Trung Thịnh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 72.11,
+    "population": 12277,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.555,
+    "latitude": 22.6841,
+    "previous": [
+      "Xã Cốc Rế",
+      "Xã Thu Tà",
+      "Xã Trung Thịnh"
+    ],
+    "treeCode": "0185.0292"
+  },
+  {
+    "id": 293,
+    "communeCode": 2508,
+    "name": "Trường Sinh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 53.36,
+    "population": 17615,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.324,
+    "latitude": 21.5624,
+    "previous": [
+      "Xã Hào Phú",
+      "Xã Đông Lợi",
+      "Xã Trường Sinh"
+    ],
+    "treeCode": "0185.0293"
+  },
+  {
+    "id": 294,
+    "communeCode": 2537,
+    "name": "Tùng Bá",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 120.49,
+    "population": 8225,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.099,
+    "latitude": 22.8961,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0185.0294"
+  },
+  {
+    "id": 295,
+    "communeCode": 2531,
+    "name": "Tùng Vài",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 149.98,
+    "population": 11221,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.869,
+    "latitude": 23.0606,
+    "previous": [
+      "Xã Cao Mã Pờ",
+      "Xã Tả Ván",
+      "Xã Tùng Vài"
+    ],
+    "treeCode": "0185.0295"
+  },
+  {
+    "id": 296,
+    "communeCode": 2534,
+    "name": "Vị Xuyên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 80.44,
+    "population": 23898,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.971,
+    "latitude": 22.6941,
+    "previous": [
+      "Thị trấn Vị Xuyên",
+      "Thị trấn Nông trường Việt Lâm",
+      "Xã Đạo Đức",
+      "Xã Việt Lâm"
+    ],
+    "treeCode": "0185.0296"
+  },
+  {
+    "id": 297,
+    "communeCode": 2543,
+    "name": "Việt Lâm",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 92.66,
+    "population": 6419,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.907,
+    "latitude": 22.6668,
+    "previous": [
+      "Xã Quảng Ngần",
+      "Xã Việt Lâm"
+    ],
+    "treeCode": "0185.0297"
+  },
+  {
+    "id": 298,
+    "communeCode": 2573,
+    "name": "Vĩnh Tuy",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 115.86,
+    "population": 36859,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.867,
+    "latitude": 22.2474,
+    "previous": [
+      "Thị trấn Vĩnh Tuy",
+      "Xã Vĩnh Hảo",
+      "Xã Đông Thành"
+    ],
+    "treeCode": "0185.0298"
+  },
+  {
+    "id": 299,
+    "communeCode": 2556,
+    "name": "Xín Mần",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 125.24,
+    "population": 19596,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.512,
+    "latitude": 22.7452,
+    "previous": [
+      "Xã Thèn Phàng",
+      "Xã Nàn Xỉn",
+      "Xã Bản Díu",
+      "Xã Chí Cà",
+      "Xã Xín Mần"
+    ],
+    "treeCode": "0185.0299"
+  },
+  {
+    "id": 300,
+    "communeCode": 2568,
+    "name": "Xuân Giang",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 86.06,
+    "population": 9234,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.632,
+    "latitude": 22.313,
+    "previous": [
+      "Xã Nà Khương",
+      "Xã Xuân Giang"
+    ],
+    "treeCode": "0185.0300"
+  },
+  {
+    "id": 301,
+    "communeCode": 2489,
+    "name": "Xuân Vân",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 104.25,
+    "population": 1902,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.233,
+    "latitude": 21.9467,
+    "previous": [
+      "Xã Trung Trực",
+      "Xã Phúc Ninh",
+      "Xã Xuân Vân"
+    ],
+    "treeCode": "0185.0301"
+  },
+  {
+    "id": 302,
+    "communeCode": 2571,
+    "name": "Yên Cường",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 116.9,
+    "population": 9741,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.357,
+    "latitude": 22.6782,
+    "previous": [
+      "Xã Phiêng Luông",
+      "Xã Yên Cường"
+    ],
+    "treeCode": "0185.0302"
+  },
+  {
+    "id": 303,
+    "communeCode": 2464,
+    "name": "Yên Hoa",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 143.83,
+    "population": 7323,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.426,
+    "latitude": 22.4474,
+    "previous": [
+      "Xã Khâu Tinh",
+      "Xã Yên Hoa"
+    ],
+    "treeCode": "0185.0303"
+  },
+  {
+    "id": 304,
+    "communeCode": 2472,
+    "name": "Yên Lập",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 69.05,
+    "population": 29678,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.4,
+    "latitude": 22.2155,
+    "previous": [
+      "Xã Bình Phú",
+      "Xã Yên Lập"
+    ],
+    "treeCode": "0185.0304"
+  },
+  {
+    "id": 305,
+    "communeCode": 2524,
+    "name": "Yên Minh",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 154.7,
+    "population": 26556,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.139,
+    "latitude": 23.0991,
+    "previous": [
+      "Thị trấn Yên Minh",
+      "Xã Lao Và Chải",
+      "Xã Hữu Vinh",
+      "Xã Đông Minh",
+      "Xã Vần Chải"
+    ],
+    "treeCode": "0185.0305"
+  },
+  {
+    "id": 306,
+    "communeCode": 2478,
+    "name": "Yên Nguyên",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 97.36,
+    "population": 16024,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.195,
+    "latitude": 22.0914,
+    "previous": [
+      "Xã Hòa Phú",
+      "Xã Yên Nguyên"
+    ],
+    "treeCode": "0185.0306"
+  },
+  {
+    "id": 307,
+    "communeCode": 2482,
+    "name": "Yên Phú",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 42.61,
+    "population": 14964,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.934,
+    "latitude": 22.1243,
+    "previous": [
+      "Xã Yên Lâm",
+      "Xã Yên Phú"
+    ],
+    "treeCode": "0185.0307"
+  },
+  {
+    "id": 308,
+    "communeCode": 2492,
+    "name": "Yên Sơn",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 116.62,
+    "population": 12614,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.137,
+    "latitude": 21.8623,
+    "previous": [
+      "Thị trấn Yên Sơn",
+      "Xã Tứ Quận",
+      "Xã Lang Quán",
+      "Xã Chân Sơn"
+    ],
+    "treeCode": "0185.0308"
+  },
+  {
+    "id": 309,
+    "communeCode": 2578,
+    "name": "Yên Thành",
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "type": "xã",
+    "areaKm2": 38.13,
+    "population": 4778,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.514,
+    "latitude": 22.4334,
+    "previous": [
+      "Xã Bản Rịa",
+      "Xã Yên Thành"
+    ],
+    "treeCode": "0185.0309"
+  }
+]

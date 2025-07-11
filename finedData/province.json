@@ -1,0 +1,677 @@
+[
+  {
+    "id": 1,
+    "provinceCode": 1,
+    "provinceName": "Thủ đô Hà Nội",
+    "areaKm2": 3359.8,
+    "population": 8718000,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 105.698,
+    "latitude": 21.0001,
+    "previousProvince": [
+      "Thủ đô Hà Nội"
+    ],
+    "children": {
+      "total": 126,
+      "specialZone": 0,
+      "ward": 51,
+      "commune": 75
+    }
+  },
+  {
+    "id": 2,
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "areaKm2": 6700.4,
+    "population": 555809,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 106.083,
+    "latitude": 22.7456,
+    "previousProvince": [
+      "tỉnh Cao Bằng"
+    ],
+    "children": {
+      "total": 56,
+      "specialZone": 0,
+      "ward": 3,
+      "commune": 53
+    }
+  },
+  {
+    "id": 3,
+    "provinceCode": 8,
+    "provinceName": "tỉnh Tuyên Quang",
+    "areaKm2": 13795.5,
+    "population": 1865270,
+    "administrativeCenter": "Tuyên Quang (cũ)",
+    "longitude": 105.099,
+    "latitude": 22.4897,
+    "previousProvince": [
+      "tỉnh Hà Giang",
+      "tỉnh Tuyên Quang"
+    ],
+    "children": {
+      "total": 124,
+      "specialZone": 0,
+      "ward": 7,
+      "commune": 117
+    }
+  },
+  {
+    "id": 4,
+    "provinceCode": 9,
+    "provinceName": "tỉnh Lào Cai",
+    "areaKm2": 13256.92,
+    "population": 1778785,
+    "administrativeCenter": "Yên Bái (cũ)",
+    "longitude": 104.347,
+    "latitude": 22.0605,
+    "previousProvince": [
+      "tỉnh Yên Bái",
+      "tỉnh Lào Cai"
+    ],
+    "children": {
+      "total": 99,
+      "specialZone": 0,
+      "ward": 10,
+      "commune": 89
+    }
+  },
+  {
+    "id": 5,
+    "provinceCode": 13,
+    "provinceName": "tỉnh Điện Biên",
+    "areaKm2": 9539.9,
+    "population": 653422,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 103.232,
+    "latitude": 21.4766,
+    "previousProvince": [
+      "tỉnh Điện Biên"
+    ],
+    "children": {
+      "total": 45,
+      "specialZone": 0,
+      "ward": 3,
+      "commune": 42
+    }
+  },
+  {
+    "id": 6,
+    "provinceCode": 14,
+    "provinceName": "tỉnh Lai Châu",
+    "areaKm2": 9068.7,
+    "population": 494626,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 103.185,
+    "latitude": 22.3181,
+    "previousProvince": [
+      "tỉnh Lai Châu"
+    ],
+    "children": {
+      "total": 38,
+      "specialZone": 0,
+      "ward": 2,
+      "commune": 36
+    }
+  },
+  {
+    "id": 7,
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "areaKm2": 14109.8,
+    "population": 1327430,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 104.069,
+    "latitude": 21.1947,
+    "previousProvince": [
+      "tỉnh Sơn La"
+    ],
+    "children": {
+      "total": 75,
+      "specialZone": 0,
+      "ward": 8,
+      "commune": 67
+    }
+  },
+  {
+    "id": 8,
+    "provinceCode": 10,
+    "provinceName": "tỉnh Thái Nguyên",
+    "areaKm2": 8375.21,
+    "population": 1799489,
+    "administrativeCenter": "Thái Nguyên (cũ)",
+    "longitude": 105.824,
+    "latitude": 22.0239,
+    "previousProvince": [
+      "tỉnh Bắc Kạn",
+      "tỉnh Thái Nguyên"
+    ],
+    "children": {
+      "total": 92,
+      "specialZone": 0,
+      "ward": 15,
+      "commune": 77
+    }
+  },
+  {
+    "id": 9,
+    "provinceCode": 11,
+    "provinceName": "tỉnh Lạng Sơn",
+    "areaKm2": 8310.2,
+    "population": 813978,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 106.728,
+    "latitude": 21.7736,
+    "previousProvince": [
+      "tỉnh Lạng Sơn"
+    ],
+    "children": {
+      "total": 65,
+      "specialZone": 0,
+      "ward": 4,
+      "commune": 61
+    }
+  },
+  {
+    "id": 10,
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "areaKm2": 6207.9,
+    "population": 1429841,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 107.223,
+    "latitude": 21.2642,
+    "previousProvince": [
+      "tỉnh Quảng Ninh"
+    ],
+    "children": {
+      "total": 54,
+      "specialZone": 2,
+      "ward": 30,
+      "commune": 22
+    }
+  },
+  {
+    "id": 11,
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "areaKm2": 9361.38,
+    "population": 4022638,
+    "administrativeCenter": "Phú Thọ (cũ)",
+    "longitude": 105.333,
+    "latitude": 20.7065,
+    "previousProvince": [
+      "tỉnh Vĩnh Phúc",
+      "tỉnh Hòa Bình",
+      "tỉnh Phú Thọ"
+    ],
+    "children": {
+      "total": 148,
+      "specialZone": 0,
+      "ward": 15,
+      "commune": 133
+    }
+  },
+  {
+    "id": 12,
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "areaKm2": 4718.6,
+    "population": 3619433,
+    "administrativeCenter": "Bắc Giang (cũ)",
+    "longitude": 106.167,
+    "latitude": 21.2428,
+    "previousProvince": [
+      "tỉnh Bắc Giang",
+      "tỉnh Bắc Ninh"
+    ],
+    "children": {
+      "total": 99,
+      "specialZone": 0,
+      "ward": 33,
+      "commune": 66
+    }
+  },
+  {
+    "id": 13,
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "areaKm2": 3194.72,
+    "population": 4664124,
+    "administrativeCenter": "Hải Phòng (cũ)",
+    "longitude": 106.47,
+    "latitude": 20.8759,
+    "previousProvince": [
+      "thành phố Hải Phòng",
+      "tỉnh Hải Dương"
+    ],
+    "children": {
+      "total": 114,
+      "specialZone": 2,
+      "ward": 45,
+      "commune": 67
+    }
+  },
+  {
+    "id": 14,
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "areaKm2": 2514.81,
+    "population": 3567943,
+    "administrativeCenter": "Hưng Yên (cũ)",
+    "longitude": 106.463,
+    "latitude": 20.4528,
+    "previousProvince": [
+      "tỉnh Thái Bình",
+      "tỉnh Hưng Yên"
+    ],
+    "children": {
+      "total": 104,
+      "specialZone": 0,
+      "ward": 11,
+      "commune": 93
+    }
+  },
+  {
+    "id": 15,
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "areaKm2": 3942.62,
+    "population": 4412264,
+    "administrativeCenter": "Ninh Bình (cũ)",
+    "longitude": 106.046,
+    "latitude": 20.3122,
+    "previousProvince": [
+      "tỉnh Hà Nam",
+      "tỉnh Nam Định",
+      "tỉnh Ninh Bình"
+    ],
+    "children": {
+      "total": 129,
+      "specialZone": 0,
+      "ward": 32,
+      "commune": 97
+    }
+  },
+  {
+    "id": 16,
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "areaKm2": 11114.7,
+    "population": 3760650,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 105.317,
+    "latitude": 20.0468,
+    "previousProvince": [
+      "tỉnh Thanh Hóa"
+    ],
+    "children": {
+      "total": 166,
+      "specialZone": 0,
+      "ward": 19,
+      "commune": 147
+    }
+  },
+  {
+    "id": 17,
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "areaKm2": 16493.7,
+    "population": 3470988,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 104.944,
+    "latitude": 19.2374,
+    "previousProvince": [
+      "tỉnh Nghệ An"
+    ],
+    "children": {
+      "total": 130,
+      "specialZone": 0,
+      "ward": 11,
+      "commune": 119
+    }
+  },
+  {
+    "id": 18,
+    "provinceCode": 18,
+    "provinceName": "tỉnh Hà Tĩnh",
+    "areaKm2": 5994.4,
+    "population": 1622901,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 105.735,
+    "latitude": 18.2912,
+    "previousProvince": [
+      "tỉnh Hà Tĩnh"
+    ],
+    "children": {
+      "total": 69,
+      "specialZone": 0,
+      "ward": 9,
+      "commune": 60
+    }
+  },
+  {
+    "id": 19,
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "areaKm2": 12700,
+    "population": 1870845,
+    "administrativeCenter": "Quảng Bình (cũ)",
+    "longitude": 106.527,
+    "latitude": 17.2405,
+    "previousProvince": [
+      "tỉnh Quảng Bình",
+      "tỉnh Quảng Trị"
+    ],
+    "children": {
+      "total": 78,
+      "specialZone": 1,
+      "ward": 8,
+      "commune": 69
+    }
+  },
+  {
+    "id": 20,
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "areaKm2": 4947.1,
+    "population": 1236393,
+    "administrativeCenter": "giữ nguyên",
+    "longitude": 107.517,
+    "latitude": 16.3316,
+    "previousProvince": [
+      "thành phố Huế"
+    ],
+    "children": {
+      "total": 40,
+      "specialZone": 0,
+      "ward": 21,
+      "commune": 19
+    }
+  },
+  {
+    "id": 21,
+    "provinceCode": 21,
+    "provinceName": "thành phố Đà Nẵng",
+    "areaKm2": 11859.59,
+    "population": 3065628,
+    "administrativeCenter": "Đà Nẵng (cũ)",
+    "longitude": 107.966,
+    "latitude": 15.631,
+    "previousProvince": [
+      "thành phố Đà Nẵng",
+      "tỉnh Quảng Nam"
+    ],
+    "children": {
+      "total": 94,
+      "specialZone": 1,
+      "ward": 23,
+      "commune": 70
+    }
+  },
+  {
+    "id": 22,
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "areaKm2": 14832.55,
+    "population": 2161755,
+    "administrativeCenter": "Quảng Ngãi (cũ)",
+    "longitude": 108.143,
+    "latitude": 14.7688,
+    "previousProvince": [
+      "tỉnh Kon Tum",
+      "tỉnh Quảng Ngãi"
+    ],
+    "children": {
+      "total": 96,
+      "specialZone": 1,
+      "ward": 9,
+      "commune": 86
+    }
+  },
+  {
+    "id": 23,
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "areaKm2": 8555.86,
+    "population": 2243554,
+    "administrativeCenter": "Khánh Hòa (cũ)",
+    "longitude": 108.961,
+    "latitude": 12.069,
+    "previousProvince": [
+      "tỉnh Ninh Thuận",
+      "tỉnh Khánh Hòa"
+    ],
+    "children": {
+      "total": 65,
+      "specialZone": 1,
+      "ward": 16,
+      "commune": 48
+    }
+  },
+  {
+    "id": 24,
+    "provinceCode": 24,
+    "provinceName": "tỉnh Gia Lai",
+    "areaKm2": 21576.53,
+    "population": 3583693,
+    "administrativeCenter": "Bình Định (cũ)",
+    "longitude": 108.438,
+    "latitude": 13.8902,
+    "previousProvince": [
+      "tỉnh Bình Định",
+      "tỉnh Gia Lai"
+    ],
+    "children": {
+      "total": 135,
+      "specialZone": 0,
+      "ward": 25,
+      "commune": 110
+    }
+  },
+  {
+    "id": 25,
+    "provinceCode": 25,
+    "provinceName": "tỉnh Đắk Lắk",
+    "areaKm2": 18096.4,
+    "population": 3346853,
+    "administrativeCenter": "Đắk Lắk (cũ)",
+    "longitude": 108.47,
+    "latitude": 12.7067,
+    "previousProvince": [
+      "tỉnh Phú Yên",
+      "tỉnh Đắk Lắk"
+    ],
+    "children": {
+      "total": 102,
+      "specialZone": 0,
+      "ward": 14,
+      "commune": 88
+    }
+  },
+  {
+    "id": 26,
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "areaKm2": 24233.07,
+    "population": 3872999,
+    "administrativeCenter": "Lâm Đồng (cũ)",
+    "longitude": 107.968,
+    "latitude": 11.6739,
+    "previousProvince": [
+      "tỉnh Đắk Nông",
+      "tỉnh Bình Thuận",
+      "tỉnh Lâm Đồng"
+    ],
+    "children": {
+      "total": 124,
+      "specialZone": 1,
+      "ward": 20,
+      "commune": 103
+    }
+  },
+  {
+    "id": 27,
+    "provinceCode": 27,
+    "provinceName": "tỉnh Tây Ninh",
+    "areaKm2": 8536.44,
+    "population": 3254170,
+    "administrativeCenter": "Long An (cũ)",
+    "longitude": 106.123,
+    "latitude": 10.6941,
+    "previousProvince": [
+      "tỉnh Long An",
+      "tỉnh Tây Ninh"
+    ],
+    "children": {
+      "total": 96,
+      "specialZone": 0,
+      "ward": 14,
+      "commune": 82
+    }
+  },
+  {
+    "id": 28,
+    "provinceCode": 28,
+    "provinceName": "tỉnh Đồng Nai",
+    "areaKm2": 12737.18,
+    "population": 4491408,
+    "administrativeCenter": "Đồng Nai (cũ)",
+    "longitude": 107.034,
+    "latitude": 11.4369,
+    "previousProvince": [
+      "tỉnh Bình Phước",
+      "tỉnh Đồng Nai"
+    ],
+    "children": {
+      "total": 95,
+      "specialZone": 0,
+      "ward": 23,
+      "commune": 72
+    }
+  },
+  {
+    "id": 29,
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "areaKm2": 6772.59,
+    "population": 14002598,
+    "administrativeCenter": "Tp. HCM (cũ)",
+    "longitude": 106.638,
+    "latitude": 10.9926,
+    "previousProvince": [
+      "TPHCM",
+      "tỉnh Bà Rịa - Vũng Tàu",
+      "tỉnh Bình Dương"
+    ],
+    "children": {
+      "total": 168,
+      "specialZone": 1,
+      "ward": 113,
+      "commune": 54
+    }
+  },
+  {
+    "id": 30,
+    "provinceCode": 30,
+    "provinceName": "tỉnh Vĩnh Long",
+    "areaKm2": 6296.2,
+    "population": 4257581,
+    "administrativeCenter": "Vĩnh Long (cũ)",
+    "longitude": 106.292,
+    "latitude": 9.99545,
+    "previousProvince": [
+      "tỉnh Bến Tre",
+      "tỉnh Trà Vinh",
+      "tỉnh Vĩnh Long"
+    ],
+    "children": {
+      "total": 124,
+      "specialZone": 0,
+      "ward": 19,
+      "commune": 105
+    }
+  },
+  {
+    "id": 31,
+    "provinceCode": 31,
+    "provinceName": "tỉnh Đồng Tháp",
+    "areaKm2": 5938.64,
+    "population": 4370046,
+    "administrativeCenter": "Tiền Giang (cũ)",
+    "longitude": 105.999,
+    "latitude": 10.4293,
+    "previousProvince": [
+      "tỉnh Tiền Giang",
+      "tỉnh Đồng Tháp"
+    ],
+    "children": {
+      "total": 102,
+      "specialZone": 0,
+      "ward": 20,
+      "commune": 82
+    }
+  },
+  {
+    "id": 32,
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "areaKm2": 9888.91,
+    "population": 4952238,
+    "administrativeCenter": "Kiên Giang (cũ)",
+    "longitude": 105.096,
+    "latitude": 10.1791,
+    "previousProvince": [
+      "tỉnh Kiên Giang",
+      "tỉnh An Giang"
+    ],
+    "children": {
+      "total": 102,
+      "specialZone": 3,
+      "ward": 14,
+      "commune": 85
+    }
+  },
+  {
+    "id": 33,
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "areaKm2": 6360.83,
+    "population": 4199824,
+    "administrativeCenter": "Cần Thơ (cũ)",
+    "longitude": 105.757,
+    "latitude": 9.74372,
+    "previousProvince": [
+      "thành phố Cần Thơ",
+      "tỉnh Sóc Trăng",
+      "tỉnh Hậu Giang"
+    ],
+    "children": {
+      "total": 103,
+      "specialZone": 0,
+      "ward": 31,
+      "commune": 72
+    }
+  },
+  {
+    "id": 34,
+    "provinceCode": 34,
+    "provinceName": "tỉnh Cà Mau",
+    "areaKm2": 7942.39,
+    "population": 2606672,
+    "administrativeCenter": "Cà mau (cũ)",
+    "longitude": 105.182,
+    "latitude": 9.1362,
+    "previousProvince": [
+      "tỉnh Bạc Liêu",
+      "tỉnh Cà Mau"
+    ],
+    "children": {
+      "total": 64,
+      "specialZone": 0,
+      "ward": 9,
+      "commune": 55
+    }
+  }
+]

@@ -1,0 +1,2494 @@
+[
+  {
+    "id": 1552,
+    "communeCode": 1590,
+    "name": "An Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 70.25,
+    "population": 65588,
+    "administrativeCenter": "UBND xã Diễn Thịnh và Diễn An",
+    "longitude": 105.609,
+    "latitude": 18.9237,
+    "previous": [
+      "Xã Diễn An",
+      "Xã Diễn Tân",
+      "Xã Diễn Thịnh",
+      "Xã Diễn Trung"
+    ],
+    "treeCode": "1551.1552"
+  },
+  {
+    "id": 1553,
+    "communeCode": 1562,
+    "name": "Anh Sơn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 196.65,
+    "population": 29539,
+    "administrativeCenter": "UBND huyện Anh Sơn",
+    "longitude": 105.019,
+    "latitude": 18.8648,
+    "previous": [
+      "Thị trấn Kim Nhan",
+      "Xã Đức Sơn",
+      "Xã Phúc Sơn"
+    ],
+    "treeCode": "1551.1553"
+  },
+  {
+    "id": 1554,
+    "communeCode": 1566,
+    "name": "Anh Sơn Đông",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 65.85,
+    "population": 16214,
+    "administrativeCenter": "UBND xã Lạng Sơn",
+    "longitude": 105.182,
+    "latitude": 18.9598,
+    "previous": [
+      "Xã Lạng Sơn",
+      "Xã Tào Sơn",
+      "Xã Vĩnh Sơn"
+    ],
+    "treeCode": "1551.1554"
+  },
+  {
+    "id": 1555,
+    "communeCode": 1641,
+    "name": "Bắc Lý",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 109.17,
+    "population": 5552,
+    "administrativeCenter": "UBND xã Bắc Lý",
+    "longitude": 104.237,
+    "latitude": 19.6386,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1555"
+  },
+  {
+    "id": 1556,
+    "communeCode": 1606,
+    "name": "Bạch Hà",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 79.28,
+    "population": 39332,
+    "administrativeCenter": "UBND xã Trù Sơn và Đại Sơn",
+    "longitude": 105.439,
+    "latitude": 18.8262,
+    "previous": [
+      "Xã Đại Sơn",
+      "Xã Hiến Sơn",
+      "Xã Mỹ Sơn",
+      "Xã Trù Sơn"
+    ],
+    "treeCode": "1551.1556"
+  },
+  {
+    "id": 1557,
+    "communeCode": 1602,
+    "name": "Bạch Ngọc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 72.2,
+    "population": 29021,
+    "administrativeCenter": "UBND xã Bạch Ngọc và giang Sơn Tây",
+    "longitude": 105.27,
+    "latitude": 18.9514,
+    "previous": [
+      "Xã Bồi Sơn",
+      "Xã Giang Sơn Đông",
+      "Xã Giang Sơn Tây",
+      "Xã Bạch Ngọc"
+    ],
+    "treeCode": "1551.1557"
+  },
+  {
+    "id": 1558,
+    "communeCode": 1576,
+    "name": "Bích Hào",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 147.06,
+    "population": 3396,
+    "administrativeCenter": "UBND xã Mai Giang",
+    "longitude": 105.409,
+    "latitude": 18.6325,
+    "previous": [
+      "Xã Mai Giang",
+      "Xã Thanh Lâm",
+      "Xã Thanh Tùng",
+      "Xã Thanh Xuân"
+    ],
+    "treeCode": "1551.1558"
+  },
+  {
+    "id": 1559,
+    "communeCode": 1557,
+    "name": "Bình Chuẩn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 182.19,
+    "population": 4638,
+    "administrativeCenter": "UBND xã Bình Chuẩn",
+    "longitude": 104.93,
+    "latitude": 19.2514,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1559"
+  },
+  {
+    "id": 1560,
+    "communeCode": 1593,
+    "name": "Bình Minh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 36.7,
+    "population": 83354,
+    "administrativeCenter": "UBND xã Tân Thành",
+    "longitude": 105.494,
+    "latitude": 19.108,
+    "previous": [
+      "Xã Đức Thành",
+      "Xã Mã Thành",
+      "Xã Tân Thành",
+      "Xã Tiến Thành"
+    ],
+    "treeCode": "1551.1560"
+  },
+  {
+    "id": 1561,
+    "communeCode": 1559,
+    "name": "Cam Phục",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 162.43,
+    "population": 7412,
+    "administrativeCenter": "UBND xã Đôn Phục",
+    "longitude": 104.857,
+    "latitude": 19.156,
+    "previous": [
+      "Xã Cam Lâm",
+      "Xã Đôn Phục"
+    ],
+    "treeCode": "1551.1561"
+  },
+  {
+    "id": 1562,
+    "communeCode": 1569,
+    "name": "Cát Ngạn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 59.28,
+    "population": 22995,
+    "administrativeCenter": "UBND xã Phong Thịnh",
+    "longitude": 105.243,
+    "latitude": 18.86,
+    "previous": [
+      "Xã Minh Sơn (huyện Thanh Chương)",
+      "Xã Cát Văn",
+      "Xã Phong Thịnh"
+    ],
+    "treeCode": "1551.1562"
+  },
+  {
+    "id": 1563,
+    "communeCode": 1555,
+    "name": "Châu Bình",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 130.91,
+    "population": 11038,
+    "administrativeCenter": "UBND xã Châu Bình",
+    "longitude": 105.2,
+    "latitude": 19.4913,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1563"
+  },
+  {
+    "id": 1564,
+    "communeCode": 1619,
+    "name": "Châu Hồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 134.05,
+    "population": 11809,
+    "administrativeCenter": "UBND xã Châu Hồng",
+    "longitude": 105.08,
+    "latitude": 19.4049,
+    "previous": [
+      "Xã Châu Tiến (huyện Quỳ Hợp)",
+      "Xã Châu Thành",
+      "Xã Châu Hồng"
+    ],
+    "treeCode": "1551.1564"
+  },
+  {
+    "id": 1565,
+    "communeCode": 1558,
+    "name": "Châu Khê",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 544.31,
+    "population": 1221,
+    "administrativeCenter": "UBND xã Châu Khê",
+    "longitude": 104.666,
+    "latitude": 18.962,
+    "previous": [
+      "Xã Lạng Khê",
+      "Xã Châu Khê"
+    ],
+    "treeCode": "1551.1565"
+  },
+  {
+    "id": 1566,
+    "communeCode": 1620,
+    "name": "Châu Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 85.69,
+    "population": 7234,
+    "administrativeCenter": "UBND xã Châu Lộc",
+    "longitude": 105.19,
+    "latitude": 19.3855,
+    "previous": [
+      "Xã Liên Hợp",
+      "Xã Châu Lộc"
+    ],
+    "treeCode": "1551.1566"
+  },
+  {
+    "id": 1567,
+    "communeCode": 1553,
+    "name": "Châu Tiến",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 247.16,
+    "population": 1806,
+    "administrativeCenter": "UBND xã Châu Tiến",
+    "longitude": 105.073,
+    "latitude": 19.6752,
+    "previous": [
+      "Xã Châu Tiến (huyện Quỳ Châu)",
+      "Xã Châu Bính",
+      "Xã Châu Thắng",
+      "Xã Châu Thuận"
+    ],
+    "treeCode": "1551.1567"
+  },
+  {
+    "id": 1568,
+    "communeCode": 1649,
+    "name": "Chiêu Lưu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 196.93,
+    "population": 9797,
+    "administrativeCenter": "UBND xã Chiêu Lưu",
+    "longitude": 104.294,
+    "latitude": 19.3462,
+    "previous": [
+      "Xã Bảo Thắng",
+      "Xã Chiêu Lưu"
+    ],
+    "treeCode": "1551.1568"
+  },
+  {
+    "id": 1569,
+    "communeCode": 1556,
+    "name": "Con Cuông",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 155.45,
+    "population": 26043,
+    "administrativeCenter": "UBND huyện Con Cuông",
+    "longitude": 104.849,
+    "latitude": 19.0406,
+    "previous": [
+      "Thị trấn Trà Lân",
+      "Xã Chi Khê",
+      "Xã Yên Khê"
+    ],
+    "treeCode": "1551.1569"
+  },
+  {
+    "id": 1570,
+    "communeCode": 1662,
+    "name": "Cửa Lò",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 29.09,
+    "population": 6476,
+    "administrativeCenter": "UBND thị xã Cửa Lò",
+    "longitude": 105.726,
+    "latitude": 18.788,
+    "previous": [
+      "Phường Nghi Hải",
+      "Phường Nghi Hòa",
+      "Phường Nghi Hương",
+      "Phường Nghi Tân",
+      "Phường Nghi Thu",
+      "Phường Nghi Thủy",
+      "Xã Thu Thủy"
+    ],
+    "treeCode": "1551.1570"
+  },
+  {
+    "id": 1571,
+    "communeCode": 1568,
+    "name": "Đại Đồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 77.87,
+    "population": 63131,
+    "administrativeCenter": "UBND huyện Thanh Chương",
+    "longitude": 105.34,
+    "latitude": 18.7969,
+    "previous": [
+      "Thị trấn Dùng",
+      "Xã Đồng Văn (huyện Thanh Chương)",
+      "Xã Thanh Ngọc",
+      "Xã Thanh Phong",
+      "Xã Đại Đồng"
+    ],
+    "treeCode": "1551.1571"
+  },
+  {
+    "id": 1572,
+    "communeCode": 1672,
+    "name": "Đại Huệ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 36.11,
+    "population": 24441,
+    "administrativeCenter": "UBND xã Nam Xuân",
+    "longitude": 105.546,
+    "latitude": 18.7249,
+    "previous": [
+      "Xã Nam Anh",
+      "Xã Nam Lĩnh",
+      "Xã Nam Xuân"
+    ],
+    "treeCode": "1551.1572"
+  },
+  {
+    "id": 1573,
+    "communeCode": 1584,
+    "name": "Diễn Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 22.21,
+    "population": 63294,
+    "administrativeCenter": "UBND huyện Diễn Châu",
+    "longitude": 105.596,
+    "latitude": 18.9848,
+    "previous": [
+      "Thị trấn Diễn Thành",
+      "Xã Diễn Hoa",
+      "Xã Diễn Phúc",
+      "Xã Ngọc Bích"
+    ],
+    "treeCode": "1551.1573"
+  },
+  {
+    "id": 1574,
+    "communeCode": 1601,
+    "name": "Đô Lương",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 50.06,
+    "population": 6196,
+    "administrativeCenter": "UBND huyện Đô Lương",
+    "longitude": 105.289,
+    "latitude": 18.9029,
+    "previous": [
+      "Xã Bắc Sơn",
+      "Xã Nam Sơn (huyện Đô Lương)",
+      "Xã Đà Sơn",
+      "Xã Đặng Sơn",
+      "Xã Lưu Sơn",
+      "Xã Thịnh Sơn",
+      "Xã Văn Sơn",
+      "Xã Yên Sơn",
+      "Thị trấn Đô Lương"
+    ],
+    "treeCode": "1551.1574"
+  },
+  {
+    "id": 1575,
+    "communeCode": 1614,
+    "name": "Đông Hiếu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 63.87,
+    "population": 28634,
+    "administrativeCenter": "UBND xã Đông Hiếu",
+    "longitude": 105.488,
+    "latitude": 19.2782,
+    "previous": [
+      "Xã Nghĩa Mỹ",
+      "Xã Nghĩa Thuận",
+      "Xã Đông Hiếu"
+    ],
+    "treeCode": "1551.1575"
+  },
+  {
+    "id": 1576,
+    "communeCode": 1669,
+    "name": "Đông Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 29.32,
+    "population": 31219,
+    "administrativeCenter": "UBND xã Khánh Hợp và Nghi Thạch",
+    "longitude": 105.69,
+    "latitude": 18.7856,
+    "previous": [
+      "Xã Khánh Hợp",
+      "Xã Nghi Thạch",
+      "Xã Thịnh Trường"
+    ],
+    "treeCode": "1551.1576"
+  },
+  {
+    "id": 1577,
+    "communeCode": 1596,
+    "name": "Đông Thành",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 130.94,
+    "population": 27169,
+    "administrativeCenter": "UBND xã Thọ Thành",
+    "longitude": 105.558,
+    "latitude": 19.0674,
+    "previous": [
+      "Xã Đô Thành",
+      "Xã Phú Thành",
+      "Xã Thọ Thành"
+    ],
+    "treeCode": "1551.1577"
+  },
+  {
+    "id": 1578,
+    "communeCode": 1587,
+    "name": "Đức Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 20.97,
+    "population": 40899,
+    "administrativeCenter": "UBND xã Diễn Hồng và Diễn Kỷ",
+    "longitude": 105.59,
+    "latitude": 19.0367,
+    "previous": [
+      "Xã Diễn Hồng",
+      "Xã Diễn Kỷ",
+      "Xã Diễn Phong",
+      "Xã Diễn Vạn"
+    ],
+    "treeCode": "1551.1578"
+  },
+  {
+    "id": 1579,
+    "communeCode": 1594,
+    "name": "Giai Lạc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 88.58,
+    "population": 35783,
+    "administrativeCenter": "UBND xã Hậu Thành",
+    "longitude": 105.445,
+    "latitude": 19.0799,
+    "previous": [
+      "Xã Hậu Thành",
+      "Xã Lăng Thành",
+      "Xã Phúc Thành"
+    ],
+    "treeCode": "1551.1579"
+  },
+  {
+    "id": 1580,
+    "communeCode": 1578,
+    "name": "Giai Xuân",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 121.55,
+    "population": 1416,
+    "administrativeCenter": "UBND xã Giai Xuân",
+    "longitude": 105.197,
+    "latitude": 19.1769,
+    "previous": [
+      "Xã Tân Hợp",
+      "Xã Giai Xuân"
+    ],
+    "treeCode": "1551.1580"
+  },
+  {
+    "id": 1581,
+    "communeCode": 1586,
+    "name": "Hải Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 29.13,
+    "population": 43155,
+    "administrativeCenter": "UBND xã Hùng Hải và Diễn Mỹ",
+    "longitude": 105.629,
+    "latitude": 19.0718,
+    "previous": [
+      "Xã Diễn Hoàng",
+      "Xã Diễn Kim",
+      "Xã Diễn Mỹ",
+      "Xã Hùng Hải"
+    ],
+    "treeCode": "1551.1581"
+  },
+  {
+    "id": 1582,
+    "communeCode": 1665,
+    "name": "Hải Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 41.25,
+    "population": 2194,
+    "administrativeCenter": "UBND xã Nghi Yên và Nghi Tiến",
+    "longitude": 105.632,
+    "latitude": 18.8691,
+    "previous": [
+      "Xã Nghi Thiết",
+      "Xã Nghi Tiến",
+      "Xã Nghi Yên"
+    ],
+    "treeCode": "1551.1582"
+  },
+  {
+    "id": 1583,
+    "communeCode": 1570,
+    "name": "Hạnh Lâm",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 274.57,
+    "population": 13699,
+    "administrativeCenter": "UBND xã Hạnh Lâm",
+    "longitude": 105.075,
+    "latitude": 18.8006,
+    "previous": [
+      "Xã Thanh Đức",
+      "Xã Hạnh Lâm"
+    ],
+    "treeCode": "1551.1583"
+  },
+  {
+    "id": 1584,
+    "communeCode": 1573,
+    "name": "Hoa Quân",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 107.67,
+    "population": 32149,
+    "administrativeCenter": "UBND xã Thanh Thịnh",
+    "longitude": 105.287,
+    "latitude": 18.7541,
+    "previous": [
+      "Xã Thanh An",
+      "Xã Thanh Hương",
+      "Xã Thanh Quả",
+      "Xã Thanh Thịnh"
+    ],
+    "treeCode": "1551.1584"
+  },
+  {
+    "id": 1585,
+    "communeCode": 1626,
+    "name": "Hoàng Mai",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 79.67,
+    "population": 44474,
+    "administrativeCenter": "UBND phường Quỳnh Thiện",
+    "longitude": 105.672,
+    "latitude": 19.2863,
+    "previous": [
+      "Phường Quỳnh Thiện",
+      "Xã Quỳnh Trang",
+      "Xã Quỳnh Vinh"
+    ],
+    "treeCode": "1551.1585"
+  },
+  {
+    "id": 1586,
+    "communeCode": 1599,
+    "name": "Hợp Minh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 54.75,
+    "population": 46942,
+    "administrativeCenter": "UBND xã Bảo Thành",
+    "longitude": 105.489,
+    "latitude": 18.9288,
+    "previous": [
+      "Xã Bảo Thành",
+      "Xã Long Thành",
+      "Xã Sơn Thành",
+      "Xã Viên Thành",
+      "Xã Vĩnh Thành"
+    ],
+    "treeCode": "1551.1586"
+  },
+  {
+    "id": 1587,
+    "communeCode": 1554,
+    "name": "Hùng Chân",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 351.87,
+    "population": 12664,
+    "administrativeCenter": "UBND xã Châu Phong",
+    "longitude": 104.973,
+    "latitude": 19.4374,
+    "previous": [
+      "Xã Châu Hoàn",
+      "Xã Châu Phong",
+      "Xã Diên Lãm"
+    ],
+    "treeCode": "1551.1587"
+  },
+  {
+    "id": 1588,
+    "communeCode": 1585,
+    "name": "Hùng Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 69.11,
+    "population": 55583,
+    "administrativeCenter": "UBND xã Diễn Yên và Diễn Đoài",
+    "longitude": 105.563,
+    "latitude": 19.1222,
+    "previous": [
+      "Xã Diễn Đoài",
+      "Xã Diễn Lâm",
+      "Xã Diễn Trường",
+      "Xã Diễn Yên"
+    ],
+    "treeCode": "1551.1588"
+  },
+  {
+    "id": 1589,
+    "communeCode": 1675,
+    "name": "Hưng Nguyên",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 46.14,
+    "population": 53144,
+    "administrativeCenter": "UBND huyện Hưng Nguyên",
+    "longitude": 105.627,
+    "latitude": 18.6781,
+    "previous": [
+      "Thị trấn Hưng Nguyên",
+      "Xã Hưng Đạo",
+      "Xã Hưng Tây",
+      "Xã Thịnh Mỹ"
+    ],
+    "treeCode": "1551.1589"
+  },
+  {
+    "id": 1590,
+    "communeCode": 1677,
+    "name": "Hưng Nguyên Nam",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 35.77,
+    "population": 36632,
+    "administrativeCenter": "UBND xã Thông Tân",
+    "longitude": 105.608,
+    "latitude": 18.6186,
+    "previous": [
+      "Xã Hưng Lĩnh",
+      "Xã Long Xá",
+      "Xã Thông Tân",
+      "Xã Xuân Lam"
+    ],
+    "treeCode": "1551.1590"
+  },
+  {
+    "id": 1591,
+    "communeCode": 1644,
+    "name": "Huồi Tụ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 109.03,
+    "population": 5177,
+    "administrativeCenter": "UBND xã Huồi Tụ",
+    "longitude": 104.26,
+    "latitude": 19.5256,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1591"
+  },
+  {
+    "id": 1592,
+    "communeCode": 1653,
+    "name": "Hữu Khuông",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 263.79,
+    "population": 2939,
+    "administrativeCenter": "UBND xã Hữu Khuông",
+    "longitude": 104.626,
+    "latitude": 19.485,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1592"
+  },
+  {
+    "id": 1593,
+    "communeCode": 1648,
+    "name": "Hữu Kiệm",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 188.97,
+    "population": 12609,
+    "administrativeCenter": "UBND xã Hữu Lập",
+    "longitude": 104.245,
+    "latitude": 19.3999,
+    "previous": [
+      "Xã Bảo Nam",
+      "Xã Hữu Lập",
+      "Xã Hữu Kiệm"
+    ],
+    "treeCode": "1551.1593"
+  },
+  {
+    "id": 1594,
+    "communeCode": 1642,
+    "name": "Keng Đu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 98.24,
+    "population": 5098,
+    "administrativeCenter": "UBND xã Keng Đu",
+    "longitude": 104.116,
+    "latitude": 19.6249,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1594"
+  },
+  {
+    "id": 1595,
+    "communeCode": 1575,
+    "name": "Kim Bảng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 183.26,
+    "population": 27936,
+    "administrativeCenter": "UBND xã Kim Bảng",
+    "longitude": 105.289,
+    "latitude": 18.6622,
+    "previous": [
+      "Xã Thanh Hà",
+      "Xã Thanh Thủy",
+      "Xã Kim Bảng"
+    ],
+    "treeCode": "1551.1595"
+  },
+  {
+    "id": 1596,
+    "communeCode": 1673,
+    "name": "Kim Liên",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 61.08,
+    "population": 55471,
+    "administrativeCenter": "UBND xã Kim Liên",
+    "longitude": 105.562,
+    "latitude": 18.6681,
+    "previous": [
+      "Xã Hùng Tiến",
+      "Xã Nam Cát",
+      "Xã Nam Giang",
+      "Xã Xuân Hồng",
+      "Xã Kim Liên"
+    ],
+    "treeCode": "1551.1596"
+  },
+  {
+    "id": 1597,
+    "communeCode": 1678,
+    "name": "Lam Thành",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 39.67,
+    "population": 31247,
+    "administrativeCenter": "UBND xã Phúc Lợi",
+    "longitude": 105.662,
+    "latitude": 18.6094,
+    "previous": [
+      "Xã Châu Nhân",
+      "Xã Hưng Nghĩa",
+      "Xã Hưng Thành",
+      "Xã Phúc Lợi"
+    ],
+    "treeCode": "1551.1597"
+  },
+  {
+    "id": 1598,
+    "communeCode": 1656,
+    "name": "Lượng Minh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 227.97,
+    "population": 5322,
+    "administrativeCenter": "UBND xã Lượng Minh",
+    "longitude": 104.471,
+    "latitude": 19.3995,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1598"
+  },
+  {
+    "id": 1599,
+    "communeCode": 1603,
+    "name": "Lương Sơn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 159.21,
+    "population": 23912,
+    "administrativeCenter": "UBND xã Tràng Sơn và Đông Sơn",
+    "longitude": 105.316,
+    "latitude": 18.9477,
+    "previous": [
+      "Xã Bài Sơn",
+      "Xã Đông Sơn",
+      "Xã Hồng Sơn",
+      "Xã Tràng Sơn"
+    ],
+    "treeCode": "1551.1599"
+  },
+  {
+    "id": 1600,
+    "communeCode": 1560,
+    "name": "Mậu Thạch",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 164.26,
+    "population": 132,
+    "administrativeCenter": "UBND xã Thạch Ngàn",
+    "longitude": 104.961,
+    "latitude": 19.1018,
+    "previous": [
+      "Xã Mậu Đức",
+      "Xã Thạch Ngàn"
+    ],
+    "treeCode": "1551.1600"
+  },
+  {
+    "id": 1601,
+    "communeCode": 1589,
+    "name": "Minh Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 39.68,
+    "population": 44358,
+    "administrativeCenter": "UBND xã Diễn Cát và Minh Châu",
+    "longitude": 105.546,
+    "latitude": 18.9669,
+    "previous": [
+      "Xã Diễn Cát",
+      "Xã Diễn Nguyên",
+      "Xã Hạnh Quảng",
+      "Xã Minh Châu"
+    ],
+    "treeCode": "1551.1601"
+  },
+  {
+    "id": 1602,
+    "communeCode": 1622,
+    "name": "Minh Hợp",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 159.97,
+    "population": 21276,
+    "administrativeCenter": "UBND xã Minh Hợp",
+    "longitude": 105.26,
+    "latitude": 19.266,
+    "previous": [
+      "Xã Hạ Sơn",
+      "Xã Văn Lợi",
+      "Xã Minh Hợp"
+    ],
+    "treeCode": "1551.1602"
+  },
+  {
+    "id": 1603,
+    "communeCode": 1561,
+    "name": "Môn Sơn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 529.42,
+    "population": 18836,
+    "administrativeCenter": "UBND xã Môn Sơn",
+    "longitude": 104.848,
+    "latitude": 18.8885,
+    "previous": [
+      "Xã Lục Dạ",
+      "Xã Môn Sơn"
+    ],
+    "treeCode": "1551.1603"
+  },
+  {
+    "id": 1604,
+    "communeCode": 1623,
+    "name": "Mường Chọng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 173.65,
+    "population": 11291,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.076,
+    "latitude": 19.2161,
+    "previous": [
+      "Xã Bắc Sơn",
+      "Xã Nam Sơn (huyện Quỳ Hợp)",
+      "Xã Châu Lý"
+    ],
+    "treeCode": "1551.1604"
+  },
+  {
+    "id": 1605,
+    "communeCode": 1621,
+    "name": "Mường Ham",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 160.35,
+    "population": 14257,
+    "administrativeCenter": "UBND xã Châu Thái",
+    "longitude": 105.072,
+    "latitude": 19.3146,
+    "previous": [
+      "Xã Châu Cường",
+      "Xã Châu Thái"
+    ],
+    "treeCode": "1551.1605"
+  },
+  {
+    "id": 1606,
+    "communeCode": 1645,
+    "name": "Mường Lống",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 148.31,
+    "population": 5649,
+    "administrativeCenter": "UBND xã Mường Lống",
+    "longitude": 104.371,
+    "latitude": 19.4978,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1606"
+  },
+  {
+    "id": 1607,
+    "communeCode": 1638,
+    "name": "Mường Quàng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 330.25,
+    "population": null,
+    "administrativeCenter": "UBND xã Châu Thôn và Cắm Muộn",
+    "longitude": 104.851,
+    "latitude": 19.4891,
+    "previous": [
+      "Xã Cắm Muộn",
+      "Xã Châu Thôn",
+      "Xã Quang Phong"
+    ],
+    "treeCode": "1551.1607"
+  },
+  {
+    "id": 1608,
+    "communeCode": 1650,
+    "name": "Mường Típ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 217.66,
+    "population": 6412,
+    "administrativeCenter": "UBND xã Mường Típ",
+    "longitude": 103.993,
+    "latitude": 19.3078,
+    "previous": [
+      "Xã Mường Ải",
+      "Xã Mường Típ"
+    ],
+    "treeCode": "1551.1608"
+  },
+  {
+    "id": 1609,
+    "communeCode": 1639,
+    "name": "Mường Xén",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 182.49,
+    "population": 10396,
+    "administrativeCenter": "UBND huyện Kỳ Sơn",
+    "longitude": 104.095,
+    "latitude": 19.3627,
+    "previous": [
+      "Thị trấn Mường Xén",
+      "Xã Tà Cạ",
+      "Xã Tây Sơn"
+    ],
+    "treeCode": "1551.1609"
+  },
+  {
+    "id": 1610,
+    "communeCode": 1640,
+    "name": "Mỹ Lý",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 211.03,
+    "population": 5861,
+    "administrativeCenter": "UBND xã Mỹ Lý",
+    "longitude": 104.348,
+    "latitude": 19.638,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1551.1610"
+  },
+  {
+    "id": 1611,
+    "communeCode": 1643,
+    "name": "Na Loi",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 141.86,
+    "population": 4321,
+    "administrativeCenter": "UBND xã Na Loi",
+    "longitude": 104.177,
+    "latitude": 19.5678,
+    "previous": [
+      "Xã Đoọc Mạy",
+      "Xã Na Loi"
+    ],
+    "treeCode": "1551.1611"
+  },
+  {
+    "id": 1612,
+    "communeCode": 1646,
+    "name": "Na Ngoi",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 341.25,
+    "population": 9536,
+    "administrativeCenter": "UBND xã Na Ngoi",
+    "longitude": 104.212,
+    "latitude": 19.2239,
+    "previous": [
+      "Xã Nậm Càn",
+      "Xã Na Ngoi"
+    ],
+    "treeCode": "1551.1612"
+  },
+  {
+    "id": 1613,
+    "communeCode": 1647,
+    "name": "Nậm Cắn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 147.7,
+    "population": 8694,
+    "administrativeCenter": "UBND xã Nậm Cắn",
+    "longitude": 104.153,
+    "latitude": 19.4553,
+    "previous": [
+      "Xã Phà Đánh",
+      "Xã Nậm Cắn"
+    ],
+    "treeCode": "1551.1613"
+  },
+  {
+    "id": 1614,
+    "communeCode": 1671,
+    "name": "Nam Đàn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 67.6,
+    "population": 24489,
+    "administrativeCenter": "UBND xã Nghĩa Thái",
+    "longitude": 105.461,
+    "latitude": 18.7504,
+    "previous": [
+      "Xã Nghĩa Thái (huyện Nam Đàn)",
+      "Xã Nam Hưng",
+      "Xã Nam Thanh"
+    ],
+    "treeCode": "1551.1614"
+  },
+  {
+    "id": 1615,
+    "communeCode": 1655,
+    "name": "Nga My",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 302.52,
+    "population": 8467,
+    "administrativeCenter": "UBND xã Nga My",
+    "longitude": 104.82,
+    "latitude": 19.3091,
+    "previous": [
+      "Xã Xiêng My",
+      "Xã Nga My"
+    ],
+    "treeCode": "1551.1615"
+  },
+  {
+    "id": 1616,
+    "communeCode": 1663,
+    "name": "Nghi Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 33.31,
+    "population": 46022,
+    "administrativeCenter": "UBND huyện Nghi Lộc",
+    "longitude": 105.635,
+    "latitude": 18.7692,
+    "previous": [
+      "Thị trấn Quán Hành",
+      "Xã Diên Hoa",
+      "Xã Nghi Trung",
+      "Xã Nghi Vạn"
+    ],
+    "treeCode": "1551.1616"
+  },
+  {
+    "id": 1617,
+    "communeCode": 1608,
+    "name": "Nghĩa Đàn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 47.32,
+    "population": 1967,
+    "administrativeCenter": "UBND huyện Nghĩa Đàn",
+    "longitude": 105.474,
+    "latitude": 19.353,
+    "previous": [
+      "Thị trấn Nghĩa Đàn",
+      "Xã Nghĩa Bình",
+      "Xã Nghĩa Trung"
+    ],
+    "treeCode": "1551.1617"
+  },
+  {
+    "id": 1618,
+    "communeCode": 1580,
+    "name": "Nghĩa Đồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 72.43,
+    "population": 20195,
+    "administrativeCenter": "UBND xã Nghĩa Đồng",
+    "longitude": 105.371,
+    "latitude": 19.16,
+    "previous": [
+      "Xã Bình Hợp",
+      "Xã Nghĩa Đồng"
+    ],
+    "treeCode": "1551.1618"
+  },
+  {
+    "id": 1619,
+    "communeCode": 1583,
+    "name": "Nghĩa Hành",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 24.4,
+    "population": 31533,
+    "administrativeCenter": "UBND xã Nghĩa Hành",
+    "longitude": 105.19,
+    "latitude": 19.0099,
+    "previous": [
+      "Xã Phú Sơn",
+      "Xã Tân Hương",
+      "Xã Nghĩa Hành"
+    ],
+    "treeCode": "1551.1619"
+  },
+  {
+    "id": 1620,
+    "communeCode": 1612,
+    "name": "Nghĩa Hưng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 68.65,
+    "population": 25459,
+    "administrativeCenter": "UBND xã Nghĩa Hưng",
+    "longitude": 105.351,
+    "latitude": 19.3362,
+    "previous": [
+      "Xã Nghĩa Thành",
+      "Xã Nghĩa Hưng"
+    ],
+    "treeCode": "1551.1620"
+  },
+  {
+    "id": 1621,
+    "communeCode": 1615,
+    "name": "Nghĩa Khánh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 77.72,
+    "population": 25653,
+    "administrativeCenter": "UBND xã Nghĩa Khánh",
+    "longitude": 105.369,
+    "latitude": 19.2359,
+    "previous": [
+      "Xã Nghĩa An",
+      "Xã Nghĩa Đức",
+      "Xã Nghĩa Khánh"
+    ],
+    "treeCode": "1551.1621"
+  },
+  {
+    "id": 1622,
+    "communeCode": 1610,
+    "name": "Nghĩa Lâm",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 121.75,
+    "population": 23753,
+    "administrativeCenter": "UBND xã Nghĩa Sơn và Nghĩa Lâm",
+    "longitude": 105.459,
+    "latitude": 19.414,
+    "previous": [
+      "Xã Nghĩa Lạc",
+      "Xã Nghĩa Sơn",
+      "Xã Nghĩa Yên",
+      "Xã Nghĩa Lâm"
+    ],
+    "treeCode": "1551.1622"
+  },
+  {
+    "id": 1623,
+    "communeCode": 1616,
+    "name": "Nghĩa Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 62.93,
+    "population": 25007,
+    "administrativeCenter": "UBND xã Nghĩa Long, Nghĩa Lộc",
+    "longitude": 105.456,
+    "latitude": 19.2209,
+    "previous": [
+      "Xã Nghĩa Long",
+      "Xã Nghĩa Lộc"
+    ],
+    "treeCode": "1551.1623"
+  },
+  {
+    "id": 1624,
+    "communeCode": 1609,
+    "name": "Nghĩa Mai",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 146.99,
+    "population": 17844,
+    "administrativeCenter": "UBND xã Nghĩa Hồng",
+    "longitude": 105.333,
+    "latitude": 19.4574,
+    "previous": [
+      "Xã Nghĩa Hồng",
+      "Xã Nghĩa Minh",
+      "Xã Nghĩa Mai"
+    ],
+    "treeCode": "1551.1624"
+  },
+  {
+    "id": 1625,
+    "communeCode": 1611,
+    "name": "Nghĩa Thọ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 92.19,
+    "population": 21391,
+    "administrativeCenter": "UBND xã Nghĩa Hội, Nghĩa Thọ",
+    "longitude": 105.54,
+    "latitude": 19.3562,
+    "previous": [
+      "Xã Nghĩa Hội",
+      "Xã Nghĩa Lợi",
+      "Xã Nghĩa Thọ"
+    ],
+    "treeCode": "1551.1625"
+  },
+  {
+    "id": 1626,
+    "communeCode": 1564,
+    "name": "Nhân Hòa",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 86.88,
+    "population": 22626,
+    "administrativeCenter": "UBND xã Tam Đỉnh",
+    "longitude": 104.976,
+    "latitude": 19.014,
+    "previous": [
+      "Xã Cẩm Sơn",
+      "Xã Hùng Sơn",
+      "Xã Tam Đỉnh"
+    ],
+    "treeCode": "1551.1626"
+  },
+  {
+    "id": 1627,
+    "communeCode": 1652,
+    "name": "Nhôn Mai",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 310.26,
+    "population": 706,
+    "administrativeCenter": "UBND xã Nhôn Mai",
+    "longitude": 104.498,
+    "latitude": 19.5674,
+    "previous": [
+      "Xã Mai Sơn",
+      "Xã Nhôn Mai"
+    ],
+    "treeCode": "1551.1627"
+  },
+  {
+    "id": 1628,
+    "communeCode": 1667,
+    "name": "Phúc Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 70.5,
+    "population": 28236,
+    "administrativeCenter": "UBND xã Nghi Mỹ và Nghi Lâm",
+    "longitude": 105.543,
+    "latitude": 18.7999,
+    "previous": [
+      "Xã Nghi Công Bắc",
+      "Xã Nghi Công Nam",
+      "Xã Nghi Lâm",
+      "Xã Nghi Mỹ"
+    ],
+    "treeCode": "1551.1628"
+  },
+  {
+    "id": 1629,
+    "communeCode": 1598,
+    "name": "Quan Thành",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 37.71,
+    "population": 29973,
+    "administrativeCenter": "UBND xã Bắc Thành",
+    "longitude": 105.436,
+    "latitude": 18.9786,
+    "previous": [
+      "Xã Bắc Thành",
+      "Xã Nam Thành",
+      "Xã Trung Thành",
+      "Xã Xuân Thành"
+    ],
+    "treeCode": "1551.1629"
+  },
+  {
+    "id": 1630,
+    "communeCode": 1588,
+    "name": "Quảng Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 26.4,
+    "population": 37434,
+    "administrativeCenter": "UBND xã Xuân Tháp và Diễn Đồng",
+    "longitude": 105.549,
+    "latitude": 19.0198,
+    "previous": [
+      "Xã Diễn Đồng",
+      "Xã Diễn Liên",
+      "Xã Diễn Thái",
+      "Xã Xuân Tháp"
+    ],
+    "treeCode": "1551.1630"
+  },
+  {
+    "id": 1631,
+    "communeCode": 1595,
+    "name": "Quang Đồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 75.61,
+    "population": 22364,
+    "administrativeCenter": "UBND xã Kim Thành",
+    "longitude": 105.391,
+    "latitude": 19.0408,
+    "previous": [
+      "Xã Đồng Thành",
+      "Xã Kim Thành",
+      "Xã Quang Thành"
+    ],
+    "treeCode": "1551.1631"
+  },
+  {
+    "id": 1632,
+    "communeCode": 1634,
+    "name": "Quế Phong",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 276.57,
+    "population": 22834,
+    "administrativeCenter": "UBND huyện Quế Phong",
+    "longitude": 104.844,
+    "latitude": 19.6405,
+    "previous": [
+      "Thị trấn Kim Sơn",
+      "Xã Châu Kim",
+      "Xã Mường Nọc",
+      "Xã Nậm Giải"
+    ],
+    "treeCode": "1551.1632"
+  },
+  {
+    "id": 1633,
+    "communeCode": 1552,
+    "name": "Quỳ Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 327.53,
+    "population": 23094,
+    "administrativeCenter": "UBND huyện Quỳ Châu",
+    "longitude": 105.163,
+    "latitude": 19.5816,
+    "previous": [
+      "Thị trấn Tân Lạc",
+      "Xã Châu Hạnh",
+      "Xã Châu Hội",
+      "Xã Châu Nga"
+    ],
+    "treeCode": "1551.1633"
+  },
+  {
+    "id": 1634,
+    "communeCode": 1617,
+    "name": "Quỳ Hợp",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 90.07,
+    "population": 36929,
+    "administrativeCenter": "UBND huyện Quỳ Hợp",
+    "longitude": 105.185,
+    "latitude": 19.3126,
+    "previous": [
+      "Thị trấn Quỳ Hợp",
+      "Xã Châu Đình",
+      "Xã Châu Quang",
+      "Xã Thọ Hợp"
+    ],
+    "treeCode": "1551.1634"
+  },
+  {
+    "id": 1635,
+    "communeCode": 1632,
+    "name": "Quỳnh Anh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 39.8,
+    "population": 60329,
+    "administrativeCenter": "UBND xã Minh Lương và Quỳnh Bảng",
+    "longitude": 105.699,
+    "latitude": 19.1587,
+    "previous": [
+      "Xã Minh Lương",
+      "Xã Quỳnh Bảng",
+      "Xã Quỳnh Đôi",
+      "Xã Quỳnh Thanh",
+      "Xã Quỳnh Yên"
+    ],
+    "treeCode": "1551.1635"
+  },
+  {
+    "id": 1636,
+    "communeCode": 1624,
+    "name": "Quỳnh Lưu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 40.55,
+    "population": 73584,
+    "administrativeCenter": "UBND huyện Quỳnh Lưu",
+    "longitude": 105.636,
+    "latitude": 19.1326,
+    "previous": [
+      "Thị trấn Cầu Giát",
+      "Xã Bình Sơn (huyện Quỳnh Lưu)",
+      "Xã Quỳnh Diễn",
+      "Xã Quỳnh Giang",
+      "Xã Quỳnh Hậu"
+    ],
+    "treeCode": "1551.1636"
+  },
+  {
+    "id": 1637,
+    "communeCode": 1630,
+    "name": "Quỳnh Mai",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 40.5,
+    "population": 57988,
+    "administrativeCenter": "UBND phường Mai Hùng",
+    "longitude": 105.705,
+    "latitude": 19.2211,
+    "previous": [
+      "Phường Mai Hùng",
+      "Phường Quỳnh Phương",
+      "Phường Quỳnh Xuân",
+      "Xã Quỳnh Liên"
+    ],
+    "treeCode": "1551.1637"
+  },
+  {
+    "id": 1638,
+    "communeCode": 1633,
+    "name": "Quỳnh Phú",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 33.48,
+    "population": 72062,
+    "administrativeCenter": "UBND xã Văn Hải và Phú Nghĩa",
+    "longitude": 105.694,
+    "latitude": 19.111,
+    "previous": [
+      "Xã An Hòa",
+      "Xã Phú Nghĩa",
+      "Xã Thuận Long",
+      "Xã Văn Hải"
+    ],
+    "treeCode": "1551.1638"
+  },
+  {
+    "id": 1639,
+    "communeCode": 1631,
+    "name": "Quỳnh Sơn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 61.21,
+    "population": 36834,
+    "administrativeCenter": "UBND xã Quỳnh Sơn và Quỳnh Lâm",
+    "longitude": 105.598,
+    "latitude": 19.1737,
+    "previous": [
+      "Xã Ngọc Sơn (huyện Quỳnh Lưu)",
+      "Xã Quỳnh Lâm",
+      "Xã Quỳnh Sơn"
+    ],
+    "treeCode": "1551.1639"
+  },
+  {
+    "id": 1640,
+    "communeCode": 1629,
+    "name": "Quỳnh Tam",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 103.4,
+    "population": 35568,
+    "administrativeCenter": "UBND xã Quỳnh Châu và Quỳnh Tam",
+    "longitude": 105.52,
+    "latitude": 19.2017,
+    "previous": [
+      "Xã Tân Sơn (huyện Quỳnh Lưu)",
+      "Xã Quỳnh Châu",
+      "Xã Quỳnh Tam"
+    ],
+    "treeCode": "1551.1640"
+  },
+  {
+    "id": 1641,
+    "communeCode": 1625,
+    "name": "Quỳnh Thắng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 107.99,
+    "population": 15313,
+    "administrativeCenter": "UBND xã Quỳnh Thắng và Tân Thắng",
+    "longitude": 105.595,
+    "latitude": 19.3042,
+    "previous": [
+      "Xã Tân Thắng",
+      "Xã Quỳnh Thắng"
+    ],
+    "treeCode": "1551.1641"
+  },
+  {
+    "id": 1642,
+    "communeCode": 1628,
+    "name": "Quỳnh Văn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 53.35,
+    "population": 42927,
+    "administrativeCenter": "UBND Quỳnh Văn và Quỳnh Thạch",
+    "longitude": 105.645,
+    "latitude": 19.2155,
+    "previous": [
+      "Xã Quỳnh Tân",
+      "Xã Quỳnh Thạch",
+      "Xã Quỳnh Văn"
+    ],
+    "treeCode": "1551.1642"
+  },
+  {
+    "id": 1643,
+    "communeCode": 1571,
+    "name": "Sơn Lâm",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 162.94,
+    "population": 12331,
+    "administrativeCenter": "UBND xã Ngọc Lâm",
+    "longitude": 105.162,
+    "latitude": 18.7294,
+    "previous": [
+      "Xã Ngọc Lâm",
+      "Xã Thanh Sơn"
+    ],
+    "treeCode": "1551.1643"
+  },
+  {
+    "id": 1644,
+    "communeCode": 1572,
+    "name": "Tam Đồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 53.38,
+    "population": 26382,
+    "administrativeCenter": "UBND xã Thanh Liên",
+    "longitude": 105.238,
+    "latitude": 18.8092,
+    "previous": [
+      "Xã Thanh Liên",
+      "Xã Thanh Mỹ",
+      "Xã Thanh Tiên"
+    ],
+    "treeCode": "1551.1644"
+  },
+  {
+    "id": 1645,
+    "communeCode": 1618,
+    "name": "Tam Hợp",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 135.97,
+    "population": 42628,
+    "administrativeCenter": "UBND xã Tam Hợp",
+    "longitude": 105.271,
+    "latitude": 19.3998,
+    "previous": [
+      "Xã Tam Hợp (huyện Quỳ Hợp)",
+      "Xã Đồng Hợp",
+      "Xã Nghĩa Xuân",
+      "Xã Yên Hợp"
+    ],
+    "treeCode": "1551.1645"
+  },
+  {
+    "id": 1646,
+    "communeCode": 1659,
+    "name": "Tam Quang",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 507.95,
+    "population": 13013,
+    "administrativeCenter": "UBND xã Tam Quang",
+    "longitude": 104.583,
+    "latitude": 19.1156,
+    "previous": [
+      "Xã Tam Đình",
+      "Xã Tam Quang"
+    ],
+    "treeCode": "1551.1646"
+  },
+  {
+    "id": 1647,
+    "communeCode": 1658,
+    "name": "Tam Thái",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 356.01,
+    "population": 773,
+    "administrativeCenter": "UBND xã Tam Hợp",
+    "longitude": 104.456,
+    "latitude": 19.1503,
+    "previous": [
+      "Xã Tam Hợp (huyện Tương Dương)",
+      "Xã Tam Thái"
+    ],
+    "treeCode": "1551.1647"
+  },
+  {
+    "id": 1648,
+    "communeCode": 1581,
+    "name": "Tân An",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 40.61,
+    "population": 41922,
+    "administrativeCenter": "UBND xã Tân An",
+    "longitude": 105.184,
+    "latitude": 19.083,
+    "previous": [
+      "Xã Hương Sơn",
+      "Xã Nghĩa Phúc",
+      "Xã Tân An"
+    ],
+    "treeCode": "1551.1648"
+  },
+  {
+    "id": 1649,
+    "communeCode": 1591,
+    "name": "Tân Châu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 54.77,
+    "population": 24072,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.564,
+    "latitude": 18.9025,
+    "previous": [
+      "Xã Diễn Lộc",
+      "Xã Diễn Lợi",
+      "Xã Diễn Phú",
+      "Xã Diễn Thọ"
+    ],
+    "treeCode": "1551.1649"
+  },
+  {
+    "id": 1650,
+    "communeCode": 1577,
+    "name": "Tân Kỳ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 116.5,
+    "population": 32974,
+    "administrativeCenter": "UBND huyện Tân Kỳ",
+    "longitude": 105.299,
+    "latitude": 19.0753,
+    "previous": [
+      "Thị trấn Tân Kỳ",
+      "Xã Nghĩa Dũng",
+      "Xã Kỳ Tân",
+      "Xã Kỳ Sơn"
+    ],
+    "treeCode": "1551.1650"
+  },
+  {
+    "id": 1651,
+    "communeCode": 1627,
+    "name": "Tân Mai",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 51.61,
+    "population": 33894,
+    "administrativeCenter": "UBND thị xã Hoàng Mai",
+    "longitude": 105.754,
+    "latitude": 19.2706,
+    "previous": [
+      "Phường Quỳnh Dị",
+      "Xã Quỳnh Lập",
+      "Xã Quỳnh Lộc"
+    ],
+    "treeCode": "1551.1651"
+  },
+  {
+    "id": 1652,
+    "communeCode": 1579,
+    "name": "Tân Phú",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 38.6,
+    "population": 3136,
+    "administrativeCenter": "UBND xã Diễn Lộc và Diễn Thọ",
+    "longitude": 105.291,
+    "latitude": 19.153,
+    "previous": [
+      "Xã Nghĩa Thái (huyện Tân Kỳ)",
+      "Xã Hoàn Long",
+      "Xã Tân Xuân",
+      "Xã Tân Phú"
+    ],
+    "treeCode": "1551.1652"
+  },
+  {
+    "id": 1653,
+    "communeCode": 1613,
+    "name": "Tây Hiếu",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 43.96,
+    "population": 24698,
+    "administrativeCenter": "UBND phường Quang Tiến",
+    "longitude": 105.394,
+    "latitude": 19.2949,
+    "previous": [
+      "Phường Quang Tiến",
+      "Xã Nghĩa Tiến",
+      "Xã Tây Hiếu"
+    ],
+    "treeCode": "1551.1653"
+  },
+  {
+    "id": 1654,
+    "communeCode": 1607,
+    "name": "Thái Hòa",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 27.09,
+    "population": 26916,
+    "administrativeCenter": "UBND thị xã Thái Hòa",
+    "longitude": 105.444,
+    "latitude": 19.3025,
+    "previous": [
+      "Phường Hòa Hiếu",
+      "Phường Long Sơn",
+      "Phường Quang Phong"
+    ],
+    "treeCode": "1551.1654"
+  },
+  {
+    "id": 1655,
+    "communeCode": 1666,
+    "name": "Thần Lĩnh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 44.69,
+    "population": 21718,
+    "administrativeCenter": "UBND xã Nghi Đồng và Nghi Phương",
+    "longitude": 105.599,
+    "latitude": 18.8328,
+    "previous": [
+      "Xã Nghi Đồng",
+      "Xã Nghi Hưng",
+      "Xã Nghi Phương"
+    ],
+    "treeCode": "1551.1655"
+  },
+  {
+    "id": 1656,
+    "communeCode": 1563,
+    "name": "Thành Bình Thọ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 88.18,
+    "population": 12021,
+    "administrativeCenter": "UBND xã Thành Sơn",
+    "longitude": 105.035,
+    "latitude": 19.085,
+    "previous": [
+      "Xã Bình Sơn (huyện Anh Sơn)",
+      "Xã Thành Sơn",
+      "Xã Thọ Sơn"
+    ],
+    "treeCode": "1551.1656"
+  },
+  {
+    "id": 1657,
+    "communeCode": 1683,
+    "name": "Thành Vinh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 15.54,
+    "population": 123507,
+    "administrativeCenter": "UBND TP Vinh",
+    "longitude": 105.66,
+    "latitude": 18.675,
+    "previous": [
+      "Phường Cửa Nam",
+      "Phường Đông Vĩnh",
+      "Phường Hưng Bình",
+      "Phường Lê Lợi",
+      "Phường Quang Trung",
+      "Xã Hưng Chính"
+    ],
+    "treeCode": "1551.1657"
+  },
+  {
+    "id": 1658,
+    "communeCode": 1674,
+    "name": "Thiên Nhẫn",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 70.81,
+    "population": 40885,
+    "administrativeCenter": "UBND xã Trung Phúc Cường",
+    "longitude": 105.554,
+    "latitude": 18.5971,
+    "previous": [
+      "Xã Khánh Sơn",
+      "Xã Nam Kim",
+      "Xã Trung Phúc Cường"
+    ],
+    "treeCode": "1551.1658"
+  },
+  {
+    "id": 1659,
+    "communeCode": 1635,
+    "name": "Thông Thụ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 706.75,
+    "population": 8481,
+    "administrativeCenter": "UBND xã Đồng Văn",
+    "longitude": 104.996,
+    "latitude": 19.8569,
+    "previous": [
+      "Xã Đồng Văn (huyện Quế Phong)",
+      "Xã Thông Thụ"
+    ],
+    "treeCode": "1551.1659"
+  },
+  {
+    "id": 1660,
+    "communeCode": 1605,
+    "name": "Thuần Trung",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 49.26,
+    "population": 40317,
+    "administrativeCenter": "UBND xã Xuân Sơn và Minh Sơn",
+    "longitude": 105.308,
+    "latitude": 18.8515,
+    "previous": [
+      "Xã Minh Sơn (huyện Đô Lương)",
+      "Xã Lạc Sơn",
+      "Xã Nhân Sơn",
+      "Xã Thuận Sơn",
+      "Xã Trung Sơn",
+      "Xã Xuân Sơn"
+    ],
+    "treeCode": "1551.1660"
+  },
+  {
+    "id": 1661,
+    "communeCode": 1582,
+    "name": "Tiên Đồng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 119.62,
+    "population": 19663,
+    "administrativeCenter": "UBND xã Đồng Văn",
+    "longitude": 105.105,
+    "latitude": 19.1201,
+    "previous": [
+      "Xã Đồng Văn (huyện Tân Kỳ)",
+      "Xã Tiên Kỳ"
+    ],
+    "treeCode": "1551.1661"
+  },
+  {
+    "id": 1662,
+    "communeCode": 1636,
+    "name": "Tiền Phong",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 319.02,
+    "population": 14494,
+    "administrativeCenter": "UBND xã Tiền Phong",
+    "longitude": 104.92,
+    "latitude": 19.6918,
+    "previous": [
+      "Xã Hạnh Dịch",
+      "Xã Tiền Phong"
+    ],
+    "treeCode": "1551.1662"
+  },
+  {
+    "id": 1663,
+    "communeCode": 1637,
+    "name": "Tri Lễ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 243.95,
+    "population": 14432,
+    "administrativeCenter": "UBND xã Tri Lễ",
+    "longitude": 104.716,
+    "latitude": 19.6069,
+    "previous": [
+      "Xã Nậm Nhoóng",
+      "Xã Tri Lễ"
+    ],
+    "treeCode": "1551.1663"
+  },
+  {
+    "id": 1664,
+    "communeCode": 1668,
+    "name": "Trung Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 31.35,
+    "population": 31182,
+    "administrativeCenter": "UBND xã Nghi Long và Nghi Xá",
+    "longitude": 105.66,
+    "latitude": 18.8231,
+    "previous": [
+      "Xã Nghi Long",
+      "Xã Nghi Quang",
+      "Xã Nghi Thuận",
+      "Xã Nghi Xá"
+    ],
+    "treeCode": "1551.1664"
+  },
+  {
+    "id": 1665,
+    "communeCode": 1660,
+    "name": "Trường Vinh",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 34.22,
+    "population": 141477,
+    "administrativeCenter": "UBND phường Trường Thi",
+    "longitude": 105.74,
+    "latitude": 18.6798,
+    "previous": [
+      "Phường Bến Thủy",
+      "Phường Hưng Dũng",
+      "Phường Hưng Phúc",
+      "Phường Trung Đô",
+      "Phường Trường Thi",
+      "Phường Vinh Tân",
+      "Xã Hưng Hòa"
+    ],
+    "treeCode": "1551.1665"
+  },
+  {
+    "id": 1666,
+    "communeCode": 1651,
+    "name": "Tương Dương",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 330.95,
+    "population": 18479,
+    "administrativeCenter": "UBND huyện Tương Dương",
+    "longitude": 104.394,
+    "latitude": 19.2473,
+    "previous": [
+      "Thị trấn Thạch Giám",
+      "Xã Lưu Kiền",
+      "Xã Xá Lượng"
+    ],
+    "treeCode": "1551.1666"
+  },
+  {
+    "id": 1667,
+    "communeCode": 1670,
+    "name": "Vạn An",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 56.37,
+    "population": 4483,
+    "administrativeCenter": "UBND huyện Nam Đàn",
+    "longitude": 105.492,
+    "latitude": 18.6862,
+    "previous": [
+      "Thị trấn Nam Đàn",
+      "Xã Thượng Tân Lộc",
+      "Xã Xuân Hòa"
+    ],
+    "treeCode": "1551.1667"
+  },
+  {
+    "id": 1668,
+    "communeCode": 1597,
+    "name": "Vân Du",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 84.3,
+    "population": 25868,
+    "administrativeCenter": "UBND xã Thịnh Thành",
+    "longitude": 105.352,
+    "latitude": 18.9881,
+    "previous": [
+      "Xã Minh Thành",
+      "Xã Tây Thành",
+      "Xã Thịnh Thành"
+    ],
+    "treeCode": "1551.1668"
+  },
+  {
+    "id": 1669,
+    "communeCode": 1604,
+    "name": "Văn Hiến",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 55.53,
+    "population": 39144,
+    "administrativeCenter": "UBND xã Thái Sơn và Tân Sơn",
+    "longitude": 105.372,
+    "latitude": 18.8946,
+    "previous": [
+      "Xã Tân Sơn (huyện Đô Lương)",
+      "Xã Hòa Sơn",
+      "Xã Quang Sơn",
+      "Xã Thái Sơn",
+      "Xã Thượng Sơn"
+    ],
+    "treeCode": "1551.1669"
+  },
+  {
+    "id": 1670,
+    "communeCode": 1664,
+    "name": "Văn Kiều",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 63.46,
+    "population": 28341,
+    "administrativeCenter": "UBND xã Nghi Kiều và Nghi Văn",
+    "longitude": 105.503,
+    "latitude": 18.8423,
+    "previous": [
+      "Xã Nghi Kiều",
+      "Xã Nghi Văn"
+    ],
+    "treeCode": "1551.1670"
+  },
+  {
+    "id": 1671,
+    "communeCode": 1600,
+    "name": "Vân Tụ",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 48.73,
+    "population": 43922,
+    "administrativeCenter": "UBND xã Vân Tụ",
+    "longitude": 105.428,
+    "latitude": 18.925,
+    "previous": [
+      "Xã Liên Thành",
+      "Xã Mỹ Thành",
+      "Xã Vân Tụ"
+    ],
+    "treeCode": "1551.1671"
+  },
+  {
+    "id": 1672,
+    "communeCode": 1692,
+    "name": "Vinh Hưng",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 25.47,
+    "population": 60159,
+    "administrativeCenter": "UBND xã Nghi Kim",
+    "longitude": 105.655,
+    "latitude": 18.7242,
+    "previous": [
+      "Phường Hưng Đông",
+      "Phường Quán Bàu",
+      "Xã Nghi Kim",
+      "Xã Nghi Liên"
+    ],
+    "treeCode": "1551.1672"
+  },
+  {
+    "id": 1673,
+    "communeCode": 1661,
+    "name": "Vinh Lộc",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 38.86,
+    "population": 68086,
+    "administrativeCenter": "UBND phường Hưng Lộc",
+    "longitude": 105.724,
+    "latitude": 18.7326,
+    "previous": [
+      "Phường Hưng Lộc",
+      "Xã Nghi Phong",
+      "Xã Nghi Thái",
+      "Xã Nghi Xuân",
+      "Xã Phúc Thọ"
+    ],
+    "treeCode": "1551.1673"
+  },
+  {
+    "id": 1674,
+    "communeCode": 1687,
+    "name": "Vinh Phú",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "phường",
+    "areaKm2": 23.04,
+    "population": 74473,
+    "administrativeCenter": "UBND phường Nghi Phú",
+    "longitude": 105.686,
+    "latitude": 18.7216,
+    "previous": [
+      "Phường Hà Huy Tập",
+      "Phường Nghi Đức",
+      "Phường Nghi Phú",
+      "Xã Nghi Ân"
+    ],
+    "treeCode": "1551.1674"
+  },
+  {
+    "id": 1675,
+    "communeCode": 1565,
+    "name": "Vĩnh Tường",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 67.01,
+    "population": 31676,
+    "administrativeCenter": "UBND xã Hoa Sơn",
+    "longitude": 105.028,
+    "latitude": 18.9438,
+    "previous": [
+      "Xã Hoa Sơn",
+      "Xã Hội Sơn",
+      "Xã Tường Sơn"
+    ],
+    "treeCode": "1551.1675"
+  },
+  {
+    "id": 1676,
+    "communeCode": 1574,
+    "name": "Xuân Lâm",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 60.88,
+    "population": 40624,
+    "administrativeCenter": "UBND xã Xuân Dương",
+    "longitude": 105.406,
+    "latitude": 18.7264,
+    "previous": [
+      "Xã Ngọc Sơn (huyện Thanh Chương)",
+      "Xã Minh Tiến",
+      "Xã Xuân Dương"
+    ],
+    "treeCode": "1551.1676"
+  },
+  {
+    "id": 1677,
+    "communeCode": 1657,
+    "name": "Yên Hòa",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 38.27,
+    "population": 17597,
+    "administrativeCenter": "UBND xã Yên Hòa",
+    "longitude": 104.695,
+    "latitude": 19.2825,
+    "previous": [
+      "Xã Yên Thắng",
+      "Xã Yên Hòa"
+    ],
+    "treeCode": "1551.1677"
+  },
+  {
+    "id": 1678,
+    "communeCode": 1654,
+    "name": "Yên Na",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 297.32,
+    "population": 953,
+    "administrativeCenter": "UBND xã Yên Na",
+    "longitude": 104.537,
+    "latitude": 19.352,
+    "previous": [
+      "Xã Yên Tĩnh",
+      "Xã Yên Na"
+    ],
+    "treeCode": "1551.1678"
+  },
+  {
+    "id": 1679,
+    "communeCode": 1592,
+    "name": "Yên Thành",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 38.13,
+    "population": 4778,
+    "administrativeCenter": "UBND huyện Yên Thành",
+    "longitude": 105.483,
+    "latitude": 19.0015,
+    "previous": [
+      "Thị trấn Hoa Thành",
+      "Xã Đông Thành",
+      "Xã Tăng Thành",
+      "Xã Văn Thành"
+    ],
+    "treeCode": "1551.1679"
+  },
+  {
+    "id": 1680,
+    "communeCode": 1676,
+    "name": "Yên Trung",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 37.74,
+    "population": 26239,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.591,
+    "latitude": 18.7559,
+    "previous": [
+      "Xã Hưng Yên Bắc",
+      "Xã Hưng Yên Nam",
+      "Xã Hưng Trung"
+    ],
+    "treeCode": "1551.1680"
+  },
+  {
+    "id": 1681,
+    "communeCode": 1567,
+    "name": "Yên Xuân",
+    "provinceCode": 17,
+    "provinceName": "tỉnh Nghệ An",
+    "type": "xã",
+    "areaKm2": 90.41,
+    "population": 27707,
+    "administrativeCenter": "UBND xã Khai Sơn",
+    "longitude": 105.164,
+    "latitude": 18.9049,
+    "previous": [
+      "Xã Cao Sơn",
+      "Xã Khai Sơn",
+      "Xã Lĩnh Sơn",
+      "Xã Long Sơn"
+    ],
+    "treeCode": "1551.1681"
+  }
+]

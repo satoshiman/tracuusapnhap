@@ -1,0 +1,1900 @@
+[
+  {
+    "id": 935,
+    "communeCode": 2262,
+    "name": "An Lạc",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 134.15,
+    "population": 8331,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lệ Viên (cũ)",
+    "longitude": 106.945,
+    "latitude": 21.3245,
+    "previous": [
+      "Xã Lệ Viễn",
+      "Xã An Lạc"
+    ],
+    "treeCode": "0934.0935"
+  },
+  {
+    "id": 936,
+    "communeCode": 2287,
+    "name": "Bắc Giang",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 23.23,
+    "population": 122838,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hoàng Văn Thụ (cũ)",
+    "longitude": 106.215,
+    "latitude": 21.2849,
+    "previous": [
+      "Phường Thọ Xương",
+      "Phường Ngô Quyền",
+      "Phường Xương Giang",
+      "Phường Hoàng Văn Thụ",
+      "Phường Trần Phú",
+      "Phường Dĩnh Kế",
+      "Phường Dĩnh Trì"
+    ],
+    "treeCode": "0934.0936"
+  },
+  {
+    "id": 937,
+    "communeCode": 2322,
+    "name": "Bắc Lũng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 53.72,
+    "population": 38118,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Sơn (cũ)",
+    "longitude": 106.352,
+    "latitude": 21.2615,
+    "previous": [
+      "Xã Yên Sơn",
+      "Xã Lan Mẫu",
+      "Xã Khám Lạng",
+      "Xã Bắc Lũng"
+    ],
+    "treeCode": "0934.0937"
+  },
+  {
+    "id": 938,
+    "communeCode": 2320,
+    "name": "Bảo Đài",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 83.02,
+    "population": 59169,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đảo Bái (cũ)",
+    "longitude": 106.358,
+    "latitude": 21.3514,
+    "previous": [
+      "Xã Bảo Sơn",
+      "Xã Thanh Lâm",
+      "Xã Tam Dị",
+      "Xã Bảo Đài"
+    ],
+    "treeCode": "0934.0938"
+  },
+  {
+    "id": 939,
+    "communeCode": 2254,
+    "name": "Biển Động",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 57.7,
+    "population": 17198,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Biển Đông (cũ)",
+    "longitude": 106.744,
+    "latitude": 21.3751,
+    "previous": [
+      "Thị trấn Biển Động",
+      "Xã Kim Sơn",
+      "Xã Phú Nhuận"
+    ],
+    "treeCode": "0934.0939"
+  },
+  {
+    "id": 940,
+    "communeCode": 2252,
+    "name": "Biên Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 294.22,
+    "population": 16112,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Phong Vân (cũ)",
+    "longitude": 106.749,
+    "latitude": 21.4706,
+    "previous": [
+      "Xã Phong Vân",
+      "Xã Biên Sơn",
+      "Trường bắn TB1"
+    ],
+    "treeCode": "0934.0940"
+  },
+  {
+    "id": 941,
+    "communeCode": 2305,
+    "name": "Bố Hạ",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 41.32,
+    "population": 27517,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Bố Hạ (cũ)",
+    "longitude": 106.258,
+    "latitude": 21.4684,
+    "previous": [
+      "Thị trấn Bố Hạ",
+      "Xã Đông Sơn",
+      "Xã Hương Vĩ"
+    ],
+    "treeCode": "0934.0941"
+  },
+  {
+    "id": 942,
+    "communeCode": 2357,
+    "name": "Bồng Lai",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 19.76,
+    "population": 25,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Bồng Lai (cũ)",
+    "longitude": 106.168,
+    "latitude": 21.1212,
+    "previous": [
+      "Phường Cách Bi",
+      "Phường Bồng Lai",
+      "Xã Mộ Đạo"
+    ],
+    "treeCode": "0934.0942"
+  },
+  {
+    "id": 943,
+    "communeCode": 2323,
+    "name": "Cẩm Lý",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 49.08,
+    "population": 20084,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Cẩm Lý (cũ)",
+    "longitude": 106.366,
+    "latitude": 21.2099,
+    "previous": [
+      "Xã Đan Hội",
+      "Xã Cẩm Lý"
+    ],
+    "treeCode": "0934.0943"
+  },
+  {
+    "id": 944,
+    "communeCode": 2294,
+    "name": "Cảnh Thụy",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 27.73,
+    "population": 26928,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Canh Thụy (cũ)",
+    "longitude": 106.266,
+    "latitude": 21.1889,
+    "previous": [
+      "Phường Cảnh Thụy",
+      "Xã Tiến Dũng",
+      "Xã Tư Mại"
+    ],
+    "treeCode": "0934.0944"
+  },
+  {
+    "id": 945,
+    "communeCode": 2276,
+    "name": "Cao Đức",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 19.76,
+    "population": 17,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Cao Đức (cũ)",
+    "longitude": 106.276,
+    "latitude": 21.0926,
+    "previous": [
+      "Xã Vạn Ninh",
+      "Xã Cao Đức"
+    ],
+    "treeCode": "0934.0945"
+  },
+  {
+    "id": 946,
+    "communeCode": 2325,
+    "name": "Chi Lăng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 23.5487,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Chi Lăng (cũ)",
+    "longitude": 106.121,
+    "latitude": 21.1042,
+    "previous": [
+      "Xã Yên Giả",
+      "Xã Chi Lăng"
+    ],
+    "treeCode": "0934.0946"
+  },
+  {
+    "id": 947,
+    "communeCode": 2247,
+    "name": "Chũ",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 57.18,
+    "population": 58409,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Chũ (cũ)",
+    "longitude": 106.586,
+    "latitude": 21.4041,
+    "previous": [
+      "Phường Thanh Hải",
+      "Phường Hồng Giang",
+      "Phường Trù Hựu",
+      "Phường Chũ"
+    ],
+    "treeCode": "0934.0947"
+  },
+  {
+    "id": 948,
+    "communeCode": 2288,
+    "name": "Đa Mai",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 33.1,
+    "population": 51733,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đa Mai (cũ)",
+    "longitude": 106.169,
+    "latitude": 21.2995,
+    "previous": [
+      "Phường Tân Mỹ",
+      "Phường Mỹ Độ",
+      "Phường Song Mai",
+      "Phường Đa Mai",
+      "Xã Quế Nham"
+    ],
+    "treeCode": "0934.0948"
+  },
+  {
+    "id": 949,
+    "communeCode": 2266,
+    "name": "Đại Đồng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 77.87,
+    "population": 63131,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hoàn Sơn (cũ)",
+    "longitude": 106,
+    "latitude": 21.0955,
+    "previous": [
+      "Xã Tri Phương",
+      "Xã Hoàn Sơn",
+      "Xã Đại Đồng"
+    ],
+    "treeCode": "0934.0949"
+  },
+  {
+    "id": 950,
+    "communeCode": 2277,
+    "name": "Đại Lai",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 15.32,
+    "population": 19,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đại Lai (cũ)",
+    "longitude": 106.212,
+    "latitude": 21.0893,
+    "previous": [
+      "Xã Song Giang",
+      "Xã Đại Lai"
+    ],
+    "treeCode": "0934.0950"
+  },
+  {
+    "id": 951,
+    "communeCode": 2260,
+    "name": "Đại Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 22.99,
+    "population": 30616,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã (cũ)",
+    "longitude": 106.835,
+    "latitude": 21.4075,
+    "previous": [
+      "Xã Giáo Liêm",
+      "Xã Phúc Sơn",
+      "Xã Đại Sơn"
+    ],
+    "treeCode": "0934.0951"
+  },
+  {
+    "id": 952,
+    "communeCode": 2329,
+    "name": "Đào Viên",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 26.63,
+    "population": 35,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đào Viên (cũ)",
+    "longitude": 106.216,
+    "latitude": 21.1274,
+    "previous": [
+      "Phường Phù Lương",
+      "Xã Ngọc Xá",
+      "Xã Đào Viên"
+    ],
+    "treeCode": "0934.0952"
+  },
+  {
+    "id": 953,
+    "communeCode": 2256,
+    "name": "Đèo Gia",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 102.93,
+    "population": 1468,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tân Lập (cũ)",
+    "longitude": 106.675,
+    "latitude": 21.3146,
+    "previous": [
+      "Xã Tân Lập",
+      "Xã Đèo Gia"
+    ],
+    "treeCode": "0934.0953"
+  },
+  {
+    "id": 954,
+    "communeCode": 2279,
+    "name": "Đông Cứu",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 20.39,
+    "population": 29,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đông Cứu (cũ)",
+    "longitude": 106.156,
+    "latitude": 21.0706,
+    "previous": [
+      "Xã Giang Sơn",
+      "Xã Lãng Ngâm",
+      "Xã Đông Cứu"
+    ],
+    "treeCode": "0934.0954"
+  },
+  {
+    "id": 955,
+    "communeCode": 2304,
+    "name": "Đồng Kỳ",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 61.44,
+    "population": 22833,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã (cũ)",
+    "longitude": 106.137,
+    "latitude": 21.5294,
+    "previous": [
+      "Xã Đồng Hưu",
+      "Xã Đồng Vương",
+      "Xã Đồng Kỳ"
+    ],
+    "treeCode": "0934.0955"
+  },
+  {
+    "id": 956,
+    "communeCode": 2330,
+    "name": "Đồng Nguyên",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 12.64,
+    "population": 46,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đồng Nguyên (cũ)",
+    "longitude": 105.962,
+    "latitude": 21.1304,
+    "previous": [
+      "Phường Trang Hạ",
+      "Phường Đồng Kỵ",
+      "Phường Đồng Nguyên"
+    ],
+    "treeCode": "0934.0956"
+  },
+  {
+    "id": 957,
+    "communeCode": 2319,
+    "name": "Đông Phú",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 77.05,
+    "population": 23733,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đông Hưng (cũ)",
+    "longitude": 106.438,
+    "latitude": 21.384,
+    "previous": [
+      "Xã Đông Hưng",
+      "Xã Đông Phú"
+    ],
+    "treeCode": "0934.0957"
+  },
+  {
+    "id": 958,
+    "communeCode": 2313,
+    "name": "Đồng Việt",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 33.21,
+    "population": 26714,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đức Giang (cũ)",
+    "longitude": 106.297,
+    "latitude": 21.1622,
+    "previous": [
+      "Xã Đức Giang",
+      "Xã Đồng Phúc",
+      "Xã Đồng Việt"
+    ],
+    "treeCode": "0934.0958"
+  },
+  {
+    "id": 959,
+    "communeCode": 2265,
+    "name": "Dương Hưu",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 142.59,
+    "population": 12499,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Dương Hưu, Long Sơn (cũ)",
+    "longitude": 106.912,
+    "latitude": 21.2329,
+    "previous": [
+      "Xã Long Sơn",
+      "Xã Dương Hưu"
+    ],
+    "treeCode": "0934.0959"
+  },
+  {
+    "id": 960,
+    "communeCode": 2275,
+    "name": "Gia Bình",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 29.98,
+    "population": 43,
+    "administrativeCenter": "Trụ sở Huyện ủy và UBND huyện Gia Bình (cũ)",
+    "longitude": 106.181,
+    "latitude": 21.05,
+    "previous": [
+      "Thị trấn Gia Bình",
+      "Xã Xuân Lai",
+      "Xã Quỳnh Phú",
+      "Xã Đại Bái"
+    ],
+    "treeCode": "0934.0960"
+  },
+  {
+    "id": 961,
+    "communeCode": 2338,
+    "name": "Hạp Lĩnh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 12.65,
+    "population": 23,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hạp Lĩnh (cũ)",
+    "longitude": 106.066,
+    "latitude": 21.1396,
+    "previous": [
+      "Phường Khắc Niệm",
+      "Phường Hạp Lĩnh"
+    ],
+    "treeCode": "0934.0961"
+  },
+  {
+    "id": 962,
+    "communeCode": 2297,
+    "name": "Hiệp Hòa",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 62.1289,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Thắng (cũ)",
+    "longitude": 105.999,
+    "latitude": 21.3189,
+    "previous": [
+      "Thị trấn Thắng",
+      "Xã Đông Lỗ",
+      "Xã Đoan Bái",
+      "Xã Danh Thắng",
+      "Xã Lương Phong"
+    ],
+    "treeCode": "0934.0962"
+  },
+  {
+    "id": 963,
+    "communeCode": 2298,
+    "name": "Hoàng Vân",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 40.23,
+    "population": 52899,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hoàng Vân (cũ)",
+    "longitude": 105.982,
+    "latitude": 21.3882,
+    "previous": [
+      "Xã Đồng Tiến (huyện Hiệp Hòa)",
+      "Xã Toàn Thắng",
+      "Xã Ngọc Sơn",
+      "Xã Hoàng Vân"
+    ],
+    "treeCode": "0934.0963"
+  },
+  {
+    "id": 964,
+    "communeCode": 2299,
+    "name": "Hợp Thịnh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 49.27,
+    "population": 71714,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hùng Thái (cũ)",
+    "longitude": 105.928,
+    "latitude": 21.3377,
+    "previous": [
+      "Xã Thường Thắng",
+      "Xã Mai Trung",
+      "Xã Hùng Thái",
+      "Xã Sơn Thịnh",
+      "Xã Hợp Thịnh"
+    ],
+    "treeCode": "0934.0964"
+  },
+  {
+    "id": 965,
+    "communeCode": 2312,
+    "name": "Kép",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 58.65,
+    "population": 42576,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Kép (cũ)",
+    "longitude": 106.296,
+    "latitude": 21.4148,
+    "previous": [
+      "Thị trấn Kép",
+      "Xã Quang Thịnh",
+      "Xã Hương Sơn"
+    ],
+    "treeCode": "0934.0965"
+  },
+  {
+    "id": 966,
+    "communeCode": 2251,
+    "name": "Kiên Lao",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 85.57,
+    "population": 18987,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Kiên Lao (cũ)",
+    "longitude": 106.522,
+    "latitude": 21.4409,
+    "previous": [
+      "Xã Kiên Thành",
+      "Xã Kiên Lao"
+    ],
+    "treeCode": "0934.0966"
+  },
+  {
+    "id": 967,
+    "communeCode": 2285,
+    "name": "Kinh Bắc",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 19.95,
+    "population": 84,
+    "administrativeCenter": "Trụ sở Thành ủy và UBND TP Bắc Ninh. (cũ)",
+    "longitude": 106.058,
+    "latitude": 21.1993,
+    "previous": [
+      "Phường Suối Hoa",
+      "Phường Tiền Ninh Vệ",
+      "Phường Vạn An",
+      "Phường Hòa Long",
+      "Phường Khúc Xuyên",
+      "Phường Kinh Bắc"
+    ],
+    "treeCode": "0934.0967"
+  },
+  {
+    "id": 968,
+    "communeCode": 2283,
+    "name": "Lâm Thao",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 15.45,
+    "population": 31321,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Bình Định (cũ)",
+    "longitude": 106.168,
+    "latitude": 21.0049,
+    "previous": [
+      "Xã Bình Định",
+      "Xã Quảng Phú",
+      "Xã Lâm Thao"
+    ],
+    "treeCode": "0934.0968"
+  },
+  {
+    "id": 969,
+    "communeCode": 2310,
+    "name": "Lạng Giang",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 55.41,
+    "population": 63413,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Vôi (cũ)",
+    "longitude": 106.27,
+    "latitude": 21.3564,
+    "previous": [
+      "Thị trấn Vôi",
+      "Xã Xương Lâm",
+      "Xã Hương Lạc",
+      "Xã Tân Hưng"
+    ],
+    "treeCode": "0934.0969"
+  },
+  {
+    "id": 970,
+    "communeCode": 2272,
+    "name": "Liên Bão",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 19.82,
+    "population": 34,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Liên Bão (cũ)",
+    "longitude": 106.038,
+    "latitude": 21.1195,
+    "previous": [
+      "Xã Hiên Vân",
+      "Xã Việt Đoàn",
+      "Xã Liên Bão"
+    ],
+    "treeCode": "0934.0970"
+  },
+  {
+    "id": 971,
+    "communeCode": 2318,
+    "name": "Lục Nam",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 58.91,
+    "population": 5805,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Đồi Ngô (cũ)",
+    "longitude": 106.417,
+    "latitude": 21.3088,
+    "previous": [
+      "Thị trấn Phương Sơn",
+      "Thị trấn Đồi Ngô",
+      "Xã Cương Sơn",
+      "Xã Tiên Nha",
+      "Xã Chu Điện"
+    ],
+    "treeCode": "0934.0971"
+  },
+  {
+    "id": 972,
+    "communeCode": 2253,
+    "name": "Lục Ngạn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 82.71,
+    "population": 42367,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Phì Điền (cũ)",
+    "longitude": 106.678,
+    "latitude": 21.3848,
+    "previous": [
+      "Thị trấn Phì Điền",
+      "Xã Giáp Sơn",
+      "Xã Đồng Cốc",
+      "Xã Tân Hoa",
+      "Xã Tân Quang"
+    ],
+    "treeCode": "0934.0972"
+  },
+  {
+    "id": 973,
+    "communeCode": 2246,
+    "name": "Lục Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 125.98,
+    "population": 16499,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Bình Sơn (cũ)",
+    "longitude": 106.629,
+    "latitude": 21.2259,
+    "previous": [
+      "Xã Bình Sơn",
+      "Xã Lục Sơn"
+    ],
+    "treeCode": "0934.0973"
+  },
+  {
+    "id": 974,
+    "communeCode": 2280,
+    "name": "Lương Tài",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 24.69,
+    "population": 32,
+    "administrativeCenter": "Trụ sở Huyện ủy và UBND huyện Lương Tài (cũ)",
+    "longitude": 106.223,
+    "latitude": 21.0411,
+    "previous": [
+      "Thị trấn Thứa",
+      "Xã Phú Hòa",
+      "Xã Tân Lãng"
+    ],
+    "treeCode": "0934.0974"
+  },
+  {
+    "id": 975,
+    "communeCode": 2332,
+    "name": "Mão Điền",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 19.5,
+    "population": 43,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Mão Điền (cũ)",
+    "longitude": 106.118,
+    "latitude": 21.0612,
+    "previous": [
+      "Phường An Bình",
+      "Xã Hoài Thượng",
+      "Xã Mão Điền"
+    ],
+    "treeCode": "0934.0975"
+  },
+  {
+    "id": 976,
+    "communeCode": 2316,
+    "name": "Mỹ Thái",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 46.63,
+    "population": 46469,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Mỹ Thái (cũ)",
+    "longitude": 106.212,
+    "latitude": 21.3513,
+    "previous": [
+      "Xã Xuân Hương",
+      "Xã Dương Đức",
+      "Xã Tân Thanh",
+      "Xã Mỹ Thái"
+    ],
+    "treeCode": "0934.0976"
+  },
+  {
+    "id": 977,
+    "communeCode": 2255,
+    "name": "Nam Dương",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 67.19,
+    "population": 16989,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Nam Dương (cũ)",
+    "longitude": 106.587,
+    "latitude": 21.3146,
+    "previous": [
+      "Xã Tân Mộc",
+      "Xã Nam Dương"
+    ],
+    "treeCode": "0934.0977"
+  },
+  {
+    "id": 978,
+    "communeCode": 2337,
+    "name": "Nam Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 18.53,
+    "population": 44,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Nam Sơn (cũ)",
+    "longitude": 106.103,
+    "latitude": 21.1474,
+    "previous": [
+      "Phường Vân Dương",
+      "Phường Nam Sơn"
+    ],
+    "treeCode": "0934.0978"
+  },
+  {
+    "id": 979,
+    "communeCode": 2296,
+    "name": "Nếnh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 35.98,
+    "population": 55559,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Nếnh (cũ)",
+    "longitude": 106.123,
+    "latitude": 21.2338,
+    "previous": [
+      "Phường Quang Châu",
+      "Phường Vân Trung",
+      "Phường Tăng Tiến",
+      "Phường Nếnh"
+    ],
+    "treeCode": "0934.0979"
+  },
+  {
+    "id": 980,
+    "communeCode": 2321,
+    "name": "Nghĩa Phương",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 88.32,
+    "population": 2783,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã (cũ)",
+    "longitude": 106.461,
+    "latitude": 21.2703,
+    "previous": [
+      "Xã Trường Giang",
+      "Xã Huyền Sơn",
+      "Xã Nghĩa Phương"
+    ],
+    "treeCode": "0934.0980"
+  },
+  {
+    "id": 981,
+    "communeCode": 2309,
+    "name": "Ngọc Thiện",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 51.26,
+    "population": 56702,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Ngọc Vân (cũ)",
+    "longitude": 106.059,
+    "latitude": 21.366,
+    "previous": [
+      "Xã Song Vân",
+      "Xã Ngọc Châu",
+      "Xã Ngọc Vân",
+      "Xã Việt Ngọc",
+      "Xã Ngọc Thiện"
+    ],
+    "treeCode": "0934.0981"
+  },
+  {
+    "id": 982,
+    "communeCode": 2307,
+    "name": "Nhã Nam",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 34.43,
+    "population": 33127,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Nhã Nam (cũ)",
+    "longitude": 106.105,
+    "latitude": 21.4249,
+    "previous": [
+      "Thị trấn Nhã Nam",
+      "Xã Tân Trung",
+      "Xã Liên Sơn",
+      "Xã An Dương"
+    ],
+    "treeCode": "0934.0982"
+  },
+  {
+    "id": 983,
+    "communeCode": 2327,
+    "name": "Nhân Hòa",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 20.3,
+    "population": 31,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đại Xuân (cũ)",
+    "longitude": 106.139,
+    "latitude": 21.1905,
+    "previous": [
+      "Phường Đại Xuân",
+      "Phường Nhân Hòa",
+      "Xã Việt Thống"
+    ],
+    "treeCode": "0934.0983"
+  },
+  {
+    "id": 984,
+    "communeCode": 2278,
+    "name": "Nhân Thắng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 22.14,
+    "population": 27,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Bình Dương (cũ)",
+    "longitude": 106.24,
+    "latitude": 21.0796,
+    "previous": [
+      "Thị trấn Nhân Thắng",
+      "Xã Thái Bảo",
+      "Xã Bình Dương"
+    ],
+    "treeCode": "0934.0984"
+  },
+  {
+    "id": 985,
+    "communeCode": 2335,
+    "name": "Ninh Xá",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 15.81,
+    "population": 22,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Ninh Xá (cũ)",
+    "longitude": 106.08,
+    "latitude": 21.0113,
+    "previous": [
+      "Phường Ninh Xá",
+      "Xã Nguyệt Đức"
+    ],
+    "treeCode": "0934.0985"
+  },
+  {
+    "id": 986,
+    "communeCode": 2273,
+    "name": "Phật Tích",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 16.83,
+    "population": 24,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Phật Tích (cũ)",
+    "longitude": 106.041,
+    "latitude": 21.0895,
+    "previous": [
+      "Xã Minh Đạo",
+      "Xã Cảnh Hưng",
+      "Xã Phật Tích"
+    ],
+    "treeCode": "0934.0986"
+  },
+  {
+    "id": 987,
+    "communeCode": 2364,
+    "name": "Phù Khê",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 14.03,
+    "population": 51,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Phù Khê (cũ)",
+    "longitude": 105.933,
+    "latitude": 21.1395,
+    "previous": [
+      "Phường Châu Khê",
+      "Phường Hương Mạc",
+      "Phường Phù Khê"
+    ],
+    "treeCode": "0934.0987"
+  },
+  {
+    "id": 988,
+    "communeCode": 2356,
+    "name": "Phù Lãng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 28.15,
+    "population": 27,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Phù Lãng (cũ)",
+    "longitude": 106.258,
+    "latitude": 21.1351,
+    "previous": [
+      "Xã Châu Phong",
+      "Xã Đức Long",
+      "Xã Phù Lãng"
+    ],
+    "treeCode": "0934.0988"
+  },
+  {
+    "id": 989,
+    "communeCode": 2308,
+    "name": "Phúc Hoà",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 32.69,
+    "population": 24998,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hợp Đức (cũ)",
+    "longitude": 106.161,
+    "latitude": 21.3912,
+    "previous": [
+      "Xã Hợp Đức",
+      "Xã Liên Chung",
+      "Xã Phúc Hòa"
+    ],
+    "treeCode": "0934.0989"
+  },
+  {
+    "id": 990,
+    "communeCode": 2328,
+    "name": "Phương Liễu",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 13.37,
+    "population": 42,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Phương Liễu (cũ)",
+    "longitude": 106.13,
+    "latitude": 21.1591,
+    "previous": [
+      "Phường Phượng Mao",
+      "Phường Phương Liễu"
+    ],
+    "treeCode": "0934.0990"
+  },
+  {
+    "id": 991,
+    "communeCode": 2257,
+    "name": "Phượng Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 78.8549,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Phượng Sơn (cũ)",
+    "longitude": 106.506,
+    "latitude": 21.3557,
+    "previous": [
+      "Phường Phượng Sơn",
+      "Xã Quý Sơn",
+      "Xã Mỹ An"
+    ],
+    "treeCode": "0934.0991"
+  },
+  {
+    "id": 992,
+    "communeCode": 2290,
+    "name": "Quang Trung",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 82.6,
+    "population": 5975,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lam Sơn (cũ)",
+    "longitude": 106.056,
+    "latitude": 21.4248,
+    "previous": [
+      "Xã Lam Sơn",
+      "Xã Quang Trung"
+    ],
+    "treeCode": "0934.0992"
+  },
+  {
+    "id": 993,
+    "communeCode": 2324,
+    "name": "Quế Võ",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 23.51,
+    "population": 40,
+    "administrativeCenter": "Trụ sở Thị ủy và UBND thị xã Quế Võ (cũ)",
+    "longitude": 106.176,
+    "latitude": 21.1594,
+    "previous": [
+      "Phường Phố Mới",
+      "Phường Bằng An",
+      "Phường Việt Hùng",
+      "Phường Quế Tân"
+    ],
+    "treeCode": "0934.0993"
+  },
+  {
+    "id": 994,
+    "communeCode": 2249,
+    "name": "Sa Lý",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 83.95,
+    "population": 6352,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Phong Minh (cũ)",
+    "longitude": 106.774,
+    "latitude": 21.5371,
+    "previous": [
+      "Xã Phong Minh",
+      "Xã Sa Lý"
+    ],
+    "treeCode": "0934.0994"
+  },
+  {
+    "id": 995,
+    "communeCode": 2258,
+    "name": "Sơn Động",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 78.72,
+    "population": 24394,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND huyện Sơn Động (cũ)",
+    "longitude": 106.847,
+    "latitude": 21.3265,
+    "previous": [
+      "Thị trấn An Châu",
+      "Xã An Bá",
+      "Xã Vĩnh An"
+    ],
+    "treeCode": "0934.0995"
+  },
+  {
+    "id": 996,
+    "communeCode": 2250,
+    "name": "Sơn Hải",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 4.31,
+    "population": 2789,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hộ Đáp (cũ)",
+    "longitude": 106.581,
+    "latitude": 21.509,
+    "previous": [
+      "Xã Hộ Đáp",
+      "Xã Sơn Hải"
+    ],
+    "treeCode": "0934.0996"
+  },
+  {
+    "id": 997,
+    "communeCode": 2336,
+    "name": "Song Liễu",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 17.75,
+    "population": 32,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Xuân Lâm (cũ)",
+    "longitude": 106.027,
+    "latitude": 21.0163,
+    "previous": [
+      "Phường Xuân Lâm",
+      "Phường Hà Mãn",
+      "Xã Ngũ Thái",
+      "Xã Song Liễu"
+    ],
+    "treeCode": "0934.0997"
+  },
+  {
+    "id": 998,
+    "communeCode": 2267,
+    "name": "Tam Đa",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 20.52,
+    "population": 37,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thụy Hòa (cũ)",
+    "longitude": 106.021,
+    "latitude": 21.214,
+    "previous": [
+      "Xã Thụy Hòa",
+      "Xã Đông Phong",
+      "Xã Tam Đa"
+    ],
+    "treeCode": "0934.0998"
+  },
+  {
+    "id": 999,
+    "communeCode": 2268,
+    "name": "Tam Giang",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 205.2,
+    "population": 23277,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tam Giang (cũ)",
+    "longitude": 105.931,
+    "latitude": 21.2212,
+    "previous": [
+      "Xã Hòa Tiến",
+      "Xã Tam Giang"
+    ],
+    "treeCode": "0934.0999"
+  },
+  {
+    "id": 1000,
+    "communeCode": 2363,
+    "name": "Tam Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 14.11,
+    "population": 29,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Tam Sơn  (cũ)",
+    "longitude": 105.98,
+    "latitude": 21.1488,
+    "previous": [
+      "Phường Tương Giang",
+      "Phường Tam Sơn"
+    ],
+    "treeCode": "0934.1000"
+  },
+  {
+    "id": 1001,
+    "communeCode": 2302,
+    "name": "Tam Tiến",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 60.34,
+    "population": 17639,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tiến Thắng (cũ)",
+    "longitude": 106.076,
+    "latitude": 21.5025,
+    "previous": [
+      "Xã Tiến Thắng",
+      "Xã An Thượng",
+      "Xã Tam Tiến"
+    ],
+    "treeCode": "0934.1001"
+  },
+  {
+    "id": 1002,
+    "communeCode": 2292,
+    "name": "Tân An",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 8.06,
+    "population": 85997,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Tâm An (cũ)",
+    "longitude": 106.294,
+    "latitude": 21.2403,
+    "previous": [
+      "Phường Tân An",
+      "Xã Quỳnh Sơn",
+      "Xã Trí Yên",
+      "Xã Lãng Sơn"
+    ],
+    "treeCode": "0934.1002"
+  },
+  {
+    "id": 1003,
+    "communeCode": 2274,
+    "name": "Tân Chi",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 18.11,
+    "population": 28,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lạc Vệ (cũ)",
+    "longitude": 106.085,
+    "latitude": 21.1057,
+    "previous": [
+      "Xã Lạc Vệ",
+      "Xã Tân Chi"
+    ],
+    "treeCode": "0934.1003"
+  },
+  {
+    "id": 1004,
+    "communeCode": 2317,
+    "name": "Tân Dĩnh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 31.96,
+    "population": 35334,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tân Dĩnh (cũ)",
+    "longitude": 106.27,
+    "latitude": 21.3019,
+    "previous": [
+      "Xã Tân Dĩnh",
+      "Xã Thái Đào",
+      "Xã Đại Lâm"
+    ],
+    "treeCode": "0934.1004"
+  },
+  {
+    "id": 1005,
+    "communeCode": 2248,
+    "name": "Tân Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 118.21,
+    "population": 18246,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tân Sơn (cũ)",
+    "longitude": 106.616,
+    "latitude": 21.5732,
+    "previous": [
+      "Xã Cấm Sơn",
+      "Xã Tân Sơn"
+    ],
+    "treeCode": "0934.1005"
+  },
+  {
+    "id": 1006,
+    "communeCode": 2293,
+    "name": "Tân Tiến",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 25.46,
+    "population": 34321,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Tân Tiến (cũ)",
+    "longitude": 106.243,
+    "latitude": 21.2594,
+    "previous": [
+      "Phường Hương Gián",
+      "Phường Tân Tiến",
+      "Xã Xuân Phú"
+    ],
+    "treeCode": "0934.1006"
+  },
+  {
+    "id": 1007,
+    "communeCode": 2306,
+    "name": "Tân Yên",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 192.79,
+    "population": 1838,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Cao Thượng (cũ)",
+    "longitude": 106.127,
+    "latitude": 21.3653,
+    "previous": [
+      "Thị trấn Cao Thượng",
+      "Xã Cao Xá",
+      "Xã Việt Lập",
+      "Xã Ngọc Lý"
+    ],
+    "treeCode": "0934.1007"
+  },
+  {
+    "id": 1008,
+    "communeCode": 2259,
+    "name": "Tây Yên Tử",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 132.76,
+    "population": 10612,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Tây Yên Tử (cũ)",
+    "longitude": 106.766,
+    "latitude": 21.1956,
+    "previous": [
+      "Thị trấn Tây Yên Tử",
+      "Xã Thanh Luận"
+    ],
+    "treeCode": "0934.1008"
+  },
+  {
+    "id": 1009,
+    "communeCode": 2331,
+    "name": "Thuận Thành",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 26.58,
+    "population": 52,
+    "administrativeCenter": "Trụ sở Thị ủy và UBND thị xã Thuận Thành (cũ)",
+    "longitude": 106.087,
+    "latitude": 21.045,
+    "previous": [
+      "Phường Hồ",
+      "Phường Song Hồ",
+      "Phường Gia Đông",
+      "Xã Đại Đồng Thành"
+    ],
+    "treeCode": "0934.1009"
+  },
+  {
+    "id": 1010,
+    "communeCode": 2271,
+    "name": "Tiên Du",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 20.97,
+    "population": 45,
+    "administrativeCenter": "Trụ sở Huyện ủy và UBND huyện Tiên Du  (cũ)",
+    "longitude": 106.022,
+    "latitude": 21.1529,
+    "previous": [
+      "Thị trấn Lim",
+      "Xã Nội Duệ",
+      "Xã Phú Lâm"
+    ],
+    "treeCode": "0934.1010"
+  },
+  {
+    "id": 1011,
+    "communeCode": 2311,
+    "name": "Tiên Lục",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 51.49,
+    "population": 5922,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Nghĩa Hưng (cũ)",
+    "longitude": 106.216,
+    "latitude": 21.4174,
+    "previous": [
+      "Xã Đào Mỹ",
+      "Xã Nghĩa Hòa",
+      "Xã An Hà",
+      "Xã Nghĩa Hưng",
+      "Xã Tiên Lục"
+    ],
+    "treeCode": "0934.1011"
+  },
+  {
+    "id": 1012,
+    "communeCode": 2289,
+    "name": "Tiền Phong",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 30.7,
+    "population": 36335,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đồng Sơn (cũ)",
+    "longitude": 106.183,
+    "latitude": 21.2374,
+    "previous": [
+      "Phường Nội Hoàng",
+      "Phường Song Khê",
+      "Phường Đồng Sơn",
+      "Phường Tiền Phong"
+    ],
+    "treeCode": "0934.1012"
+  },
+  {
+    "id": 1013,
+    "communeCode": 2334,
+    "name": "Trạm Lộ",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 18.24,
+    "population": 21,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Trạm (cũ)",
+    "longitude": 106.119,
+    "latitude": 21.0019,
+    "previous": [
+      "Phường Trạm Lộ",
+      "Xã Nghĩa Đạo"
+    ],
+    "treeCode": "0934.1013"
+  },
+  {
+    "id": 1014,
+    "communeCode": 2333,
+    "name": "Trí Quả",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 19.95,
+    "population": 35,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Thanh Khương (cũ)",
+    "longitude": 106.037,
+    "latitude": 21.0514,
+    "previous": [
+      "Phường Thanh Khương",
+      "Phường Trí Quả",
+      "Xã Đình Tổ"
+    ],
+    "treeCode": "0934.1014"
+  },
+  {
+    "id": 1015,
+    "communeCode": 2282,
+    "name": "Trung Chính",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 44.09,
+    "population": 3544,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Trung Chính (cũ)",
+    "longitude": 106.236,
+    "latitude": 21.0073,
+    "previous": [
+      "Xã Phú Lương",
+      "Xã Quang Minh",
+      "Xã Trung Chính"
+    ],
+    "treeCode": "0934.1015"
+  },
+  {
+    "id": 1016,
+    "communeCode": 2281,
+    "name": "Trung Kênh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 27.32,
+    "population": 39,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã An Thịnh (cũ)",
+    "longitude": 106.278,
+    "latitude": 21.0439,
+    "previous": [
+      "Xã An Thịnh",
+      "Xã An Tập",
+      "Xã Trung Kênh"
+    ],
+    "treeCode": "0934.1016"
+  },
+  {
+    "id": 1017,
+    "communeCode": 2245,
+    "name": "Trường Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 935.96,
+    "population": 8484,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Vô Tranh (cũ)",
+    "longitude": 106.542,
+    "latitude": 21.2532,
+    "previous": [
+      "Xã Vô Tranh",
+      "Xã Trường Sơn"
+    ],
+    "treeCode": "0934.1017"
+  },
+  {
+    "id": 1018,
+    "communeCode": 2314,
+    "name": "Tự Lạn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 39.89,
+    "population": 4547,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Tự Lạn (cũ)",
+    "longitude": 106.059,
+    "latitude": 21.3075,
+    "previous": [
+      "Phường Tự Lạn",
+      "Xã Việt Tiến",
+      "Xã Thượng Lan",
+      "Xã Hương Mai"
+    ],
+    "treeCode": "0934.1018"
+  },
+  {
+    "id": 1019,
+    "communeCode": 2358,
+    "name": "Từ Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 20.31,
+    "population": 66,
+    "administrativeCenter": "Trụ sở Thành ủy và UBND TP Từ Sơn (cũ)",
+    "longitude": 105.963,
+    "latitude": 21.0994,
+    "previous": [
+      "Phường Đông Ngàn",
+      "Phường Tân Hồng",
+      "Phường Phù Chẩn",
+      "Phường Đình Bảng"
+    ],
+    "treeCode": "0934.1019"
+  },
+  {
+    "id": 1020,
+    "communeCode": 2264,
+    "name": "Tuấn Đạo",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 97.87,
+    "population": 6407,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Tuấn Đạo (cũ)",
+    "longitude": 106.769,
+    "latitude": 21.2754,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0934.1020"
+  },
+  {
+    "id": 1021,
+    "communeCode": 2295,
+    "name": "Vân Hà",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 43.17,
+    "population": 58177,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Ninh Sơn (cũ)",
+    "longitude": 106.059,
+    "latitude": 21.2483,
+    "previous": [
+      "Phường Ninh Sơn",
+      "Phường Quảng Minh",
+      "Xã Tiên Sơn",
+      "Xã Trung Sơn",
+      "Xã Vân Hà"
+    ],
+    "treeCode": "0934.1021"
+  },
+  {
+    "id": 1022,
+    "communeCode": 2270,
+    "name": "Văn Môn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 15.26,
+    "population": 37,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Văn Môn (cũ)",
+    "longitude": 105.938,
+    "latitude": 21.1762,
+    "previous": [
+      "Xã Yên Phụ",
+      "Xã Đông Thọ",
+      "Xã Văn Môn"
+    ],
+    "treeCode": "0934.1022"
+  },
+  {
+    "id": 1023,
+    "communeCode": 2261,
+    "name": "Vân Sơn",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 120.53,
+    "population": 9197,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Vân Sơn (cũ)",
+    "longitude": 106.94,
+    "latitude": 21.4007,
+    "previous": [
+      "Xã Hữu Sản",
+      "Xã Vân Sơn"
+    ],
+    "treeCode": "0934.1023"
+  },
+  {
+    "id": 1024,
+    "communeCode": 2315,
+    "name": "Việt Yên",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 51.97,
+    "population": 5947,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Bích Động (cũ)",
+    "longitude": 106.119,
+    "latitude": 21.2955,
+    "previous": [
+      "Phường Bích Động",
+      "Phường Hồng Thái",
+      "Xã Minh Đức",
+      "Xã Nghĩa Trung"
+    ],
+    "treeCode": "0934.1024"
+  },
+  {
+    "id": 1025,
+    "communeCode": 2286,
+    "name": "Võ Cường",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 18.08,
+    "population": 67,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Võ Cường (cũ)",
+    "longitude": 106.039,
+    "latitude": 21.1647,
+    "previous": [
+      "Phường Đại Phúc",
+      "Phường Phong Khê",
+      "Phường Võ Cường"
+    ],
+    "treeCode": "0934.1025"
+  },
+  {
+    "id": 1026,
+    "communeCode": 2284,
+    "name": "Vũ Ninh",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 13.43,
+    "population": 45,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Thị Cầu (cũ)",
+    "longitude": 106.093,
+    "latitude": 21.1931,
+    "previous": [
+      "Phường Kim Chân",
+      "Phường Đáp Cầu",
+      "Phường Thị Cầu",
+      "Phường Vũ Ninh"
+    ],
+    "treeCode": "0934.1026"
+  },
+  {
+    "id": 1027,
+    "communeCode": 2300,
+    "name": "Xuân Cẩm",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 54.32,
+    "population": 73763,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Bắc Lý (cũ)",
+    "longitude": 105.958,
+    "latitude": 21.2718,
+    "previous": [
+      "Thị trấn Bắc Lý",
+      "Xã Hương Lâm",
+      "Xã Mai Đình",
+      "Xã Châu Minh",
+      "Xã Xuân Cẩm"
+    ],
+    "treeCode": "0934.1027"
+  },
+  {
+    "id": 1028,
+    "communeCode": 2301,
+    "name": "Xuân Lương",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 99.67,
+    "population": 19226,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Canh Nậu (cũ)",
+    "longitude": 106.11,
+    "latitude": 21.5825,
+    "previous": [
+      "Xã Đồng Tiến (huyện Yên Thế)",
+      "Xã Canh Nậu",
+      "Xã Xuân Lương"
+    ],
+    "treeCode": "0934.1028"
+  },
+  {
+    "id": 1029,
+    "communeCode": 2263,
+    "name": "Yên Định",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 29.42,
+    "population": 38596,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Cẩm Đàn (cũ)",
+    "longitude": 106.792,
+    "latitude": 21.3464,
+    "previous": [
+      "Xã Cẩm Đàn",
+      "Xã Yên Định"
+    ],
+    "treeCode": "0934.1029"
+  },
+  {
+    "id": 1030,
+    "communeCode": 2291,
+    "name": "Yên Dũng",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "phường",
+    "areaKm2": 52.42,
+    "population": 44149,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Nham Biền (cũ)",
+    "longitude": 106.21,
+    "latitude": 21.2011,
+    "previous": [
+      "Phường Tân Liễu",
+      "Phường Nham Biền",
+      "Xã Yên Lư"
+    ],
+    "treeCode": "0934.1030"
+  },
+  {
+    "id": 1031,
+    "communeCode": 2326,
+    "name": "Yên Phong",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 115.98,
+    "population": 7379,
+    "administrativeCenter": "Trụ sở Huyện ủy và UBND huyện Yên Phong  (cũ)",
+    "longitude": 105.968,
+    "latitude": 21.1959,
+    "previous": [
+      "Thị trấn Chờ",
+      "Xã Trung Nghĩa",
+      "Xã Long Châu",
+      "Xã Đông Tiến"
+    ],
+    "treeCode": "0934.1031"
+  },
+  {
+    "id": 1032,
+    "communeCode": 2303,
+    "name": "Yên Thế",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 43.67,
+    "population": 30651,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Phồn Xương (cũ)",
+    "longitude": 106.132,
+    "latitude": 21.471,
+    "previous": [
+      "Thị trấn Phồn Xương",
+      "Xã Đồng Lạc",
+      "Xã Đồng Tâm",
+      "Xã Tân Hiệp",
+      "Xã Tân Sỏi"
+    ],
+    "treeCode": "0934.1032"
+  },
+  {
+    "id": 1033,
+    "communeCode": 2269,
+    "name": "Yên Trung",
+    "provinceCode": 2,
+    "provinceName": "tỉnh Bắc Ninh",
+    "type": "xã",
+    "areaKm2": 37.74,
+    "population": 26239,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Yên Trung (cũ)",
+    "longitude": 105.998,
+    "latitude": 21.231,
+    "previous": [
+      "Xã Dũng Liệt",
+      "Xã Yên Trung"
+    ],
+    "treeCode": "0934.1033"
+  }
+]

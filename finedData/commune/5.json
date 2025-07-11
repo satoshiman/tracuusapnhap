@@ -1,0 +1,2050 @@
+[
+  {
+    "id": 1150,
+    "communeCode": 655,
+    "name": "A Sào",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.46,
+    "population": 27967,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.389,
+    "latitude": 20.698,
+    "previous": [
+      "Xã An Đồng",
+      "Xã An Hiệp",
+      "Xã An Thái",
+      "Xã An Khê"
+    ],
+    "treeCode": "1149.1150"
+  },
+  {
+    "id": 1151,
+    "communeCode": 705,
+    "name": "Ái Quốc",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 14.98,
+    "population": 16704,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.518,
+    "latitude": 20.3768,
+    "previous": [
+      "Xã Tây Giang",
+      "Xã Ái Quốc"
+    ],
+    "treeCode": "1149.1151"
+  },
+  {
+    "id": 1152,
+    "communeCode": 696,
+    "name": "Ân Thi",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 24.39,
+    "population": 30582,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.101,
+    "latitude": 20.8246,
+    "previous": [
+      "Thị trấn Ân Thi",
+      "Xã Quang Vinh",
+      "Xã Hoàng Hoa Thám"
+    ],
+    "treeCode": "1149.1152"
+  },
+  {
+    "id": 1153,
+    "communeCode": 671,
+    "name": "Bắc Đông Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.84,
+    "population": 23729,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.406,
+    "latitude": 20.5738,
+    "previous": [
+      "Xã Đông Cường",
+      "Xã Đông Xá",
+      "Xã Đông Phương"
+    ],
+    "treeCode": "1149.1153"
+  },
+  {
+    "id": 1154,
+    "communeCode": 661,
+    "name": "Bắc Đông Quan",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.67,
+    "population": 25263,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.389,
+    "latitude": 20.5359,
+    "previous": [
+      "Xã Hà Giang",
+      "Xã Đông Kinh",
+      "Xã Đông Vinh"
+    ],
+    "treeCode": "1149.1154"
+  },
+  {
+    "id": 1155,
+    "communeCode": 660,
+    "name": "Bắc Thái Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.12,
+    "population": 17908,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.493,
+    "latitude": 20.5141,
+    "previous": [
+      "Xã Thái Phúc",
+      "Xã Dương Hồng Thủy"
+    ],
+    "treeCode": "1149.1155"
+  },
+  {
+    "id": 1156,
+    "communeCode": 645,
+    "name": "Bắc Thụy Anh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 17.38,
+    "population": 19194,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.513,
+    "latitude": 20.6037,
+    "previous": [
+      "Xã Thụy Quỳnh",
+      "Xã Thụy Văn",
+      "Xã Thụy Việt"
+    ],
+    "treeCode": "1149.1156"
+  },
+  {
+    "id": 1157,
+    "communeCode": 664,
+    "name": "Bắc Tiên Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 28.03,
+    "population": 40641,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.318,
+    "latitude": 20.5806,
+    "previous": [
+      "Xã Liên An Đô",
+      "Xã Lô Giang",
+      "Xã Mê Linh",
+      "Xã Phú Lương"
+    ],
+    "treeCode": "1149.1157"
+  },
+  {
+    "id": 1158,
+    "communeCode": 758,
+    "name": "Bình Định",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 24.47,
+    "population": 22133,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.459,
+    "latitude": 20.3158,
+    "previous": [
+      "Xã Hồng Tiến",
+      "Xã Nam Bình",
+      "Xã Bình Định"
+    ],
+    "treeCode": "1149.1158"
+  },
+  {
+    "id": 1159,
+    "communeCode": 762,
+    "name": "Bình Nguyên",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 30.6,
+    "population": 46425,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.425,
+    "latitude": 20.4546,
+    "previous": [
+      "Xã Thanh Tân",
+      "Xã An Bình",
+      "Xã Bình Nguyên"
+    ],
+    "treeCode": "1149.1159"
+  },
+  {
+    "id": 1160,
+    "communeCode": 745,
+    "name": "Bình Thanh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.37,
+    "population": 24517,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.413,
+    "latitude": 20.338,
+    "previous": [
+      "Xã Minh Tân",
+      "Xã Minh Quang (huyện Kiến Xương)",
+      "Xã Bình Thanh"
+    ],
+    "treeCode": "1149.1160"
+  },
+  {
+    "id": 1161,
+    "communeCode": 794,
+    "name": "Châu Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.22,
+    "population": 36218,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.924,
+    "latitude": 20.8179,
+    "previous": [
+      "Xã Đại Tập",
+      "Xã Tứ Dân",
+      "Xã Tân Châu",
+      "Xã Đông Ninh"
+    ],
+    "treeCode": "1149.1161"
+  },
+  {
+    "id": 1162,
+    "communeCode": 775,
+    "name": "Chí Minh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.73,
+    "population": 35259,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.989,
+    "latitude": 20.7773,
+    "previous": [
+      "Xã Thuần Hưng",
+      "Xã Nguyễn Huệ",
+      "Xã Chí Minh"
+    ],
+    "treeCode": "1149.1162"
+  },
+  {
+    "id": 1163,
+    "communeCode": 723,
+    "name": "Đại Đồng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 77.87,
+    "population": 63131,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.093,
+    "latitude": 20.9885,
+    "previous": [
+      "Xã Việt Hưng",
+      "Xã Lương Tài",
+      "Xã Đại Đồng",
+      "Xã Đình Dù",
+      "Xã Lạc Đạo"
+    ],
+    "treeCode": "1149.1163"
+  },
+  {
+    "id": 1164,
+    "communeCode": 667,
+    "name": "Diên Hà",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 27.3,
+    "population": 40167,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.255,
+    "latitude": 20.6395,
+    "previous": [
+      "Xã Quang Trung (huyện Hưng Hà)",
+      "Xã Văn Cẩm",
+      "Xã Duyên Hải"
+    ],
+    "treeCode": "1149.1164"
+  },
+  {
+    "id": 1165,
+    "communeCode": 789,
+    "name": "Đoàn Đào",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.39,
+    "population": 22781,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.148,
+    "latitude": 20.7256,
+    "previous": [
+      "Xã Phan Sào Nam",
+      "Xã Minh Hoàng",
+      "Xã Đoàn Đào"
+    ],
+    "treeCode": "1149.1165"
+  },
+  {
+    "id": 1166,
+    "communeCode": 670,
+    "name": "Đồng Bằng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.04,
+    "population": 25,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.397,
+    "latitude": 20.6351,
+    "previous": [
+      "Xã An Cầu",
+      "Xã An Ấp",
+      "Xã An Lễ",
+      "Xã An Quý"
+    ],
+    "treeCode": "1149.1166"
+  },
+  {
+    "id": 1167,
+    "communeCode": 703,
+    "name": "Đồng Châu",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 30.67,
+    "population": 30501,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.573,
+    "latitude": 20.4047,
+    "previous": [
+      "Xã Đông Hoàng (huyện Tiền Hải)",
+      "Xã Đông Cơ",
+      "Xã Đông Lâm",
+      "Xã Đông Minh"
+    ],
+    "treeCode": "1149.1167"
+  },
+  {
+    "id": 1168,
+    "communeCode": 663,
+    "name": "Đông Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 81.62,
+    "population": 22281,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.361,
+    "latitude": 20.5607,
+    "previous": [
+      "Thị trấn Đông Hưng",
+      "Xã Nguyên Xá (huyện Đông Hưng)",
+      "Xã Đông La",
+      "Xã Đông Các",
+      "Xã Đông Sơn",
+      "Xã Đông Hợp"
+    ],
+    "treeCode": "1149.1168"
+  },
+  {
+    "id": 1169,
+    "communeCode": 673,
+    "name": "Đông Quan",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.62,
+    "population": 25167,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.417,
+    "latitude": 20.5108,
+    "previous": [
+      "Xã Đông Á",
+      "Xã Đông Tân",
+      "Xã Đông Quan"
+    ],
+    "treeCode": "1149.1169"
+  },
+  {
+    "id": 1170,
+    "communeCode": 707,
+    "name": "Đông Thái Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 31.08,
+    "population": 2713,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.597,
+    "latitude": 20.4897,
+    "previous": [
+      "Xã Mỹ Lộc",
+      "Xã Tân Học",
+      "Xã Thái Đô",
+      "Xã Thái Xuyên"
+    ],
+    "treeCode": "1149.1170"
+  },
+  {
+    "id": 1171,
+    "communeCode": 644,
+    "name": "Đông Thụy Anh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 34.9,
+    "population": 38299,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.603,
+    "latitude": 20.6077,
+    "previous": [
+      "Xã Thụy Trường",
+      "Xã Thụy Xuân",
+      "Xã An Tân",
+      "Xã Hồng Dũng"
+    ],
+    "treeCode": "1149.1171"
+  },
+  {
+    "id": 1172,
+    "communeCode": 709,
+    "name": "Đông Tiền Hải",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 38.64,
+    "population": 37027,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.563,
+    "latitude": 20.4437,
+    "previous": [
+      "Xã Đông Xuyên",
+      "Xã Đông Quang",
+      "Xã Đông Long",
+      "Xã Đông Trà"
+    ],
+    "treeCode": "1149.1172"
+  },
+  {
+    "id": 1173,
+    "communeCode": 654,
+    "name": "Đông Tiên Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 16.32,
+    "population": 23495,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.319,
+    "latitude": 20.5499,
+    "previous": [
+      "Xã Phong Dương Tiến",
+      "Xã Phú Châu"
+    ],
+    "treeCode": "1149.1173"
+  },
+  {
+    "id": 1174,
+    "communeCode": 788,
+    "name": "Đức Hợp",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.37,
+    "population": 29424,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.985,
+    "latitude": 20.7311,
+    "previous": [
+      "Xã Phú Thọ",
+      "Xã Mai Động",
+      "Xã Đức Hợp"
+    ],
+    "treeCode": "1149.1174"
+  },
+  {
+    "id": 1175,
+    "communeCode": 701,
+    "name": "Đường Hào",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 25.62,
+    "population": 39028,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.101,
+    "latitude": 20.8935,
+    "previous": [
+      "Phường Dị Sử",
+      "Phường Phùng Chí Kiên",
+      "Xã Xuân Dục",
+      "Xã Hưng Long",
+      "Xã Ngọc Lâm"
+    ],
+    "treeCode": "1149.1175"
+  },
+  {
+    "id": 1176,
+    "communeCode": 774,
+    "name": "Hiệp Cường",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 28.37,
+    "population": 32364,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.037,
+    "latitude": 20.7259,
+    "previous": [
+      "Xã Song Mai",
+      "Xã Hùng An",
+      "Xã Hiệp Cường",
+      "Xã Ngọc Thanh"
+    ],
+    "treeCode": "1149.1176"
+  },
+  {
+    "id": 1177,
+    "communeCode": 811,
+    "name": "Hoàn Long",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 19.6,
+    "population": 32997,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.005,
+    "latitude": 20.9115,
+    "previous": [
+      "Xã Đông Tảo",
+      "Xã Đồng Than",
+      "Xã Hoàn Long"
+    ],
+    "treeCode": "1149.1177"
+  },
+  {
+    "id": 1178,
+    "communeCode": 786,
+    "name": "Hoàng Hoa Thám",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 31.85,
+    "population": 46868,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.108,
+    "latitude": 20.7009,
+    "previous": [
+      "Thị trấn Vương",
+      "Xã Hưng Đạo",
+      "Xã Nhật Tân",
+      "Xã An Viên"
+    ],
+    "treeCode": "1149.1178"
+  },
+  {
+    "id": 1179,
+    "communeCode": 781,
+    "name": "Hồng Châu",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 15.41,
+    "population": 18714,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.063,
+    "latitude": 20.6236,
+    "previous": [
+      "Phường Hồng Châu",
+      "Xã Quảng Châu",
+      "Xã Hoàng Hanh"
+    ],
+    "treeCode": "1149.1179"
+  },
+  {
+    "id": 1180,
+    "communeCode": 646,
+    "name": "Hồng Minh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.32,
+    "population": 24579,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.216,
+    "latitude": 20.5342,
+    "previous": [
+      "Xã Chí Hòa",
+      "Xã Minh Hòa",
+      "Xã Hồng Minh"
+    ],
+    "treeCode": "1149.1180"
+  },
+  {
+    "id": 1181,
+    "communeCode": 769,
+    "name": "Hồng Quang",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 25.53,
+    "population": 3159,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.119,
+    "latitude": 20.7555,
+    "previous": [
+      "Xã Hồ Tùng Mậu",
+      "Xã Tiền Phong",
+      "Xã Hạ Lễ",
+      "Xã Hồng Quang"
+    ],
+    "treeCode": "1149.1181"
+  },
+  {
+    "id": 1182,
+    "communeCode": 752,
+    "name": "Hồng Vũ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 18.77,
+    "population": 23172,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.384,
+    "latitude": 20.3598,
+    "previous": [
+      "Xã Vũ Công",
+      "Xã Hồng Vũ"
+    ],
+    "treeCode": "1149.1182"
+  },
+  {
+    "id": 1183,
+    "communeCode": 648,
+    "name": "Hưng Hà",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 38.93,
+    "population": 54891,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.233,
+    "latitude": 20.5823,
+    "previous": [
+      "Xã Hòa Bình",
+      "Xã Minh Khai",
+      "Xã Thống Nhất (huyện Hưng Hà)",
+      "Xã Kim Trung",
+      "Xã Hồng Lĩnh",
+      "Xã Văn Lang",
+      "Thị trấn Hưng Hà"
+    ],
+    "treeCode": "1149.1183"
+  },
+  {
+    "id": 1184,
+    "communeCode": 689,
+    "name": "Hưng Phú",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 45.08,
+    "population": 25802,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.574,
+    "latitude": 20.3036,
+    "previous": [
+      "Xã Nam Phú",
+      "Xã Nam Hưng",
+      "Xã Nam Trung"
+    ],
+    "treeCode": "1149.1184"
+  },
+  {
+    "id": 1185,
+    "communeCode": 777,
+    "name": "Khoái Châu",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 29.35,
+    "population": 48795,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.971,
+    "latitude": 20.8167,
+    "previous": [
+      "Thị trấn Khoái Châu",
+      "Xã Liên Khê",
+      "Xã Phùng Hưng",
+      "Xã Đông Kết"
+    ],
+    "treeCode": "1149.1185"
+  },
+  {
+    "id": 1186,
+    "communeCode": 760,
+    "name": "Kiến Xương",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 36.73,
+    "population": 4795,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.437,
+    "latitude": 20.3825,
+    "previous": [
+      "Xã Bình Minh",
+      "Xã Quang Trung (huyện Kiến Xương)",
+      "Xã Quang Minh",
+      "Xã Quang Bình",
+      "Thị trấn Kiến Xương"
+    ],
+    "treeCode": "1149.1186"
+  },
+  {
+    "id": 1187,
+    "communeCode": 810,
+    "name": "Lạc Đạo",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.22,
+    "population": 42213,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.036,
+    "latitude": 20.9812,
+    "previous": [
+      "Xã Chỉ Đạo",
+      "Xã Minh Hải",
+      "Xã Lạc Đạo"
+    ],
+    "treeCode": "1149.1187"
+  },
+  {
+    "id": 1188,
+    "communeCode": 768,
+    "name": "Lê Lợi",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 288.36,
+    "population": 911,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.457,
+    "latitude": 20.4313,
+    "previous": [
+      "Xã Thống Nhất (huyện Kiến Xương)",
+      "Xã Lê Lợi"
+    ],
+    "treeCode": "1149.1188"
+  },
+  {
+    "id": 1189,
+    "communeCode": 647,
+    "name": "Lê Quý Đôn",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 21.72,
+    "population": 23534,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.186,
+    "latitude": 20.5548,
+    "previous": [
+      "Xã Minh Tân (huyện Hưng Hà)",
+      "Xã Độc Lập",
+      "Xã Hồng An"
+    ],
+    "treeCode": "1149.1189"
+  },
+  {
+    "id": 1190,
+    "communeCode": 650,
+    "name": "Long Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 79.71,
+    "population": 33579,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.148,
+    "latitude": 20.6149,
+    "previous": [
+      "Thị trấn Hưng Nhân",
+      "Xã Thái Hưng (huyện Hưng Hà)",
+      "Xã Tân Lễ",
+      "Xã Tiến Đức",
+      "Xã Liên Hiệp"
+    ],
+    "treeCode": "1149.1190"
+  },
+  {
+    "id": 1191,
+    "communeCode": 773,
+    "name": "Lương Bằng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 29.08,
+    "population": 3942,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.068,
+    "latitude": 20.7517,
+    "previous": [
+      "Thị trấn Lương Bằng",
+      "Xã Phạm Ngũ Lão",
+      "Xã Chính Nghĩa",
+      "Xã Diên Hồng"
+    ],
+    "treeCode": "1149.1191"
+  },
+  {
+    "id": 1192,
+    "communeCode": 806,
+    "name": "Mễ Sở",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 17.51,
+    "population": 30138,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.924,
+    "latitude": 20.8927,
+    "previous": [
+      "Xã Bình Minh (huyện Khoái Châu)",
+      "Xã Thắng Lợi",
+      "Xã Mễ Sở"
+    ],
+    "treeCode": "1149.1192"
+  },
+  {
+    "id": 1193,
+    "communeCode": 656,
+    "name": "Minh Thọ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.11,
+    "population": 24659,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.337,
+    "latitude": 20.6969,
+    "previous": [
+      "Xã Quỳnh Hoa",
+      "Xã Quỳnh Minh",
+      "Xã Quỳnh Giao",
+      "Xã Quỳnh Thọ"
+    ],
+    "treeCode": "1149.1193"
+  },
+  {
+    "id": 1194,
+    "communeCode": 724,
+    "name": "Mỹ Hào",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 28.36,
+    "population": 57676,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.075,
+    "latitude": 20.95,
+    "previous": [
+      "Phường Bần Yên Nhân",
+      "Phường Nhân Hòa",
+      "Phường Phan Đình Phùng",
+      "Xã Cẩm Xá"
+    ],
+    "treeCode": "1149.1194"
+  },
+  {
+    "id": 1195,
+    "communeCode": 690,
+    "name": "Nam Cường",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 149.65,
+    "population": 10793,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.576,
+    "latitude": 20.3532,
+    "previous": [
+      "Xã Nam Thịnh",
+      "Xã Nam Tiến",
+      "Xã Nam Chính",
+      "Xã Nam Cường"
+    ],
+    "treeCode": "1149.1195"
+  },
+  {
+    "id": 1196,
+    "communeCode": 653,
+    "name": "Nam Đông Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 16.25,
+    "population": 25296,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.368,
+    "latitude": 20.512,
+    "previous": [
+      "Xã Đông Hoàng (huyện Đông Hưng)",
+      "Xã Xuân Quang Động"
+    ],
+    "treeCode": "1149.1196"
+  },
+  {
+    "id": 1197,
+    "communeCode": 708,
+    "name": "Nam Thái Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 26.4,
+    "population": 19959,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.507,
+    "latitude": 20.4681,
+    "previous": [
+      "Xã Thái Thọ",
+      "Xã Thái Thịnh",
+      "Xã Thuần Thành"
+    ],
+    "treeCode": "1149.1197"
+  },
+  {
+    "id": 1198,
+    "communeCode": 679,
+    "name": "Nam Thụy Anh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 17.4,
+    "population": 2226,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.46,
+    "latitude": 20.5525,
+    "previous": [
+      "Xã Thụy Thanh",
+      "Xã Thụy Phong",
+      "Xã Thụy Duyên"
+    ],
+    "treeCode": "1149.1198"
+  },
+  {
+    "id": 1199,
+    "communeCode": 694,
+    "name": "Nam Tiền Hải",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.62,
+    "population": 30698,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.504,
+    "latitude": 20.3274,
+    "previous": [
+      "Xã Nam Hồng",
+      "Xã Nam Hà",
+      "Xã Nam Hải"
+    ],
+    "treeCode": "1149.1199"
+  },
+  {
+    "id": 1200,
+    "communeCode": 672,
+    "name": "Nam Tiên Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.94,
+    "population": 30738,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.303,
+    "latitude": 20.5212,
+    "previous": [
+      "Xã Liên Hoa",
+      "Xã Hồng Giang",
+      "Xã Trọng Quan",
+      "Xã Minh Phú"
+    ],
+    "treeCode": "1149.1200"
+  },
+  {
+    "id": 1201,
+    "communeCode": 778,
+    "name": "Nghĩa Dân",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.29,
+    "population": 34669,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.034,
+    "latitude": 20.7888,
+    "previous": [
+      "Xã Đồng Thanh (huyện Kim Động)",
+      "Xã Vĩnh Xá",
+      "Xã Toàn Thắng",
+      "Xã Nghĩa Dân"
+    ],
+    "treeCode": "1149.1201"
+  },
+  {
+    "id": 1202,
+    "communeCode": 809,
+    "name": "Nghĩa Trụ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.8,
+    "population": 46561,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.978,
+    "latitude": 20.9504,
+    "previous": [
+      "Xã Long Hưng",
+      "Xã Vĩnh Khúc",
+      "Xã Nghĩa Trụ"
+    ],
+    "treeCode": "1149.1202"
+  },
+  {
+    "id": 1203,
+    "communeCode": 652,
+    "name": "Ngọc Lâm",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 19.82,
+    "population": 24482,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.263,
+    "latitude": 20.6666,
+    "previous": [
+      "Xã Quỳnh Hoàng",
+      "Xã Quỳnh Lâm",
+      "Xã Quỳnh Ngọc"
+    ],
+    "treeCode": "1149.1203"
+  },
+  {
+    "id": 1204,
+    "communeCode": 651,
+    "name": "Ngự Thiên",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.4206,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.18,
+    "latitude": 20.6341,
+    "previous": [
+      "Xã Tân Hòa (huyện Hưng Hà)",
+      "Xã Canh Tân",
+      "Xã Cộng Hòa",
+      "Xã Hòa Tiến"
+    ],
+    "treeCode": "1149.1204"
+  },
+  {
+    "id": 1205,
+    "communeCode": 668,
+    "name": "Nguyễn Du",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 16.75,
+    "population": 22374,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.298,
+    "latitude": 20.6449,
+    "previous": [
+      "Xã Châu Sơn",
+      "Xã Quỳnh Khê",
+      "Xã Quỳnh Nguyên"
+    ],
+    "treeCode": "1149.1205"
+  },
+  {
+    "id": 1206,
+    "communeCode": 776,
+    "name": "Nguyễn Trãi",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 30.68,
+    "population": 31648,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.11,
+    "latitude": 20.791,
+    "previous": [
+      "Xã Đặng Lễ",
+      "Xã Cẩm Ninh",
+      "Xã Đa Lộc",
+      "Xã Nguyễn Trãi"
+    ],
+    "treeCode": "1149.1206"
+  },
+  {
+    "id": 1207,
+    "communeCode": 725,
+    "name": "Nguyễn Văn Linh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.9,
+    "population": 47867,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.042,
+    "latitude": 20.9203,
+    "previous": [
+      "Xã Ngọc Long",
+      "Xã Liêu Xá",
+      "Xã Nguyễn Văn Linh"
+    ],
+    "treeCode": "1149.1207"
+  },
+  {
+    "id": 1208,
+    "communeCode": 812,
+    "name": "Như Quỳnh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 27.32,
+    "population": 77703,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.997,
+    "latitude": 20.9696,
+    "previous": [
+      "Thị trấn Như Quỳnh",
+      "Xã Tân Quang",
+      "Xã Lạc Hồng",
+      "Xã Trưng Trắc",
+      "Xã Đình Dù"
+    ],
+    "treeCode": "1149.1208"
+  },
+  {
+    "id": 1209,
+    "communeCode": 699,
+    "name": "Phạm Ngũ Lão",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 29.32,
+    "population": 37053,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.112,
+    "latitude": 20.8685,
+    "previous": [
+      "Xã Bắc Sơn (huyện Ân Thi)",
+      "Xã Phù Ủng",
+      "Xã Đào Dương",
+      "Xã Bãi Sậy"
+    ],
+    "treeCode": "1149.1209"
+  },
+  {
+    "id": 1210,
+    "communeCode": 782,
+    "name": "Phố Hiến",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 21.5,
+    "population": 68982,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.068,
+    "latitude": 20.6634,
+    "previous": [
+      "Phường An Tảo",
+      "Phường Lê Lợi",
+      "Phường Hiến Nam",
+      "Phường Minh Khai",
+      "Xã Trung Nghĩa",
+      "Xã Liên Phương"
+    ],
+    "treeCode": "1149.1210"
+  },
+  {
+    "id": 1211,
+    "communeCode": 688,
+    "name": "Phụ Dực",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 33.16,
+    "population": 42522,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.426,
+    "latitude": 20.6396,
+    "previous": [
+      "Thị trấn An Bài",
+      "Xã An Ninh (huyện Quỳnh Phụ)",
+      "Xã An Vũ",
+      "Xã An Mỹ",
+      "Xã An Thanh"
+    ],
+    "treeCode": "1149.1211"
+  },
+  {
+    "id": 1212,
+    "communeCode": 807,
+    "name": "Phụng Công",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 14.62,
+    "population": 31524,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.93,
+    "latitude": 20.9583,
+    "previous": [
+      "Xã Xuân Quan",
+      "Xã Cửu Cao",
+      "Xã Phụng Công"
+    ],
+    "treeCode": "1149.1212"
+  },
+  {
+    "id": 1213,
+    "communeCode": 720,
+    "name": "Quang Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 15.89,
+    "population": 20701,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.187,
+    "latitude": 20.7459,
+    "previous": [
+      "Thị trấn Trần Cao",
+      "Xã Minh Tân (huyện Phù Cừ)",
+      "Xã Tống Phan",
+      "Xã Quang Hưng"
+    ],
+    "treeCode": "1149.1213"
+  },
+  {
+    "id": 1214,
+    "communeCode": 761,
+    "name": "Quang Lịch",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 14.92,
+    "population": 18832,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.415,
+    "latitude": 20.4136,
+    "previous": [
+      "Xã Hòa Bình (huyện Kiến Xương)",
+      "Xã Vũ Lễ",
+      "Xã Quang Lịch"
+    ],
+    "treeCode": "1149.1214"
+  },
+  {
+    "id": 1215,
+    "communeCode": 665,
+    "name": "Quỳnh An",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 26,
+    "population": 3557,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.358,
+    "latitude": 20.6125,
+    "previous": [
+      "Xã Trang Bảo Xá",
+      "Xã An Vinh",
+      "Xã Đông Hải"
+    ],
+    "treeCode": "1149.1215"
+  },
+  {
+    "id": 1216,
+    "communeCode": 669,
+    "name": "Quỳnh Phụ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 31.98,
+    "population": 5182,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.337,
+    "latitude": 20.6507,
+    "previous": [
+      "Thị trấn Quỳnh Côi",
+      "Xã Quỳnh Hải",
+      "Xã Quỳnh Hội",
+      "Xã Quỳnh Hồng",
+      "Xã Quỳnh Mỹ",
+      "Xã Quỳnh Hưng"
+    ],
+    "treeCode": "1149.1216"
+  },
+  {
+    "id": 1217,
+    "communeCode": 785,
+    "name": "Sơn Nam",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 23.62,
+    "population": 30471,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.043,
+    "latitude": 20.6914,
+    "previous": [
+      "Phường Lam Sơn",
+      "Xã Phú Cường",
+      "Xã Hùng Cường",
+      "Xã Bảo Khê",
+      "Xã Ngọc Thanh"
+    ],
+    "treeCode": "1149.1217"
+  },
+  {
+    "id": 1218,
+    "communeCode": 711,
+    "name": "Tân Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 92.41,
+    "population": 35222,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.097,
+    "latitude": 20.6384,
+    "previous": [
+      "Xã Thủ Sỹ",
+      "Xã Phương Nam",
+      "Xã Tân Hưng"
+    ],
+    "treeCode": "1149.1218"
+  },
+  {
+    "id": 1219,
+    "communeCode": 714,
+    "name": "Tân Thuận",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 169.8,
+    "population": 35473,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.226,
+    "latitude": 20.4255,
+    "previous": [
+      "Xã Tân Lập (huyện Vũ Thư)",
+      "Xã Tự Tân",
+      "Xã Bách Thuận"
+    ],
+    "treeCode": "1149.1219"
+  },
+  {
+    "id": 1220,
+    "communeCode": 680,
+    "name": "Tân Tiến",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 207.2,
+    "population": 33994,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.427,
+    "latitude": 20.5968,
+    "previous": [
+      "Xã Đồng Tiến (huyện Quỳnh Phụ)",
+      "Xã An Dục",
+      "Xã An Tràng"
+    ],
+    "treeCode": "1149.1220"
+  },
+  {
+    "id": 1221,
+    "communeCode": 657,
+    "name": "Tây Thái Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 16.56,
+    "population": 17388,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.453,
+    "latitude": 20.516,
+    "previous": [
+      "Xã Sơn Hà",
+      "Xã Thái Giang"
+    ],
+    "treeCode": "1149.1221"
+  },
+  {
+    "id": 1222,
+    "communeCode": 687,
+    "name": "Tây Thụy Anh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 16.68,
+    "population": 16565,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.47,
+    "latitude": 20.5862,
+    "previous": [
+      "Xã Thụy Chính",
+      "Xã Thụy Dân",
+      "Xã Thụy Ninh"
+    ],
+    "treeCode": "1149.1222"
+  },
+  {
+    "id": 1223,
+    "communeCode": 759,
+    "name": "Tây Tiền Hải",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 17.56,
+    "population": 25235,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.482,
+    "latitude": 20.3614,
+    "previous": [
+      "Xã Phương Công",
+      "Xã Vân Trường",
+      "Xã Bắc Hải"
+    ],
+    "treeCode": "1149.1223"
+  },
+  {
+    "id": 1224,
+    "communeCode": 716,
+    "name": "Thái Bình",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 28.03,
+    "population": 67922,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.314,
+    "latitude": 20.4817,
+    "previous": [
+      "Phường Lê Hồng Phong",
+      "Phường Bồ Xuyên",
+      "Phường Tiền Phong",
+      "Xã Tân Hòa (huyện Vũ Thư)",
+      "Xã Phúc Thành",
+      "Xã Tân Phong",
+      "Xã Tân Bình"
+    ],
+    "treeCode": "1149.1224"
+  },
+  {
+    "id": 1225,
+    "communeCode": 641,
+    "name": "Thái Ninh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 27.57,
+    "population": 31269,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.55,
+    "latitude": 20.5261,
+    "previous": [
+      "Xã Thái Hưng (huyện Thái Thụy)",
+      "Xã Thái Thượng",
+      "Xã Hòa An",
+      "Xã Thái Nguyên"
+    ],
+    "treeCode": "1149.1225"
+  },
+  {
+    "id": 1226,
+    "communeCode": 642,
+    "name": "Thái Thụy",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 35.5,
+    "population": 51837,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.556,
+    "latitude": 20.5657,
+    "previous": [
+      "Thị trấn Diêm Điền",
+      "Xã Thụy Hải",
+      "Xã Thụy Trình",
+      "Xã Thụy Bình",
+      "Xã Thụy Liên"
+    ],
+    "treeCode": "1149.1226"
+  },
+  {
+    "id": 1227,
+    "communeCode": 666,
+    "name": "Thần Khê",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.39,
+    "population": 29648,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.288,
+    "latitude": 20.604,
+    "previous": [
+      "Xã Bắc Sơn (huyện Hưng Hà)",
+      "Xã Đông Đô",
+      "Xã Tây Đô",
+      "Xã Chi Lăng"
+    ],
+    "treeCode": "1149.1227"
+  },
+  {
+    "id": 1228,
+    "communeCode": 715,
+    "name": "Thư Trì",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.97,
+    "population": 27178,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.263,
+    "latitude": 20.4861,
+    "previous": [
+      "Xã Song Lãng",
+      "Xã Hiệp Hòa",
+      "Xã Minh Lãng"
+    ],
+    "treeCode": "1149.1228"
+  },
+  {
+    "id": 1229,
+    "communeCode": 717,
+    "name": "Thư Vũ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 24.99,
+    "population": 3554,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.349,
+    "latitude": 20.392,
+    "previous": [
+      "Xã Việt Thuận",
+      "Xã Vũ Hội",
+      "Xã Vũ Vinh",
+      "Xã Vũ Vân"
+    ],
+    "treeCode": "1149.1229"
+  },
+  {
+    "id": 1230,
+    "communeCode": 722,
+    "name": "Thượng Hồng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 25.41,
+    "population": 37153,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.128,
+    "latitude": 20.9348,
+    "previous": [
+      "Phường Bạch Sam",
+      "Phường Minh Đức",
+      "Xã Dương Quang",
+      "Xã Hòa Phong"
+    ],
+    "treeCode": "1149.1230"
+  },
+  {
+    "id": 1231,
+    "communeCode": 643,
+    "name": "Thụy Anh",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.07,
+    "population": 23489,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.501,
+    "latitude": 20.5691,
+    "previous": [
+      "Xã Thụy Sơn",
+      "Xã Dương Phúc",
+      "Xã Thụy Hưng"
+    ],
+    "treeCode": "1149.1231"
+  },
+  {
+    "id": 1232,
+    "communeCode": 682,
+    "name": "Tiền Hải",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 32.99,
+    "population": 42707,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.5,
+    "latitude": 20.4184,
+    "previous": [
+      "Thị trấn Tiền Hải",
+      "Xã An Ninh (huyện Tiền Hải)",
+      "Xã Tây Ninh",
+      "Xã Tây Lương",
+      "Xã Vũ Lăng"
+    ],
+    "treeCode": "1149.1232"
+  },
+  {
+    "id": 1233,
+    "communeCode": 718,
+    "name": "Tiên Hoa",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 21.65,
+    "population": 26152,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.169,
+    "latitude": 20.6815,
+    "previous": [
+      "Xã Lệ Xá",
+      "Xã Trung Dũng",
+      "Xã Cương Chính"
+    ],
+    "treeCode": "1149.1233"
+  },
+  {
+    "id": 1234,
+    "communeCode": 662,
+    "name": "Tiên Hưng",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.41,
+    "population": 26172,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.263,
+    "latitude": 20.5386,
+    "previous": [
+      "Xã Minh Tân (huyện Đông Hưng)",
+      "Xã Hồng Bạch",
+      "Xã Thăng Long",
+      "Xã Hồng Việt"
+    ],
+    "treeCode": "1149.1234"
+  },
+  {
+    "id": 1235,
+    "communeCode": 649,
+    "name": "Tiên La",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.54,
+    "population": 32805,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.208,
+    "latitude": 20.6095,
+    "previous": [
+      "Xã Tân Tiến (huyện Hưng Hà)",
+      "Xã Thái Phương",
+      "Xã Đoan Hùng",
+      "Xã Phúc Khánh"
+    ],
+    "treeCode": "1149.1235"
+  },
+  {
+    "id": 1236,
+    "communeCode": 783,
+    "name": "Tiên Lữ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 31.8,
+    "population": 3271,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.136,
+    "latitude": 20.6768,
+    "previous": [
+      "Xã Thiện Phiến",
+      "Xã Hải Thắng",
+      "Xã Thụy Lôi"
+    ],
+    "treeCode": "1149.1236"
+  },
+  {
+    "id": 1237,
+    "communeCode": 719,
+    "name": "Tiên Tiến",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 25.8,
+    "population": 28936,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.201,
+    "latitude": 20.6982,
+    "previous": [
+      "Xã Đình Cao",
+      "Xã Nhật Quang",
+      "Xã Tiên Tiến"
+    ],
+    "treeCode": "1149.1237"
+  },
+  {
+    "id": 1238,
+    "communeCode": 793,
+    "name": "Tống Trân",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.73,
+    "population": 19937,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.209,
+    "latitude": 20.6549,
+    "previous": [
+      "Xã Tam Đa",
+      "Xã Nguyên Hòa",
+      "Xã Tống Trân"
+    ],
+    "treeCode": "1149.1238"
+  },
+  {
+    "id": 1239,
+    "communeCode": 767,
+    "name": "Trà Giang",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 91.72,
+    "population": 20801,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.455,
+    "latitude": 20.4759,
+    "previous": [
+      "Xã Hồng Thái",
+      "Xã Quốc Tuấn",
+      "Xã Trà Giang"
+    ],
+    "treeCode": "1149.1239"
+  },
+  {
+    "id": 1240,
+    "communeCode": 721,
+    "name": "Trà Lý",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 20.94,
+    "population": 43929,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.354,
+    "latitude": 20.4822,
+    "previous": [
+      "Phường Hoàng Diệu",
+      "Xã Đông Mỹ",
+      "Xã Đông Hoà",
+      "Xã Đông Thọ",
+      "Xã Đông Dương"
+    ],
+    "treeCode": "1149.1240"
+  },
+  {
+    "id": 1241,
+    "communeCode": 744,
+    "name": "Trần Hưng Đạo",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 9.32,
+    "population": 45657,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.321,
+    "latitude": 20.4485,
+    "previous": [
+      "Phường Trần Hưng Đạo",
+      "Phường Đề Thám",
+      "Phường Quang Trung",
+      "Xã Phú Xuân"
+    ],
+    "treeCode": "1149.1241"
+  },
+  {
+    "id": 1242,
+    "communeCode": 741,
+    "name": "Trần Lãm",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 34.63,
+    "population": 92136,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.374,
+    "latitude": 20.45,
+    "previous": [
+      "Phường Trần Lãm",
+      "Phường Kỳ Bá",
+      "Xã Vũ Đông",
+      "Xã Vũ Lạc",
+      "Xã Vũ Chính",
+      "Xã Tây Sơn"
+    ],
+    "treeCode": "1149.1242"
+  },
+  {
+    "id": 1243,
+    "communeCode": 698,
+    "name": "Triệu Việt Vương",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 27.15,
+    "population": 44554,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.971,
+    "latitude": 20.8556,
+    "previous": [
+      "Xã Phạm Hồng Thái",
+      "Xã Tân Dân",
+      "Xã Ông Đình",
+      "Xã An Vĩ"
+    ],
+    "treeCode": "1149.1243"
+  },
+  {
+    "id": 1244,
+    "communeCode": 808,
+    "name": "Văn Giang",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 22.96,
+    "population": 40599,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.927,
+    "latitude": 20.9276,
+    "previous": [
+      "Xã Tân Tiến (huyện Văn Giang)",
+      "Xã Liên Nghĩa",
+      "Thị trấn Văn Giang"
+    ],
+    "treeCode": "1149.1244"
+  },
+  {
+    "id": 1245,
+    "communeCode": 691,
+    "name": "Vạn Xuân",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 139.49,
+    "population": 6125,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.213,
+    "latitude": 20.4927,
+    "previous": [
+      "Xã Đồng Thanh (huyện Vũ Thư)",
+      "Xã Hồng Lý",
+      "Xã Việt Hùng",
+      "Xã Xuân Hòa"
+    ],
+    "treeCode": "1149.1245"
+  },
+  {
+    "id": 1246,
+    "communeCode": 779,
+    "name": "Việt Tiến",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.18,
+    "population": 35161,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.018,
+    "latitude": 20.8244,
+    "previous": [
+      "Xã Đồng Tiến (huyện Khoái Châu)",
+      "Xã Dân Tiến",
+      "Xã Việt Hòa"
+    ],
+    "treeCode": "1149.1246"
+  },
+  {
+    "id": 1247,
+    "communeCode": 700,
+    "name": "Việt Yên",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 23.9845,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.002,
+    "latitude": 20.8816,
+    "previous": [
+      "Xã Yên Phú",
+      "Xã Thanh Long",
+      "Xã Việt Yên"
+    ],
+    "treeCode": "1149.1247"
+  },
+  {
+    "id": 1248,
+    "communeCode": 738,
+    "name": "Vũ Phúc",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "phường",
+    "areaKm2": 23.99,
+    "population": 41428,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.308,
+    "latitude": 20.4127,
+    "previous": [
+      "Phường Phú Khánh",
+      "Xã Nguyên Xá (huyện Vũ Thư)",
+      "Xã Song An",
+      "Xã Trung An",
+      "Xã Vũ Phúc"
+    ],
+    "treeCode": "1149.1248"
+  },
+  {
+    "id": 1249,
+    "communeCode": 740,
+    "name": "Vũ Quý",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 15.0829,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.382,
+    "latitude": 20.4086,
+    "previous": [
+      "Xã Vũ An",
+      "Xã Vũ Ninh",
+      "Xã Vũ Trung",
+      "Xã Vũ Quý"
+    ],
+    "treeCode": "1149.1249"
+  },
+  {
+    "id": 1250,
+    "communeCode": 739,
+    "name": "Vũ Thư",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 29.07,
+    "population": 4392,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.26,
+    "latitude": 20.454,
+    "previous": [
+      "Xã Hòa Bình",
+      "Xã Minh Khai",
+      "Xã Minh Quang (huyện Vũ Thư)",
+      "Xã Tam Quang",
+      "Xã Dũng Nghĩa",
+      "Thị trấn Vũ Thư"
+    ],
+    "treeCode": "1149.1250"
+  },
+  {
+    "id": 1251,
+    "communeCode": 710,
+    "name": "Vũ Tiên",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 32.68,
+    "population": 37469,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.289,
+    "latitude": 20.3595,
+    "previous": [
+      "Xã Vũ Đoài",
+      "Xã Duy Nhất",
+      "Xã Hồng Phong",
+      "Xã Vũ Tiến"
+    ],
+    "treeCode": "1149.1251"
+  },
+  {
+    "id": 1252,
+    "communeCode": 780,
+    "name": "Xuân Trúc",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 20.04,
+    "population": 2577,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.062,
+    "latitude": 20.8262,
+    "previous": [
+      "Xã Vân Du",
+      "Xã Quảng Lãng",
+      "Xã Xuân Trúc"
+    ],
+    "treeCode": "1149.1252"
+  },
+  {
+    "id": 1253,
+    "communeCode": 697,
+    "name": "Yên Mỹ",
+    "provinceCode": 5,
+    "provinceName": "tỉnh Hưng Yên",
+    "type": "xã",
+    "areaKm2": 33.12,
+    "population": 75876,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.051,
+    "latitude": 20.8726,
+    "previous": [
+      "Thị trấn Yên Mỹ",
+      "Xã Tân Lập (huyện Yên Mỹ)",
+      "Xã Trung Hòa",
+      "Xã Tân Minh"
+    ],
+    "treeCode": "1149.1253"
+  }
+]

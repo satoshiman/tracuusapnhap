@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 496,
+    "communeCode": 1514,
+    "name": "Bắc Yên",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 195.23,
+    "population": 21825,
+    "administrativeCenter": "Tiểu khu 3, xã Bắc Yên, tỉnh Sơn La",
+    "longitude": 104.439,
+    "latitude": 21.2069,
+    "previous": [
+      "Thị trấn Bắc Yên",
+      "Xã Phiêng Ban",
+      "Xã Hồng Ngài",
+      "Xã Song Pe"
+    ],
+    "treeCode": "0495.0496"
+  },
+  {
+    "id": 497,
+    "communeCode": 1488,
+    "name": "Bình Thuận",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 121.78,
+    "population": 17128,
+    "administrativeCenter": "Bản Kiến Xương, xã Bình Thuận, tỉnh Sơn La",
+    "longitude": 103.604,
+    "latitude": 21.5655,
+    "previous": [
+      "Xã Phổng Lái",
+      "Xã Chiềng Pha"
+    ],
+    "treeCode": "0495.0497"
+  },
+  {
+    "id": 498,
+    "communeCode": 1538,
+    "name": "Bó Sinh",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 153.83,
+    "population": 16461,
+    "administrativeCenter": "Bản Phống 2, xã Bó Sinh, tỉnh Sơn La",
+    "longitude": 103.49,
+    "latitude": 21.2218,
+    "previous": [
+      "Xã Pú Bẩu",
+      "Xã Chiềng En",
+      "Xã Bó Sinh"
+    ],
+    "treeCode": "0495.0498"
+  },
+  {
+    "id": 499,
+    "communeCode": 1481,
+    "name": "Chiềng An",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 149.08,
+    "population": 20322,
+    "administrativeCenter": "Bản Bó, phường Chiềng An, tỉnh Sơn La.",
+    "longitude": 103.895,
+    "latitude": 21.3856,
+    "previous": [
+      "Phường Chiềng An",
+      "Xã Chiềng Xôm",
+      "Xã Chiềng Đen"
+    ],
+    "treeCode": "0495.0499"
+  },
+  {
+    "id": 500,
+    "communeCode": 1480,
+    "name": "Chiềng Cơi",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 93.56,
+    "population": 22694,
+    "administrativeCenter": "Số 55, đường Hoàng Quốc Việt, phường Chiềng Cơi, tỉnh Sơn La.",
+    "longitude": 103.876,
+    "latitude": 21.2976,
+    "previous": [
+      "Phường Chiềng Cơi",
+      "Xã Hua La",
+      "Xã Chiềng Cọ"
+    ],
+    "treeCode": "0495.0500"
+  },
+  {
+    "id": 501,
+    "communeCode": 1525,
+    "name": "Chiềng Hặc",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 239.91,
+    "population": 18721,
+    "administrativeCenter": "Bản Suối Sét, xã Chiềng Hặc, tỉnh Sơn La",
+    "longitude": 104.433,
+    "latitude": 20.9898,
+    "previous": [
+      "Xã Tú Nang",
+      "Xã Mường Lựm",
+      "Xã Chiềng Hặc"
+    ],
+    "treeCode": "0495.0501"
+  },
+  {
+    "id": 502,
+    "communeCode": 1513,
+    "name": "Chiềng Hoa",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 296.48,
+    "population": 17644,
+    "administrativeCenter": "Bản Tả, xã Chiềng Hoa, tỉnh Sơn La",
+    "longitude": 104.204,
+    "latitude": 21.4603,
+    "previous": [
+      "Xã Chiềng Ân",
+      "Xã Chiềng Công",
+      "Xã Chiềng Hoa"
+    ],
+    "treeCode": "0495.0502"
+  },
+  {
+    "id": 503,
+    "communeCode": 1542,
+    "name": "Chiềng Khoong",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 253.87,
+    "population": 23222,
+    "administrativeCenter": "Bản Lướt, xã Chiềng Khoong, tỉnh Sơn La",
+    "longitude": 103.767,
+    "latitude": 20.9598,
+    "previous": [
+      "Xã Mường Cai",
+      "Xã Chiềng Khoong"
+    ],
+    "treeCode": "0495.0503"
+  },
+  {
+    "id": 504,
+    "communeCode": 1545,
+    "name": "Chiềng Khương",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 149.82,
+    "population": 18712,
+    "administrativeCenter": "Bản Hưng Hà, xã Chiềng Khương, tỉnh Sơn La",
+    "longitude": 103.987,
+    "latitude": 20.9519,
+    "previous": [
+      "Xã Mường Sai",
+      "Xã Chiềng Khương"
+    ],
+    "treeCode": "0495.0504"
+  },
+  {
+    "id": 505,
+    "communeCode": 1490,
+    "name": "Chiềng La",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 126.13,
+    "population": 20373,
+    "administrativeCenter": "Bản Huổi Lọng, xã Chiềng La, tỉnh Sơn La",
+    "longitude": 103.754,
+    "latitude": 21.4872,
+    "previous": [
+      "Xã Chiềng Ngàm",
+      "Xã Nong Lay",
+      "Xã Tông Cọ",
+      "Xã Chiềng La"
+    ],
+    "treeCode": "0495.0505"
+  },
+  {
+    "id": 506,
+    "communeCode": 1498,
+    "name": "Chiềng Lao",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 358.55,
+    "population": 2101,
+    "administrativeCenter": "Nhập xã Nậm Giôn, xã Chiềng Lao và xã Hua Trai",
+    "longitude": 103.904,
+    "latitude": 21.636,
+    "previous": [
+      "Xã Nậm Giôn",
+      "Xã Hua Trai",
+      "Xã Chiềng Lao"
+    ],
+    "treeCode": "0495.0506"
+  },
+  {
+    "id": 507,
+    "communeCode": 1532,
+    "name": "Chiềng Mai",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 151.85,
+    "population": 23786,
+    "administrativeCenter": "Bản Ban, xã Chiềng Mai, tỉnh Sơn La",
+    "longitude": 103.977,
+    "latitude": 21.1813,
+    "previous": [
+      "Xã Chiềng Ban",
+      "Xã Chiềng Kheo",
+      "Xã Chiềng Dong",
+      "Xã Chiềng Ve",
+      "Xã Chiềng Mai"
+    ],
+    "treeCode": "0495.0507"
+  },
+  {
+    "id": 508,
+    "communeCode": 1531,
+    "name": "Chiềng Mung",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 142.14,
+    "population": 27797,
+    "administrativeCenter": "Bản Phát, xã Chiềng Mung, tỉnh Sơn La",
+    "longitude": 104.07,
+    "latitude": 21.255,
+    "previous": [
+      "Xã Mường Bằng",
+      "Xã Mường Bon",
+      "Xã Chiềng Mung"
+    ],
+    "treeCode": "0495.0508"
+  },
+  {
+    "id": 509,
+    "communeCode": 1142,
+    "name": "Chiềng Sại",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 124.55,
+    "population": 672,
+    "administrativeCenter": "Bản En, xã Chiềng Sại, tỉnh Sơn La",
+    "longitude": 104.474,
+    "latitude": 21.0745,
+    "previous": [
+      "Xã Phiêng Côn",
+      "Xã Chiềng Sại"
+    ],
+    "treeCode": "0495.0509"
+  },
+  {
+    "id": 510,
+    "communeCode": 1482,
+    "name": "Chiềng Sinh",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 68.4,
+    "population": 27099,
+    "administrativeCenter": "Điểm tiếp nhận tại trụ sở chính: Số 486, đường Lê Duẩn, Tổ 3, phường Chiềng Sinh, tỉnh Sơn La\nĐiểm tiếp nhận tại trụ sở UBND xã Chiềng Ngần (cũ): Bản Phường, phường Chiềng Sinh, tỉnh Sơn La",
+    "longitude": 103.978,
+    "latitude": 21.3052,
+    "previous": [
+      "Phường Chiềng Sinh",
+      "Xã Chiềng Ngần"
+    ],
+    "treeCode": "0495.0510"
+  },
+  {
+    "id": 511,
+    "communeCode": 1541,
+    "name": "Chiềng Sơ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 140.31,
+    "population": 17145,
+    "administrativeCenter": "Bản Luấn, xã Chiềng Sơ, tỉnh Sơn La",
+    "longitude": 103.597,
+    "latitude": 21.1463,
+    "previous": [
+      "Xã Yên Hưng",
+      "Xã Chiềng Sơ"
+    ],
+    "treeCode": "0495.0511"
+  },
+  {
+    "id": 512,
+    "communeCode": 1176,
+    "name": "Chiềng Sơn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 204.9,
+    "population": 14155,
+    "administrativeCenter": "Tiểu khu 4, xã Chiềng Sơn, tỉnh Sơn La",
+    "longitude": 104.651,
+    "latitude": 20.7156,
+    "previous": [
+      "Xã Chiềng Xuân",
+      "Xã Chiềng Sơn"
+    ],
+    "treeCode": "0495.0512"
+  },
+  {
+    "id": 513,
+    "communeCode": 1529,
+    "name": "Chiềng Sung",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 109.28,
+    "population": 14171,
+    "administrativeCenter": "Bản Nong Bình, xã Chiềng Sung, tỉnh Sơn La",
+    "longitude": 104.106,
+    "latitude": 21.2962,
+    "previous": [
+      "Xã Chiềng Chăn",
+      "Xã Chiềng Sung"
+    ],
+    "treeCode": "0495.0513"
+  },
+  {
+    "id": 514,
+    "communeCode": 1494,
+    "name": "Co Mạ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 214.28,
+    "population": 1456,
+    "administrativeCenter": "Bản Co Mạ, xã Co Mạ, Tỉnh Sơn La",
+    "longitude": 103.53,
+    "latitude": 21.3252,
+    "previous": [
+      "Xã Co Tòng",
+      "Xã Pá Lông",
+      "Xã Co Mạ"
+    ],
+    "treeCode": "0495.0514"
+  },
+  {
+    "id": 515,
+    "communeCode": 1175,
+    "name": "Đoàn Kết",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 240.66,
+    "population": 17938,
+    "administrativeCenter": "Tiểu khu 3, xã Đoàn Kết, tỉnh Sơn La",
+    "longitude": 104.739,
+    "latitude": 20.9584,
+    "previous": [
+      "Xã Chiềng Chung (thị xã Mộc Châu)",
+      "Xã Đoàn Kết"
+    ],
+    "treeCode": "0495.0515"
+  },
+  {
+    "id": 516,
+    "communeCode": 1150,
+    "name": "Gia Phù",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 111.32,
+    "population": 21929,
+    "administrativeCenter": "Bản Tân Ba, xã Gia Phù, Tỉnh Sơn La",
+    "longitude": 104.561,
+    "latitude": 21.1914,
+    "previous": [
+      "Xã Tường Phù",
+      "Xã Suối Bau",
+      "Xã Sập Xa",
+      "Xã Gia Phù"
+    ],
+    "treeCode": "0495.0516"
+  },
+  {
+    "id": 517,
+    "communeCode": 1543,
+    "name": "Huổi Một",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 240.66,
+    "population": 12349,
+    "administrativeCenter": "Bản Pá Mằn, xã Huổi Một, tỉnh Sơn La",
+    "longitude": 103.634,
+    "latitude": 21.0371,
+    "previous": [
+      "Xã Nậm Mằn",
+      "Xã Huổi Một"
+    ],
+    "treeCode": "0495.0517"
+  },
+  {
+    "id": 518,
+    "communeCode": 1172,
+    "name": "Kim Bon",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 104.51,
+    "population": 9873,
+    "administrativeCenter": "Bản Kim Bon, xã Kim Bon, tỉnh Sơn La",
+    "longitude": 104.588,
+    "latitude": 21.1046,
+    "previous": [
+      "Xã Đá Đỏ",
+      "Xã Kim Bon"
+    ],
+    "treeCode": "0495.0518"
+  },
+  {
+    "id": 519,
+    "communeCode": 1493,
+    "name": "Long Hẹ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 158.4,
+    "population": 8473,
+    "administrativeCenter": "Bản Nong Lạnh, xã Long Hẹ, tỉnh Sơn La",
+    "longitude": 103.499,
+    "latitude": 21.4304,
+    "previous": [
+      "Xã É Tòng",
+      "Xã Long Hẹ"
+    ],
+    "treeCode": "0495.0519"
+  },
+  {
+    "id": 520,
+    "communeCode": 1527,
+    "name": "Lóng Phiêng",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 147.81,
+    "population": 11152,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.386,
+    "latitude": 20.8865,
+    "previous": [
+      "Xã Chiềng Tương",
+      "Xã Lóng Phiêng"
+    ],
+    "treeCode": "0495.0520"
+  },
+  {
+    "id": 521,
+    "communeCode": 1520,
+    "name": "Lóng Sập",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 211.3,
+    "population": 9629,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.502,
+    "latitude": 20.7987,
+    "previous": [
+      "Xã Chiềng Khừa",
+      "Xã Lóng Sập"
+    ],
+    "treeCode": "0495.0521"
+  },
+  {
+    "id": 522,
+    "communeCode": 1533,
+    "name": "Mai Sơn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 164.4,
+    "population": 52361,
+    "administrativeCenter": "Tiểu khu 4, xã Mai Sơn, tỉnh Sơn La",
+    "longitude": 104.168,
+    "latitude": 21.1465,
+    "previous": [
+      "Thị trấn Hát Lót",
+      "Xã Hát Lót",
+      "Xã Cò Nòi"
+    ],
+    "treeCode": "0495.0522"
+  },
+  {
+    "id": 523,
+    "communeCode": 1390,
+    "name": "Mộc Châu",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 167.62,
+    "population": 21087,
+    "administrativeCenter": "Tổ dân phố 5, Phường Mộc Châu, tỉnh Sơn La",
+    "longitude": 104.565,
+    "latitude": 20.8747,
+    "previous": [
+      "Phường Mộc Lỵ",
+      "Phường Mường Sang",
+      "Xã Chiềng Hắc"
+    ],
+    "treeCode": "0495.0523"
+  },
+  {
+    "id": 524,
+    "communeCode": 1521,
+    "name": "Mộc Sơn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 37.88,
+    "population": 15025,
+    "administrativeCenter": "Tổ dân phố 4, phường Mộc Sơn, tỉnh Sơn La",
+    "longitude": 104.648,
+    "latitude": 20.8044,
+    "previous": [
+      "Phường Đông Sang",
+      "Phường Mộc Sơn"
+    ],
+    "treeCode": "0495.0524"
+  },
+  {
+    "id": 525,
+    "communeCode": 1496,
+    "name": "Muổi Nọi",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 128.7,
+    "population": 15633,
+    "administrativeCenter": "Bản Muổi Nọi A, Xã Muổi Nọi, tỉnh Sơn La",
+    "longitude": 103.785,
+    "latitude": 21.253,
+    "previous": [
+      "Xã Bản Lầm",
+      "Xã Bon Phặng",
+      "Xã Muổi Nọi"
+    ],
+    "treeCode": "0495.0525"
+  },
+  {
+    "id": 526,
+    "communeCode": 1492,
+    "name": "Mường Bám",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 76.16,
+    "population": 10731,
+    "administrativeCenter": "Bản Nà Hát, xã Mường Bám, tỉnh Sơn La",
+    "longitude": 103.39,
+    "latitude": 21.3817,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0526"
+  },
+  {
+    "id": 527,
+    "communeCode": 1173,
+    "name": "Mường Bang",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 270.15,
+    "population": 12831,
+    "administrativeCenter": "Bản Lằn, xã Mường Bang, tỉnh Sơn La",
+    "longitude": 104.806,
+    "latitude": 21.168,
+    "previous": [
+      "Xã Mường Do",
+      "Xã Mường Lang",
+      "Xã Mường Bang"
+    ],
+    "treeCode": "0495.0527"
+  },
+  {
+    "id": 528,
+    "communeCode": 1512,
+    "name": "Mường Bú",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 213.65,
+    "population": 25284,
+    "administrativeCenter": "Bản Giàn, xã Mường Bú, tỉnh Sơn La",
+    "longitude": 104.051,
+    "latitude": 21.4155,
+    "previous": [
+      "Xã Mường Chùm",
+      "Xã Tạ Bú",
+      "Xã Mường Bú"
+    ],
+    "treeCode": "0495.0528"
+  },
+  {
+    "id": 529,
+    "communeCode": 1530,
+    "name": "Mường Chanh",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 65.48,
+    "population": 3894,
+    "administrativeCenter": "Bản Cang Mường, xã Mường Chanh, tỉnh Sơn La",
+    "longitude": 103.879,
+    "latitude": 21.206,
+    "previous": [
+      "Xã Chiềng Chung (huyện Mai Sơn)",
+      "Xã Mường Chanh"
+    ],
+    "treeCode": "0495.0529"
+  },
+  {
+    "id": 530,
+    "communeCode": 1483,
+    "name": "Mường Chiên",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 382.2,
+    "population": 14028,
+    "administrativeCenter": "Bản Có Nàng, xã Mường Chiên, tỉnh Sơn La",
+    "longitude": 103.596,
+    "latitude": 21.9135,
+    "previous": [
+      "Xã Chiềng Khay",
+      "Xã Cà Nàng",
+      "Xã Mường Chiên"
+    ],
+    "treeCode": "0495.0530"
+  },
+  {
+    "id": 531,
+    "communeCode": 1149,
+    "name": "Mường Cơi",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 194.98,
+    "population": 19557,
+    "administrativeCenter": "Bản Ngã Ba, xã Mường Cơi, tỉnh Sơn La",
+    "longitude": 104.74,
+    "latitude": 21.315,
+    "previous": [
+      "Xã Mường Thải",
+      "Xã Tân Lang",
+      "Xã Mường Cơi"
+    ],
+    "treeCode": "0495.0531"
+  },
+  {
+    "id": 532,
+    "communeCode": 1489,
+    "name": "Mường É",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 139.91,
+    "population": 14858,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 103.56,
+    "latitude": 21.4995,
+    "previous": [
+      "Xã Phổng Lập",
+      "Xã Mường É"
+    ],
+    "treeCode": "0495.0532"
+  },
+  {
+    "id": 533,
+    "communeCode": 1484,
+    "name": "Mường Giôn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 290.54,
+    "population": 16145,
+    "administrativeCenter": "Bản Chiềng Lề, xã Mường Giôn, tỉnh Sơn La",
+    "longitude": 103.675,
+    "latitude": 21.773,
+    "previous": [
+      "Xã Pá Ma Pha Khinh",
+      "Xã Mường Giôn"
+    ],
+    "treeCode": "0495.0533"
+  },
+  {
+    "id": 534,
+    "communeCode": 1544,
+    "name": "Mường Hung",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 226.09,
+    "population": 24613,
+    "administrativeCenter": "Bản Cát, xã Mường Hung, tỉnh Sơn La",
+    "longitude": 103.875,
+    "latitude": 20.9653,
+    "previous": [
+      "Xã Chiềng Cang",
+      "Xã Mường Hung"
+    ],
+    "treeCode": "0495.0534"
+  },
+  {
+    "id": 535,
+    "communeCode": 1491,
+    "name": "Mường Khiêng",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 204.2,
+    "population": 2457,
+    "administrativeCenter": "Bản Khiêng, xã Mường Khiêng, tỉnh Sơn La",
+    "longitude": 103.879,
+    "latitude": 21.4878,
+    "previous": [
+      "Xã Liệp Tè",
+      "Xã Bó Mười",
+      "Xã Mường Khiêng"
+    ],
+    "treeCode": "0495.0535"
+  },
+  {
+    "id": 536,
+    "communeCode": 1497,
+    "name": "Mường La",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 341.86,
+    "population": 32712,
+    "administrativeCenter": "Tiểu khu 3, xã Mường La, tỉnh Sơn La",
+    "longitude": 104.05,
+    "latitude": 21.5406,
+    "previous": [
+      "Thị trấn Ít Ong",
+      "Xã Nặm Păm",
+      "Xã Chiềng San",
+      "Xã Chiềng Muôn",
+      "Xã Mường Trai",
+      "Xã Pi Toong"
+    ],
+    "treeCode": "0495.0536"
+  },
+  {
+    "id": 537,
+    "communeCode": 1539,
+    "name": "Mường Lầm",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 167.1,
+    "population": 15647,
+    "administrativeCenter": "Bản Mường Cang, xã Mường Lầm, Tinh Sơn La",
+    "longitude": 103.449,
+    "latitude": 21.1067,
+    "previous": [
+      "Xã Đứa Mòn",
+      "Xã Mường Lầm"
+    ],
+    "treeCode": "0495.0537"
+  },
+  {
+    "id": 538,
+    "communeCode": 1549,
+    "name": "Mường Lạn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 264.89,
+    "population": 10901,
+    "administrativeCenter": "Bản Mường Lạn, xã Mường Lạn, tỉnh Sơn La",
+    "longitude": 103.709,
+    "latitude": 20.7685,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0538"
+  },
+  {
+    "id": 539,
+    "communeCode": 1548,
+    "name": "Mường Lèo",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 375.76,
+    "population": 4277,
+    "administrativeCenter": "Bản Mạt, xã Mường Lèo, tỉnh Sơn La",
+    "longitude": 103.351,
+    "latitude": 20.8929,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0539"
+  },
+  {
+    "id": 540,
+    "communeCode": 1486,
+    "name": "Mường Sại",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 122.94,
+    "population": 9557,
+    "administrativeCenter": "Bản Nong, xã Mường Sại, tỉnh Sơn La",
+    "longitude": 103.741,
+    "latitude": 21.594,
+    "previous": [
+      "Xã Nặm Ét",
+      "Xã Mường Sại"
+    ],
+    "treeCode": "0495.0540"
+  },
+  {
+    "id": 541,
+    "communeCode": 1495,
+    "name": "Nậm Lầu",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 247.63,
+    "population": 18095,
+    "administrativeCenter": "Bản Tra, xã Nậm Lầu, tỉnh Sơn La",
+    "longitude": 103.678,
+    "latitude": 21.3522,
+    "previous": [
+      "Xã Chiềng Bôm",
+      "Xã Púng Tra",
+      "Xã Nậm Lầu"
+    ],
+    "treeCode": "0495.0541"
+  },
+  {
+    "id": 542,
+    "communeCode": 1540,
+    "name": "Nậm Ty",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 201.89,
+    "population": 16679,
+    "administrativeCenter": "Bản Pàn, Xã Nậm Ty, tỉnh Sơn La",
+    "longitude": 103.653,
+    "latitude": 21.2238,
+    "previous": [
+      "Xã Chiềng Phung",
+      "Xã Nậm Ty"
+    ],
+    "treeCode": "0495.0542"
+  },
+  {
+    "id": 543,
+    "communeCode": 1511,
+    "name": "Ngọc Chiến",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 212.19,
+    "population": 12021,
+    "administrativeCenter": "Bản Đông Xuông, xã Ngọc Chiến, tỉnh Sơn La",
+    "longitude": 104.216,
+    "latitude": 21.6149,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0543"
+  },
+  {
+    "id": 544,
+    "communeCode": 946,
+    "name": "Pắc Ngà",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 122.59,
+    "population": 13274,
+    "administrativeCenter": "Bản Bước, xã Pắc Ngà, tỉnh Sơn La",
+    "longitude": 104.22,
+    "latitude": 21.3231,
+    "previous": [
+      "Xã Chim Vàn",
+      "Xã Pắc Ngà"
+    ],
+    "treeCode": "0495.0544"
+  },
+  {
+    "id": 545,
+    "communeCode": 1534,
+    "name": "Phiêng Cằm",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 280.33,
+    "population": 14459,
+    "administrativeCenter": "Bản Nong Tầu Thái, xã Phiêng Cằm, tỉnh Sơn La",
+    "longitude": 103.843,
+    "latitude": 21.124,
+    "previous": [
+      "Xã Chiềng Nơi",
+      "Xã Phiêng Cằm"
+    ],
+    "treeCode": "0495.0545"
+  },
+  {
+    "id": 546,
+    "communeCode": 1528,
+    "name": "Phiêng Khoài",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 103.77,
+    "population": 12424,
+    "administrativeCenter": "Bản Kim chung 1, xã Phiêng Khoài, tỉnh Sơn La",
+    "longitude": 104.281,
+    "latitude": 20.9546,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0546"
+  },
+  {
+    "id": 547,
+    "communeCode": 1535,
+    "name": "Phiêng Pằn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 320.65,
+    "population": 24685,
+    "administrativeCenter": "Bản Kết Hay, xã Phiêng Pằn, tỉnh Sơn La",
+    "longitude": 104.061,
+    "latitude": 21.0585,
+    "previous": [
+      "Xã Nà Ớt",
+      "Xã Chiềng Lương",
+      "Xã Phiêng Pằn"
+    ],
+    "treeCode": "0495.0547"
+  },
+  {
+    "id": 548,
+    "communeCode": 1143,
+    "name": "Phù Yên",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 117.98,
+    "population": 47299,
+    "administrativeCenter": "Tiểu Khu 2, xã Phù Yên, tỉnh Sơn La",
+    "longitude": 104.655,
+    "latitude": 21.2605,
+    "previous": [
+      "Thị trấn Quang Huy",
+      "Xã Huy Hạ",
+      "Xã Huy Tường",
+      "Xã Huy Tân",
+      "Xã Huy Thượng"
+    ],
+    "treeCode": "0495.0548"
+  },
+  {
+    "id": 549,
+    "communeCode": 1546,
+    "name": "Púng Bánh",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 364.64,
+    "population": 17264,
+    "administrativeCenter": "Bản Kéo Hin, xã Púng Bánh, tỉnh Sơn la",
+    "longitude": 103.448,
+    "latitude": 21.0027,
+    "previous": [
+      "Xã Dồm Cang",
+      "Xã Sam Kha",
+      "Xã Púng Bánh"
+    ],
+    "treeCode": "0495.0549"
+  },
+  {
+    "id": 550,
+    "communeCode": 1485,
+    "name": "Quỳnh Nhai",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 30.554,
+    "population": null,
+    "administrativeCenter": "Tiểu khu 1, xã Quỳnh Nhai, tỉnh Sơn La",
+    "longitude": 103.661,
+    "latitude": 21.6433,
+    "previous": [
+      "Thị trấn Mường Giàng",
+      "Xã Chiềng Bằng",
+      "Xã Chiềng Khoang",
+      "Xã Chiềng Ơn"
+    ],
+    "treeCode": "0495.0550"
+  },
+  {
+    "id": 551,
+    "communeCode": 1389,
+    "name": "Song Khủa",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 192.45,
+    "population": 15845,
+    "administrativeCenter": "Bản Lóng Khủa, xã Song Khủa, tỉnh Sơn La",
+    "longitude": 104.913,
+    "latitude": 20.9154,
+    "previous": [
+      "Xã Mường Tè",
+      "Xã Liên Hòa",
+      "Xã Quang Minh",
+      "Xã Song Khủa"
+    ],
+    "treeCode": "0495.0551"
+  },
+  {
+    "id": 552,
+    "communeCode": 1537,
+    "name": "Sông Mã",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 105.99,
+    "population": 26179,
+    "administrativeCenter": "Tổ dân phố 5, xã Sông Mã, tỉnh Sơn La",
+    "longitude": 103.733,
+    "latitude": 21.0923,
+    "previous": [
+      "Thị trấn Sông Mã",
+      "Xã Nà Nghịu"
+    ],
+    "treeCode": "0495.0552"
+  },
+  {
+    "id": 553,
+    "communeCode": 1547,
+    "name": "Sốp Cộp",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 466.95,
+    "population": 24086,
+    "administrativeCenter": "Bản Hua Mường, xã Sốp Cộp, tỉnh Sơn La",
+    "longitude": 103.569,
+    "latitude": 20.8366,
+    "previous": [
+      "Xã Mường Và",
+      "Xã Nậm Lạnh",
+      "Xã Sốp Cộp"
+    ],
+    "treeCode": "0495.0553"
+  },
+  {
+    "id": 554,
+    "communeCode": 1144,
+    "name": "Suối Tọ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 177.49,
+    "population": 6343,
+    "administrativeCenter": "Bản Lũng Khoai, xã Suối Tọ, tỉnh Sơn La",
+    "longitude": 104.586,
+    "latitude": 21.3296,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0554"
+  },
+  {
+    "id": 555,
+    "communeCode": 1536,
+    "name": "Tà Hộc",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 149.56,
+    "population": 13692,
+    "administrativeCenter": "Tiểu khu 8, xã Nà Bó, tỉnh Sơn La",
+    "longitude": 104.192,
+    "latitude": 21.238,
+    "previous": [
+      "Xã Nà Bó",
+      "Xã Tà Hộc"
+    ],
+    "treeCode": "0495.0555"
+  },
+  {
+    "id": 556,
+    "communeCode": 1121,
+    "name": "Tạ Khoa",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 191.88,
+    "population": 15522,
+    "administrativeCenter": "Bản Phúc, xã Tạ Khoa, tỉnh Sơn La",
+    "longitude": 104.336,
+    "latitude": 21.165,
+    "previous": [
+      "Xã Mường Khoa",
+      "Xã Hua Nhàn",
+      "Xã Tạ Khoa"
+    ],
+    "treeCode": "0495.0556"
+  },
+  {
+    "id": 557,
+    "communeCode": 813,
+    "name": "Tà Xùa",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 233.67,
+    "population": 11199,
+    "administrativeCenter": "Bản Tà Xùa, xã Tà Xùa, tỉnh Sơn La",
+    "longitude": 104.47,
+    "latitude": 21.3119,
+    "previous": [
+      "Xã Làng Chếu",
+      "Xã Háng Đồng",
+      "Xã Tà Xùa"
+    ],
+    "treeCode": "0495.0557"
+  },
+  {
+    "id": 558,
+    "communeCode": 1174,
+    "name": "Tân Phong",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 135.45,
+    "population": 6787,
+    "administrativeCenter": "Bản Vạn, xã Tân Phong, tỉnh Sơn La",
+    "longitude": 104.733,
+    "latitude": 21.0862,
+    "previous": [
+      "Xã Bắc Phong",
+      "Xã Nam Phong",
+      "Xã Tân Phong"
+    ],
+    "treeCode": "0495.0558"
+  },
+  {
+    "id": 559,
+    "communeCode": 1177,
+    "name": "Tân Yên",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 192.79,
+    "population": 1838,
+    "administrativeCenter": "Tiểu khu 12, xã Tân Yên, tỉnh Sơn La",
+    "longitude": 104.608,
+    "latitude": 20.9867,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0495.0559"
+  },
+  {
+    "id": 560,
+    "communeCode": 1551,
+    "name": "Thảo Nguyên",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 53.09,
+    "population": 22479,
+    "administrativeCenter": "Tổ dân phố 40, phường Thảo Nguyên, tỉnh Sơn La",
+    "longitude": 104.684,
+    "latitude": 20.8479,
+    "previous": [
+      "Phường Cờ Đỏ",
+      "Phường Thảo Ngu yên"
+    ],
+    "treeCode": "0495.0560"
+  },
+  {
+    "id": 561,
+    "communeCode": 1487,
+    "name": "Thuận Châu",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 132.83,
+    "population": 46958,
+    "administrativeCenter": "Tiểu khu 7, xã Thuận Châu, tỉnh Sơn La",
+    "longitude": 103.715,
+    "latitude": 21.4377,
+    "previous": [
+      "Thị trấn Thuận Châu",
+      "Xã Phổng Ly",
+      "Xã Thôm Mòn",
+      "Xã Tông Lạnh",
+      "Xã Chiềng Pấc"
+    ],
+    "treeCode": "0495.0561"
+  },
+  {
+    "id": 562,
+    "communeCode": 1479,
+    "name": "Tô Hiệu",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 11.92,
+    "population": 51293,
+    "administrativeCenter": "Số 89, đường Lê Thái Tông, phường Tô Hiệu, tỉnh Sơn La",
+    "longitude": 103.921,
+    "latitude": 21.3273,
+    "previous": [
+      "Phường Quyết Thắng",
+      "Phường Quyết Tâm",
+      "Phường Chiềng Lề",
+      "Phường Tô Hiệu"
+    ],
+    "treeCode": "0495.0562"
+  },
+  {
+    "id": 563,
+    "communeCode": 1519,
+    "name": "Tô Múa",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 181.98,
+    "population": 14701,
+    "administrativeCenter": "Bản Mến, xã Tô Múa, tỉnh Sơn La",
+    "longitude": 104.822,
+    "latitude": 20.9151,
+    "previous": [
+      "Xã Chiềng Khoa",
+      "Xã Suối Bàng",
+      "Xã Tô Múa"
+    ],
+    "treeCode": "0495.0563"
+  },
+  {
+    "id": 564,
+    "communeCode": 1171,
+    "name": "Tường Hạ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 120.85,
+    "population": 14076,
+    "administrativeCenter": "Bản Cóc 1, xã Tường Hạ, tỉnh Sơn La",
+    "longitude": 104.676,
+    "latitude": 21.1461,
+    "previous": [
+      "Xã Tường Thượng",
+      "Xã Tường Phong",
+      "Xã Tường Tiến",
+      "Xã Tường Hạ"
+    ],
+    "treeCode": "0495.0564"
+  },
+  {
+    "id": 565,
+    "communeCode": 1522,
+    "name": "Vân Hồ",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 268.4,
+    "population": 24998,
+    "administrativeCenter": "Bản Suối Lìn, xã Vân Hồ, tỉnh Sơn La",
+    "longitude": 104.94,
+    "latitude": 20.7914,
+    "previous": [
+      "Xã Lóng Luông",
+      "Xã Chiềng Yên",
+      "Xã Mường Men",
+      "Xã Vân Hồ"
+    ],
+    "treeCode": "0495.0565"
+  },
+  {
+    "id": 566,
+    "communeCode": 1550,
+    "name": "Vân Sơn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "phường",
+    "areaKm2": 39.61,
+    "population": 15917,
+    "administrativeCenter": "Tổ Dân phố đoàn kết, Phường Vân Sơn, tỉnh Sơn La",
+    "longitude": 104.716,
+    "latitude": 20.8771,
+    "previous": [
+      "Phường Bình Minh",
+      "Phường Vân Sơn"
+    ],
+    "treeCode": "0495.0566"
+  },
+  {
+    "id": 567,
+    "communeCode": 713,
+    "name": "Xím Vàng",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 232.35,
+    "population": 7596,
+    "administrativeCenter": "Bản Hang Chú, xã Xím Vàng, tỉnh Sơn La",
+    "longitude": 104.32,
+    "latitude": 21.3584,
+    "previous": [
+      "Xã Hang Chú",
+      "Xã Xí m Vàng"
+    ],
+    "treeCode": "0495.0567"
+  },
+  {
+    "id": 568,
+    "communeCode": 1523,
+    "name": "Xuân Nha",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 263.37,
+    "population": 10127,
+    "administrativeCenter": "Bản Thín, xã Xuân Nha, tỉnh Sơn La",
+    "longitude": 104.756,
+    "latitude": 20.6658,
+    "previous": [
+      "Xã Tân Xuân",
+      "Xã Xuân Nha"
+    ],
+    "treeCode": "0495.0568"
+  },
+  {
+    "id": 569,
+    "communeCode": 1524,
+    "name": "Yên Châu",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 246.55,
+    "population": 33061,
+    "administrativeCenter": "Tiểu Khu 3, xã Yên Châu, tỉnh Sơn La",
+    "longitude": 104.283,
+    "latitude": 21.0768,
+    "previous": [
+      "Thị trấn Yên Châu",
+      "Xã Chiềng Đông",
+      "Xã Chiềng Sàng",
+      "Xã Chiềng Pằn",
+      "Xã Chiềng Khoi",
+      "Xã Sặp Vạt"
+    ],
+    "treeCode": "0495.0569"
+  },
+  {
+    "id": 570,
+    "communeCode": 1526,
+    "name": "Yên Sơn",
+    "provinceCode": 15,
+    "provinceName": "tỉnh Sơn La",
+    "type": "xã",
+    "areaKm2": 116.62,
+    "population": 12614,
+    "administrativeCenter": "Bản Chiềng Hưng, xã Yên Sơn, tỉnh Sơn La",
+    "longitude": 104.184,
+    "latitude": 21,
+    "previous": [
+      "Xã Chiềng On",
+      "Xã Yên Sơn"
+    ],
+    "treeCode": "0495.0570"
+  }
+]

@@ -1,0 +1,1247 @@
+[
+  {
+    "id": 2065,
+    "communeCode": 1462,
+    "name": "Anh Dũng",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 320.6,
+    "population": 103,
+    "administrativeCenter": "UBND xã Ma Nới",
+    "longitude": 108.675,
+    "latitude": 11.6202,
+    "previous": [
+      "Xã Ma Nới",
+      "Xã Hòa Sơn"
+    ],
+    "treeCode": "2064.2065"
+  },
+  {
+    "id": 2066,
+    "communeCode": 1388,
+    "name": "Ba Ngòi",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 78.2,
+    "population": 31708,
+    "administrativeCenter": "UBND phường Ba Ngòi",
+    "longitude": 109.11,
+    "latitude": 11.9377,
+    "previous": [
+      "Phường Ba Ngòi",
+      "Xã Cam Phước Đông"
+    ],
+    "treeCode": "2064.2066"
+  },
+  {
+    "id": 2067,
+    "communeCode": 1458,
+    "name": "Bác Ái",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 188.5,
+    "population": 1227,
+    "administrativeCenter": "UBND xã Phước Thắng",
+    "longitude": 108.831,
+    "latitude": 11.8156,
+    "previous": [
+      "Xã Phước Tiến",
+      "Xã Phước Thắng",
+      "Xã Phước Chính"
+    ],
+    "treeCode": "2064.2067"
+  },
+  {
+    "id": 2068,
+    "communeCode": 1459,
+    "name": "Bác Ái Đông",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 235.2,
+    "population": 9335,
+    "administrativeCenter": "UBND huyện Bác Ái",
+    "longitude": 108.956,
+    "latitude": 11.869,
+    "previous": [
+      "Xã Phước Đại",
+      "Xã Phước Thành"
+    ],
+    "treeCode": "2064.2068"
+  },
+  {
+    "id": 2069,
+    "communeCode": 1457,
+    "name": "Bác Ái Tây",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 478.7,
+    "population": 1109,
+    "administrativeCenter": "UBND xã Phước Hòa",
+    "longitude": 108.762,
+    "latitude": 11.9949,
+    "previous": [
+      "Xã Phước Hòa",
+      "Xã Phước Tân",
+      "Xã Phước Bình"
+    ],
+    "treeCode": "2064.2069"
+  },
+  {
+    "id": 2070,
+    "communeCode": 1384,
+    "name": "Bắc Cam Ranh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 134,
+    "population": 43644,
+    "administrativeCenter": "UBND phường Cam Phúc Bắc",
+    "longitude": 109.238,
+    "latitude": 11.9361,
+    "previous": [
+      "Phường Cam Nghĩa",
+      "Phường Cam Phúc Bắc",
+      "Xã Cam Thành Nam"
+    ],
+    "treeCode": "2064.2070"
+  },
+  {
+    "id": 2071,
+    "communeCode": 1377,
+    "name": "Bắc Khánh Vĩnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 144.2,
+    "population": 9199,
+    "administrativeCenter": "UBND xã Khánh Bình",
+    "longitude": 108.96,
+    "latitude": 12.4052,
+    "previous": [
+      "Xã Khánh Bình",
+      "Xã Khánh Đông"
+    ],
+    "treeCode": "2064.2071"
+  },
+  {
+    "id": 2072,
+    "communeCode": 1381,
+    "name": "Bắc Nha Trang",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 97,
+    "population": 128239,
+    "administrativeCenter": "UBND phường Vĩnh Phước - số 422 đường 2 Tháng 4",
+    "longitude": 109.171,
+    "latitude": 12.3221,
+    "previous": [
+      "Phường Vĩnh Hòa",
+      "Phường Vĩnh Hải",
+      "Phường Vĩnh Phước",
+      "Phường Vĩnh Thọ",
+      "Xã Vĩnh Lương",
+      "Xã Vĩnh Phương"
+    ],
+    "treeCode": "2064.2072"
+  },
+  {
+    "id": 2073,
+    "communeCode": 1371,
+    "name": "Bắc Ninh Hòa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 237,
+    "population": 32329,
+    "administrativeCenter": "UBND xã Ninh Thọ",
+    "longitude": 109.099,
+    "latitude": 12.6533,
+    "previous": [
+      "Xã Ninh An",
+      "Xã Ninh Sơn",
+      "Xã Ninh Thọ"
+    ],
+    "treeCode": "2064.2073"
+  },
+  {
+    "id": 2074,
+    "communeCode": 1419,
+    "name": "Bảo An",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 18.5,
+    "population": 45995,
+    "administrativeCenter": "BQL đầu tư xây dựng và phát triển quỹ đất tỉnh Ninh Thuận",
+    "longitude": 108.974,
+    "latitude": 11.5964,
+    "previous": [
+      "Phường Phước Mỹ",
+      "Phường Bảo An",
+      "Xã Thành Hải"
+    ],
+    "treeCode": "2064.2074"
+  },
+  {
+    "id": 2075,
+    "communeCode": 1438,
+    "name": "Cà Ná",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 63.9,
+    "population": 24903,
+    "administrativeCenter": "UBND xã Phước Diêm",
+    "longitude": 108.91,
+    "latitude": 11.3513,
+    "previous": [
+      "Xã Phước Diêm",
+      "Xã Cà Ná"
+    ],
+    "treeCode": "2064.2075"
+  },
+  {
+    "id": 2076,
+    "communeCode": 1395,
+    "name": "Cam An",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 122,
+    "population": 19534,
+    "administrativeCenter": "UBND Cam An Bắc",
+    "longitude": 109.069,
+    "latitude": 11.9871,
+    "previous": [
+      "Xã Cam Phước Tây",
+      "Xã Cam An Bắc",
+      "Xã Cam An Nam"
+    ],
+    "treeCode": "2064.2076"
+  },
+  {
+    "id": 2077,
+    "communeCode": 1394,
+    "name": "Cam Hiệp",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 115.1,
+    "population": 5,
+    "administrativeCenter": "UBND xã Suối Cát",
+    "longitude": 109.057,
+    "latitude": 12.0806,
+    "previous": [
+      "Xã Sơn Tân",
+      "Xã Cam Hiệp Bắc",
+      "Xã Cam Hiệp Nam",
+      "Xã Cam Hòa",
+      "Xã Cam Tân",
+      "Xã Suối Tân"
+    ],
+    "treeCode": "2064.2077"
+  },
+  {
+    "id": 2078,
+    "communeCode": 1454,
+    "name": "Cam Lâm",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 149.9,
+    "population": 8653,
+    "administrativeCenter": "UBND huyện Cam Lâm",
+    "longitude": 109.147,
+    "latitude": 12.0843,
+    "previous": [
+      "Thị trấn Cam Đức",
+      "Xã Cam Hải Đông",
+      "Xã Cam Hải Tây",
+      "Xã Cam Thành Bắc",
+      "Xã Cam Hiệp Bắc",
+      "Xã Cam Hiệp Nam",
+      "Xã Cam Hòa",
+      "Xã Cam Tân",
+      "Xã Cam An Bắc",
+      "Xã Cam An Nam",
+      "Xã Suối Tân"
+    ],
+    "treeCode": "2064.2078"
+  },
+  {
+    "id": 2079,
+    "communeCode": 1452,
+    "name": "Cam Linh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 4.8,
+    "population": 33052,
+    "administrativeCenter": "UBND phường Cam Linh",
+    "longitude": 109.15,
+    "latitude": 11.9096,
+    "previous": [
+      "Phường Cam Thuận",
+      "Phường Cam Lợi",
+      "Phường Cam Linh"
+    ],
+    "treeCode": "2064.2079"
+  },
+  {
+    "id": 2080,
+    "communeCode": 1387,
+    "name": "Cam Ranh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 17.5,
+    "population": 31237,
+    "administrativeCenter": "UBND TP Cam Ranh",
+    "longitude": 109.16,
+    "latitude": 11.9355,
+    "previous": [
+      "Phường Cam Phú",
+      "Phường Cam Lộc",
+      "Phường Cam Phúc Nam"
+    ],
+    "treeCode": "2064.2080"
+  },
+  {
+    "id": 2081,
+    "communeCode": 1465,
+    "name": "Công Hải",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 124.3,
+    "population": 14727,
+    "administrativeCenter": "UBND xã Công Hải",
+    "longitude": 109.089,
+    "latitude": 11.7955,
+    "previous": [
+      "Xã Phước Chiến",
+      "Xã Công Hải"
+    ],
+    "treeCode": "2064.2081"
+  },
+  {
+    "id": 2082,
+    "communeCode": 1366,
+    "name": "Đại Lãnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 171,
+    "population": 25644,
+    "administrativeCenter": "UBND xã Vạn Thọ",
+    "longitude": 109.388,
+    "latitude": 12.6983,
+    "previous": [
+      "Xã Vạn Thạnh",
+      "Xã Vạn Thọ",
+      "Xã Đại Lãnh"
+    ],
+    "treeCode": "2064.2082"
+  },
+  {
+    "id": 2083,
+    "communeCode": 1406,
+    "name": "Diên Điền",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 63.7,
+    "population": 38029,
+    "administrativeCenter": "UBND xã Diên Điền",
+    "longitude": 109.096,
+    "latitude": 12.3022,
+    "previous": [
+      "Xã Diên Sơn",
+      "Xã Diên Phú",
+      "Xã Diên Điền"
+    ],
+    "treeCode": "2064.2083"
+  },
+  {
+    "id": 2084,
+    "communeCode": 1400,
+    "name": "Diên Khánh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 18.4,
+    "population": 45223,
+    "administrativeCenter": "UBND huyện Diên Khánh",
+    "longitude": 109.109,
+    "latitude": 12.2432,
+    "previous": [
+      "Thị trấn Diên Khánh",
+      "Xã Diên An",
+      "Xã Diên Toàn"
+    ],
+    "treeCode": "2064.2084"
+  },
+  {
+    "id": 2085,
+    "communeCode": 1408,
+    "name": "Diên Lạc",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 14.9,
+    "population": 23325,
+    "administrativeCenter": "UBND xã Diên Lạc",
+    "longitude": 109.078,
+    "latitude": 12.2542,
+    "previous": [
+      "Xã Diên Thạnh",
+      "Xã Diên Lạc",
+      "Xã Diên Hòa"
+    ],
+    "treeCode": "2064.2085"
+  },
+  {
+    "id": 2086,
+    "communeCode": 1401,
+    "name": "Diên Lâm",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 117.8,
+    "population": 16059,
+    "administrativeCenter": "UBND xã Diên Xuân",
+    "longitude": 109.018,
+    "latitude": 12.3209,
+    "previous": [
+      "Xã Xuân Đồng",
+      "Xã Diên Lâm"
+    ],
+    "treeCode": "2064.2086"
+  },
+  {
+    "id": 2087,
+    "communeCode": 1407,
+    "name": "Diên Thọ",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 73.6,
+    "population": 16692,
+    "administrativeCenter": "UBND xã Diên Thọ",
+    "longitude": 108.993,
+    "latitude": 12.2398,
+    "previous": [
+      "Xã Diên Tân",
+      "Xã Diên Phước",
+      "Xã Diên Thọ"
+    ],
+    "treeCode": "2064.2087"
+  },
+  {
+    "id": 2088,
+    "communeCode": 1418,
+    "name": "Đô Vinh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 62,
+    "population": 33207,
+    "administrativeCenter": "UBND phường Đô Vinh",
+    "longitude": 108.928,
+    "latitude": 11.6382,
+    "previous": [
+      "Phường Đô Vinh",
+      "Xã Nhơn Sơn"
+    ],
+    "treeCode": "2064.2088"
+  },
+  {
+    "id": 2089,
+    "communeCode": 1456,
+    "name": "Đông Hải",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 11.0947,
+    "population": null,
+    "administrativeCenter": "Sở Nông nghiệp và Môi trường",
+    "longitude": 109.015,
+    "latitude": 11.5598,
+    "previous": [
+      "Phường Mỹ Bình",
+      "Phường Mỹ Đông",
+      "Phường Mỹ Hải",
+      "Phường Đông Hải"
+    ],
+    "treeCode": "2064.2089"
+  },
+  {
+    "id": 2090,
+    "communeCode": 1417,
+    "name": "Đông Khánh Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 114.3,
+    "population": 10376,
+    "administrativeCenter": "UBND xã Ba Cụm Bắc",
+    "longitude": 108.981,
+    "latitude": 11.9924,
+    "previous": [
+      "Xã Sơn Trung",
+      "Xã Ba Cụm Bắc",
+      "Xã Ba Cụm Nam"
+    ],
+    "treeCode": "2064.2090"
+  },
+  {
+    "id": 2091,
+    "communeCode": 1374,
+    "name": "Đông Ninh Hòa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 134.2,
+    "population": 43484,
+    "administrativeCenter": "UBND phường Ninh Diêm",
+    "longitude": 109.305,
+    "latitude": 12.4007,
+    "previous": [
+      "Phường Ninh Diêm",
+      "Phường Ninh Hải",
+      "Phường Ninh Thủy",
+      "Xã Ninh Phước"
+    ],
+    "treeCode": "2064.2091"
+  },
+  {
+    "id": 2092,
+    "communeCode": 1396,
+    "name": "Hòa Thắng",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 78.6,
+    "population": 26822,
+    "administrativeCenter": "UBND phường Ninh Giang",
+    "longitude": 109.193,
+    "latitude": 12.4663,
+    "previous": [
+      "Phường Ninh Giang",
+      "Phường Ninh Hà",
+      "Xã Ninh Phú"
+    ],
+    "treeCode": "2064.2092"
+  },
+  {
+    "id": 2093,
+    "communeCode": 1373,
+    "name": "Hòa Trí",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 109.4,
+    "population": 26638,
+    "administrativeCenter": "UBND xã Ninh Thân",
+    "longitude": 109.094,
+    "latitude": 12.5472,
+    "previous": [
+      "Xã Ninh Thượng",
+      "Xã Ninh Trung",
+      "Xã Ninh Thân"
+    ],
+    "treeCode": "2064.2093"
+  },
+  {
+    "id": 2094,
+    "communeCode": 1415,
+    "name": "Khánh Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 98.7,
+    "population": 11535,
+    "administrativeCenter": "UBND huyện Khánh Sơn",
+    "longitude": 108.912,
+    "latitude": 12.0203,
+    "previous": [
+      "Thị trấn Tô Hạp",
+      "Xã Sơn Hiệp",
+      "Xã Sơn Bình"
+    ],
+    "treeCode": "2064.2094"
+  },
+  {
+    "id": 2095,
+    "communeCode": 1398,
+    "name": "Khánh Vĩnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 192.4,
+    "population": 11204,
+    "administrativeCenter": "UBND huyện Khánh Vĩnh",
+    "longitude": 108.915,
+    "latitude": 12.1782,
+    "previous": [
+      "Thị trấn Khánh Vĩnh",
+      "Xã Sông Cầu",
+      "Xã Khánh Phú"
+    ],
+    "treeCode": "2064.2095"
+  },
+  {
+    "id": 2096,
+    "communeCode": 1436,
+    "name": "Lâm Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 191.5,
+    "population": 24247,
+    "administrativeCenter": "UBND xã Lâm Sơn",
+    "longitude": 108.707,
+    "latitude": 11.8371,
+    "previous": [
+      "Xã Lương Sơn",
+      "Xã Lâm Sơn"
+    ],
+    "treeCode": "2064.2096"
+  },
+  {
+    "id": 2097,
+    "communeCode": 1461,
+    "name": "Mỹ Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 248.1,
+    "population": 158,
+    "administrativeCenter": "UBND xã Mỹ Sơn",
+    "longitude": 108.891,
+    "latitude": 11.7085,
+    "previous": [
+      "Xã Phước Trung",
+      "Xã Mỹ Sơn"
+    ],
+    "treeCode": "2064.2097"
+  },
+  {
+    "id": 2098,
+    "communeCode": 1386,
+    "name": "Nam Cam Ranh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 92.6,
+    "population": 23525,
+    "administrativeCenter": "UBND xã Cam Thịnh Đông",
+    "longitude": 109.084,
+    "latitude": 11.8722,
+    "previous": [
+      "Xã Cam Lập",
+      "Xã Cam Bình",
+      "Xã Cam Thịnh Đông",
+      "Xã Cam Thịnh Tây"
+    ],
+    "treeCode": "2064.2098"
+  },
+  {
+    "id": 2099,
+    "communeCode": 1399,
+    "name": "Nam Khánh Vĩnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 197.1,
+    "population": 10271,
+    "administrativeCenter": "UBND xã Sơn Thái",
+    "longitude": 108.816,
+    "latitude": 12.2094,
+    "previous": [
+      "Xã Cầu Bà",
+      "Xã Khánh Thành",
+      "Xã Liên Sang",
+      "Xã Sơn Thái"
+    ],
+    "treeCode": "2064.2099"
+  },
+  {
+    "id": 2100,
+    "communeCode": 1383,
+    "name": "Nam Nha Trang",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 82.2,
+    "population": 130164,
+    "administrativeCenter": "UBND xã Vĩnh Thái - KĐT Mỹ Gia, thôn Thủy Tú",
+    "longitude": 109.168,
+    "latitude": 12.1947,
+    "previous": [
+      "Phường Phước Hải",
+      "Phường Phước Long",
+      "Phường Vĩnh Trường",
+      "Xã Vĩnh Thái",
+      "Xã Phước Đồng"
+    ],
+    "treeCode": "2064.2100"
+  },
+  {
+    "id": 2101,
+    "communeCode": 1397,
+    "name": "Nam Ninh Hòa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 201.4,
+    "population": 31293,
+    "administrativeCenter": "UBND xã Ninh Hưng",
+    "longitude": 109.077,
+    "latitude": 12.4199,
+    "previous": [
+      "Xã Ninh Lộc",
+      "Xã Ninh Ích",
+      "Xã Ninh Hưng",
+      "Xã Ninh Tân"
+    ],
+    "treeCode": "2064.2101"
+  },
+  {
+    "id": 2102,
+    "communeCode": -1,
+    "name": "Nha Trang",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 47.12,
+    "population": 136118,
+    "administrativeCenter": "UBND TP Nha Trang - số 42 Lê Thánh Tôn",
+    "longitude": 109.19533,
+    "latitude": 12.24579,
+    "previous": [
+      "Phường Vạn Thạnh",
+      "Phường Lộc Thọ",
+      "Phường Vĩnh Nguyên",
+      "Phường Tân Tiến",
+      "Phường Phước Hòa"
+    ],
+    "treeCode": "2064.2102"
+  },
+  {
+    "id": 2103,
+    "communeCode": 1464,
+    "name": "Ninh Chử",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 20.4,
+    "population": 39556,
+    "administrativeCenter": "Huyện ủy, HĐND, UBND huyện Ninh Hải",
+    "longitude": 109.018,
+    "latitude": 11.5992,
+    "previous": [
+      "Phường Văn Hải",
+      "Thị trấn Khánh Hải"
+    ],
+    "treeCode": "2064.2103"
+  },
+  {
+    "id": 2104,
+    "communeCode": 1430,
+    "name": "Ninh Hải",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 100.1,
+    "population": 31115,
+    "administrativeCenter": "UBND xã Phương Hải",
+    "longitude": 109.082,
+    "latitude": 11.6573,
+    "previous": [
+      "Xã Phương Hải",
+      "Xã Tri Hải",
+      "Xã Bắc Sơn"
+    ],
+    "treeCode": "2064.2104"
+  },
+  {
+    "id": 2105,
+    "communeCode": 1369,
+    "name": "Ninh Hòa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 35.8,
+    "population": 58816,
+    "administrativeCenter": "UBND thị xã Ninh Hòa",
+    "longitude": 109.139,
+    "latitude": 12.5088,
+    "previous": [
+      "Phường Ninh Hiệp",
+      "Phường Ninh Đa",
+      "Xã Ninh Đông",
+      "Xã Ninh Phụng"
+    ],
+    "treeCode": "2064.2105"
+  },
+  {
+    "id": 2106,
+    "communeCode": 1432,
+    "name": "Ninh Phước",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 65.4,
+    "population": 70203,
+    "administrativeCenter": "UBND huyện Ninh Phước",
+    "longitude": 108.954,
+    "latitude": 11.5272,
+    "previous": [
+      "Thị trấn Phước Dân",
+      "Xã Phước Thuận",
+      "Xã Phước Hải"
+    ],
+    "treeCode": "2064.2106"
+  },
+  {
+    "id": 2107,
+    "communeCode": 1460,
+    "name": "Ninh Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 99.3,
+    "population": 32003,
+    "administrativeCenter": "UBND huyện Ninh Sơn",
+    "longitude": 108.746,
+    "latitude": 11.7523,
+    "previous": [
+      "Thị trấn Tân Sơn",
+      "Xã Quảng Sơn"
+    ],
+    "treeCode": "2064.2107"
+  },
+  {
+    "id": 2108,
+    "communeCode": 1455,
+    "name": "Phan Rang",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 9.4,
+    "population": 7225,
+    "administrativeCenter": "UBND TP Phan Rang - Tháp Chàm",
+    "longitude": 108.992,
+    "latitude": 11.5639,
+    "previous": [
+      "Phường Kinh Dinh",
+      "Phường Phủ Hà",
+      "Phường Đài Sơn",
+      "Phường Đạo Long"
+    ],
+    "treeCode": "2064.2108"
+  },
+  {
+    "id": 2109,
+    "communeCode": 1439,
+    "name": "Phước Dinh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 154,
+    "population": 35301,
+    "administrativeCenter": "UBND xã An Hải",
+    "longitude": 108.977,
+    "latitude": 11.427,
+    "previous": [
+      "Xã An Hải",
+      "Xã Phước Dinh",
+      "Phường Đông Hải"
+    ],
+    "treeCode": "2064.2109"
+  },
+  {
+    "id": 2110,
+    "communeCode": 1434,
+    "name": "Phước Hà",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 230,
+    "population": 89,
+    "administrativeCenter": "UBND xã Nhị Hà",
+    "longitude": 108.771,
+    "latitude": 11.4899,
+    "previous": [
+      "Xã Nhị Hà",
+      "Xã Phước Hà"
+    ],
+    "treeCode": "2064.2110"
+  },
+  {
+    "id": 2111,
+    "communeCode": 1433,
+    "name": "Phước Hậu",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 74.7,
+    "population": 49465,
+    "administrativeCenter": "UBND xã Phước Sơn",
+    "longitude": 108.872,
+    "latitude": 11.608,
+    "previous": [
+      "Xã Phước Vinh",
+      "Xã Phước Sơn",
+      "Xã Phước Hậu"
+    ],
+    "treeCode": "2064.2111"
+  },
+  {
+    "id": 2112,
+    "communeCode": 1435,
+    "name": "Phước Hữu",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 177.7,
+    "population": 35572,
+    "administrativeCenter": "UBND xã Phước Hữu",
+    "longitude": 108.831,
+    "latitude": 11.5669,
+    "previous": [
+      "Xã Phước Thái",
+      "Xã Phước Hữu"
+    ],
+    "treeCode": "2064.2112"
+  },
+  {
+    "id": 2113,
+    "communeCode": 1453,
+    "name": "Suối Dầu",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 160.1,
+    "population": 24185,
+    "administrativeCenter": "UBND xã Cam Tân",
+    "longitude": 109.094,
+    "latitude": 12.1581,
+    "previous": [
+      "Xã Suối Cát",
+      "Xã Cam Hòa",
+      "Xã Cam Tân",
+      "Xã Suối Tân"
+    ],
+    "treeCode": "2064.2113"
+  },
+  {
+    "id": 2114,
+    "communeCode": 1414,
+    "name": "Suối Hiệp",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 55.3,
+    "population": 24159,
+    "administrativeCenter": "UBND xã Suối Hiệp",
+    "longitude": 109.048,
+    "latitude": 12.2119,
+    "previous": [
+      "Xã Suối Tiên",
+      "Xã Bình Lộc",
+      "Xã Suối Hiệp"
+    ],
+    "treeCode": "2064.2114"
+  },
+  {
+    "id": 2115,
+    "communeCode": 1375,
+    "name": "Tân Định",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 92.4,
+    "population": 40481,
+    "administrativeCenter": "UBND xã Ninh Bình",
+    "longitude": 109.052,
+    "latitude": 12.4978,
+    "previous": [
+      "Xã Ninh Xuân",
+      "Xã Ninh Quang",
+      "Xã Ninh Bình"
+    ],
+    "treeCode": "2064.2115"
+  },
+  {
+    "id": 2116,
+    "communeCode": 1416,
+    "name": "Tây Khánh Sơn",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 125.6,
+    "population": 7847,
+    "administrativeCenter": "UBND xã Sơn Lâm",
+    "longitude": 108.842,
+    "latitude": 12.074,
+    "previous": [
+      "Xã Sơn Lâm",
+      "Xã Thành Sơn"
+    ],
+    "treeCode": "2064.2116"
+  },
+  {
+    "id": 2117,
+    "communeCode": 1380,
+    "name": "Tây Khánh Vĩnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 294.3,
+    "population": 7357,
+    "administrativeCenter": "UBND xã Khánh Thượng",
+    "longitude": 108.778,
+    "latitude": 12.3107,
+    "previous": [
+      "Xã Giang Ly",
+      "Xã Khánh Thượng",
+      "Xã Khánh Nam"
+    ],
+    "treeCode": "2064.2117"
+  },
+  {
+    "id": 2118,
+    "communeCode": 1382,
+    "name": "Tây Nha Trang",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "phường",
+    "areaKm2": 27.9,
+    "population": 108065,
+    "administrativeCenter": "UBND xã Vĩnh Ngọc - số 480 Lương Định Của",
+    "longitude": 109.157,
+    "latitude": 12.2611,
+    "previous": [
+      "Phường Ngọc Hiệp",
+      "Phường Phương Sài",
+      "Xã Vĩnh Ngọc",
+      "Xã Vĩnh Thạnh",
+      "Xã Vĩnh Hiệp",
+      "Xã Vĩnh Trung"
+    ],
+    "treeCode": "2064.2118"
+  },
+  {
+    "id": 2119,
+    "communeCode": 1372,
+    "name": "Tây Ninh Hòa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 275.9,
+    "population": 1754,
+    "administrativeCenter": "UBND xã Ninh Sim",
+    "longitude": 108.958,
+    "latitude": 12.5649,
+    "previous": [
+      "Xã Ninh Tây",
+      "Xã Ninh Sim"
+    ],
+    "treeCode": "2064.2119"
+  },
+  {
+    "id": 2120,
+    "communeCode": 1466,
+    "name": "Thuận Bắc",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 137.2,
+    "population": 25744,
+    "administrativeCenter": "UBND huyện Thuận Bắc",
+    "longitude": 109.039,
+    "latitude": 11.7315,
+    "previous": [
+      "Xã Bắc Phong",
+      "Xã Phước Kháng",
+      "Xã Lợi Hải"
+    ],
+    "treeCode": "2064.2120"
+  },
+  {
+    "id": 2121,
+    "communeCode": 1437,
+    "name": "Thuận Nam",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 140.8,
+    "population": 27262,
+    "administrativeCenter": "UBND huyện Thuận Nam",
+    "longitude": 108.885,
+    "latitude": 11.4371,
+    "previous": [
+      "Xã Phước Nam",
+      "Xã Phước Ninh",
+      "Xã Phước Minh"
+    ],
+    "treeCode": "2064.2121"
+  },
+  {
+    "id": 2122,
+    "communeCode": 1376,
+    "name": "Trung Khánh Vĩnh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 338.5,
+    "population": 7772,
+    "administrativeCenter": "UBND xã Khánh Hiệp",
+    "longitude": 108.807,
+    "latitude": 12.4266,
+    "previous": [
+      "Xã Khánh Trung",
+      "Xã Khánh Hiệp"
+    ],
+    "treeCode": "2064.2122"
+  },
+  {
+    "id": 2123,
+    "communeCode": 3313,
+    "name": "Trường Sa",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "đặc khu",
+    "areaKm2": 7.7,
+    "population": 93,
+    "administrativeCenter": "HĐND và UBND huyện Trường Sa",
+    "longitude": 114.45,
+    "latitude": 9.71,
+    "previous": [
+      "Thị trấn Trường Sa",
+      "Xã Song Tử Tây",
+      "Xã Sinh Tồn"
+    ],
+    "treeCode": "2064.2123"
+  },
+  {
+    "id": 2124,
+    "communeCode": 1364,
+    "name": "Tu Bông",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 99.6,
+    "population": 29751,
+    "administrativeCenter": "UBND xã Vạn Long",
+    "longitude": 109.275,
+    "latitude": 12.7921,
+    "previous": [
+      "Xã Vạn Khánh",
+      "Xã Vạn Long",
+      "Xã Vạn Phước"
+    ],
+    "treeCode": "2064.2124"
+  },
+  {
+    "id": 2125,
+    "communeCode": 1368,
+    "name": "Vạn Hưng",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 86.1,
+    "population": 18883,
+    "administrativeCenter": "UBND xã Vạn Hưng",
+    "longitude": 109.159,
+    "latitude": 12.6521,
+    "previous": [
+      "Xã Xuân Sơn",
+      "Xã Vạn Hưng"
+    ],
+    "treeCode": "2064.2125"
+  },
+  {
+    "id": 2126,
+    "communeCode": 1365,
+    "name": "Vạn Ninh",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 130.5,
+    "population": 54202,
+    "administrativeCenter": "Trung tâm hành chính Vạn Ninh",
+    "longitude": 109.162,
+    "latitude": 12.7344,
+    "previous": [
+      "Thị trấn Vạn Giã",
+      "Xã Vạn Phú",
+      "Xã Vạn Lương"
+    ],
+    "treeCode": "2064.2126"
+  },
+  {
+    "id": 2127,
+    "communeCode": 1367,
+    "name": "Vạn Thắng",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 74.8,
+    "population": 31625,
+    "administrativeCenter": "UBND xã Vạn Thắng",
+    "longitude": 109.216,
+    "latitude": 12.7666,
+    "previous": [
+      "Xã Vạn Bình",
+      "Xã Vạn Thắng"
+    ],
+    "treeCode": "2064.2127"
+  },
+  {
+    "id": 2128,
+    "communeCode": 1425,
+    "name": "Vĩnh Hải",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 83.75,
+    "population": 2782,
+    "administrativeCenter": "UBND xã Vĩnh Hải",
+    "longitude": 109.154,
+    "latitude": 11.6832,
+    "previous": [
+      "Xã Nhơn Hải",
+      "Xã Thanh Hải",
+      "Xã Vĩnh Hải"
+    ],
+    "treeCode": "2064.2128"
+  },
+  {
+    "id": 2129,
+    "communeCode": 1431,
+    "name": "Xuân Hải",
+    "provinceCode": 23,
+    "provinceName": "tỉnh Khánh Hòa",
+    "type": "xã",
+    "areaKm2": 43.4,
+    "population": 45104,
+    "administrativeCenter": "UBND xã Hộ Hải",
+    "longitude": 108.997,
+    "latitude": 11.6462,
+    "previous": [
+      "Xã Hộ Hải",
+      "Xã Tân Hải",
+      "Xã Xuân Hải"
+    ],
+    "treeCode": "2064.2129"
+  }
+]

@@ -1,0 +1,1812 @@
+[
+  {
+    "id": 1968,
+    "communeCode": 1938,
+    "name": "An Phú",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 34.7,
+    "population": 49051,
+    "administrativeCenter": "UBND xã Nghĩa Dũng",
+    "longitude": 108.863,
+    "latitude": 15.1214,
+    "previous": [
+      "Xã Nghĩa Hà",
+      "Xã Nghĩa Dõng",
+      "Xã Nghĩa Dũng",
+      "Xã An Phú"
+    ],
+    "treeCode": "1967.1968"
+  },
+  {
+    "id": 1969,
+    "communeCode": 1921,
+    "name": "Ba Dinh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 97.05,
+    "population": 7257,
+    "administrativeCenter": "UBND xã Ba Dinh",
+    "longitude": 108.65,
+    "latitude": 14.7746,
+    "previous": [
+      "Xã Ba Giang",
+      "Xã Ba Dinh"
+    ],
+    "treeCode": "1967.1969"
+  },
+  {
+    "id": 1970,
+    "communeCode": 1920,
+    "name": "Ba Động",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 103.01,
+    "population": 7688,
+    "administrativeCenter": "UBND xã Ba Động",
+    "longitude": 108.784,
+    "latitude": 14.8258,
+    "previous": [
+      "Xã Ba Liên",
+      "Xã Ba Thành",
+      "Xã Ba Động"
+    ],
+    "treeCode": "1967.1970"
+  },
+  {
+    "id": 1971,
+    "communeCode": 1890,
+    "name": "Ba Gia",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 66.14,
+    "population": 21511,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.669,
+    "latitude": 15.2167,
+    "previous": [
+      "Xã Tịnh Bắc",
+      "Xã Tịnh Hiệp",
+      "Xã Tịnh Trà"
+    ],
+    "treeCode": "1967.1971"
+  },
+  {
+    "id": 1972,
+    "communeCode": 1925,
+    "name": "Ba Tô",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 274.4,
+    "population": 9555,
+    "administrativeCenter": "UBND xã Ba Tô",
+    "longitude": 108.66,
+    "latitude": 14.647,
+    "previous": [
+      "Xã Ba Lế",
+      "Xã Ba Nam",
+      "Xã Ba Tô"
+    ],
+    "treeCode": "1967.1972"
+  },
+  {
+    "id": 1973,
+    "communeCode": 1918,
+    "name": "Ba Tơ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 120.91,
+    "population": 12263,
+    "administrativeCenter": "Văn phòng HĐND và UBND huyện Ba Tơ (cũ)",
+    "longitude": 108.738,
+    "latitude": 14.7378,
+    "previous": [
+      "Thị trấn Ba Tơ",
+      "Xã Ba Cung",
+      "Xã Ba Bích"
+    ],
+    "treeCode": "1967.1973"
+  },
+  {
+    "id": 1974,
+    "communeCode": 1922,
+    "name": "Ba Vì",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 125.4,
+    "population": 11372,
+    "administrativeCenter": "UBND xã Ba Vì",
+    "longitude": 108.553,
+    "latitude": 14.7459,
+    "previous": [
+      "Xã Ba Tiêu",
+      "Xã Ba Ngạc",
+      "Xã Ba Vì"
+    ],
+    "treeCode": "1967.1974"
+  },
+  {
+    "id": 1975,
+    "communeCode": 1919,
+    "name": "Ba Vinh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 115,
+    "population": 6425,
+    "administrativeCenter": "UBND xã Ba Vinh",
+    "longitude": 108.678,
+    "latitude": 14.844,
+    "previous": [
+      "Xã Ba Điền",
+      "Xã Ba Vinh"
+    ],
+    "treeCode": "1967.1975"
+  },
+  {
+    "id": 1976,
+    "communeCode": 1927,
+    "name": "Ba Xa",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 102.79,
+    "population": 5452,
+    "administrativeCenter": "UBND xã Ba Xa",
+    "longitude": 108.553,
+    "latitude": 14.6397,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1967.1976"
+  },
+  {
+    "id": 1977,
+    "communeCode": 1896,
+    "name": "Bình Chương",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 30.79,
+    "population": 16565,
+    "administrativeCenter": "UBND xã Bình Chương",
+    "longitude": 108.721,
+    "latitude": 15.2644,
+    "previous": [
+      "Xã Bình Mỹ",
+      "Xã Bình Chương"
+    ],
+    "treeCode": "1967.1977"
+  },
+  {
+    "id": 1978,
+    "communeCode": 1895,
+    "name": "Bình Minh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 36.7,
+    "population": 83354,
+    "administrativeCenter": "UBND xã Bình Minh",
+    "longitude": 108.652,
+    "latitude": 15.3139,
+    "previous": [
+      "Xã Bình Khương",
+      "Xã Bình An",
+      "Xã Bình Minh"
+    ],
+    "treeCode": "1967.1978"
+  },
+  {
+    "id": 1979,
+    "communeCode": 1880,
+    "name": "Bình Sơn",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 281.7,
+    "population": 61517,
+    "administrativeCenter": "Trung tâm hành chính huyện Bình Sơn (cũ)",
+    "longitude": 108.746,
+    "latitude": 15.3313,
+    "previous": [
+      "Thị trấn Châu Ổ",
+      "Xã Bình Thạnh",
+      "Xã Bình Chánh",
+      "Xã Bình Dương",
+      "Xã Bình Nguyên",
+      "Xã Bình Trung",
+      "Xã Bình Long"
+    ],
+    "treeCode": "1967.1979"
+  },
+  {
+    "id": 1980,
+    "communeCode": 544,
+    "name": "Bờ Y",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 242.11,
+    "population": 35375,
+    "administrativeCenter": "Thị trấn Plei Kần (cũ)",
+    "longitude": 107.609,
+    "latitude": 14.7068,
+    "previous": [
+      "Thị trấn Plei Kần",
+      "Xã Đăk Xú",
+      "Xã Pờ Y"
+    ],
+    "treeCode": "1967.1980"
+  },
+  {
+    "id": 1981,
+    "communeCode": 1901,
+    "name": "Cà Đam",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 112.35,
+    "population": 4336,
+    "administrativeCenter": "UBND xã Trà Tân",
+    "longitude": 108.526,
+    "latitude": 15.1687,
+    "previous": [
+      "Xã Trà Tân",
+      "Xã Trà Bùi"
+    ],
+    "treeCode": "1967.1981"
+  },
+  {
+    "id": 1982,
+    "communeCode": 1924,
+    "name": "Cẩm Thành",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 7.93,
+    "population": 60996,
+    "administrativeCenter": "Thành ủy Quảng Ngãi",
+    "longitude": 108.812,
+    "latitude": 15.1135,
+    "previous": [
+      "Phường Nguyễn Nghiêm",
+      "Phường Trần Hưng Đạo (thành phố Quảng Ngãi)",
+      "Phường Nghĩa Chánh",
+      "Phường Chánh Lộ"
+    ],
+    "treeCode": "1967.1982"
+  },
+  {
+    "id": 1983,
+    "communeCode": 554,
+    "name": "Đăk Bla",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 14.9847,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.987,
+    "latitude": 14.323,
+    "previous": [
+      "Phường Trần Hưng Đạo (thành phố Kon Tum)",
+      "Lê Lợi",
+      "Nguyễn Trãi"
+    ],
+    "treeCode": "1967.1983"
+  },
+  {
+    "id": 1984,
+    "communeCode": 1875,
+    "name": "Đăk Cấm",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 66.33,
+    "population": 29799,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.021,
+    "latitude": 14.4251,
+    "previous": [
+      "Phường Ngô Mây",
+      "Phường Duy Tân",
+      "Xã Đăk Cấm"
+    ],
+    "treeCode": "1967.1984"
+  },
+  {
+    "id": 1985,
+    "communeCode": 559,
+    "name": "Đăk Hà",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 104.08,
+    "population": 36087,
+    "administrativeCenter": "Thị trấn Đăk Hà",
+    "longitude": 107.929,
+    "latitude": 14.4634,
+    "previous": [
+      "Thị trấn Đăk Hà",
+      "Xã Hà Mòn",
+      "Xã Đăk La"
+    ],
+    "treeCode": "1967.1985"
+  },
+  {
+    "id": 1986,
+    "communeCode": 1873,
+    "name": "Đăk Kôi",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 450.48,
+    "population": 595,
+    "administrativeCenter": "Xã Đăk Tơ Lung",
+    "longitude": 108.152,
+    "latitude": 14.6275,
+    "previous": [
+      "Xã Đăk Tơ Lung",
+      "Xã Đăk Kôi"
+    ],
+    "treeCode": "1967.1986"
+  },
+  {
+    "id": 1987,
+    "communeCode": 535,
+    "name": "Đăk Long",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 280.5,
+    "population": 5193,
+    "administrativeCenter": "Xã Đăk Long",
+    "longitude": 107.574,
+    "latitude": 14.9649,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1967.1987"
+  },
+  {
+    "id": 1988,
+    "communeCode": 558,
+    "name": "Đăk Mar",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 112.79,
+    "population": 19599,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.924,
+    "latitude": 14.574,
+    "previous": [
+      "Xã Đăk Hring",
+      "Xã Đăk Mar"
+    ],
+    "treeCode": "1967.1988"
+  },
+  {
+    "id": 1989,
+    "communeCode": 536,
+    "name": "Đăk Môn",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 150.8,
+    "population": 13685,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.69,
+    "latitude": 14.9516,
+    "previous": [
+      "Xã Đăk Kroong",
+      "Xã Đăk Môn"
+    ],
+    "treeCode": "1967.1989"
+  },
+  {
+    "id": 1990,
+    "communeCode": 562,
+    "name": "Đăk Pék",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 182.72,
+    "population": 17434,
+    "administrativeCenter": "Thị trấn Đăk Glei (cũ)",
+    "longitude": 107.743,
+    "latitude": 15.0668,
+    "previous": [
+      "Thị trấn Đăk Glei",
+      "Xã Đăk Pék"
+    ],
+    "treeCode": "1967.1990"
+  },
+  {
+    "id": 1991,
+    "communeCode": 561,
+    "name": "Đăk Plô",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 433.41,
+    "population": 5629,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.669,
+    "latitude": 15.21,
+    "previous": [
+      "Xã Đăk Nhoong",
+      "Xã Đăk Man",
+      "Xã Đăk Plô"
+    ],
+    "treeCode": "1967.1991"
+  },
+  {
+    "id": 1992,
+    "communeCode": 542,
+    "name": "Đăk Pxi",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 325.35,
+    "population": 11194,
+    "administrativeCenter": "Xã Đăk Long",
+    "longitude": 108.005,
+    "latitude": 14.719,
+    "previous": [
+      "Xã Đăk Long (thuộc huyện Đăk Hà)",
+      "Xã Đăk Pxi"
+    ],
+    "treeCode": "1967.1992"
+  },
+  {
+    "id": 1993,
+    "communeCode": 557,
+    "name": "Đăk Rơ Wa",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 157.98,
+    "population": 25221,
+    "administrativeCenter": "Xã Chư Hreng",
+    "longitude": 108.021,
+    "latitude": 14.3119,
+    "previous": [
+      "Xã Hòa Bình",
+      "Xã Chư Hreng",
+      "Xã Đăk Blà",
+      "Xã Đăk Rơ Wa"
+    ],
+    "treeCode": "1967.1993"
+  },
+  {
+    "id": 1994,
+    "communeCode": 1876,
+    "name": "Đăk Rve",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 212.54,
+    "population": 8184,
+    "administrativeCenter": "Thị trấn Đăk Rve (cũ)",
+    "longitude": 108.29,
+    "latitude": 14.4925,
+    "previous": [
+      "Thị trấn Đăk Rve",
+      "Xã Đăk Pne"
+    ],
+    "treeCode": "1967.1994"
+  },
+  {
+    "id": 1995,
+    "communeCode": 538,
+    "name": "Đăk Sao",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 172.29,
+    "population": 6676,
+    "administrativeCenter": "Xã Đăk Sao",
+    "longitude": 107.836,
+    "latitude": 14.9425,
+    "previous": [
+      "Xã Đăk Na",
+      "Xã Đăk Sao"
+    ],
+    "treeCode": "1967.1995"
+  },
+  {
+    "id": 1996,
+    "communeCode": 546,
+    "name": "Đăk Tô",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 218.38,
+    "population": 35216,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.824,
+    "latitude": 14.6189,
+    "previous": [
+      "Thị trấn Đăk Tô",
+      "Xã Tân Cảnh",
+      "Xã Pô Kô",
+      "Xã Diên Bình"
+    ],
+    "treeCode": "1967.1996"
+  },
+  {
+    "id": 1997,
+    "communeCode": 539,
+    "name": "Đăk Tờ Kan",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 131.84,
+    "population": 8921,
+    "administrativeCenter": "Xã Đăk Hà",
+    "longitude": 107.872,
+    "latitude": 14.8492,
+    "previous": [
+      "Xã Đăk Rơ Ông",
+      "Xã Đăk Tờ Kan"
+    ],
+    "treeCode": "1967.1997"
+  },
+  {
+    "id": 1998,
+    "communeCode": 543,
+    "name": "Đăk Ui",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 132.52,
+    "population": 12077,
+    "administrativeCenter": "Xã Đăk Ngọk",
+    "longitude": 108.009,
+    "latitude": 14.586,
+    "previous": [
+      "Xã Đăk Ngọk",
+      "Xã Đăk Ui"
+    ],
+    "treeCode": "1967.1998"
+  },
+  {
+    "id": 1999,
+    "communeCode": 1923,
+    "name": "Đặng Thùy Trâm",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 199.4,
+    "population": 4494,
+    "administrativeCenter": "UBND xã Ba Trang",
+    "longitude": 108.871,
+    "latitude": 14.7441,
+    "previous": [
+      "Xã Ba Trang",
+      "Xã Ba Khâm"
+    ],
+    "treeCode": "1967.1999"
+  },
+  {
+    "id": 2000,
+    "communeCode": 1906,
+    "name": "Đình Cương",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 53.96,
+    "population": 36083,
+    "administrativeCenter": "UBND xã Hành Phước",
+    "longitude": 108.811,
+    "latitude": 14.9985,
+    "previous": [
+      "Xã Hành Đức",
+      "Xã Hành Phước",
+      "Xã Hành Thịnh"
+    ],
+    "treeCode": "1967.2000"
+  },
+  {
+    "id": 2001,
+    "communeCode": 1939,
+    "name": "Đông Sơn",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 115.83,
+    "population": 56334,
+    "administrativeCenter": "UBND xã Bình Tân Phú",
+    "longitude": 108.851,
+    "latitude": 15.2417,
+    "previous": [
+      "Xã Bình Hiệp",
+      "Xã Bình Thanh",
+      "Xã Bình Tân Phú",
+      "Xã Bình Châu",
+      "Xã Tịnh Hòa"
+    ],
+    "treeCode": "1967.2001"
+  },
+  {
+    "id": 2002,
+    "communeCode": 1894,
+    "name": "Đông Trà Bồng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 74.83,
+    "population": 11197,
+    "administrativeCenter": "UBND xã Trà Bình",
+    "longitude": 108.583,
+    "latitude": 15.275,
+    "previous": [
+      "Xã Trà Bình",
+      "Xã Trà Phú",
+      "Xã Trà Giang"
+    ],
+    "treeCode": "1967.2002"
+  },
+  {
+    "id": 2003,
+    "communeCode": 537,
+    "name": "Dục Nông",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 321.99,
+    "population": 15771,
+    "administrativeCenter": "Xã Đăk Dục",
+    "longitude": 107.65,
+    "latitude": 14.8213,
+    "previous": [
+      "Xã Đăk Ang",
+      "Xã Đăk Dục",
+      "Xã Đăk Nông"
+    ],
+    "treeCode": "1967.2003"
+  },
+  {
+    "id": 2004,
+    "communeCode": 1942,
+    "name": "Đức Phổ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 69.33,
+    "population": 41358,
+    "administrativeCenter": "UBND thị xã Đức Phổ",
+    "longitude": 108.959,
+    "latitude": 14.8008,
+    "previous": [
+      "Phường Nguyễn Nghiêm (thị xã Đức Phổ)",
+      "Phổ Hòa",
+      "Phổ Minh",
+      "Phổ Vinh",
+      "Phổ Ninh"
+    ],
+    "treeCode": "1967.2004"
+  },
+  {
+    "id": 2005,
+    "communeCode": 556,
+    "name": "Ia Chim",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 115.49,
+    "population": 21142,
+    "administrativeCenter": "Xã Ia Chim",
+    "longitude": 107.914,
+    "latitude": 14.3156,
+    "previous": [
+      "Xã Đoàn Kết",
+      "Xã Đăk Năng",
+      "Xã Ia Chim"
+    ],
+    "treeCode": "1967.2005"
+  },
+  {
+    "id": 2006,
+    "communeCode": 549,
+    "name": "Ia Đal",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 218.11,
+    "population": 5069,
+    "administrativeCenter": "Xã Ia Đal",
+    "longitude": 107.429,
+    "latitude": 14.2146,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1967.2006"
+  },
+  {
+    "id": 2007,
+    "communeCode": 551,
+    "name": "Ia Tơi",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 762.1,
+    "population": 721,
+    "administrativeCenter": "Xã Ia Tơi",
+    "longitude": 107.531,
+    "latitude": 14.1125,
+    "previous": [
+      "Xã Ia Dom",
+      "Xã Ia Tơi"
+    ],
+    "treeCode": "1967.2007"
+  },
+  {
+    "id": 2008,
+    "communeCode": 1917,
+    "name": "Khánh Cường",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 103.98,
+    "population": 28964,
+    "administrativeCenter": "UBND xã Phổ Cường",
+    "longitude": 109.007,
+    "latitude": 14.7293,
+    "previous": [
+      "Xã Phổ Khánh",
+      "Xã Phổ Cường"
+    ],
+    "treeCode": "1967.2008"
+  },
+  {
+    "id": 2009,
+    "communeCode": 1877,
+    "name": "Kon Braih",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 250.89,
+    "population": 18373,
+    "administrativeCenter": "Xã Tân Lập",
+    "longitude": 108.163,
+    "latitude": 14.4325,
+    "previous": [
+      "Xã Đăk Tờ Re",
+      "Xã Đăk Ruồng",
+      "Xã Tân Lập"
+    ],
+    "treeCode": "1967.2009"
+  },
+  {
+    "id": 2010,
+    "communeCode": 541,
+    "name": "Kon Đào",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 129.34,
+    "population": 1334,
+    "administrativeCenter": "Xã Đăk Trăm",
+    "longitude": 107.865,
+    "latitude": 14.7452,
+    "previous": [
+      "Xã Văn Lem",
+      "Xã Đăk Trăm",
+      "Xã Kon Đào"
+    ],
+    "treeCode": "1967.2010"
+  },
+  {
+    "id": 2011,
+    "communeCode": 1871,
+    "name": "Kon Plông",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 556.8,
+    "population": 9334,
+    "administrativeCenter": "Xã Hiếu",
+    "longitude": 108.415,
+    "latitude": 14.7211,
+    "previous": [
+      "Xã Ngọk Tem",
+      "Xã Hiếu",
+      "Xã Pờ Ê"
+    ],
+    "treeCode": "1967.2011"
+  },
+  {
+    "id": 2012,
+    "communeCode": 1874,
+    "name": "Kon Tum",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 19.14,
+    "population": 77456,
+    "administrativeCenter": "Phường Thắng Lợi",
+    "longitude": 108.013,
+    "latitude": 14.3545,
+    "previous": [
+      "Phường Quang Trung",
+      "Phường Quyết Thắng",
+      "Phường Thắng Lợi",
+      "Phường Trường Chinh",
+      "Phường Thống Nhất"
+    ],
+    "treeCode": "1967.2012"
+  },
+  {
+    "id": 2013,
+    "communeCode": 1914,
+    "name": "Lân Phong",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 57.01,
+    "population": 36123,
+    "administrativeCenter": "UBND xã Đức Phong",
+    "longitude": 108.907,
+    "latitude": 14.9156,
+    "previous": [
+      "Xã Đức Phong",
+      "Xã Đức Lân"
+    ],
+    "treeCode": "1967.2013"
+  },
+  {
+    "id": 2014,
+    "communeCode": 1904,
+    "name": "Long Phụng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 36.1,
+    "population": 39973,
+    "administrativeCenter": "UBND xã Đức Nhuận",
+    "longitude": 108.879,
+    "latitude": 15.0376,
+    "previous": [
+      "Xã Thắng Lợi",
+      "Xã Đức Nhuận",
+      "Xã Đức Hiệp"
+    ],
+    "treeCode": "1967.2014"
+  },
+  {
+    "id": 2015,
+    "communeCode": 3314,
+    "name": "Lý Sơn",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "đặc khu",
+    "areaKm2": 10.39,
+    "population": 22000,
+    "administrativeCenter": "Trung tâm hành chính huyện Lý Sơn (cũ)",
+    "longitude": 109.115,
+    "latitude": 15.385,
+    "previous": [
+      "Huyện Lý Sơn"
+    ],
+    "treeCode": "1967.2015"
+  },
+  {
+    "id": 2016,
+    "communeCode": 1870,
+    "name": "Măng Bút",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 417.53,
+    "population": 91,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.22,
+    "latitude": 14.9132,
+    "previous": [
+      "Xã Đăk Nên",
+      "Xã Đăk Ring",
+      "Xã Măng Bút"
+    ],
+    "treeCode": "1967.2016"
+  },
+  {
+    "id": 2017,
+    "communeCode": 1872,
+    "name": "Măng Đen",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 396.93,
+    "population": 9438,
+    "administrativeCenter": "Thị trấn Măng Đen (cũ)",
+    "longitude": 108.278,
+    "latitude": 14.6806,
+    "previous": [
+      "Thị trấn Măng Đen",
+      "Xã Măng Cành",
+      "Xã Đăk Tăng"
+    ],
+    "treeCode": "1967.2017"
+  },
+  {
+    "id": 2018,
+    "communeCode": 3305,
+    "name": "Măng Ri",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 401.18,
+    "population": 869,
+    "administrativeCenter": "Xã Tê Xăng",
+    "longitude": 108.027,
+    "latitude": 14.9174,
+    "previous": [
+      "Xã Ngọk Yêu",
+      "Xã Văn Xuôi",
+      "Xã Tê Xăng",
+      "Xã Ngọk Lây",
+      "Xã Măng Ri"
+    ],
+    "treeCode": "1967.2018"
+  },
+  {
+    "id": 2019,
+    "communeCode": 1912,
+    "name": "Minh Long",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 124.74,
+    "population": 10085,
+    "administrativeCenter": "Văn phòng HĐND và UBND huyện Minh Long (cũ)",
+    "longitude": 108.659,
+    "latitude": 14.9315,
+    "previous": [
+      "Xã Long Hiệp",
+      "Xã Thanh An",
+      "Xã Long Môn"
+    ],
+    "treeCode": "1967.2019"
+  },
+  {
+    "id": 2020,
+    "communeCode": 1905,
+    "name": "Mỏ Cày",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 44.8446,
+    "population": null,
+    "administrativeCenter": "UBND xã Đức Thạnh",
+    "longitude": 108.9,
+    "latitude": 14.993,
+    "previous": [
+      "Xã Đức Chánh",
+      "Xã Đức Thạnh",
+      "Xã Đức Minh"
+    ],
+    "treeCode": "1967.2020"
+  },
+  {
+    "id": 2021,
+    "communeCode": 1913,
+    "name": "Mộ Đức",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 76.17,
+    "population": 35895,
+    "administrativeCenter": "Huyện ủy Mộ Đức (cũ)",
+    "longitude": 108.847,
+    "latitude": 14.9378,
+    "previous": [
+      "Thị trấn Mộ Đức",
+      "Xã Đức Hòa",
+      "Xã Đức Phú",
+      "Xã Đức Tân"
+    ],
+    "treeCode": "1967.2021"
+  },
+  {
+    "id": 2022,
+    "communeCode": 550,
+    "name": "Mô Rai",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 583.92,
+    "population": 6375,
+    "administrativeCenter": "Xã Mô Rai",
+    "longitude": 107.589,
+    "latitude": 14.3581,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1967.2022"
+  },
+  {
+    "id": 2023,
+    "communeCode": 1886,
+    "name": "Nghĩa Giang",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 47.74,
+    "population": 39371,
+    "administrativeCenter": "UBND xã Nghĩa Kỳ",
+    "longitude": 108.74,
+    "latitude": 15.1095,
+    "previous": [
+      "Xã Nghĩa Thuận",
+      "Xã Nghĩa Kỳ",
+      "Xã Nghĩa Điền"
+    ],
+    "treeCode": "1967.2023"
+  },
+  {
+    "id": 2024,
+    "communeCode": 1908,
+    "name": "Nghĩa Hành",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 24.4,
+    "population": 31533,
+    "administrativeCenter": "UBND huyện Nghĩa Hành",
+    "longitude": 108.773,
+    "latitude": 15.0629,
+    "previous": [
+      "Thị trấn Chợ Chùa",
+      "Xã Hành Thuận",
+      "Xã Hành Trung"
+    ],
+    "treeCode": "1967.2024"
+  },
+  {
+    "id": 2025,
+    "communeCode": 1937,
+    "name": "Nghĩa Lộ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 17.07,
+    "population": 73556,
+    "administrativeCenter": "UBND phường Nghĩa Lộ",
+    "longitude": 108.785,
+    "latitude": 15.1186,
+    "previous": [
+      "Phường Lê Hồng Phong",
+      "Phường Trần Phú",
+      "Phường Quảng Phú",
+      "Phường Nghĩa Lộ"
+    ],
+    "treeCode": "1967.2025"
+  },
+  {
+    "id": 2026,
+    "communeCode": 560,
+    "name": "Ngọc Linh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 180.35,
+    "population": 6458,
+    "administrativeCenter": "Xã Ngọc Linh",
+    "longitude": 107.936,
+    "latitude": 15.1086,
+    "previous": [
+      "Xã Mường Hoong",
+      "Xã Ngọc Linh"
+    ],
+    "treeCode": "1967.2026"
+  },
+  {
+    "id": 2027,
+    "communeCode": 555,
+    "name": "Ngọk Bay",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 62.09,
+    "population": 23391,
+    "administrativeCenter": "Xã Ngọk Bay",
+    "longitude": 107.894,
+    "latitude": 14.3985,
+    "previous": [
+      "Xã Kroong",
+      "Xã Vinh Quang",
+      "Xã Ngọk Bay"
+    ],
+    "treeCode": "1967.2027"
+  },
+  {
+    "id": 2028,
+    "communeCode": 1878,
+    "name": "Ngọk Réo",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 170.29,
+    "population": 11916,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.038,
+    "latitude": 14.4954,
+    "previous": [
+      "Xã Ngọk Wang",
+      "Xã Ngọk Réo"
+    ],
+    "treeCode": "1967.2028"
+  },
+  {
+    "id": 2029,
+    "communeCode": 540,
+    "name": "Ngọk Tụ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 160.97,
+    "population": 846,
+    "administrativeCenter": "Xã Ngọk Tụ",
+    "longitude": 107.768,
+    "latitude": 14.7529,
+    "previous": [
+      "Xã Đăk Rơ Nga",
+      "Xã Ngọk Tụ"
+    ],
+    "treeCode": "1967.2029"
+  },
+  {
+    "id": 2030,
+    "communeCode": 1916,
+    "name": "Nguyễn Nghiêm",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 95.33,
+    "population": 18041,
+    "administrativeCenter": "UBND xã Phổ Nhơn",
+    "longitude": 108.87,
+    "latitude": 14.8404,
+    "previous": [
+      "Xã Phổ Nhơn",
+      "Xã Phổ Phong"
+    ],
+    "treeCode": "1967.2030"
+  },
+  {
+    "id": 2031,
+    "communeCode": 1888,
+    "name": "Phước Giang",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 57.02,
+    "population": 23842,
+    "administrativeCenter": "UBND xã Hành Dũng",
+    "longitude": 108.738,
+    "latitude": 15.0433,
+    "previous": [
+      "Xã Hành Dũng",
+      "Xã Hành Nhân",
+      "Xã Hành Minh"
+    ],
+    "treeCode": "1967.2031"
+  },
+  {
+    "id": 2032,
+    "communeCode": 548,
+    "name": "Rờ Kơi",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 298.29,
+    "population": 6395,
+    "administrativeCenter": "Xã Rờ Kơi",
+    "longitude": 107.728,
+    "latitude": 14.5204,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1967.2032"
+  },
+  {
+    "id": 2033,
+    "communeCode": 552,
+    "name": "Sa Bình",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 140.32,
+    "population": 16711,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.842,
+    "latitude": 14.4412,
+    "previous": [
+      "Xã Sa Nghĩa",
+      "Xã Hơ Moong",
+      "Xã Sa Bình"
+    ],
+    "treeCode": "1967.2033"
+  },
+  {
+    "id": 2034,
+    "communeCode": 1926,
+    "name": "Sa Huỳnh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 49.95,
+    "population": 32396,
+    "administrativeCenter": "UBND phường Phổ Thạnh",
+    "longitude": 109.05,
+    "latitude": 14.6546,
+    "previous": [
+      "Phường Phổ Thạnh",
+      "Xã Phổ Châu"
+    ],
+    "treeCode": "1967.2034"
+  },
+  {
+    "id": 2035,
+    "communeCode": 545,
+    "name": "Sa Loong",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 275.26,
+    "population": 12676,
+    "administrativeCenter": "Xã Đăk Kan",
+    "longitude": 107.634,
+    "latitude": 14.596,
+    "previous": [
+      "Xã Đăk Kan",
+      "Xã Sa Loong"
+    ],
+    "treeCode": "1967.2035"
+  },
+  {
+    "id": 2036,
+    "communeCode": 547,
+    "name": "Sa Thầy",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 137.89,
+    "population": 19965,
+    "administrativeCenter": "Thị trấn Sa Thầy (cũ)",
+    "longitude": 107.764,
+    "latitude": 14.4325,
+    "previous": [
+      "Thị trấn Sa Thầy",
+      "Xã Sa Sơn",
+      "Xã Sa Nhơn"
+    ],
+    "treeCode": "1967.2036"
+  },
+  {
+    "id": 2037,
+    "communeCode": 1882,
+    "name": "Sơn Hà",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 163.44,
+    "population": 20326,
+    "administrativeCenter": "UBND thị trấn Di Lăng (cũ)",
+    "longitude": 108.434,
+    "latitude": 15.0449,
+    "previous": [
+      "Thị trấn Di Lăng",
+      "Xã Sơn Bao",
+      "Xã Sơn Thượng"
+    ],
+    "treeCode": "1967.2037"
+  },
+  {
+    "id": 2038,
+    "communeCode": 1900,
+    "name": "Sơn Hạ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 154.29,
+    "population": 24775,
+    "administrativeCenter": "UBND xã Sơn Hạ",
+    "longitude": 108.538,
+    "latitude": 15.0928,
+    "previous": [
+      "Xã Sơn Thành",
+      "Xã Sơn Nham",
+      "Xã Sơn Hạ"
+    ],
+    "treeCode": "1967.2038"
+  },
+  {
+    "id": 2039,
+    "communeCode": 1910,
+    "name": "Sơn Kỳ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 188.07,
+    "population": 1207,
+    "administrativeCenter": "UBND xã Sơn Kỳ",
+    "longitude": 108.515,
+    "latitude": 14.8539,
+    "previous": [
+      "Xã Sơn Ba",
+      "Xã Sơn Kỳ"
+    ],
+    "treeCode": "1967.2039"
+  },
+  {
+    "id": 2040,
+    "communeCode": 1883,
+    "name": "Sơn Linh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 126.7,
+    "population": 17139,
+    "administrativeCenter": "UBND xã Sơn Giang",
+    "longitude": 108.577,
+    "latitude": 15.0005,
+    "previous": [
+      "Xã Sơn Giang",
+      "Xã Sơn Cao",
+      "Xã Sơn Linh"
+    ],
+    "treeCode": "1967.2040"
+  },
+  {
+    "id": 2041,
+    "communeCode": 1887,
+    "name": "Sơn Mai",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 112.56,
+    "population": 9892,
+    "administrativeCenter": "UBND xã Long Sơn",
+    "longitude": 108.697,
+    "latitude": 14.9859,
+    "previous": [
+      "Xã Long Mai",
+      "Xã Long Sơn"
+    ],
+    "treeCode": "1967.2041"
+  },
+  {
+    "id": 2042,
+    "communeCode": 1885,
+    "name": "Sơn Tây",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 127.06,
+    "population": 9832,
+    "administrativeCenter": "UBND xã Sơn Dung",
+    "longitude": 108.352,
+    "latitude": 14.9439,
+    "previous": [
+      "Xã Sơn Long",
+      "Xã Sơn Tân",
+      "Xã Sơn Dung"
+    ],
+    "treeCode": "1967.2042"
+  },
+  {
+    "id": 2043,
+    "communeCode": 1911,
+    "name": "Sơn Tây Hạ",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 136.15,
+    "population": 569,
+    "administrativeCenter": "UBND xã Sơn Tinh",
+    "longitude": 108.425,
+    "latitude": 14.9125,
+    "previous": [
+      "Xã Sơn Tinh",
+      "Xã Sơn Lập",
+      "Xã Sơn Màu"
+    ],
+    "treeCode": "1967.2043"
+  },
+  {
+    "id": 2044,
+    "communeCode": 1897,
+    "name": "Sơn Tây Thượng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 122.43,
+    "population": 7421,
+    "administrativeCenter": "UBND huyện Sơn Tây (cũ)",
+    "longitude": 108.292,
+    "latitude": 15.0407,
+    "previous": [
+      "Xã Sơn Mùa",
+      "Xã Sơn Liên",
+      "Xã Sơn Bua"
+    ],
+    "treeCode": "1967.2044"
+  },
+  {
+    "id": 2045,
+    "communeCode": 1881,
+    "name": "Sơn Thủy",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 95.77,
+    "population": 12658,
+    "administrativeCenter": "UBND xã Sơn Hải",
+    "longitude": 108.507,
+    "latitude": 14.9617,
+    "previous": [
+      "Xã Sơn Trung",
+      "Xã Sơn Hải",
+      "Xã Sơn Thủy"
+    ],
+    "treeCode": "1967.2045"
+  },
+  {
+    "id": 2046,
+    "communeCode": 1891,
+    "name": "Sơn Tịnh",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 59.78,
+    "population": 4238,
+    "administrativeCenter": "Trung tâm hành chính huyện Sơn Tịnh",
+    "longitude": 108.729,
+    "latitude": 15.1767,
+    "previous": [
+      "Thị trấn Tịnh Hà",
+      "Xã Tịnh Bình",
+      "Xã Tịnh Sơn"
+    ],
+    "treeCode": "1967.2046"
+  },
+  {
+    "id": 2047,
+    "communeCode": 1899,
+    "name": "Tây Trà",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 170.86,
+    "population": 11617,
+    "administrativeCenter": "UBND xã Trà Phong",
+    "longitude": 108.337,
+    "latitude": 15.1624,
+    "previous": [
+      "Xã Sơn Trà",
+      "Xã Trà Phong",
+      "Xã Trà Xinh"
+    ],
+    "treeCode": "1967.2047"
+  },
+  {
+    "id": 2048,
+    "communeCode": 1902,
+    "name": "Tây Trà Bồng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 129.05,
+    "population": 8078,
+    "administrativeCenter": "UBND xã Hương Trà",
+    "longitude": 108.425,
+    "latitude": 15.1517,
+    "previous": [
+      "Xã Hương Trà",
+      "Xã Trà Tây",
+      "Xã Trà Bùi"
+    ],
+    "treeCode": "1967.2048"
+  },
+  {
+    "id": 2049,
+    "communeCode": 1898,
+    "name": "Thanh Bồng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 133.88,
+    "population": 7426,
+    "administrativeCenter": "UBND xã Trà Hiệp",
+    "longitude": 108.374,
+    "latitude": 15.271,
+    "previous": [
+      "Xã Trà Lâm",
+      "Xã Trà Hiệp",
+      "Xã Trà Thanh"
+    ],
+    "treeCode": "1967.2049"
+  },
+  {
+    "id": 2050,
+    "communeCode": 1903,
+    "name": "Thiện Tín",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 99.1,
+    "population": 17357,
+    "administrativeCenter": "UBND xã Hành Thiện",
+    "longitude": 108.774,
+    "latitude": 14.917,
+    "previous": [
+      "Xã Hành Thiện",
+      "Xã Hành Tín Tây",
+      "Xã Hành Tín Đông"
+    ],
+    "treeCode": "1967.2050"
+  },
+  {
+    "id": 2051,
+    "communeCode": 1892,
+    "name": "Thọ Phong",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 66.64,
+    "population": 27787,
+    "administrativeCenter": "UBND xã Tịnh Phong",
+    "longitude": 108.751,
+    "latitude": 15.2283,
+    "previous": [
+      "Xã Tịnh Phong",
+      "Xã Tịnh Thọ"
+    ],
+    "treeCode": "1967.2051"
+  },
+  {
+    "id": 2052,
+    "communeCode": 1940,
+    "name": "Tịnh Khê",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 46.05,
+    "population": 55919,
+    "administrativeCenter": "UBND xã Tịnh Khê",
+    "longitude": 108.87,
+    "latitude": 15.1651,
+    "previous": [
+      "Xã Tịnh Kỳ",
+      "Xã Tịnh Châu",
+      "Xã Tịnh Long",
+      "Xã Tịnh Thiện",
+      "Xã Tịnh Khê"
+    ],
+    "treeCode": "1967.2052"
+  },
+  {
+    "id": 2053,
+    "communeCode": 1893,
+    "name": "Trà Bồng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 139.43,
+    "population": 18926,
+    "administrativeCenter": "UBND huyện Trà Bồng (cũ)",
+    "longitude": 108.502,
+    "latitude": 15.2655,
+    "previous": [
+      "Thị trấn Trà Xuân",
+      "Xã Trà Sơn",
+      "Xã Trà Thủy"
+    ],
+    "treeCode": "1967.2053"
+  },
+  {
+    "id": 2054,
+    "communeCode": 1915,
+    "name": "Trà Câu",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 54.46,
+    "population": 45524,
+    "administrativeCenter": "UBND phường Phổ Văn",
+    "longitude": 108.949,
+    "latitude": 14.8656,
+    "previous": [
+      "Phường Phổ Văn",
+      "Phường Phổ Quang",
+      "Xã Phổ An",
+      "Xã Phổ Thuận"
+    ],
+    "treeCode": "1967.2054"
+  },
+  {
+    "id": 2055,
+    "communeCode": 1884,
+    "name": "Trà Giang",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 91.72,
+    "population": 20801,
+    "administrativeCenter": "UBND xã Nghĩa Thắng",
+    "longitude": 108.669,
+    "latitude": 15.1013,
+    "previous": [
+      "Xã Nghĩa Sơn",
+      "Xã Nghĩa Lâm",
+      "Xã Nghĩa Thắng"
+    ],
+    "treeCode": "1967.2055"
+  },
+  {
+    "id": 2056,
+    "communeCode": 1889,
+    "name": "Trường Giang",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 51.3,
+    "population": 22047,
+    "administrativeCenter": "UBND xã Tịnh Đông",
+    "longitude": 108.634,
+    "latitude": 15.1819,
+    "previous": [
+      "Xã Tịnh Giang",
+      "Xã Tịnh Đông",
+      "Xã Tịnh Minh"
+    ],
+    "treeCode": "1967.2056"
+  },
+  {
+    "id": 2057,
+    "communeCode": 1941,
+    "name": "Trương Quang Trọng",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "phường",
+    "areaKm2": 34.65,
+    "population": 49308,
+    "administrativeCenter": "UBND phường Trương Quang Trọng",
+    "longitude": 108.809,
+    "latitude": 15.1574,
+    "previous": [
+      "Phường Trương Quang Trọng",
+      "Xã Tịnh Ấn Tây",
+      "Xã Tịnh Ấn Đông",
+      "Xã Tịnh An"
+    ],
+    "treeCode": "1967.2057"
+  },
+  {
+    "id": 2058,
+    "communeCode": 3306,
+    "name": "Tu Mơ Rông",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 152.13,
+    "population": 6677,
+    "administrativeCenter": "Xã Đăk Hà",
+    "longitude": 107.965,
+    "latitude": 14.8184,
+    "previous": [
+      "Xã Đăk Hà",
+      "Xã Tu Mơ Rông"
+    ],
+    "treeCode": "1967.2058"
+  },
+  {
+    "id": 2059,
+    "communeCode": 1909,
+    "name": "Tư Nghĩa",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 41.93,
+    "population": 59172,
+    "administrativeCenter": "Huyện ủy Tư Nghĩa (cũ)",
+    "longitude": 108.841,
+    "latitude": 15.0834,
+    "previous": [
+      "Thị trấn La Hà",
+      "Xã Nghĩa Trung",
+      "Xã Nghĩa Thương",
+      "Xã Nghĩa Hòa"
+    ],
+    "treeCode": "1967.2059"
+  },
+  {
+    "id": 2060,
+    "communeCode": 1879,
+    "name": "Vạn Tường",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 109.28,
+    "population": 60612,
+    "administrativeCenter": "UBND xã Bình Trị",
+    "longitude": 108.822,
+    "latitude": 15.3351,
+    "previous": [
+      "Xã Bình Thuận",
+      "Xã Bình Đông",
+      "Xã Bình Trị",
+      "Xã Bình Hải",
+      "Xã Bình Hòa",
+      "Xã Bình Phước"
+    ],
+    "treeCode": "1967.2060"
+  },
+  {
+    "id": 2061,
+    "communeCode": 1907,
+    "name": "Vệ Giang",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 24.21,
+    "population": 38683,
+    "administrativeCenter": "UBND thị trấn Sông Vệ (cũ)",
+    "longitude": 108.854,
+    "latitude": 15.056,
+    "previous": [
+      "Thị trấn Sông Vệ",
+      "Xã Nghĩa Hiệp",
+      "Xã Nghĩa Phương"
+    ],
+    "treeCode": "1967.2061"
+  },
+  {
+    "id": 2062,
+    "communeCode": 563,
+    "name": "Xốp",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 265.86,
+    "population": 6518,
+    "administrativeCenter": "Xã Đăk Choong",
+    "longitude": 107.835,
+    "latitude": 15.1186,
+    "previous": [
+      "Xã Đăk Choong",
+      "Xã Xốp"
+    ],
+    "treeCode": "1967.2062"
+  },
+  {
+    "id": 2063,
+    "communeCode": 553,
+    "name": "Ya Ly",
+    "provinceCode": 22,
+    "provinceName": "tỉnh Quảng Ngãi",
+    "type": "xã",
+    "areaKm2": 271.31,
+    "population": 10726,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.771,
+    "latitude": 14.2904,
+    "previous": [
+      "Xã Ya Xiêr",
+      "Xã Ya Tăng",
+      "Xã Ya Ly"
+    ],
+    "treeCode": "1967.2063"
+  }
+]

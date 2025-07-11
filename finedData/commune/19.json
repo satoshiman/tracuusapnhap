@@ -1,0 +1,1515 @@
+[
+  {
+    "id": 1753,
+    "communeCode": 596,
+    "name": "A Dơi",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 112.41,
+    "population": 11058,
+    "administrativeCenter": "UBND xã A Dơi (cũ)",
+    "longitude": 106.77,
+    "latitude": 16.4953,
+    "previous": [
+      "Xã Ba Tầng",
+      "Xã Xy",
+      "Xã A Dơi"
+    ],
+    "treeCode": "1752.1753"
+  },
+  {
+    "id": 1754,
+    "communeCode": 569,
+    "name": "Ái Tử",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 118.718,
+    "population": null,
+    "administrativeCenter": "UBND xã Triệu Giang (cũ)",
+    "longitude": 107.09,
+    "latitude": 16.7446,
+    "previous": [
+      "Xã Triệu Ái",
+      "Xã Triệu Giang",
+      "Xã Triệu Long"
+    ],
+    "treeCode": "1752.1754"
+  },
+  {
+    "id": 1755,
+    "communeCode": 615,
+    "name": "Ba Đồn",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 20.45,
+    "population": 28805,
+    "administrativeCenter": "UBND thị xã Ba Đồn (cũ)",
+    "longitude": 106.418,
+    "latitude": 17.7687,
+    "previous": [
+      "Phường Quảng Phong",
+      "Phường Quảng Long",
+      "Phường Ba Đồn",
+      "Xã Quảng Hải"
+    ],
+    "treeCode": "1752.1755"
+  },
+  {
+    "id": 1756,
+    "communeCode": 579,
+    "name": "Ba Lòng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 210.58,
+    "population": 5151,
+    "administrativeCenter": "UBND xã Triệu Nguyên (cũ)",
+    "longitude": 107.017,
+    "latitude": 16.6266,
+    "previous": [
+      "Xã Triệu Nguyên",
+      "Xã Ba Lòng"
+    ],
+    "treeCode": "1752.1756"
+  },
+  {
+    "id": 1757,
+    "communeCode": 620,
+    "name": "Bắc Gianh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 31.14,
+    "population": 328,
+    "administrativeCenter": "UBND phường Quảng Thọ (cũ)",
+    "longitude": 106.455,
+    "latitude": 17.7364,
+    "previous": [
+      "Phường Quảng Phúc",
+      "Phường Quảng Thọ",
+      "Phường Quảng Thuận"
+    ],
+    "treeCode": "1752.1757"
+  },
+  {
+    "id": 1758,
+    "communeCode": 625,
+    "name": "Bắc Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 97.61,
+    "population": 36861,
+    "administrativeCenter": "UBND xã Bắc Trạch (cũ)",
+    "longitude": 106.43,
+    "latitude": 17.6789,
+    "previous": [
+      "Xã Thanh Trạch",
+      "Xã Hạ Mỹ",
+      "Xã Liên Trạch",
+      "Xã Bắc Trạch"
+    ],
+    "treeCode": "1752.1758"
+  },
+  {
+    "id": 1759,
+    "communeCode": 585,
+    "name": "Bến Hải",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 55.0054,
+    "population": null,
+    "administrativeCenter": "UBND xã Trung Hải (cũ)",
+    "longitude": 107.012,
+    "latitude": 16.9627,
+    "previous": [
+      "Xã Trung Hải",
+      "Xã Trung Giang",
+      "Xã Trung Sơn"
+    ],
+    "treeCode": "1752.1759"
+  },
+  {
+    "id": 1760,
+    "communeCode": 566,
+    "name": "Bến Quan",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 278.364,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Bến Quan (cũ)",
+    "longitude": 106.843,
+    "latitude": 16.9665,
+    "previous": [
+      "Thị trấn Bến Quan",
+      "Xã Vĩnh Ô",
+      "Xã Vĩnh Hà",
+      "Xã Vĩnh Khê"
+    ],
+    "treeCode": "1752.1760"
+  },
+  {
+    "id": 1761,
+    "communeCode": 626,
+    "name": "Bố Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 299.42,
+    "population": 3323,
+    "administrativeCenter": "UBND xã Cự Nẫm (cũ)",
+    "longitude": 106.411,
+    "latitude": 17.5385,
+    "previous": [
+      "Xã Hưng Trạch",
+      "Xã Cự Nẫm",
+      "Xã Vạn Trạch",
+      "Xã Phú Định"
+    ],
+    "treeCode": "1752.1761"
+  },
+  {
+    "id": 1762,
+    "communeCode": 636,
+    "name": "Cam Hồng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 87.89,
+    "population": 26663,
+    "administrativeCenter": "UBND xã Ngư Thủy Bắc (cũ)",
+    "longitude": 106.798,
+    "latitude": 17.2723,
+    "previous": [
+      "Xã Cam Thủy (huyện Lệ Thủy)",
+      "Xã Thanh Thủy",
+      "Xã Hồng Thủy",
+      "Xã Ngư Thủy Bắc"
+    ],
+    "treeCode": "1752.1762"
+  },
+  {
+    "id": 1763,
+    "communeCode": 571,
+    "name": "Cam Lộ",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 166.864,
+    "population": null,
+    "administrativeCenter": "UBND huyện Cam Lộ (cũ)",
+    "longitude": 106.949,
+    "latitude": 16.7517,
+    "previous": [
+      "Thị trấn Cam Lộ",
+      "Xã Cam Thành",
+      "Xã Cam Chính",
+      "Xã Cam Nghĩa"
+    ],
+    "treeCode": "1752.1763"
+  },
+  {
+    "id": 1764,
+    "communeCode": 3310,
+    "name": "Cồn Cỏ",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "đặc khu",
+    "areaKm2": 2.3,
+    "population": 500,
+    "administrativeCenter": "UBND huyện đảo Cồn Cỏ (cũ)",
+    "longitude": 107.339,
+    "latitude": 17.15925,
+    "previous": [
+      "Huyện Cồn Cỏ"
+    ],
+    "treeCode": "1752.1764"
+  },
+  {
+    "id": 1765,
+    "communeCode": 576,
+    "name": "Cồn Tiên",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 269.663,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.974,
+    "latitude": 16.9036,
+    "previous": [
+      "Xã Hải Thái",
+      "Xã Linh Trường",
+      "Xã Gio An",
+      "Xã Gio Sơn"
+    ],
+    "treeCode": "1752.1765"
+  },
+  {
+    "id": 1766,
+    "communeCode": 586,
+    "name": "Cửa Tùng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 59.0816,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Cửa Tùng (cũ)",
+    "longitude": 107.085,
+    "latitude": 17.0447,
+    "previous": [
+      "Thị trấn Cửa Tùng",
+      "Xã Vĩnh Giang",
+      "Xã Hiền Thành",
+      "Xã Kim Thạch"
+    ],
+    "treeCode": "1752.1766"
+  },
+  {
+    "id": 1767,
+    "communeCode": 602,
+    "name": "Cửa Việt",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 50.7226,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Cửa Việt (cũ)",
+    "longitude": 107.144,
+    "latitude": 16.9061,
+    "previous": [
+      "Thị trấn Cửa Việt",
+      "Xã Gio Mai",
+      "Xã Gio Hải"
+    ],
+    "treeCode": "1752.1767"
+  },
+  {
+    "id": 1768,
+    "communeCode": 578,
+    "name": "Đakrông",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 359.29,
+    "population": 14627,
+    "administrativeCenter": "UBND xã Đakrông (cũ) và Chi cục QLTT huyện Đakrông (cũ)",
+    "longitude": 106.903,
+    "latitude": 16.5801,
+    "previous": [
+      "Xã Ba Nang",
+      "Xã Tà Long",
+      "Xã Đakrông"
+    ],
+    "treeCode": "1752.1768"
+  },
+  {
+    "id": 1769,
+    "communeCode": 604,
+    "name": "Dân Hóa",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 365,
+    "population": 9532,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.735,
+    "latitude": 17.8259,
+    "previous": [
+      "Xã Trọng Hóa",
+      "Xã Dân Hóa"
+    ],
+    "treeCode": "1752.1769"
+  },
+  {
+    "id": 1770,
+    "communeCode": 582,
+    "name": "Diên Sanh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 88.3272,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Hải Lăng (cũ)",
+    "longitude": 107.257,
+    "latitude": 16.6719,
+    "previous": [
+      "Thị trấn Diên Sanh",
+      "Xã Hải Trường",
+      "Xã Hải Định"
+    ],
+    "treeCode": "1752.1770"
+  },
+  {
+    "id": 1771,
+    "communeCode": 572,
+    "name": "Đông Hà",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 38.0757,
+    "population": null,
+    "administrativeCenter": "UBND phường 3 và phường Đông Thanh (cũ)",
+    "longitude": 107.071,
+    "latitude": 16.802,
+    "previous": [
+      "Phường 1 (thành phố Đông Hà)",
+      "Phường 3 (thành phố Đông Hà)",
+      "Phường 4",
+      "Phường Đông Giang",
+      "Phường Đông Thanh"
+    ],
+    "treeCode": "1752.1771"
+  },
+  {
+    "id": 1772,
+    "communeCode": 598,
+    "name": "Đồng Hới",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 41.35,
+    "population": 84196,
+    "administrativeCenter": "UBND TP Đồng Hới (cũ)",
+    "longitude": 106.632,
+    "latitude": 17.4522,
+    "previous": [
+      "Phường Đức Ninh Đông",
+      "Phường Đồng Hải",
+      "Phường Đồng Phú",
+      "Phường Phú Hải",
+      "Phường Hải Thành",
+      "Phường Nam Lý",
+      "Xã Bảo Ninh",
+      "Xã Đức Ninh"
+    ],
+    "treeCode": "1752.1772"
+  },
+  {
+    "id": 1773,
+    "communeCode": 608,
+    "name": "Đồng Lê",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 291.93,
+    "population": 24533,
+    "administrativeCenter": "UBND thị trấn Đồng Lê (cũ)",
+    "longitude": 105.991,
+    "latitude": 17.9452,
+    "previous": [
+      "Thị trấn Đồng Lê",
+      "Xã Kim Hóa",
+      "Xã Lê Hóa",
+      "Xã Thuận Hóa",
+      "Xã Sơn Hóa"
+    ],
+    "treeCode": "1752.1773"
+  },
+  {
+    "id": 1774,
+    "communeCode": 600,
+    "name": "Đồng Sơn",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 88.03,
+    "population": 32396,
+    "administrativeCenter": "UBND phường Đồng Sơn (cũ)",
+    "longitude": 106.549,
+    "latitude": 17.4296,
+    "previous": [
+      "Phường Bắc Nghĩa",
+      "Phường Đồng Sơn",
+      "Xã Nghĩa Ninh",
+      "Xã Thuận Đức"
+    ],
+    "treeCode": "1752.1774"
+  },
+  {
+    "id": 1775,
+    "communeCode": 599,
+    "name": "Đồng Thuận",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 26.49,
+    "population": 38521,
+    "administrativeCenter": "UBND phường Bắc Lý (cũ)",
+    "longitude": 106.59,
+    "latitude": 17.4958,
+    "previous": [
+      "Phường Bắc Lý",
+      "Xã Lộc Ninh",
+      "Xã Quang Phú"
+    ],
+    "treeCode": "1752.1775"
+  },
+  {
+    "id": 1776,
+    "communeCode": 628,
+    "name": "Đông Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 35.72,
+    "population": 34174,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.491,
+    "latitude": 17.637,
+    "previous": [
+      "Xã Hải Phú (huyện Bố Trạch)",
+      "Xã Sơn Lộc",
+      "Xã Đức Trạch",
+      "Xã Đồng Trạch"
+    ],
+    "treeCode": "1752.1776"
+  },
+  {
+    "id": 1777,
+    "communeCode": 570,
+    "name": "Gio Linh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 96.7,
+    "population": 31738,
+    "administrativeCenter": "UBND huyện Gio Linh (cũ)",
+    "longitude": 107.086,
+    "latitude": 16.9254,
+    "previous": [
+      "Thị trấn Gio Linh",
+      "Xã Gio Quang",
+      "Xã Gio Mỹ",
+      "Xã Phong Bình"
+    ],
+    "treeCode": "1752.1777"
+  },
+  {
+    "id": 1778,
+    "communeCode": 580,
+    "name": "Hải Lăng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 116.89,
+    "population": 16589,
+    "administrativeCenter": "UBND xã Hải Phú (cũ)",
+    "longitude": 107.206,
+    "latitude": 16.6921,
+    "previous": [
+      "Xã Hải Phú (huyện Hải Lăng)",
+      "Xã Hải Lâm",
+      "Xã Hải Thượng"
+    ],
+    "treeCode": "1752.1778"
+  },
+  {
+    "id": 1779,
+    "communeCode": 603,
+    "name": "Hiếu Giang",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 177.775,
+    "population": null,
+    "administrativeCenter": "UBND Cam Thủy (cũ)",
+    "longitude": 106.967,
+    "latitude": 16.8353,
+    "previous": [
+      "Xã Cam Thủy (huyện Cam Lộ)",
+      "Xã Cam Hiếu",
+      "Xã Cam Tuyền",
+      "Xã Thanh An"
+    ],
+    "treeCode": "1752.1779"
+  },
+  {
+    "id": 1780,
+    "communeCode": 617,
+    "name": "Hòa Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 52.67,
+    "population": 29901,
+    "administrativeCenter": "UBND xã Quảng Tùng (cũ)",
+    "longitude": 106.388,
+    "latitude": 17.8743,
+    "previous": [
+      "Xã Quảng Châu",
+      "Xã Quảng Tùng",
+      "Xã Cảnh Dương"
+    ],
+    "treeCode": "1752.1780"
+  },
+  {
+    "id": 1781,
+    "communeCode": 623,
+    "name": "Hoàn Lão",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 99.03,
+    "population": 43554,
+    "administrativeCenter": "UBND huyện Bố Trạch (cũ)",
+    "longitude": 106.509,
+    "latitude": 17.5674,
+    "previous": [
+      "Thị trấn Hoàn Lão",
+      "Xã Trung Trạch",
+      "Xã Đại Trạch",
+      "Xã Tây Trạch",
+      "Xã Hòa Trạch"
+    ],
+    "treeCode": "1752.1781"
+  },
+  {
+    "id": 1782,
+    "communeCode": 575,
+    "name": "Hướng Hiệp",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 185.61,
+    "population": 13454,
+    "administrativeCenter": "UBND thị trấn Krông Klang (cũ)",
+    "longitude": 106.826,
+    "latitude": 16.745,
+    "previous": [
+      "Thị trấn Krông Klang",
+      "Xã Mò Ó",
+      "Xã Hướng Hiệp"
+    ],
+    "treeCode": "1752.1782"
+  },
+  {
+    "id": 1783,
+    "communeCode": 577,
+    "name": "Hướng Lập",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 219.64,
+    "population": 3539,
+    "administrativeCenter": "UBND xã Hướng Lập (cũ)",
+    "longitude": 106.6,
+    "latitude": 16.8967,
+    "previous": [
+      "Xã Hướng Việt",
+      "Xã Hướng Lập"
+    ],
+    "treeCode": "1752.1783"
+  },
+  {
+    "id": 1784,
+    "communeCode": 594,
+    "name": "Hướng Phùng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 447.59,
+    "population": 12029,
+    "administrativeCenter": "UBND Hướng Phùng (cũ)",
+    "longitude": 106.669,
+    "latitude": 16.7622,
+    "previous": [
+      "Xã Hướng Sơn",
+      "Xã Hướng Linh",
+      "Xã Hướng Phùng"
+    ],
+    "treeCode": "1752.1784"
+  },
+  {
+    "id": 1785,
+    "communeCode": 587,
+    "name": "Khe Sanh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 134.81,
+    "population": 27615,
+    "administrativeCenter": "UBND huyện Hướng Hóa (cũ)",
+    "longitude": 106.782,
+    "latitude": 16.589,
+    "previous": [
+      "Thị trấn Khe Sanh",
+      "Xã Tân Hợp",
+      "Xã Húc",
+      "Xã Hướng Tân"
+    ],
+    "treeCode": "1752.1785"
+  },
+  {
+    "id": 1786,
+    "communeCode": 606,
+    "name": "Kim Điền",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 229.42,
+    "population": 6165,
+    "administrativeCenter": "UBND xã Hóa Hợp (cũ)",
+    "longitude": 105.861,
+    "latitude": 17.7428,
+    "previous": [
+      "Xã Hóa Sơn",
+      "Xã Hóa Hợp"
+    ],
+    "treeCode": "1752.1786"
+  },
+  {
+    "id": 1787,
+    "communeCode": 637,
+    "name": "Kim Ngân",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 881.06,
+    "population": 9776,
+    "administrativeCenter": "UBND xã Kim Thủy (cũ)",
+    "longitude": 106.645,
+    "latitude": 17.062,
+    "previous": [
+      "Xã Kim Thủy",
+      "Xã Ngân Thủy",
+      "Xã Lâm Thủy"
+    ],
+    "treeCode": "1752.1787"
+  },
+  {
+    "id": 1788,
+    "communeCode": 607,
+    "name": "Kim Phú",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 552.57,
+    "population": 19054,
+    "administrativeCenter": "UBND xã Trung Hóa (cũ)",
+    "longitude": 105.991,
+    "latitude": 17.6719,
+    "previous": [
+      "Xã Thượng Hóa",
+      "Xã Trung Hóa",
+      "Xã Minh Hóa",
+      "Xã Tân Hóa"
+    ],
+    "treeCode": "1752.1788"
+  },
+  {
+    "id": 1789,
+    "communeCode": 568,
+    "name": "La Lay",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 156.21,
+    "population": 8121,
+    "administrativeCenter": "UBND xã A Ngo (cũ)",
+    "longitude": 107,
+    "latitude": 16.3502,
+    "previous": [
+      "Xã A Bung",
+      "Xã A Ngo"
+    ],
+    "treeCode": "1752.1789"
+  },
+  {
+    "id": 1790,
+    "communeCode": 595,
+    "name": "Lao Bảo",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 82.6845,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Lao Bảo (cũ)",
+    "longitude": 106.633,
+    "latitude": 16.6362,
+    "previous": [
+      "Xã Tân Thành (huyện Hướng Hóa)",
+      "Xã Tân Long",
+      "Thị trấn Lao Bảo"
+    ],
+    "treeCode": "1752.1790"
+  },
+  {
+    "id": 1791,
+    "communeCode": 634,
+    "name": "Lệ Ninh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 56.32,
+    "population": 23449,
+    "administrativeCenter": "Thị trấn Nông trường Lệ Ninh (cũ)",
+    "longitude": 106.698,
+    "latitude": 17.237,
+    "previous": [
+      "Thị trấn Nông trường Lệ Ninh",
+      "Xã Sơn Thủy",
+      "Xã Hoa Thủy"
+    ],
+    "treeCode": "1752.1791"
+  },
+  {
+    "id": 1792,
+    "communeCode": 635,
+    "name": "Lệ Thủy",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 55.93,
+    "population": 4946,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.77,
+    "latitude": 17.2319,
+    "previous": [
+      "Thị trấn Kiến Giang",
+      "Xã Liên Thủy",
+      "Xã Xuân Thủy",
+      "Xã An Thủy",
+      "Xã Phong Thủy",
+      "Xã Lộc Thủy"
+    ],
+    "treeCode": "1752.1792"
+  },
+  {
+    "id": 1793,
+    "communeCode": 597,
+    "name": "Lìa",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 71.69,
+    "population": 14375,
+    "administrativeCenter": "UBND xã Thanh (cũ)",
+    "longitude": 106.698,
+    "latitude": 16.4759,
+    "previous": [
+      "Xã Thanh",
+      "Xã Thuận",
+      "Xã Lìa"
+    ],
+    "treeCode": "1752.1793"
+  },
+  {
+    "id": 1794,
+    "communeCode": 601,
+    "name": "Minh Hóa",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 156.97,
+    "population": 21481,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.95,
+    "latitude": 17.8486,
+    "previous": [
+      "Thị trấn Quy Đạt",
+      "Xã Xuân Hóa",
+      "Xã Yên Hóa",
+      "Xã Hồng Hóa"
+    ],
+    "treeCode": "1752.1794"
+  },
+  {
+    "id": 1795,
+    "communeCode": 584,
+    "name": "Mỹ Thủy",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 44.413,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.341,
+    "latitude": 16.7278,
+    "previous": [
+      "Xã Hải Dương",
+      "Xã Hải An",
+      "Xã Hải Khê"
+    ],
+    "treeCode": "1752.1795"
+  },
+  {
+    "id": 1796,
+    "communeCode": 621,
+    "name": "Nam Ba Đồn",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "UBND xã Quảng Trung (cũ)",
+    "longitude": 106.3297,
+    "latitude": 17.735,
+    "previous": [
+      "Xã Quảng Tân",
+      "Xã Quảng Trung",
+      "Xã Quảng Tiên",
+      "Xã Quảng Sơn",
+      "Xã Quảng Thủy"
+    ],
+    "treeCode": "1752.1796"
+  },
+  {
+    "id": 1797,
+    "communeCode": 588,
+    "name": "Nam Cửa Việt",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 76.438,
+    "population": null,
+    "administrativeCenter": "UBND xã Triệu Trạch (cũ)",
+    "longitude": 107.206,
+    "latitude": 16.8527,
+    "previous": [
+      "Xã Triệu Trạch",
+      "Xã Triệu Phước",
+      "Xã Triệu Tân"
+    ],
+    "treeCode": "1752.1797"
+  },
+  {
+    "id": 1798,
+    "communeCode": 573,
+    "name": "Nam Đông Hà",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 34.815,
+    "population": null,
+    "administrativeCenter": "Trụ sở phân hiệu Đại học Huế (đường Lý Thường Kiệt) và Trung tâm văn hóa phường 5 (cũ)",
+    "longitude": 107.106,
+    "latitude": 16.8001,
+    "previous": [
+      "Phường 2 (thành phố Đông Hà)",
+      "Phường 5",
+      "Phường Đông Lễ",
+      "Phường Đông Lương"
+    ],
+    "treeCode": "1752.1798"
+  },
+  {
+    "id": 1799,
+    "communeCode": 622,
+    "name": "Nam Gianh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 34.43,
+    "population": 36527,
+    "administrativeCenter": "UBND xã Quảng Minh (cũ)",
+    "longitude": 106.372,
+    "latitude": 17.6923,
+    "previous": [
+      "Xã Quảng Hòa",
+      "Xã Quảng Lộc",
+      "Xã Quảng Văn",
+      "Xã Quảng Minh"
+    ],
+    "treeCode": "1752.1799"
+  },
+  {
+    "id": 1800,
+    "communeCode": 581,
+    "name": "Nam Hải Lăng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 114.504,
+    "population": null,
+    "administrativeCenter": "UBND xã Hải Sơn (cũ)",
+    "longitude": 107.264,
+    "latitude": 16.6177,
+    "previous": [
+      "Xã Hải Sơn",
+      "Xã Hải Phong",
+      "Xã Hải Chánh"
+    ],
+    "treeCode": "1752.1800"
+  },
+  {
+    "id": 1801,
+    "communeCode": 624,
+    "name": "Nam Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 129.83,
+    "population": 32594,
+    "administrativeCenter": "UBND xã Lý Nam (cũ)",
+    "longitude": 106.508,
+    "latitude": 17.4925,
+    "previous": [
+      "Thị trấn Nông trường Việt Trung",
+      "Xã Nhân Trạch",
+      "Xã Lý Nam"
+    ],
+    "treeCode": "1752.1801"
+  },
+  {
+    "id": 1802,
+    "communeCode": 632,
+    "name": "Ninh Châu",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 86.03,
+    "population": 30098,
+    "administrativeCenter": "UBND xã Gia Ninh (cũ)",
+    "longitude": 106.713,
+    "latitude": 17.3446,
+    "previous": [
+      "Xã Tân Ninh",
+      "Xã Gia Ninh",
+      "Xã Duy Ninh",
+      "Xã Hải Ninh"
+    ],
+    "treeCode": "1752.1802"
+  },
+  {
+    "id": 1803,
+    "communeCode": 629,
+    "name": "Phong Nha",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 358.1,
+    "population": 39254,
+    "administrativeCenter": "UBND xã Phúc Trạch (cũ)",
+    "longitude": 106.284,
+    "latitude": 17.6186,
+    "previous": [
+      "Thị trấn Phong Nha",
+      "Xã Lâm Trạch",
+      "Xã Xuân Trạch",
+      "Xã Phúc Trạch"
+    ],
+    "treeCode": "1752.1803"
+  },
+  {
+    "id": 1804,
+    "communeCode": 616,
+    "name": "Phú Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 197.41,
+    "population": 3085,
+    "administrativeCenter": "UBND xã Quảng Phú (cũ)",
+    "longitude": 106.396,
+    "latitude": 17.9471,
+    "previous": [
+      "Xã Quảng Đông",
+      "Xã Quảng Phú",
+      "Xã Quảng Kim",
+      "Xã Quảng Hợp"
+    ],
+    "treeCode": "1752.1804"
+  },
+  {
+    "id": 1805,
+    "communeCode": 630,
+    "name": "Quảng Ninh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 100.27,
+    "population": 3621,
+    "administrativeCenter": "UBND huyện Quảng Ninh (cũ)",
+    "longitude": 106.615,
+    "latitude": 17.3867,
+    "previous": [
+      "Thị trấn Quán Hàu",
+      "Xã Vĩnh Ninh",
+      "Xã Võ Ninh",
+      "Xã Hàm Ninh"
+    ],
+    "treeCode": "1752.1805"
+  },
+  {
+    "id": 1806,
+    "communeCode": 619,
+    "name": "Quảng Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 56.64,
+    "population": 31422,
+    "administrativeCenter": "UBND huyện Quảng Trạch (cũ)",
+    "longitude": 106.396,
+    "latitude": 17.7878,
+    "previous": [
+      "Xã Quảng Phương",
+      "Xã Quảng Xuân",
+      "Xã Quảng Hưng"
+    ],
+    "treeCode": "1752.1806"
+  },
+  {
+    "id": 1807,
+    "communeCode": 590,
+    "name": "Quảng Trị",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "phường",
+    "areaKm2": 73.3304,
+    "population": null,
+    "administrativeCenter": "UBND thị xã Quảng Trị (cũ)",
+    "longitude": 107.145,
+    "latitude": 16.6781,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3 (thị xã Quảng Trị)",
+      "Phường An Đôn",
+      "Xã Hải Lệ"
+    ],
+    "treeCode": "1752.1807"
+  },
+  {
+    "id": 1808,
+    "communeCode": 640,
+    "name": "Sen Ngư",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 120.84,
+    "population": 21158,
+    "administrativeCenter": "UBND xã Hưng Thủy (cũ)",
+    "longitude": 106.916,
+    "latitude": 17.1708,
+    "previous": [
+      "Xã Hưng Thủy",
+      "Xã Sen Thủy",
+      "Xã Ngư Thủy"
+    ],
+    "treeCode": "1752.1808"
+  },
+  {
+    "id": 1809,
+    "communeCode": 592,
+    "name": "Tà Rụt",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 273.15,
+    "population": 10639,
+    "administrativeCenter": "UBND xã Tà Rụt (cũ)",
+    "longitude": 107.001,
+    "latitude": 16.4538,
+    "previous": [
+      "Xã A Vao",
+      "Xã Húc Nghì",
+      "Xã Tà Rụt"
+    ],
+    "treeCode": "1752.1809"
+  },
+  {
+    "id": 1810,
+    "communeCode": 621,
+    "name": "Tân Gianh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 76.3521,
+    "population": null,
+    "administrativeCenter": "UBND xã Cảnh Hóa (cũ)",
+    "longitude": 106.313,
+    "latitude": 17.727,
+    "previous": [
+      "Xã Phù Cảnh",
+      "Xã Liên Trường",
+      "Xã Quảng Thanh"
+    ],
+    "treeCode": "1752.1810"
+  },
+  {
+    "id": 1811,
+    "communeCode": 593,
+    "name": "Tân Lập",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 257.61,
+    "population": 1681,
+    "administrativeCenter": "UBND xã Tân Lập (cũ)",
+    "longitude": 106.708,
+    "latitude": 16.5759,
+    "previous": [
+      "Xã Tân Liên",
+      "Xã Hướng Lộc",
+      "Xã Tân Lập"
+    ],
+    "treeCode": "1752.1811"
+  },
+  {
+    "id": 1812,
+    "communeCode": 638,
+    "name": "Tân Mỹ",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 102.57,
+    "population": 24644,
+    "administrativeCenter": "UBND xã Dương Thủy (cũ)",
+    "longitude": 106.85,
+    "latitude": 17.1515,
+    "previous": [
+      "Xã Tân Thủy",
+      "Xã Dương Thủy",
+      "Xã Mỹ Thủy",
+      "Xã Thái Thủy"
+    ],
+    "treeCode": "1752.1812"
+  },
+  {
+    "id": 1813,
+    "communeCode": 605,
+    "name": "Tân Thành",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 64.8,
+    "population": 30611,
+    "administrativeCenter": "UBND xã Tân Thành (cũ)",
+    "longitude": 105.828,
+    "latitude": 17.8809,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1752.1813"
+  },
+  {
+    "id": 1814,
+    "communeCode": 627,
+    "name": "Thượng Trạch",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 1091.53,
+    "population": 3615,
+    "administrativeCenter": "UBND xã Thượng Trạch (cũ)",
+    "longitude": 106.183,
+    "latitude": 17.4608,
+    "previous": [
+      "Xã Tân Trạch",
+      "Xã Thượng Trạch"
+    ],
+    "treeCode": "1752.1814"
+  },
+  {
+    "id": 1815,
+    "communeCode": 574,
+    "name": "Triệu Bình",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 37.2315,
+    "population": null,
+    "administrativeCenter": "UBND xã Triệu Đại (cũ)",
+    "longitude": 107.167,
+    "latitude": 16.8254,
+    "previous": [
+      "Xã Triệu Độ",
+      "Xã Triệu Thuận",
+      "Xã Triệu Hòa",
+      "Xã Triệu Đại"
+    ],
+    "treeCode": "1752.1815"
+  },
+  {
+    "id": 1816,
+    "communeCode": 589,
+    "name": "Triệu Cơ",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 44.54,
+    "population": 21976,
+    "administrativeCenter": "UBND xã Triệu Cơ (cũ)",
+    "longitude": 107.253,
+    "latitude": 16.7948,
+    "previous": [
+      "Xã Triệu Trung",
+      "Xã Triệu Tài",
+      "Xã Triệu Cơ"
+    ],
+    "treeCode": "1752.1816"
+  },
+  {
+    "id": 1817,
+    "communeCode": 591,
+    "name": "Triệu Phong",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 78.8841,
+    "population": null,
+    "administrativeCenter": "UBND huyện Triệu Phong (cũ)",
+    "longitude": 107.137,
+    "latitude": 16.7174,
+    "previous": [
+      "Thị trấn Ái Tử",
+      "Xã Triệu Thành",
+      "Xã Triệu Thượng"
+    ],
+    "treeCode": "1752.1817"
+  },
+  {
+    "id": 1818,
+    "communeCode": 618,
+    "name": "Trung Thuần",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 98.83,
+    "population": 16331,
+    "administrativeCenter": "UBND xã Quảng Lưu (cũ)",
+    "longitude": 106.338,
+    "latitude": 17.8399,
+    "previous": [
+      "Xã Quảng Lưu",
+      "Xã Quảng Thạch",
+      "Xã Quảng Tiến"
+    ],
+    "treeCode": "1752.1818"
+  },
+  {
+    "id": 1819,
+    "communeCode": 633,
+    "name": "Trường Ninh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 71.92,
+    "population": 35614,
+    "administrativeCenter": "UBND xã Xuân Ninh (cũ)",
+    "longitude": 106.659,
+    "latitude": 17.298,
+    "previous": [
+      "Xã Vạn Ninh",
+      "Xã An Ninh",
+      "Xã Xuân Ninh",
+      "Xã Hiền Ninh"
+    ],
+    "treeCode": "1752.1819"
+  },
+  {
+    "id": 1820,
+    "communeCode": 639,
+    "name": "Trường Phú",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 97.18,
+    "population": 21206,
+    "administrativeCenter": "UBND xã Mai Thủy (cũ)",
+    "longitude": 106.76,
+    "latitude": 17.1662,
+    "previous": [
+      "Xã Trường Thủy",
+      "Xã Mai Thủy",
+      "Xã Phú Thủy"
+    ],
+    "treeCode": "1752.1820"
+  },
+  {
+    "id": 1821,
+    "communeCode": 631,
+    "name": "Trường Sơn",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 935.96,
+    "population": 8484,
+    "administrativeCenter": "UBND xã Trường Sơn (cũ)",
+    "longitude": 106.458,
+    "latitude": 17.2539,
+    "previous": [
+      "Xã Trường Xuân",
+      "Xã Trường Sơn"
+    ],
+    "treeCode": "1752.1821"
+  },
+  {
+    "id": 1822,
+    "communeCode": 612,
+    "name": "Tuyên Bình",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 137.81,
+    "population": 19158,
+    "administrativeCenter": "UBND xã Phong Hóa (cũ)",
+    "longitude": 106.246,
+    "latitude": 17.8897,
+    "previous": [
+      "Xã Phong Hóa",
+      "Xã Ngư Hóa",
+      "Xã Mai Hóa"
+    ],
+    "treeCode": "1752.1822"
+  },
+  {
+    "id": 1823,
+    "communeCode": 614,
+    "name": "Tuyên Hóa",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 194.92,
+    "population": 21452,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.201,
+    "latitude": 17.7643,
+    "previous": [
+      "Xã Tiến Hóa",
+      "Xã Châu Hóa",
+      "Xã Cao Quảng",
+      "Xã Văn Hóa"
+    ],
+    "treeCode": "1752.1823"
+  },
+  {
+    "id": 1824,
+    "communeCode": 610,
+    "name": "Tuyên Lâm",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 235.2,
+    "population": 8401,
+    "administrativeCenter": "UBND xã Thanh Hóa (cũ)",
+    "longitude": 105.761,
+    "latitude": 17.967,
+    "previous": [
+      "Xã Lâm Hóa",
+      "Xã Thanh Hóa"
+    ],
+    "treeCode": "1752.1824"
+  },
+  {
+    "id": 1825,
+    "communeCode": 611,
+    "name": "Tuyên Phú",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 155.38,
+    "population": 188,
+    "administrativeCenter": "UBND xã Thạch Hóa (cũ)",
+    "longitude": 106.116,
+    "latitude": 17.8673,
+    "previous": [
+      "Xã Đồng Hóa",
+      "Xã Thạch Hóa",
+      "Xã Đức Hóa"
+    ],
+    "treeCode": "1752.1825"
+  },
+  {
+    "id": 1826,
+    "communeCode": 609,
+    "name": "Tuyên Sơn",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 132.14,
+    "population": 6738,
+    "administrativeCenter": "UBND xã Hương Hóa (cũ)",
+    "longitude": 105.899,
+    "latitude": 18.0335,
+    "previous": [
+      "Xã Thanh Thạch",
+      "Xã Hương Hóa"
+    ],
+    "treeCode": "1752.1826"
+  },
+  {
+    "id": 1827,
+    "communeCode": 583,
+    "name": "Vĩnh Định",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 63.1217,
+    "population": null,
+    "administrativeCenter": "UBND xã Hải Vĩnh (cũ)",
+    "longitude": 107.278,
+    "latitude": 16.755,
+    "previous": [
+      "Xã Hải Quy",
+      "Xã Hải Hưng",
+      "Xã Hải Bình"
+    ],
+    "treeCode": "1752.1827"
+  },
+  {
+    "id": 1828,
+    "communeCode": 565,
+    "name": "Vĩnh Hoàng",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 87.7139,
+    "population": null,
+    "administrativeCenter": "UBND xã Trung Nam (cũ)",
+    "longitude": 107.028,
+    "latitude": 17.0978,
+    "previous": [
+      "Xã Vĩnh Thái",
+      "Xã Trung Nam",
+      "Xã Vĩnh Hòa",
+      "Xã Vĩnh Tú"
+    ],
+    "treeCode": "1752.1828"
+  },
+  {
+    "id": 1829,
+    "communeCode": 564,
+    "name": "Vĩnh Linh",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 90.37,
+    "population": 27527,
+    "administrativeCenter": "UBND huyện Vĩnh Linh (cũ)",
+    "longitude": 106.956,
+    "latitude": 17.0783,
+    "previous": [
+      "Thị trấn Hồ Xá",
+      "Xã Vĩnh Long",
+      "Xã Vĩnh Chấp"
+    ],
+    "treeCode": "1752.1829"
+  },
+  {
+    "id": 1830,
+    "communeCode": 567,
+    "name": "Vĩnh Thủy",
+    "provinceCode": 19,
+    "provinceName": "tỉnh Quảng Trị",
+    "type": "xã",
+    "areaKm2": 103.74,
+    "population": 20747,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.982,
+    "latitude": 17.0043,
+    "previous": [
+      "Xã Vĩnh Lâm",
+      "Xã Vĩnh Sơn",
+      "Xã Vĩnh Thủy"
+    ],
+    "treeCode": "1752.1830"
+  }
+]

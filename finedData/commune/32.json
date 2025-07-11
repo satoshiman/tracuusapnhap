@@ -1,0 +1,1933 @@
+[
+  {
+    "id": 3085,
+    "communeCode": 372,
+    "name": "An Biên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 118.27,
+    "population": 53784,
+    "administrativeCenter": "UBND huyện An Biên",
+    "longitude": 105.097,
+    "latitude": 9.7871,
+    "previous": [
+      "Thị trấn Thứ Ba",
+      "Xã Đông Yên",
+      "Xã Hưng Yên"
+    ],
+    "treeCode": "3084.3085"
+  },
+  {
+    "id": 3086,
+    "communeCode": 323,
+    "name": "An Châu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 70.25,
+    "population": 65588,
+    "administrativeCenter": "UBND huyện Châu Thàn hiện nay",
+    "longitude": 105.35,
+    "latitude": 10.3975,
+    "previous": [
+      "Thị trấn An Châu",
+      "Xã Hòa Bình Thạnh",
+      "Xã Vĩnh Thành"
+    ],
+    "treeCode": "3084.3086"
+  },
+  {
+    "id": 3087,
+    "communeCode": 464,
+    "name": "An Cư",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 94.3,
+    "population": 39956,
+    "administrativeCenter": "UBND xã An Cư hiện nay",
+    "longitude": 105.012,
+    "latitude": 10.559,
+    "previous": [
+      "Xã Văn Giáo",
+      "Xã Vĩnh Trung",
+      "Xã An Cư"
+    ],
+    "treeCode": "3084.3087"
+  },
+  {
+    "id": 3088,
+    "communeCode": 375,
+    "name": "An Minh",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 142.3,
+    "population": 35596,
+    "administrativeCenter": "UBND huyện An Minh",
+    "longitude": 104.972,
+    "latitude": 9.60108,
+    "previous": [
+      "Thị trấn Thứ Mười Một",
+      "Xã Đông Hưng",
+      "Xã Đông Hưng B"
+    ],
+    "treeCode": "3084.3088"
+  },
+  {
+    "id": 3089,
+    "communeCode": 314,
+    "name": "An Phú",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 34.7,
+    "population": 49051,
+    "administrativeCenter": "UBND thị trấn An Phú cũ",
+    "longitude": 105.077,
+    "latitude": 10.8084,
+    "previous": [
+      "Thị trấn An Phú",
+      "Xã Vĩnh Hội Đông",
+      "Xã Phú Hội",
+      "Xã Phước Hưng"
+    ],
+    "treeCode": "3084.3089"
+  },
+  {
+    "id": 3090,
+    "communeCode": 467,
+    "name": "Ba Chúc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 70.94,
+    "population": 32071,
+    "administrativeCenter": "UBND thị trấn Ba Chúc cũ",
+    "longitude": 104.907,
+    "latitude": 10.5026,
+    "previous": [
+      "Thị trấn Ba Chúc",
+      "Xã Lạc Quới",
+      "Xã Lê Trì"
+    ],
+    "treeCode": "3084.3090"
+  },
+  {
+    "id": 3091,
+    "communeCode": 360,
+    "name": "Bình An",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 73.43,
+    "population": 59475,
+    "administrativeCenter": "UBND xã Bình An",
+    "longitude": 105.135,
+    "latitude": 9.88888,
+    "previous": [
+      "Xã Bình An (huyện Châu Thành)",
+      "Xã Vĩnh Hòa Hiệp",
+      "Xã Vĩnh Hòa Phú"
+    ],
+    "treeCode": "3084.3091"
+  },
+  {
+    "id": 3092,
+    "communeCode": 53,
+    "name": "Bình Đức",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 28.23,
+    "population": 72822,
+    "administrativeCenter": "Phường Bình Khánh (169 Hàm Nghi)",
+    "longitude": 105.399,
+    "latitude": 10.3966,
+    "previous": [
+      "Phường Bình Khánh",
+      "Phường Bình Đức",
+      "Xã Mỹ Khánh"
+    ],
+    "treeCode": "3084.3092"
+  },
+  {
+    "id": 3093,
+    "communeCode": 352,
+    "name": "Bình Giang",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 163.7,
+    "population": 18257,
+    "administrativeCenter": "UBND xã Bình Giang",
+    "longitude": 104.791,
+    "latitude": 10.3092,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3093"
+  },
+  {
+    "id": 3094,
+    "communeCode": 326,
+    "name": "Bình Hòa",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 48.63,
+    "population": 56484,
+    "administrativeCenter": "UBND xã Bình Hòa hiện nay",
+    "longitude": 105.334,
+    "latitude": 10.4623,
+    "previous": [
+      "Xã Bình Thạnh",
+      "Xã An Hòa",
+      "Xã Bình Hòa"
+    ],
+    "treeCode": "3084.3094"
+  },
+  {
+    "id": 3095,
+    "communeCode": 460,
+    "name": "Bình Mỹ",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 82.62,
+    "population": 6865,
+    "administrativeCenter": "UBND xã Bình Mỹ",
+    "longitude": 105.269,
+    "latitude": 10.5108,
+    "previous": [
+      "Xã Bình Thủy",
+      "Xã Bình Chánh",
+      "Xã Bình Mỹ"
+    ],
+    "treeCode": "3084.3095"
+  },
+  {
+    "id": 3096,
+    "communeCode": 351,
+    "name": "Bình Sơn",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 281.7,
+    "population": 61517,
+    "administrativeCenter": "xã Bình Sơn",
+    "longitude": 104.859,
+    "latitude": 10.2664,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3096"
+  },
+  {
+    "id": 3097,
+    "communeCode": 451,
+    "name": "Bình Thạnh Đông",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 61.7,
+    "population": 50569,
+    "administrativeCenter": "UBND xã Phú Bình cũ",
+    "longitude": 105.259,
+    "latitude": 10.6009,
+    "previous": [
+      "Xã Hiệp Xương",
+      "Xã Phú Bình",
+      "Xã Bình Thạnh Đông"
+    ],
+    "treeCode": "3084.3097"
+  },
+  {
+    "id": 3098,
+    "communeCode": 324,
+    "name": "Cần Đăng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 65.21,
+    "population": 35257,
+    "administrativeCenter": "UBND xã Cần Đăng",
+    "longitude": 105.301,
+    "latitude": 10.3982,
+    "previous": [
+      "Xã Vĩnh Lợi",
+      "Xã Cần Đăng"
+    ],
+    "treeCode": "3084.3098"
+  },
+  {
+    "id": 3099,
+    "communeCode": 313,
+    "name": "Châu Đốc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 41.32,
+    "population": 97438,
+    "administrativeCenter": "Phường Châu Phú B",
+    "longitude": 105.117,
+    "latitude": 10.6837,
+    "previous": [
+      "Phường Vĩnh Nguơn",
+      "Phường Châu Phú A",
+      "Phường Châu Phú B",
+      "Phường Vĩnh Mỹ",
+      "Xã Vĩnh Châu"
+    ],
+    "treeCode": "3084.3099"
+  },
+  {
+    "id": 3100,
+    "communeCode": 443,
+    "name": "Châu Phong",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 49.28,
+    "population": 56322,
+    "administrativeCenter": "UBND xã Lê Chánh cũ",
+    "longitude": 105.172,
+    "latitude": 10.74,
+    "previous": [
+      "Xã Phú Vĩnh",
+      "Xã Lê Chánh",
+      "Xã Châu Phong"
+    ],
+    "treeCode": "3084.3100"
+  },
+  {
+    "id": 3101,
+    "communeCode": 452,
+    "name": "Châu Phú",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 80.11,
+    "population": 60137,
+    "administrativeCenter": "UBND huyện Châu Phú cũ",
+    "longitude": 105.198,
+    "latitude": 10.5108,
+    "previous": [
+      "Thị trấn Cái Dầu",
+      "Xã Bình Long",
+      "Xã Bình Phú"
+    ],
+    "treeCode": "3084.3101"
+  },
+  {
+    "id": 3102,
+    "communeCode": 358,
+    "name": "Châu Thành",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 47.71,
+    "population": 39104,
+    "administrativeCenter": "UBND huyện Châu Thành cũ",
+    "longitude": 105.194,
+    "latitude": 9.90357,
+    "previous": [
+      "Thị trấn Minh Lương",
+      "Xã Minh Hòa",
+      "Xã Giục Tượng"
+    ],
+    "treeCode": "3084.3102"
+  },
+  {
+    "id": 3103,
+    "communeCode": 461,
+    "name": "Chi Lăng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 51.17,
+    "population": 28401,
+    "administrativeCenter": "UBND phường Chi Lăng",
+    "longitude": 105.051,
+    "latitude": 10.5181,
+    "previous": [
+      "Phường Núi Voi",
+      "Phường Chi Lăng",
+      "Xã Tân Lợi"
+    ],
+    "treeCode": "3084.3103"
+  },
+  {
+    "id": 3104,
+    "communeCode": 328,
+    "name": "Chợ Mới",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 50.43,
+    "population": 80832,
+    "administrativeCenter": "UBND huyện Chợ Mới cũ",
+    "longitude": 105.375,
+    "latitude": 10.5393,
+    "previous": [
+      "Thị trấn Chợ Mới",
+      "Xã Kiến An",
+      "Xã Kiến Thành"
+    ],
+    "treeCode": "3084.3104"
+  },
+  {
+    "id": 3105,
+    "communeCode": 444,
+    "name": "Chợ Vàm",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 67.48,
+    "population": 50436,
+    "administrativeCenter": "UBND thị trấn Chợ Vàm cũ",
+    "longitude": 105.286,
+    "latitude": 10.6897,
+    "previous": [
+      "Thị trấn Chợ Vàm",
+      "Xã Phú Thạnh",
+      "Xã Phú Thành"
+    ],
+    "treeCode": "3084.3105"
+  },
+  {
+    "id": 3106,
+    "communeCode": 469,
+    "name": "Cô Tô",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 176.75,
+    "population": 31278,
+    "administrativeCenter": "UBND thị trấn Cô Tô",
+    "longitude": 105.068,
+    "latitude": 10.357,
+    "previous": [
+      "Thị trấn Cô Tô",
+      "Xã Tà Đảnh",
+      "Xã Tân Tuyến"
+    ],
+    "treeCode": "3084.3106"
+  },
+  {
+    "id": 3107,
+    "communeCode": 330,
+    "name": "Cù Lao Giêng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 68.92,
+    "population": 70372,
+    "administrativeCenter": "UBND xã Tấn Mỹ cũ",
+    "longitude": 105.534,
+    "latitude": 10.4932,
+    "previous": [
+      "Xã Tấn Mỹ",
+      "Xã Mỹ Hiệp",
+      "Xã Bình Phước Xuân"
+    ],
+    "treeCode": "3084.3107"
+  },
+  {
+    "id": 3108,
+    "communeCode": 370,
+    "name": "Định Hòa",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 143.79,
+    "population": 56675,
+    "administrativeCenter": "UBND xã Định Hòa",
+    "longitude": 105.215,
+    "latitude": 9.7568,
+    "previous": [
+      "Xã Thới Quản",
+      "Xã Thủy Liễu",
+      "Xã Định Hòa"
+    ],
+    "treeCode": "3084.3108"
+  },
+  {
+    "id": 3109,
+    "communeCode": 339,
+    "name": "Định Mỹ",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 109.77,
+    "population": 42328,
+    "administrativeCenter": "UBND xã Định Thành cũ",
+    "longitude": 105.266,
+    "latitude": 10.3245,
+    "previous": [
+      "Xã Vĩnh Phú (huyện Thoại Sơn)",
+      "Xã Định Thành",
+      "Xã Định Mỹ"
+    ],
+    "treeCode": "3084.3109"
+  },
+  {
+    "id": 3110,
+    "communeCode": 378,
+    "name": "Đông Hòa",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 151.88,
+    "population": 45282,
+    "administrativeCenter": "UBND xã Đông Hòa",
+    "longitude": 104.992,
+    "latitude": 9.6999,
+    "previous": [
+      "Xã Đông Thạnh",
+      "Xã Đông Hòa"
+    ],
+    "treeCode": "3084.3110"
+  },
+  {
+    "id": 3111,
+    "communeCode": 380,
+    "name": "Đông Hưng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 81.62,
+    "population": 22281,
+    "administrativeCenter": "UBND xã Đông Hưng A",
+    "longitude": 104.881,
+    "latitude": 9.65306,
+    "previous": [
+      "Xã Vân Khánh Đông",
+      "Xã Đông Hưng A"
+    ],
+    "treeCode": "3084.3111"
+  },
+  {
+    "id": 3112,
+    "communeCode": 374,
+    "name": "Đông Thái",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 154.52,
+    "population": 54321,
+    "administrativeCenter": "UBND xã Đông Thái",
+    "longitude": 105.001,
+    "latitude": 9.79932,
+    "previous": [
+      "Xã Nam Thái",
+      "Xã Nam Thái A",
+      "Xã Đông Thái"
+    ],
+    "treeCode": "3084.3112"
+  },
+  {
+    "id": 3113,
+    "communeCode": 347,
+    "name": "Giang Thành",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 184.14,
+    "population": 20039,
+    "administrativeCenter": "UBND huyện Giang Thành cũ",
+    "longitude": 104.6,
+    "latitude": 10.4479,
+    "previous": [
+      "Xã Tân Khánh Hòa",
+      "Xã Phú Lợi",
+      "Xã Phú Mỹ"
+    ],
+    "treeCode": "3084.3113"
+  },
+  {
+    "id": 3114,
+    "communeCode": 362,
+    "name": "Giồng Riềng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 122.1,
+    "population": 70384,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.273,
+    "latitude": 9.92527,
+    "previous": [
+      "Thị trấn Giồng Riềng",
+      "Xã Bàn Tân Định",
+      "Xã Thạnh Hòa",
+      "Xã Bàn Thạch",
+      "Xã Thạnh Bình"
+    ],
+    "treeCode": "3084.3114"
+  },
+  {
+    "id": 3115,
+    "communeCode": 368,
+    "name": "Gò Quao",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 83.92,
+    "population": 44695,
+    "administrativeCenter": "UBND huyện Gò Quao",
+    "longitude": 105.294,
+    "latitude": 9.7456,
+    "previous": [
+      "Thị trấn Gò Quao",
+      "Xã Vĩnh Phước B",
+      "Xã Định An"
+    ],
+    "treeCode": "3084.3115"
+  },
+  {
+    "id": 3116,
+    "communeCode": 344,
+    "name": "Hà Tiên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 61.35,
+    "population": 40609,
+    "administrativeCenter": "UBND TP Hà Tiên",
+    "longitude": 104.469,
+    "latitude": 10.4029,
+    "previous": [
+      "Phường Pháo Đài",
+      "Phường Bình San",
+      "Phường Mỹ Đức",
+      "Phường Đông Hồ"
+    ],
+    "treeCode": "3084.3116"
+  },
+  {
+    "id": 3117,
+    "communeCode": 348,
+    "name": "Hòa Điền",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 285.38,
+    "population": 24099,
+    "administrativeCenter": "UBND xã Kiên Bình",
+    "longitude": 104.676,
+    "latitude": 10.3337,
+    "previous": [
+      "Xã Kiên Bình",
+      "Xã Hòa Điền"
+    ],
+    "treeCode": "3084.3117"
+  },
+  {
+    "id": 3118,
+    "communeCode": 365,
+    "name": "Hòa Hưng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 114.24,
+    "population": 37877,
+    "administrativeCenter": "UBND xã Hòa Hưng",
+    "longitude": 105.48,
+    "latitude": 9.89649,
+    "previous": [
+      "Xã Hòa An (huyện Giồng Riềng)",
+      "Xã Hòa Lợi",
+      "Xã Hòa Hưng"
+    ],
+    "treeCode": "3084.3118"
+  },
+  {
+    "id": 3119,
+    "communeCode": 448,
+    "name": "Hòa Lạc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 41.11,
+    "population": 30864,
+    "administrativeCenter": "UBND xã Hòa Lạc",
+    "longitude": 105.201,
+    "latitude": 10.7107,
+    "previous": [
+      "Xã Phú Hiệp",
+      "Xã Hòa Lạc"
+    ],
+    "treeCode": "3084.3119"
+  },
+  {
+    "id": 3120,
+    "communeCode": 367,
+    "name": "Hòa Thuận",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 73.85,
+    "population": 317,
+    "administrativeCenter": "UBND xã Hòa Thuận",
+    "longitude": 105.404,
+    "latitude": 9.84949,
+    "previous": [
+      "Xã Ngọc Hòa",
+      "Xã Hòa Thuận"
+    ],
+    "treeCode": "3084.3120"
+  },
+  {
+    "id": 3121,
+    "communeCode": 334,
+    "name": "Hội An",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 63.54,
+    "population": 73897,
+    "administrativeCenter": "UBND thị trấn Hội An",
+    "longitude": 105.476,
+    "latitude": 10.3786,
+    "previous": [
+      "Thị trấn Hội An",
+      "Xã Hòa An (huyện Chợ Mới)",
+      "Xã Hòa Bình"
+    ],
+    "treeCode": "3084.3121"
+  },
+  {
+    "id": 3122,
+    "communeCode": 350,
+    "name": "Hòn Đất",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 281.7,
+    "population": 61517,
+    "administrativeCenter": "UBND huyện Hòn Đất",
+    "longitude": 104.93,
+    "latitude": 10.2161,
+    "previous": [
+      "Thị trấn Hòn Đất",
+      "Xã Lình Huỳnh",
+      "Xã Thổ Sơn",
+      "Xã Nam Thái Sơn"
+    ],
+    "treeCode": "3084.3122"
+  },
+  {
+    "id": 3123,
+    "communeCode": 3318,
+    "name": "Hòn Nghệ",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 3.46,
+    "population": 2546,
+    "administrativeCenter": "xã Hòn Nghệ",
+    "longitude": 104.5537,
+    "latitude": 10.0256,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3123"
+  },
+  {
+    "id": 3124,
+    "communeCode": 333,
+    "name": "Khánh Bình",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 104.5,
+    "population": 39823,
+    "administrativeCenter": "UBND thị trấn Long Bình cũ",
+    "longitude": 105.088,
+    "latitude": 10.9383,
+    "previous": [
+      "Thị trấn Long Bình",
+      "Xã Khánh An",
+      "Xã Khánh Bình"
+    ],
+    "treeCode": "3084.3124"
+  },
+  {
+    "id": 3125,
+    "communeCode": 3315,
+    "name": "Kiên Hải",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "đặc khu",
+    "areaKm2": 21.81,
+    "population": 17644,
+    "administrativeCenter": "UBND huyện Kiên Hải (xã Hòn Tre hiện nay)",
+    "longitude": 104.632,
+    "latitude": 9.8,
+    "previous": [
+      "Huyện Kiên Hải"
+    ],
+    "treeCode": "3084.3125"
+  },
+  {
+    "id": 3126,
+    "communeCode": 345,
+    "name": "Kiên Lương",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 138.07,
+    "population": 58312,
+    "administrativeCenter": "huyện Ủy Kiên Lương cũ",
+    "longitude": 104.649,
+    "latitude": 10.1964,
+    "previous": [
+      "Thị trấn Kiên Lương",
+      "Xã Bình An (huyện Kiên Lương)",
+      "Xã Bình Trị"
+    ],
+    "treeCode": "3084.3126"
+  },
+  {
+    "id": 3127,
+    "communeCode": 329,
+    "name": "Long Điền",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 87.72,
+    "population": 29479,
+    "administrativeCenter": "thị trấn Mỹ Luông cũ",
+    "longitude": 105.458,
+    "latitude": 10.5171,
+    "previous": [
+      "Thị trấn Mỹ Luông",
+      "Xã Long Điền A",
+      "Xã Long Điền B"
+    ],
+    "treeCode": "3084.3127"
+  },
+  {
+    "id": 3128,
+    "communeCode": 332,
+    "name": "Long Kiến",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 59.83,
+    "population": 57367,
+    "administrativeCenter": "UBND xã Long Kiến",
+    "longitude": 105.488,
+    "latitude": 10.4477,
+    "previous": [
+      "Xã An Thạnh Trung",
+      "Xã Mỹ An",
+      "Xã Long Kiến"
+    ],
+    "treeCode": "3084.3128"
+  },
+  {
+    "id": 3129,
+    "communeCode": 442,
+    "name": "Long Phú",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 19.21,
+    "population": 46826,
+    "administrativeCenter": "Phường Long Hưng",
+    "longitude": 105.222,
+    "latitude": 10.7838,
+    "previous": [
+      "Phường Long Hưng",
+      "Phường Long Châu",
+      "Phường Long Phú"
+    ],
+    "treeCode": "3084.3129"
+  },
+  {
+    "id": 3130,
+    "communeCode": 366,
+    "name": "Long Thạnh",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 96.37,
+    "population": 4225,
+    "administrativeCenter": "UBND xã Long Thạnh",
+    "longitude": 105.313,
+    "latitude": 9.83867,
+    "previous": [
+      "Xã Vĩnh Phú (huyện Giồng Riềng)",
+      "Xã Vĩnh Thạnh",
+      "Xã Long Thạnh"
+    ],
+    "treeCode": "3084.3130"
+  },
+  {
+    "id": 3131,
+    "communeCode": 52,
+    "name": "Long Xuyên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 29.98,
+    "population": 154858,
+    "administrativeCenter": "Phường Mỹ Hòa",
+    "longitude": 105.423,
+    "latitude": 10.3661,
+    "previous": [
+      "Phường Mỹ Bình",
+      "Phường Mỹ Long",
+      "Phường Mỹ Xuyên",
+      "Phường Mỹ Phước",
+      "Phường Mỹ Quý",
+      "Phường Mỹ Hòa"
+    ],
+    "treeCode": "3084.3131"
+  },
+  {
+    "id": 3132,
+    "communeCode": 457,
+    "name": "Mỹ Đức",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 61.59,
+    "population": 60493,
+    "administrativeCenter": "UBND xã Mỹ Đức",
+    "longitude": 105.163,
+    "latitude": 10.6583,
+    "previous": [
+      "Xã Khánh Hòa",
+      "Xã Mỹ Đức"
+    ],
+    "treeCode": "3084.3132"
+  },
+  {
+    "id": 3133,
+    "communeCode": 86,
+    "name": "Mỹ Hòa Hưng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 19.65,
+    "population": 26727,
+    "administrativeCenter": "UBND xã Mỹ Hòa Hưng",
+    "longitude": 105.436,
+    "latitude": 10.4186,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3133"
+  },
+  {
+    "id": 3134,
+    "communeCode": 54,
+    "name": "Mỹ Thới",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 37.09,
+    "population": 6045,
+    "administrativeCenter": "UBND phường Mỹ Thới",
+    "longitude": 105.451,
+    "latitude": 10.3305,
+    "previous": [
+      "Phường Mỹ Thạnh",
+      "Phường Mỹ Thới"
+    ],
+    "treeCode": "3084.3134"
+  },
+  {
+    "id": 3135,
+    "communeCode": 354,
+    "name": "Mỹ Thuận",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 210.5,
+    "population": 60747,
+    "administrativeCenter": "UBND xã Mỹ Thuận",
+    "longitude": 105.078,
+    "latitude": 10.1723,
+    "previous": [
+      "Thị trấn Sóc Sơn",
+      "Xã Mỹ Hiệp Sơn",
+      "Xã Mỹ Phước",
+      "Xã Mỹ Thuận"
+    ],
+    "treeCode": "3084.3135"
+  },
+  {
+    "id": 3136,
+    "communeCode": 364,
+    "name": "Ngọc Chúc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 90.25,
+    "population": 38705,
+    "administrativeCenter": "UBND xã Ngọc Chúc",
+    "longitude": 105.392,
+    "latitude": 9.91663,
+    "previous": [
+      "Xã Ngọc Thuận",
+      "Xã Ngọc Thành",
+      "Xã Ngọc Chúc"
+    ],
+    "treeCode": "3084.3136"
+  },
+  {
+    "id": 3137,
+    "communeCode": 349,
+    "name": "Nhơn Hội",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 43.82,
+    "population": 5754,
+    "administrativeCenter": "UBND xã Quốc Thái cũ",
+    "longitude": 105.064,
+    "latitude": 10.8832,
+    "previous": [
+      "Xã Quốc Thái",
+      "Xã Nhơn Hội",
+      "Xã Phước Hưng",
+      "Xã Phú Hội (phần còn lại sau khi sáp nhập vào xã An Phú)"
+    ],
+    "treeCode": "3084.3137"
+  },
+  {
+    "id": 3138,
+    "communeCode": 331,
+    "name": "Nhơn Mỹ",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 79.73,
+    "population": 42213,
+    "administrativeCenter": "UBND xã Nhơn Mỹ",
+    "longitude": 105.394,
+    "latitude": 10.4782,
+    "previous": [
+      "Xã Mỹ Hội Đông",
+      "Xã Long Giang",
+      "Xã Nhơn Mỹ"
+    ],
+    "treeCode": "3084.3138"
+  },
+  {
+    "id": 3139,
+    "communeCode": 465,
+    "name": "Núi Cấm",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 84.18,
+    "population": 25184,
+    "administrativeCenter": "UBND xã An Hảo cũ",
+    "longitude": 105.04,
+    "latitude": 10.4668,
+    "previous": [
+      "Xã Tân Lập",
+      "Xã An Hảo"
+    ],
+    "treeCode": "3084.3139"
+  },
+  {
+    "id": 3140,
+    "communeCode": 322,
+    "name": "Ô Lâm",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 99.52,
+    "population": 37429,
+    "administrativeCenter": "UBND xã An Tức cũ",
+    "longitude": 104.947,
+    "latitude": 10.4045,
+    "previous": [
+      "Xã An Tức",
+      "Xã Lương Phi",
+      "Xã Ô Lâm"
+    ],
+    "treeCode": "3084.3140"
+  },
+  {
+    "id": 3141,
+    "communeCode": 336,
+    "name": "Óc Eo",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 68.79,
+    "population": 39481,
+    "administrativeCenter": "UBND thị trấn Óc Eo",
+    "longitude": 105.161,
+    "latitude": 10.2631,
+    "previous": [
+      "Thị trấn Óc Eo",
+      "Xã Vọng Thê",
+      "Xã Vọng Đông"
+    ],
+    "treeCode": "3084.3141"
+  },
+  {
+    "id": 3142,
+    "communeCode": 449,
+    "name": "Phú An",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 57.35,
+    "population": 40005,
+    "administrativeCenter": "UBND xã Phú An",
+    "longitude": 105.311,
+    "latitude": 10.6401,
+    "previous": [
+      "Xã Phú Thọ",
+      "Xã Phú Xuân",
+      "Xã Phú An"
+    ],
+    "treeCode": "3084.3142"
+  },
+  {
+    "id": 3143,
+    "communeCode": 335,
+    "name": "Phú Hòa",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 71.8,
+    "population": 41306,
+    "administrativeCenter": "UBND thị trấn Phú Hòa cũ",
+    "longitude": 105.393,
+    "latitude": 10.3021,
+    "previous": [
+      "Thị trấn Phú Hòa",
+      "Xã Phú Thuận",
+      "Xã Vĩnh Chánh"
+    ],
+    "treeCode": "3084.3143"
+  },
+  {
+    "id": 3144,
+    "communeCode": 359,
+    "name": "Phú Hữu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 60.54,
+    "population": 41254,
+    "administrativeCenter": "UBND xã Phú Hữu",
+    "longitude": 105.118,
+    "latitude": 10.8631,
+    "previous": [
+      "Xã Phú Hữu",
+      "Xã Vĩnh Lộc",
+      "Xã Phước Hưng (phần còn lại sau khi sáp nhập vào xã An Phú và Nhơn Hội)"
+    ],
+    "treeCode": "3084.3144"
+  },
+  {
+    "id": 3145,
+    "communeCode": 445,
+    "name": "Phú Lâm",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 43.07,
+    "population": 33186,
+    "administrativeCenter": "UBND xã Phú Lâm",
+    "longitude": 105.251,
+    "latitude": 10.7272,
+    "previous": [
+      "Xã Long Hòa",
+      "Xã Phú Long",
+      "Xã Phú Lâm"
+    ],
+    "treeCode": "3084.3145"
+  },
+  {
+    "id": 3146,
+    "communeCode": 386,
+    "name": "Phú Quốc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "đặc khu",
+    "areaKm2": 589.27,
+    "population": 294400,
+    "administrativeCenter": "UBND TP Phú Quốc hiện nay",
+    "longitude": 103.991,
+    "latitude": 10.2751,
+    "previous": [
+      "Phường Dương Đông",
+      "Phường An Thới",
+      "Xã Dương Tơ",
+      "Xã Hàm Ninh",
+      "Xã Cửa Dương",
+      "Xã Bãi Thơm",
+      "Xã Gành Dầu",
+      "Xã Cửa Cạn"
+    ],
+    "treeCode": "3084.3146"
+  },
+  {
+    "id": 3147,
+    "communeCode": 450,
+    "name": "Phú Tân",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 101.7,
+    "population": 33381,
+    "administrativeCenter": "UBND huyện Phú Tân cũ",
+    "longitude": 105.331,
+    "latitude": 10.5802,
+    "previous": [
+      "Thị trấn Phú Mỹ",
+      "Xã Tân Hòa (huyện Phú Tân)",
+      "Xã Tân Trung",
+      "Xã Phú Hưng"
+    ],
+    "treeCode": "3084.3147"
+  },
+  {
+    "id": 3148,
+    "communeCode": 341,
+    "name": "Rạch Giá",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 45.53,
+    "population": 250661,
+    "administrativeCenter": "Thành ủy TP Rạch Giá",
+    "longitude": 105.1,
+    "latitude": 9.99098,
+    "previous": [
+      "Phường Vĩnh Quang",
+      "Phường Vĩnh Thanh",
+      "Phường Vĩnh Thanh Vân",
+      "Phường Vĩnh Lạc",
+      "Phường An Hòa",
+      "Phường Vĩnh Hiệp",
+      "Phường An Bình",
+      "Phường Rạch Sỏi",
+      "Phường Vĩnh Lợi"
+    ],
+    "treeCode": "3084.3148"
+  },
+  {
+    "id": 3149,
+    "communeCode": 3319,
+    "name": "Sơn Hải",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 4.31,
+    "population": 2789,
+    "administrativeCenter": "xã Sơn Hải",
+    "longitude": 104.53,
+    "latitude": 10.0256,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3149"
+  },
+  {
+    "id": 3150,
+    "communeCode": 353,
+    "name": "Sơn Kiên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 163.41,
+    "population": 29682,
+    "administrativeCenter": "UBND xã Sơn Kiên cũ",
+    "longitude": 105.002,
+    "latitude": 10.192,
+    "previous": [
+      "Xã Sơn Bình",
+      "Xã Mỹ Thái",
+      "Xã Sơn Kiên"
+    ],
+    "treeCode": "3084.3150"
+  },
+  {
+    "id": 3151,
+    "communeCode": 424,
+    "name": "Tân An",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 40.61,
+    "population": 41922,
+    "administrativeCenter": "UBND xã Tân An",
+    "longitude": 105.184,
+    "latitude": 10.8032,
+    "previous": [
+      "Xã Tân An",
+      "Xã Tân Thạnh (thị xã Tân Châu)",
+      "Xã Long An"
+    ],
+    "treeCode": "3084.3151"
+  },
+  {
+    "id": 3152,
+    "communeCode": 399,
+    "name": "Tân Châu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 17.39,
+    "population": 33506,
+    "administrativeCenter": "Phường Long Thạnh",
+    "longitude": 105.248,
+    "latitude": 10.7737,
+    "previous": [
+      "Phường Long Thạnh",
+      "Phường Long Sơn"
+    ],
+    "treeCode": "3084.3152"
+  },
+  {
+    "id": 3153,
+    "communeCode": 356,
+    "name": "Tân Hiệp",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 146.62,
+    "population": 66731,
+    "administrativeCenter": "UBND huyện Tân Hiệp",
+    "longitude": 105.301,
+    "latitude": 10.0857,
+    "previous": [
+      "Thị trấn Tân Hiệp",
+      "Xã Tân Hiệp B",
+      "Xã Thạnh Đông B",
+      "Xã Thạnh Đông"
+    ],
+    "treeCode": "3084.3153"
+  },
+  {
+    "id": 3154,
+    "communeCode": 355,
+    "name": "Tân Hội",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 146.28,
+    "population": 4945,
+    "administrativeCenter": "UBND xã Tân Thành",
+    "longitude": 105.18,
+    "latitude": 10.1453,
+    "previous": [
+      "Xã Tân Hòa",
+      "Xã Tân An (huyện Tân Hiệp)",
+      "Xã Tân Thành",
+      "Xã Tân Hội"
+    ],
+    "treeCode": "3084.3154"
+  },
+  {
+    "id": 3155,
+    "communeCode": 379,
+    "name": "Tân Thạnh",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 70.8,
+    "population": 35806,
+    "administrativeCenter": "UBND xã Tân Thạnh",
+    "longitude": 104.909,
+    "latitude": 9.76306,
+    "previous": [
+      "Xã Tân Thạnh (huyện An Minh)",
+      "Xã Thuận Hòa"
+    ],
+    "treeCode": "3084.3155"
+  },
+  {
+    "id": 3156,
+    "communeCode": 337,
+    "name": "Tây Phú",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 93.8,
+    "population": 23229,
+    "administrativeCenter": "xã Tây Phú",
+    "longitude": 105.172,
+    "latitude": 10.3254,
+    "previous": [
+      "Xã An Bình",
+      "Xã Mỹ Phú Đông",
+      "Xã Tây Phú"
+    ],
+    "treeCode": "3084.3156"
+  },
+  {
+    "id": 3157,
+    "communeCode": 373,
+    "name": "Tây Yên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 127.5,
+    "population": 5259,
+    "administrativeCenter": "UBND xã Tây Yên cũ",
+    "longitude": 105.053,
+    "latitude": 9.88419,
+    "previous": [
+      "Xã Tây Yên A",
+      "Xã Nam Yên",
+      "Xã Tây Yên"
+    ],
+    "treeCode": "3084.3157"
+  },
+  {
+    "id": 3158,
+    "communeCode": 357,
+    "name": "Thạnh Đông",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 130.02,
+    "population": 53678,
+    "administrativeCenter": "UBND xã Thạnh Đông A cũ",
+    "longitude": 105.253,
+    "latitude": 10.0209,
+    "previous": [
+      "Xã Tân Hiệp A",
+      "Xã Thạnh Trị",
+      "Xã Thạnh Đông A"
+    ],
+    "treeCode": "3084.3158"
+  },
+  {
+    "id": 3159,
+    "communeCode": 363,
+    "name": "Thạnh Hưng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 142.54,
+    "population": 46773,
+    "administrativeCenter": "UBND xã Thạnh Phước cũ",
+    "longitude": 105.381,
+    "latitude": 9.98824,
+    "previous": [
+      "Xã Thạnh Lộc (huyện Giồng Riềng)",
+      "Xã Thạnh Phước",
+      "Xã Thạnh Hưng"
+    ],
+    "treeCode": "3084.3159"
+  },
+  {
+    "id": 3160,
+    "communeCode": 361,
+    "name": "Thạnh Lộc",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 104.62,
+    "population": 59562,
+    "administrativeCenter": "UBND xã Mong Thọ B cũ",
+    "longitude": 105.169,
+    "latitude": 10.0178,
+    "previous": [
+      "Xã Thạnh Lộc (huyện Châu Thành)",
+      "Xã Mong Thọ",
+      "Xã Mong Thọ A",
+      "Xã Mong Thọ B"
+    ],
+    "treeCode": "3084.3160"
+  },
+  {
+    "id": 3161,
+    "communeCode": 459,
+    "name": "Thạnh Mỹ Tây",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 162.08,
+    "population": 6485,
+    "administrativeCenter": "UBND xã Thạnh Mỹ Tây",
+    "longitude": 105.126,
+    "latitude": 10.5471,
+    "previous": [
+      "Xã Đào Hữu Cảnh",
+      "Xã Ô Long Vĩ",
+      "Xã Thạnh Mỹ Tây"
+    ],
+    "treeCode": "3084.3161"
+  },
+  {
+    "id": 3162,
+    "communeCode": 3316,
+    "name": "Thổ Châu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "đặc khu",
+    "areaKm2": 13.95,
+    "population": 1893,
+    "administrativeCenter": "UBND xã Thổ Châu",
+    "longitude": 103.4857,
+    "latitude": 9.306,
+    "previous": [
+      "Xã Thổ Châu"
+    ],
+    "treeCode": "3084.3162"
+  },
+  {
+    "id": 3163,
+    "communeCode": 340,
+    "name": "Thoại Sơn",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 68.92,
+    "population": 52588,
+    "administrativeCenter": "UBND huyện Thoại Sơn cũ",
+    "longitude": 105.227,
+    "latitude": 10.2409,
+    "previous": [
+      "Thị trấn Núi Sập",
+      "Xã Thoại Giang",
+      "Xã Bình Thành"
+    ],
+    "treeCode": "3084.3163"
+  },
+  {
+    "id": 3164,
+    "communeCode": 463,
+    "name": "Thới Sơn",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 49.36,
+    "population": 33045,
+    "administrativeCenter": "Phường Nhà Bàng",
+    "longitude": 105.018,
+    "latitude": 10.6298,
+    "previous": [
+      "Phường Nhơn Hưng",
+      "Phường Nhà Bàng",
+      "Phường Thới Sơn"
+    ],
+    "treeCode": "3084.3164"
+  },
+  {
+    "id": 3165,
+    "communeCode": 3320,
+    "name": "Tiên Hải",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 2.54,
+    "population": 1872,
+    "administrativeCenter": "xã Tiên Hải",
+    "longitude": 104.3303,
+    "latitude": 10.1408,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3084.3165"
+  },
+  {
+    "id": 3166,
+    "communeCode": 462,
+    "name": "Tịnh Biên",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 75.57,
+    "population": 34865,
+    "administrativeCenter": "UBND phường Tịnh Biên",
+    "longitude": 104.951,
+    "latitude": 10.5841,
+    "previous": [
+      "Phường An Phú",
+      "Phường Tịnh Biên",
+      "Xã An Nông"
+    ],
+    "treeCode": "3084.3166"
+  },
+  {
+    "id": 3167,
+    "communeCode": 343,
+    "name": "Tô Châu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 79.77,
+    "population": 25865,
+    "administrativeCenter": "UBND phường Tô Châu",
+    "longitude": 104.552,
+    "latitude": 10.3215,
+    "previous": [
+      "Phường Tô Châu",
+      "Xã Thuận Yên",
+      "Xã Dương Hòa"
+    ],
+    "treeCode": "3084.3167"
+  },
+  {
+    "id": 3168,
+    "communeCode": 466,
+    "name": "Tri Tôn",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 73.14,
+    "population": 50716,
+    "administrativeCenter": "UBND huyện Tri Tôn cũ",
+    "longitude": 105.004,
+    "latitude": 10.4256,
+    "previous": [
+      "Thị trấn Tri Tôn",
+      "Xã Núi Tô",
+      "Xã Châu Lăng"
+    ],
+    "treeCode": "3084.3168"
+  },
+  {
+    "id": 3169,
+    "communeCode": 376,
+    "name": "U Minh Thượng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 286.47,
+    "population": 46246,
+    "administrativeCenter": "UBND huyện U Minh Thượng",
+    "longitude": 105.105,
+    "latitude": 9.59173,
+    "previous": [
+      "Xã An Minh Bắc",
+      "Xã Minh Thuận"
+    ],
+    "treeCode": "3084.3169"
+  },
+  {
+    "id": 3170,
+    "communeCode": 381,
+    "name": "Vân Khánh",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 90.84,
+    "population": 21748,
+    "administrativeCenter": "UBND xã Vân Khánh",
+    "longitude": 104.879,
+    "latitude": 9.56421,
+    "previous": [
+      "Xã Vân Khánh Tây",
+      "Xã Vân Khánh"
+    ],
+    "treeCode": "3084.3170"
+  },
+  {
+    "id": 3171,
+    "communeCode": 327,
+    "name": "Vĩnh An",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 93.41,
+    "population": 33036,
+    "administrativeCenter": "Đảng ủy thị trấn Vĩnh Bình cũ",
+    "longitude": 105.168,
+    "latitude": 10.4168,
+    "previous": [
+      "Thị trấn Vĩnh Bình",
+      "Xã Tân Phú",
+      "Xã Vĩnh An"
+    ],
+    "treeCode": "3084.3171"
+  },
+  {
+    "id": 3172,
+    "communeCode": 383,
+    "name": "Vĩnh Bình",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 159.68,
+    "population": 43575,
+    "administrativeCenter": "Xã Bình Minh cũ",
+    "longitude": 105.248,
+    "latitude": 9.60534,
+    "previous": [
+      "Xã Vĩnh Bình Bắc",
+      "Xã Vĩnh Bình Nam",
+      "Xã Bình Minh"
+    ],
+    "treeCode": "3084.3172"
+  },
+  {
+    "id": 3173,
+    "communeCode": 346,
+    "name": "Vĩnh Điều",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 229.35,
+    "population": 17526,
+    "administrativeCenter": "UBND xã Vĩnh Điều",
+    "longitude": 104.729,
+    "latitude": 10.4572,
+    "previous": [
+      "Xã Vĩnh Phú (huyện Giang Thành)",
+      "Xã Vĩnh Điều"
+    ],
+    "treeCode": "3084.3173"
+  },
+  {
+    "id": 3174,
+    "communeCode": 468,
+    "name": "Vĩnh Gia",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 180.37,
+    "population": 20902,
+    "administrativeCenter": "UBND xã Lương An Trà cũ",
+    "longitude": 104.86,
+    "latitude": 10.4311,
+    "previous": [
+      "Xã Vĩnh Phước",
+      "Xã Lương An Trà",
+      "Xã Vĩnh Gia"
+    ],
+    "treeCode": "3084.3174"
+  },
+  {
+    "id": 3175,
+    "communeCode": 325,
+    "name": "Vĩnh Hanh",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 76.81,
+    "population": 29327,
+    "administrativeCenter": "HĐND và UBND xã Vĩnh Nhuận cũ",
+    "longitude": 105.242,
+    "latitude": 10.4118,
+    "previous": [
+      "Xã Vĩnh Nhuận",
+      "Xã Vĩnh Hanh"
+    ],
+    "treeCode": "3084.3175"
+  },
+  {
+    "id": 3176,
+    "communeCode": 377,
+    "name": "Vĩnh Hậu",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 105.94,
+    "population": 17948,
+    "administrativeCenter": "thị trấn Đa Phước cũ",
+    "longitude": 105.126,
+    "latitude": 10.7753,
+    "previous": [
+      "Thị trấn Đa Phước",
+      "Xã Vĩnh Trường",
+      "Xã Vĩnh Hậu"
+    ],
+    "treeCode": "3084.3176"
+  },
+  {
+    "id": 3177,
+    "communeCode": 382,
+    "name": "Vĩnh Hòa",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 146.23,
+    "population": 51651,
+    "administrativeCenter": "Xã Thạnh Yên cũ",
+    "longitude": 105.169,
+    "latitude": 9.69581,
+    "previous": [
+      "Xã Vĩnh Hòa (huyện U Minh Thượng)",
+      "Xã Thạnh Yên A",
+      "Xã Hòa Chánh",
+      "Xã Thạnh Yên"
+    ],
+    "treeCode": "3084.3177"
+  },
+  {
+    "id": 3178,
+    "communeCode": 369,
+    "name": "Vĩnh Hòa Hưng",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 95.94,
+    "population": 37528,
+    "administrativeCenter": "Xã Vĩnh Hòa Hưng Nam cũ",
+    "longitude": 105.373,
+    "latitude": 9.77706,
+    "previous": [
+      "Xã Vĩnh Hòa Hưng Bắc",
+      "Xã Vĩnh Hòa Hưng Nam"
+    ],
+    "treeCode": "3084.3178"
+  },
+  {
+    "id": 3179,
+    "communeCode": 385,
+    "name": "Vĩnh Phong",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 139.3,
+    "population": 43257,
+    "administrativeCenter": "UBND huyện Vĩnh Thuận cũ",
+    "longitude": 105.26,
+    "latitude": 9.46393,
+    "previous": [
+      "Thị trấn Vĩnh Thuận",
+      "Xã Phong Đông",
+      "Xã Vĩnh Phong"
+    ],
+    "treeCode": "3084.3179"
+  },
+  {
+    "id": 3180,
+    "communeCode": 321,
+    "name": "Vĩnh Tế",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 64.25,
+    "population": 40222,
+    "administrativeCenter": "UBND phường Núi Sam",
+    "longitude": 105.069,
+    "latitude": 10.66,
+    "previous": [
+      "Phường Núi Sam",
+      "Xã Vĩnh Tế",
+      "Xã Vĩnh Châu (phần còn lại sau khi sáp nhập vào phường Châu Đốc)"
+    ],
+    "treeCode": "3084.3180"
+  },
+  {
+    "id": 3181,
+    "communeCode": 458,
+    "name": "Vĩnh Thạnh Trung",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 64.97,
+    "population": 64643,
+    "administrativeCenter": "thị trấn Vĩnh Thạnh Trung",
+    "longitude": 105.19,
+    "latitude": 10.6014,
+    "previous": [
+      "Thị trấn Vĩnh Thạnh Trung",
+      "Xã Mỹ Phú"
+    ],
+    "treeCode": "3084.3181"
+  },
+  {
+    "id": 3182,
+    "communeCode": 342,
+    "name": "Vĩnh Thông",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "phường",
+    "areaKm2": 95.89,
+    "population": 55185,
+    "administrativeCenter": "UBND phường Vĩnh Thông",
+    "longitude": 105.125,
+    "latitude": 10.0664,
+    "previous": [
+      "Phường Vĩnh Thông",
+      "Xã Phi Thông",
+      "Xã Mỹ Lâm"
+    ],
+    "treeCode": "3084.3182"
+  },
+  {
+    "id": 3183,
+    "communeCode": 384,
+    "name": "Vĩnh Thuận",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 95.46,
+    "population": 30511,
+    "administrativeCenter": "Xã Vĩnh Thuận",
+    "longitude": 105.193,
+    "latitude": 9.50681,
+    "previous": [
+      "Xã Tân Thuận",
+      "Xã Vĩnh Thuận"
+    ],
+    "treeCode": "3084.3183"
+  },
+  {
+    "id": 3184,
+    "communeCode": 338,
+    "name": "Vĩnh Trạch",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 57.94,
+    "population": 32397,
+    "administrativeCenter": "xã Vĩnh Trạch",
+    "longitude": 105.344,
+    "latitude": 10.2943,
+    "previous": [
+      "Xã Vĩnh Khánh",
+      "Xã Vĩnh Trạch"
+    ],
+    "treeCode": "3084.3184"
+  },
+  {
+    "id": 3185,
+    "communeCode": 371,
+    "name": "Vĩnh Tuy",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 115.86,
+    "population": 36859,
+    "administrativeCenter": "UBND xã Vĩnh Thắng cũ",
+    "longitude": 105.323,
+    "latitude": 9.65691,
+    "previous": [
+      "Xã Vĩnh Thắng",
+      "Xã Vĩnh Phước A",
+      "Xã Vĩnh Tuy"
+    ],
+    "treeCode": "3084.3185"
+  },
+  {
+    "id": 3186,
+    "communeCode": 405,
+    "name": "Vĩnh Xương",
+    "provinceCode": 32,
+    "provinceName": "tỉnh An Giang",
+    "type": "xã",
+    "areaKm2": 50.21,
+    "population": 41369,
+    "administrativeCenter": "UBND xã Vĩnh Hòa cũ",
+    "longitude": 105.174,
+    "latitude": 10.8737,
+    "previous": [
+      "Xã Vĩnh Hòa (thị xã Tân Châu)",
+      "Xã Phú Lộc",
+      "Xã Vĩnh Xương"
+    ],
+    "treeCode": "3084.3186"
+  }
+]

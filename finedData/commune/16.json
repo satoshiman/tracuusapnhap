@@ -1,0 +1,3216 @@
+[
+  {
+    "id": 1385,
+    "communeCode": 2817,
+    "name": "An Nông",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 22.79,
+    "population": 28717,
+    "administrativeCenter": "Xã Nông Trường",
+    "longitude": 105.637,
+    "latitude": 19.7943,
+    "previous": [
+      "Xã Tiến Nông",
+      "Xã Khuyến Nông",
+      "Xã Nông Trường",
+      "Xã An Nông"
+    ],
+    "treeCode": "1384.1385"
+  },
+  {
+    "id": 1386,
+    "communeCode": 2787,
+    "name": "Ba Đình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.22,
+    "population": 20696,
+    "administrativeCenter": "Trụ sở xã Nga Trường",
+    "longitude": 105.954,
+    "latitude": 20.0327,
+    "previous": [
+      "Xã Nga Vịnh",
+      "Xã Nga Trường",
+      "Xã Nga Thiện",
+      "Xã Ba Đình"
+    ],
+    "treeCode": "1384.1386"
+  },
+  {
+    "id": 1387,
+    "communeCode": 2792,
+    "name": "Bá Thước",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 106.1,
+    "population": 21442,
+    "administrativeCenter": "Huyện Bá Thước",
+    "longitude": 105.229,
+    "latitude": 20.3797,
+    "previous": [
+      "Thị trấn Cành Nàng",
+      "Xã Ban Công",
+      "Xã Hạ Trung"
+    ],
+    "treeCode": "1384.1387"
+  },
+  {
+    "id": 1388,
+    "communeCode": 2706,
+    "name": "Bát Mọt",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 205.73,
+    "population": 4174,
+    "administrativeCenter": "Xã Bát Mọt",
+    "longitude": 105.017,
+    "latitude": 20.014,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1388"
+  },
+  {
+    "id": 1389,
+    "communeCode": 2759,
+    "name": "Biện Thượng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 65.4,
+    "population": 31917,
+    "administrativeCenter": "Trụ sở xã Vĩnh Minh (đảng ủy, đoàn thể); Trụ sở xã Minh Tân (chính quyền)",
+    "longitude": 105.722,
+    "latitude": 20.0184,
+    "previous": [
+      "Xã Vĩnh Hùng",
+      "Xã Minh Tân",
+      "Xã Vĩnh Thịnh",
+      "Xã Vĩnh An"
+    ],
+    "treeCode": "1384.1389"
+  },
+  {
+    "id": 1390,
+    "communeCode": 2783,
+    "name": "Bỉm Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 51.84,
+    "population": 45997,
+    "administrativeCenter": "Trụ sở thị xã Bỉm Sơn",
+    "longitude": 105.912,
+    "latitude": 20.074,
+    "previous": [
+      "Phường Đông Sơn",
+      "Phường Lam Sơn",
+      "Phường Ba Đình (thị xã Bỉm Sơn)",
+      "Xã Hà Vinh"
+    ],
+    "treeCode": "1384.1390"
+  },
+  {
+    "id": 1391,
+    "communeCode": 2721,
+    "name": "Các Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 46.88,
+    "population": 21462,
+    "administrativeCenter": "Trụ sở xã Các Sơn",
+    "longitude": 105.718,
+    "latitude": 19.5146,
+    "previous": [
+      "Xã Anh Sơn",
+      "Xã Các Sơn"
+    ],
+    "treeCode": "1384.1391"
+  },
+  {
+    "id": 1392,
+    "communeCode": 2791,
+    "name": "Cẩm Tân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 66.63,
+    "population": 21084,
+    "administrativeCenter": "Xã Cẩm Tân",
+    "longitude": 105.558,
+    "latitude": 20.1551,
+    "previous": [
+      "Xã Cẩm Long",
+      "Xã Cẩm Phú",
+      "Xã Cẩm Tân"
+    ],
+    "treeCode": "1384.1392"
+  },
+  {
+    "id": 1393,
+    "communeCode": 2800,
+    "name": "Cẩm Thạch",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 106.64,
+    "population": 31878,
+    "administrativeCenter": "Xã Cẩm Thạch",
+    "longitude": 105.384,
+    "latitude": 20.206,
+    "previous": [
+      "Xã Cẩm Thành",
+      "Xã Cẩm Liên",
+      "Xã Cẩm Bình",
+      "Xã Cẩm Thạch"
+    ],
+    "treeCode": "1384.1393"
+  },
+  {
+    "id": 1394,
+    "communeCode": 2788,
+    "name": "Cẩm Thủy",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 64.42,
+    "population": 30525,
+    "administrativeCenter": "Huyện Cẩm Thủy",
+    "longitude": 105.498,
+    "latitude": 20.2084,
+    "previous": [
+      "Thị trấn Phong Sơn",
+      "Xã Cẩm Ngọc"
+    ],
+    "treeCode": "1384.1394"
+  },
+  {
+    "id": 1395,
+    "communeCode": 2789,
+    "name": "Cẩm Tú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 98.09,
+    "population": 26049,
+    "administrativeCenter": "Xã Cẩm Giang",
+    "longitude": 105.441,
+    "latitude": 20.2781,
+    "previous": [
+      "Xã Cẩm Quý",
+      "Xã Cẩm Giang",
+      "Xã Cẩm Lương",
+      "Xã Cẩm Tú"
+    ],
+    "treeCode": "1384.1395"
+  },
+  {
+    "id": 1396,
+    "communeCode": 2790,
+    "name": "Cẩm Vân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 88.71,
+    "population": 22794,
+    "administrativeCenter": "Xã Cẩm Tâm",
+    "longitude": 105.484,
+    "latitude": 20.1347,
+    "previous": [
+      "Xã Cẩm Tâm",
+      "Xã Cẩm Châu",
+      "Xã Cẩm Yên",
+      "Xã Cẩm Vân"
+    ],
+    "treeCode": "1384.1396"
+  },
+  {
+    "id": 1397,
+    "communeCode": 2798,
+    "name": "Cổ Lũng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 127.05,
+    "population": 9726,
+    "administrativeCenter": "Xã Lũng Cao",
+    "longitude": 105.186,
+    "latitude": 20.4859,
+    "previous": [
+      "Xã Lũng Cao",
+      "Xã Cổ Lũng"
+    ],
+    "treeCode": "1384.1397"
+  },
+  {
+    "id": 1398,
+    "communeCode": 2722,
+    "name": "Công Chính",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 54.24,
+    "population": 29201,
+    "administrativeCenter": "Trụ sở xã Công Liêm",
+    "longitude": 105.668,
+    "latitude": 19.5352,
+    "previous": [
+      "Xã Công Liêm",
+      "Xã Yên Mỹ",
+      "Xã Công Chính",
+      "Xã Thanh Tân"
+    ],
+    "treeCode": "1384.1398"
+  },
+  {
+    "id": 1399,
+    "communeCode": 2718,
+    "name": "Đào Duy Từ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 41.8999,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.737,
+    "latitude": 19.4387,
+    "previous": [
+      "Phường Nguyên Bình",
+      "Phường Xuân Lâm"
+    ],
+    "treeCode": "1384.1399"
+  },
+  {
+    "id": 1400,
+    "communeCode": 2795,
+    "name": "Điền Lư",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 66.54,
+    "population": 21015,
+    "administrativeCenter": "Xã Điền Lư",
+    "longitude": 105.315,
+    "latitude": 20.291,
+    "previous": [
+      "Xã Ái Thượng",
+      "Xã Điền Trung",
+      "Xã Điền Lư"
+    ],
+    "treeCode": "1384.1400"
+  },
+  {
+    "id": 1401,
+    "communeCode": 2793,
+    "name": "Điền Quang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 103.67,
+    "population": 16611,
+    "administrativeCenter": "Xã Điền Quang",
+    "longitude": 105.275,
+    "latitude": 20.2472,
+    "previous": [
+      "Xã Điền Thượng",
+      "Xã Điền Hạ",
+      "Xã Điền Quang"
+    ],
+    "treeCode": "1384.1401"
+  },
+  {
+    "id": 1402,
+    "communeCode": 2761,
+    "name": "Định Hòa",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 143.79,
+    "population": 56675,
+    "administrativeCenter": "Trụ sở xã Định Hòa",
+    "longitude": 105.678,
+    "latitude": 19.9583,
+    "previous": [
+      "Xã Định Bình",
+      "Xã Định Công",
+      "Xã Định Thành",
+      "Xã Định Hòa",
+      "Xã Thiệu Long"
+    ],
+    "treeCode": "1384.1402"
+  },
+  {
+    "id": 1403,
+    "communeCode": 2762,
+    "name": "Định Tân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 30.67,
+    "population": 28406,
+    "administrativeCenter": "Trụ sở xã Định Tân",
+    "longitude": 105.689,
+    "latitude": 19.9881,
+    "previous": [
+      "Xã Định Hải (huyện Yên Định)",
+      "Xã Định Hưng",
+      "Xã Định Tiến",
+      "Xã Định Tân"
+    ],
+    "treeCode": "1384.1403"
+  },
+  {
+    "id": 1404,
+    "communeCode": 2867,
+    "name": "Đồng Lương",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 76.1,
+    "population": 11875,
+    "administrativeCenter": "Xã Đồng Lương",
+    "longitude": 105.221,
+    "latitude": 20.188,
+    "previous": [
+      "Xã Tân Phúc (huyện Lang Chánh)",
+      "Xã Đồng Lương"
+    ],
+    "treeCode": "1384.1404"
+  },
+  {
+    "id": 1405,
+    "communeCode": 2734,
+    "name": "Đông Quang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 48.6,
+    "population": 61214,
+    "administrativeCenter": "Trụ sở phường An Hưng (Đảng ủy, đoàn thể) và Trụ sở xã Đông Văn (Chính quyền)",
+    "longitude": 105.73,
+    "latitude": 19.7689,
+    "previous": [
+      "Phường Quảng Thắng",
+      "Xã Đông Vinh",
+      "Xã Đông Quang",
+      "Xã Đông Yên",
+      "Xã Đông Văn",
+      "Xã Đông Phú",
+      "Xã Đông Nam",
+      "Phường An Hưng"
+    ],
+    "treeCode": "1384.1405"
+  },
+  {
+    "id": 1406,
+    "communeCode": 2739,
+    "name": "Đông Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 41.71,
+    "population": 5895,
+    "administrativeCenter": "Trụ sở Huyện ủy huyện Đông Sơn (Đảng ủy, đoàn thể) và Trụ sở UBND huyện Đông Sơn (Chính quyền)",
+    "longitude": 105.694,
+    "latitude": 19.8153,
+    "previous": [
+      "Phường Rừng Thông",
+      "Phường Đông Thịnh",
+      "Phường Đông Tân",
+      "Xã Đông Hòa",
+      "Xã Đông Minh",
+      "Xã Đông Hoàng",
+      "Xã Đông Khê",
+      "Xã Đông Ninh"
+    ],
+    "treeCode": "1384.1406"
+  },
+  {
+    "id": 1407,
+    "communeCode": 2766,
+    "name": "Đông Thành",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 130.94,
+    "population": 27169,
+    "administrativeCenter": "Trụ sở xã Cầu Lộc",
+    "longitude": 105.872,
+    "latitude": 19.9655,
+    "previous": [
+      "Xã Đồng Lộc",
+      "Xã Thành Lộc",
+      "Xã Cầu Lộc",
+      "Xã Tuy Lộc"
+    ],
+    "treeCode": "1384.1407"
+  },
+  {
+    "id": 1408,
+    "communeCode": 2738,
+    "name": "Đông Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 41.97,
+    "population": 57844,
+    "administrativeCenter": "Trụ sở Phường Đông Lĩnh (Đảng ủy, đoàn thể) và Trụ sở Phường Đông Tiên (Chính quyền)",
+    "longitude": 105.727,
+    "latitude": 19.8511,
+    "previous": [
+      "Phường Đông Lĩnh",
+      "Phường Thiệu Khánh",
+      "Xã Đông Thanh",
+      "Xã Thiệu Vân",
+      "Xã Tân Châu",
+      "Xã Thiệu Giao",
+      "Xã Đông Tiến"
+    ],
+    "treeCode": "1384.1408"
+  },
+  {
+    "id": 1409,
+    "communeCode": 2804,
+    "name": "Đồng Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 33.57,
+    "population": 18614,
+    "administrativeCenter": "Xã Đồng Tiến",
+    "longitude": 105.679,
+    "latitude": 19.768,
+    "previous": [
+      "Xã Đồng Lợi",
+      "Xã Đồng Thắng",
+      "Xã Đồng Tiến"
+    ],
+    "treeCode": "1384.1409"
+  },
+  {
+    "id": 1410,
+    "communeCode": 2866,
+    "name": "Giao An",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 113.88,
+    "population": 8329,
+    "administrativeCenter": "Xã Giao Thiện",
+    "longitude": 105.232,
+    "latitude": 20.0551,
+    "previous": [
+      "Xã Giao Thiện",
+      "Xã Giao An"
+    ],
+    "treeCode": "1384.1410"
+  },
+  {
+    "id": 1411,
+    "communeCode": 2785,
+    "name": "Hà Long",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 65.43,
+    "population": 23247,
+    "administrativeCenter": "Trụ sở thị trấn Hà Long và trụ sở xã Hà Giang",
+    "longitude": 105.814,
+    "latitude": 20.1011,
+    "previous": [
+      "Thị trấn Hà Long",
+      "Xã Hà Bắc",
+      "Xã Hà Giang"
+    ],
+    "treeCode": "1384.1411"
+  },
+  {
+    "id": 1412,
+    "communeCode": 2764,
+    "name": "Hà Trung",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 34.14,
+    "population": 30151,
+    "administrativeCenter": "Trụ sở Huyện ủy và trụ sở HĐND và UBND huyện Hà Trung",
+    "longitude": 105.837,
+    "latitude": 19.9916,
+    "previous": [
+      "Xã Hà Đông",
+      "Xã Hà Ngọc",
+      "Xã Yến Sơn",
+      "Thị trấn Hà Trung",
+      "Xã Hà Bình"
+    ],
+    "treeCode": "1384.1412"
+  },
+  {
+    "id": 1413,
+    "communeCode": 2740,
+    "name": "Hạc Thành",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 24.63,
+    "population": 197142,
+    "administrativeCenter": "Trụ sở UBND tỉnh",
+    "longitude": 105.789,
+    "latitude": 19.8028,
+    "previous": [
+      "Phường Phú Sơn",
+      "Phường Lam Sơn",
+      "Phường Ba Đình",
+      "Phường Ngọc Trạo",
+      "Phường Đông Sơn (thành phố Thanh Hóa)",
+      "Phường Trường Thi",
+      "Phường Điện Biên",
+      "Phường Đông Hương",
+      "Phường Đông Hải",
+      "Phường Đông Vệ",
+      "Phường Đông Thọ",
+      "Phường An Hưng"
+    ],
+    "treeCode": "1384.1413"
+  },
+  {
+    "id": 1414,
+    "communeCode": 2720,
+    "name": "Hải Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 37.74,
+    "population": 3367,
+    "administrativeCenter": "Trụ sở phường Mai Lâm",
+    "longitude": 105.763,
+    "latitude": 19.366,
+    "previous": [
+      "Phường Mai Lâm",
+      "Phường Tĩnh Hải",
+      "Phường Hải Bình"
+    ],
+    "treeCode": "1384.1414"
+  },
+  {
+    "id": 1415,
+    "communeCode": 2717,
+    "name": "Hải Lĩnh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 41.18,
+    "population": 1833,
+    "administrativeCenter": "Trụ sở phường Hải Lĩnh",
+    "longitude": 105.75,
+    "latitude": 19.4926,
+    "previous": [
+      "Xã Định Hải (thị xã Nghi Sơn)",
+      "Phường Ninh Hải",
+      "Phường Hải Lĩnh"
+    ],
+    "treeCode": "1384.1415"
+  },
+  {
+    "id": 1416,
+    "communeCode": 2741,
+    "name": "Hàm Rồng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 20.88,
+    "population": 63166,
+    "administrativeCenter": "Trụ sở Phường Nam Ngạn (Đảng ủy, đoàn thể) và Trụ sở Phường Đông Cương (Chính quyền)",
+    "longitude": 105.774,
+    "latitude": 19.8431,
+    "previous": [
+      "Phường Thiệu Dương",
+      "Phường Đông Cương",
+      "Phường Nam Ngạn",
+      "Phường Hàm Rồng",
+      "Phường Đông Thọ"
+    ],
+    "treeCode": "1384.1416"
+  },
+  {
+    "id": 1417,
+    "communeCode": 2763,
+    "name": "Hậu Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 24.92,
+    "population": 33315,
+    "administrativeCenter": "Trụ sở huyện Hậu Lộc",
+    "longitude": 105.873,
+    "latitude": 19.9162,
+    "previous": [
+      "Thị trấn Hậu Lộc",
+      "Xã Thuần Lộc",
+      "Xã Mỹ Lộc",
+      "Xã Lộc Sơn"
+    ],
+    "treeCode": "1384.1417"
+  },
+  {
+    "id": 1418,
+    "communeCode": 2835,
+    "name": "Hiền Kiệt",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 140.29,
+    "population": 7217,
+    "administrativeCenter": "Xã Hiền Chung",
+    "longitude": 104.816,
+    "latitude": 20.4341,
+    "previous": [
+      "Xã Hiền Chung",
+      "Xã Hiền Kiệt"
+    ],
+    "treeCode": "1384.1418"
+  },
+  {
+    "id": 1419,
+    "communeCode": 2773,
+    "name": "Hồ Vương",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 19.28,
+    "population": 27063,
+    "administrativeCenter": "Trụ sở xã Nga Hải",
+    "longitude": 106.001,
+    "latitude": 20.0213,
+    "previous": [
+      "Xã Nga Hải",
+      "Xã Nga Thành",
+      "Xã Nga Giáp",
+      "Xã Nga Liên"
+    ],
+    "treeCode": "1384.1419"
+  },
+  {
+    "id": 1420,
+    "communeCode": 2768,
+    "name": "Hoa Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 34.69,
+    "population": 41417,
+    "administrativeCenter": "Trụ sở xã Hoa Lộc",
+    "longitude": 105.916,
+    "latitude": 19.9203,
+    "previous": [
+      "Xã Xuân Lộc (huyện Hậu Lộc)",
+      "Xã Liên Lộc",
+      "Xã Quang Lộc",
+      "Xã Phú Lộc",
+      "Xã Hòa Lộc",
+      "Xã Hoa Lộc"
+    ],
+    "treeCode": "1384.1420"
+  },
+  {
+    "id": 1421,
+    "communeCode": 2831,
+    "name": "Hóa Quỳ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 116.65,
+    "population": 11995,
+    "administrativeCenter": "Xã Hóa Quỳ",
+    "longitude": 105.398,
+    "latitude": 19.6386,
+    "previous": [
+      "Xã Bình Lương",
+      "Xã Hóa Quỳ"
+    ],
+    "treeCode": "1384.1421"
+  },
+  {
+    "id": 1422,
+    "communeCode": 2745,
+    "name": "Hoằng Châu",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 33.31,
+    "population": 33857,
+    "administrativeCenter": "Trụ sở xã Hoằng Phong và xã Hoằng Lưu",
+    "longitude": 105.887,
+    "latitude": 19.8049,
+    "previous": [
+      "Xã Hoằng Thắng",
+      "Xã Hoằng Phong",
+      "Xã Hoằng Lưu",
+      "Xã Hoằng Châu"
+    ],
+    "treeCode": "1384.1422"
+  },
+  {
+    "id": 1423,
+    "communeCode": 2743,
+    "name": "Hoằng Giang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 30.53,
+    "population": 32533,
+    "administrativeCenter": "Trụ sở UBND xã Hoằng Giang mới và trụ sở UBND xã Hoằng Giang cũ",
+    "longitude": 105.774,
+    "latitude": 19.9146,
+    "previous": [
+      "Xã Hoằng Xuân",
+      "Xã Hoằng Quỳ",
+      "Xã Hoằng Hợp",
+      "Xã Hoằng Giang"
+    ],
+    "treeCode": "1384.1423"
+  },
+  {
+    "id": 1424,
+    "communeCode": 2742,
+    "name": "Hoằng Hóa",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 35.16,
+    "population": 43831,
+    "administrativeCenter": "Trụ sở Cơ quan Huyện ủy và UBND huyện",
+    "longitude": 105.858,
+    "latitude": 19.8555,
+    "previous": [
+      "Thị trấn Bút Sơn",
+      "Xã Hoằng Đức",
+      "Xã Hoằng Đồng",
+      "Xã Hoằng Đạo",
+      "Xã Hoằng Hà",
+      "Xã Hoằng Đạt"
+    ],
+    "treeCode": "1384.1424"
+  },
+  {
+    "id": 1425,
+    "communeCode": 2750,
+    "name": "Hoằng Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 20.57,
+    "population": 36277,
+    "administrativeCenter": "Trụ sở xã Hoằng Thành và xã Hoằng Lộc",
+    "longitude": 105.852,
+    "latitude": 19.8075,
+    "previous": [
+      "Xã Hoằng Thịnh",
+      "Xã Hoằng Thái",
+      "Xã Hoằng Thành",
+      "Xã Hoằng Trạch",
+      "Xã Hoằng Tân",
+      "Xã Hoằng Lộc"
+    ],
+    "treeCode": "1384.1425"
+  },
+  {
+    "id": 1426,
+    "communeCode": 2757,
+    "name": "Hoằng Phú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 15.35,
+    "population": 23006,
+    "administrativeCenter": "Trụ sở xã Hoằng Kim và xã Hoằng Phú",
+    "longitude": 105.805,
+    "latitude": 19.9059,
+    "previous": [
+      "Xã Hoằng Quý",
+      "Xã Hoằng Kim",
+      "Xã Hoằng Trung",
+      "Xã Hoằng Phú"
+    ],
+    "treeCode": "1384.1426"
+  },
+  {
+    "id": 1427,
+    "communeCode": 2744,
+    "name": "Hoằng Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 21.9,
+    "population": 27567,
+    "administrativeCenter": "Trụ sở xã Hoằng Xuyên và xã Hoằng Cát",
+    "longitude": 105.839,
+    "latitude": 19.88,
+    "previous": [
+      "Xã Hoằng Trinh",
+      "Xã Hoằng Xuyên",
+      "Xã Hoằng Cát",
+      "Xã Hoằng Sơn"
+    ],
+    "treeCode": "1384.1427"
+  },
+  {
+    "id": 1428,
+    "communeCode": 2752,
+    "name": "Hoằng Thanh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 23.24,
+    "population": 38386,
+    "administrativeCenter": "Trụ sở xã Hoằng Đông và xã Hoằng Thanh",
+    "longitude": 105.914,
+    "latitude": 19.8244,
+    "previous": [
+      "Xã Hoằng Đông",
+      "Xã Hoằng Ngọc",
+      "Xã Hoằng Phụ",
+      "Xã Hoằng Thanh"
+    ],
+    "treeCode": "1384.1428"
+  },
+  {
+    "id": 1429,
+    "communeCode": 2751,
+    "name": "Hoằng Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 23.79,
+    "population": 29687,
+    "administrativeCenter": "Trụ sở xã Hoằng Tiến và xã Hoằng Hải",
+    "longitude": 105.926,
+    "latitude": 19.8679,
+    "previous": [
+      "Xã Hoằng Yến",
+      "Xã Hoằng Hải",
+      "Xã Hoằng Trường",
+      "Xã Hoằng Tiến"
+    ],
+    "treeCode": "1384.1429"
+  },
+  {
+    "id": 1430,
+    "communeCode": 2786,
+    "name": "Hoạt Giang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.34,
+    "population": 21561,
+    "administrativeCenter": "Trụ sở xã Yên Dương và trụ sở xã Hà Bình",
+    "longitude": 105.86,
+    "latitude": 20.0367,
+    "previous": [
+      "Xã Yên Dương",
+      "Xã Hoạt Giang",
+      "Thị trấn Hà Trung",
+      "Xã Hà Bình"
+    ],
+    "treeCode": "1384.1430"
+  },
+  {
+    "id": 1431,
+    "communeCode": 2838,
+    "name": "Hồi Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 117.25,
+    "population": 10432,
+    "administrativeCenter": "Thị trấn Hồi Xuân",
+    "longitude": 105.107,
+    "latitude": 20.3988,
+    "previous": [
+      "Thị trấn Hồi Xuân",
+      "Xã Phú Nghiêm"
+    ],
+    "treeCode": "1384.1431"
+  },
+  {
+    "id": 1432,
+    "communeCode": 2816,
+    "name": "Hợp Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 43.11,
+    "population": 33086,
+    "administrativeCenter": "Xã Hợp Thành",
+    "longitude": 105.545,
+    "latitude": 19.7999,
+    "previous": [
+      "Xã Hợp Lý",
+      "Xã Hợp Thắng",
+      "Xã Hợp Thành",
+      "Xã Triệu Thành",
+      "Xã Hợp Tiến"
+    ],
+    "treeCode": "1384.1432"
+  },
+  {
+    "id": 1433,
+    "communeCode": 2843,
+    "name": "Kiên Thọ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 56.52,
+    "population": 22226,
+    "administrativeCenter": "Xã Kiên Thọ",
+    "longitude": 105.405,
+    "latitude": 19.9604,
+    "previous": [
+      "Xã Phúc Thịnh",
+      "Xã Phùng Minh",
+      "Xã Kiên Thọ"
+    ],
+    "treeCode": "1384.1433"
+  },
+  {
+    "id": 1434,
+    "communeCode": 2774,
+    "name": "Kim Tân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 61.61,
+    "population": 4078,
+    "administrativeCenter": "Huyện Thạch Thành",
+    "longitude": 105.671,
+    "latitude": 20.1267,
+    "previous": [
+      "Thị trấn Kim Tân",
+      "Xã Thành Hưng",
+      "Xã Thành Thọ",
+      "Xã Thạch Định",
+      "Xã Thành Trực",
+      "Xã Thành Tiến"
+    ],
+    "treeCode": "1384.1434"
+  },
+  {
+    "id": 1435,
+    "communeCode": 2841,
+    "name": "Lam Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 24.9,
+    "population": 33117,
+    "administrativeCenter": "Thị trấn Lam Sơn",
+    "longitude": 105.402,
+    "latitude": 19.9098,
+    "previous": [
+      "Thị trấn Lam Sơn",
+      "Xã Xuân Bái",
+      "Xã Thọ Xương"
+    ],
+    "treeCode": "1384.1435"
+  },
+  {
+    "id": 1436,
+    "communeCode": 2864,
+    "name": "Linh Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 96,
+    "population": 12448,
+    "administrativeCenter": "Huyện Lang Chánh",
+    "longitude": 105.196,
+    "latitude": 20.118,
+    "previous": [
+      "Thị trấn Lang Chánh",
+      "Xã Trí Nang"
+    ],
+    "treeCode": "1384.1436"
+  },
+  {
+    "id": 1437,
+    "communeCode": 2765,
+    "name": "Lĩnh Toại",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 30.48,
+    "population": 24888,
+    "administrativeCenter": "Trụ sở xã Lĩnh Toại và trụ sở xã Hà Hải",
+    "longitude": 105.896,
+    "latitude": 20.0041,
+    "previous": [
+      "Xã Hà Hải",
+      "Xã Hà Châu",
+      "Xã Thái Lai",
+      "Xã Lĩnh Toại"
+    ],
+    "treeCode": "1384.1437"
+  },
+  {
+    "id": 1438,
+    "communeCode": 2710,
+    "name": "Luận Thành",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 73.48,
+    "population": 1609,
+    "administrativeCenter": "Xã Luận Thành",
+    "longitude": 105.384,
+    "latitude": 19.8287,
+    "previous": [
+      "Xã Xuân Cao",
+      "Xã Luận Thành",
+      "Xã Luận Khê"
+    ],
+    "treeCode": "1384.1438"
+  },
+  {
+    "id": 1439,
+    "communeCode": 2714,
+    "name": "Lương Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 159.21,
+    "population": 23912,
+    "administrativeCenter": "Xã Lương Sơn",
+    "longitude": 105.252,
+    "latitude": 19.9679,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1439"
+  },
+  {
+    "id": 1440,
+    "communeCode": 2727,
+    "name": "Lưu Vệ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 26.84,
+    "population": 40381,
+    "administrativeCenter": "Trụ sở Huyện ủy (đảng, đoàn thể) và Trụ sở UBND huyện (chính quyền)",
+    "longitude": 105.792,
+    "latitude": 19.7298,
+    "previous": [
+      "Thị trấn Tân Phong",
+      "Xã Quảng Đức",
+      "Xã Quảng Định"
+    ],
+    "treeCode": "1384.1440"
+  },
+  {
+    "id": 1441,
+    "communeCode": 2805,
+    "name": "Mậu Lâm",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 64.6059,
+    "population": null,
+    "administrativeCenter": "Xã Phú Nhuận",
+    "longitude": 105.598,
+    "latitude": 19.6851,
+    "previous": [
+      "Xã Phú Nhuận",
+      "Xã Mậu Lâm"
+    ],
+    "treeCode": "1384.1441"
+  },
+  {
+    "id": 1442,
+    "communeCode": 2844,
+    "name": "Minh Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 81.77,
+    "population": 29388,
+    "administrativeCenter": "Xã Minh Sơn",
+    "longitude": 105.391,
+    "latitude": 20.0338,
+    "previous": [
+      "Xã Minh Sơn (huyện Ngọc Lặc)",
+      "Xã Lam Sơn",
+      "Xã Cao Ngọc",
+      "Xã Minh Tiến"
+    ],
+    "treeCode": "1384.1442"
+  },
+  {
+    "id": 1443,
+    "communeCode": 2855,
+    "name": "Mường Chanh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 65.48,
+    "population": 3894,
+    "administrativeCenter": "Xã Mường Chanh",
+    "longitude": 104.467,
+    "latitude": 20.4023,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1443"
+  },
+  {
+    "id": 1444,
+    "communeCode": 2853,
+    "name": "Mường Lát",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 129.66,
+    "population": 7089,
+    "administrativeCenter": "Huyện Mường Lát",
+    "longitude": 104.534,
+    "latitude": 20.5218,
+    "previous": [
+      "Thị trấn Mường Lát"
+    ],
+    "treeCode": "1384.1444"
+  },
+  {
+    "id": 1445,
+    "communeCode": 2851,
+    "name": "Mường Lý",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 83.99,
+    "population": 5878,
+    "administrativeCenter": "Xã Mường Lý",
+    "longitude": 104.755,
+    "latitude": 20.5551,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1445"
+  },
+  {
+    "id": 1446,
+    "communeCode": 2862,
+    "name": "Mường Mìn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 89.21,
+    "population": 2991,
+    "administrativeCenter": "Xã Mường Mìn",
+    "longitude": 104.733,
+    "latitude": 20.2524,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1446"
+  },
+  {
+    "id": 1447,
+    "communeCode": 2869,
+    "name": "Na Mèo",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 127.44,
+    "population": 4174,
+    "administrativeCenter": "Xã Na Mèo",
+    "longitude": 104.659,
+    "latitude": 20.2999,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1447"
+  },
+  {
+    "id": 1448,
+    "communeCode": 2870,
+    "name": "Nam Sầm Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 18.48,
+    "population": 37572,
+    "administrativeCenter": "Trụ sở UBND xã Đại Hùng",
+    "longitude": 105.847,
+    "latitude": 19.7169,
+    "previous": [
+      "Phường Quảng Vinh",
+      "Xã Quảng Minh",
+      "Xã Đại Hùng",
+      "Xã Quảng Giao"
+    ],
+    "treeCode": "1384.1448"
+  },
+  {
+    "id": 1449,
+    "communeCode": 2836,
+    "name": "Nam Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 131.4,
+    "population": 5852,
+    "administrativeCenter": "Xã Nam Tiến",
+    "longitude": 104.938,
+    "latitude": 20.4373,
+    "previous": [
+      "Xã Nam Tiến",
+      "Xã Nam Xuân"
+    ],
+    "treeCode": "1384.1449"
+  },
+  {
+    "id": 1450,
+    "communeCode": 2782,
+    "name": "Nga An",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 28.1,
+    "population": 2495,
+    "administrativeCenter": "Trụ sở xã Nga An",
+    "longitude": 106.036,
+    "latitude": 20.0465,
+    "previous": [
+      "Xã Nga Điền",
+      "Xã Nga Phú",
+      "Xã Nga An"
+    ],
+    "treeCode": "1384.1450"
+  },
+  {
+    "id": 1451,
+    "communeCode": 2771,
+    "name": "Nga Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.14,
+    "population": 47176,
+    "administrativeCenter": "Trụ sở huyện Nga Sơn",
+    "longitude": 105.98,
+    "latitude": 19.9881,
+    "previous": [
+      "Thị trấn Nga Sơn",
+      "Xã Nga Yên",
+      "Xã Nga Thanh",
+      "Xã Nga Hiệp",
+      "Xã Nga Thủy"
+    ],
+    "treeCode": "1384.1451"
+  },
+  {
+    "id": 1452,
+    "communeCode": 2770,
+    "name": "Nga Thắng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.52,
+    "population": 26542,
+    "administrativeCenter": "Trụ sở xã Nga Phượng",
+    "longitude": 105.941,
+    "latitude": 19.9836,
+    "previous": [
+      "Xã Nga Văn",
+      "Xã Nga Phượng",
+      "Xã Nga Thạch",
+      "Xã Nga Thắng"
+    ],
+    "treeCode": "1384.1452"
+  },
+  {
+    "id": 1453,
+    "communeCode": 2737,
+    "name": "Nghi Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 42.82,
+    "population": 32939,
+    "administrativeCenter": "Trụ sở xã Hải Thượng",
+    "longitude": 105.782,
+    "latitude": 19.32,
+    "previous": [
+      "Phường Hải Thượng",
+      "Xã Hải Hà",
+      "Xã Nghi Sơn"
+    ],
+    "treeCode": "1384.1453"
+  },
+  {
+    "id": 1454,
+    "communeCode": 2824,
+    "name": "Ngọc Lặc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 90.39,
+    "population": 39481,
+    "administrativeCenter": "Huyện Ngọc Lặc",
+    "longitude": 105.336,
+    "latitude": 20.108,
+    "previous": [
+      "Thị trấn Ngọc Lặc",
+      "Xã Mỹ Tân",
+      "Xã Thúy Sơn"
+    ],
+    "treeCode": "1384.1454"
+  },
+  {
+    "id": 1455,
+    "communeCode": 2823,
+    "name": "Ngọc Liên",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 79.99,
+    "population": 27782,
+    "administrativeCenter": "Xã Ngọc Liên",
+    "longitude": 105.45,
+    "latitude": 20.0779,
+    "previous": [
+      "Xã Lộc Thịnh",
+      "Xã Cao Thịnh",
+      "Xã Ngọc Sơn",
+      "Xã Ngọc Trung",
+      "Xã Ngọc Liên"
+    ],
+    "treeCode": "1384.1455"
+  },
+  {
+    "id": 1456,
+    "communeCode": 2754,
+    "name": "Ngọc Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 38.16,
+    "population": 47911,
+    "administrativeCenter": "Trụ sở phường Hải Ninh",
+    "longitude": 105.781,
+    "latitude": 19.5802,
+    "previous": [
+      "Xã Thanh Sơn (thị xã Nghi Sơn)",
+      "Xã Thanh Thủy",
+      "Phường Hải Châu",
+      "Phường Hải Ninh"
+    ],
+    "treeCode": "1384.1456"
+  },
+  {
+    "id": 1457,
+    "communeCode": 2778,
+    "name": "Ngọc Trạo",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 79.62,
+    "population": 23475,
+    "administrativeCenter": "Xã Thành An",
+    "longitude": 105.733,
+    "latitude": 20.091,
+    "previous": [
+      "Xã Thành An",
+      "Xã Thành Long",
+      "Xã Thành Tâm",
+      "Xã Ngọc Trạo"
+    ],
+    "treeCode": "1384.1457"
+  },
+  {
+    "id": 1458,
+    "communeCode": 2847,
+    "name": "Nguyệt Ấn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 98.52,
+    "population": 23462,
+    "administrativeCenter": "Xã Nguyệt Ấn",
+    "longitude": 105.324,
+    "latitude": 20.0117,
+    "previous": [
+      "Xã Phùng Giáo",
+      "Xã Vân Am",
+      "Xã Nguyệt Ấn"
+    ],
+    "treeCode": "1384.1458"
+  },
+  {
+    "id": 1459,
+    "communeCode": 2749,
+    "name": "Nguyệt Viên",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 22.299,
+    "population": null,
+    "administrativeCenter": "Trụ sở Phường Long Anh (Đảng ủy, đoàn thể) và Trụ sở Phường Hoằng Quang (Chính quyền)",
+    "longitude": 105.815,
+    "latitude": 19.8305,
+    "previous": [
+      "Phường Tào Xuyên",
+      "Phường Long Anh",
+      "Phường Hoằng Quang",
+      "Phường Hoằng Đại"
+    ],
+    "treeCode": "1384.1459"
+  },
+  {
+    "id": 1460,
+    "communeCode": 2850,
+    "name": "Nhi Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 38.67,
+    "population": 3514,
+    "administrativeCenter": "Xã Nhi Sơn",
+    "longitude": 104.632,
+    "latitude": 20.482,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1460"
+  },
+  {
+    "id": 1461,
+    "communeCode": 2806,
+    "name": "Như Thanh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 84.07,
+    "population": 26231,
+    "administrativeCenter": "Huyện Như Thanh",
+    "longitude": 105.542,
+    "latitude": 19.6563,
+    "previous": [
+      "Thị trấn Bến Sung",
+      "Xã Xuân Khang",
+      "Xã Hải Long",
+      "Xã Yên Thọ (huyện Như Thanh)"
+    ],
+    "treeCode": "1384.1461"
+  },
+  {
+    "id": 1462,
+    "communeCode": 2830,
+    "name": "Như Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 69.87,
+    "population": 13496,
+    "administrativeCenter": "Huyện Như Xuân",
+    "longitude": 105.495,
+    "latitude": 19.6429,
+    "previous": [
+      "Thị trấn Yên Cát",
+      "Xã Tân Bình"
+    ],
+    "treeCode": "1384.1462"
+  },
+  {
+    "id": 1463,
+    "communeCode": 2733,
+    "name": "Nông Cống",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 50.7,
+    "population": 50439,
+    "administrativeCenter": "Trụ sở huyện Nông Cống",
+    "longitude": 105.659,
+    "latitude": 19.6327,
+    "previous": [
+      "Thị trấn Nông Cống",
+      "Xã Vạn Thắng",
+      "Xã Vạn Hòa",
+      "Xã Vạn Thiện",
+      "Xã Minh Nghĩa",
+      "Xã Minh Khôi"
+    ],
+    "treeCode": "1384.1463"
+  },
+  {
+    "id": 1464,
+    "communeCode": 2833,
+    "name": "Phú Lệ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 139.5,
+    "population": 6677,
+    "administrativeCenter": "Xã Phú Thanh",
+    "longitude": 104.996,
+    "latitude": 20.5405,
+    "previous": [
+      "Xã Phú Sơn (huyện Quan Hóa)",
+      "Xã Phú Thanh",
+      "Xã Phú Lệ"
+    ],
+    "treeCode": "1384.1464"
+  },
+  {
+    "id": 1465,
+    "communeCode": 2834,
+    "name": "Phú Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 140.74,
+    "population": 34836,
+    "administrativeCenter": "Xã Phú Xuân",
+    "longitude": 105.022,
+    "latitude": 20.4653,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1465"
+  },
+  {
+    "id": 1466,
+    "communeCode": 2796,
+    "name": "Pù Luông",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 81.71,
+    "population": 9573,
+    "administrativeCenter": "Xã Lũng Niêm",
+    "longitude": 105.137,
+    "latitude": 20.4587,
+    "previous": [
+      "Xã Thành Sơn (huyện Bá Thước)",
+      "Xã Lũng Niêm",
+      "Xã Thành Lâm"
+    ],
+    "treeCode": "1384.1466"
+  },
+  {
+    "id": 1467,
+    "communeCode": 2849,
+    "name": "Pù Nhi",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 65.72,
+    "population": 5922,
+    "administrativeCenter": "Xã Pù Nhi",
+    "longitude": 104.57,
+    "latitude": 20.4527,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1467"
+  },
+  {
+    "id": 1468,
+    "communeCode": 2856,
+    "name": "Quan Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 98.2,
+    "population": 7511,
+    "administrativeCenter": "Huyện Quan Sơn",
+    "longitude": 104.929,
+    "latitude": 20.2756,
+    "previous": [
+      "Xã Trung Thượng",
+      "Thị trấn Sơn Lư"
+    ],
+    "treeCode": "1384.1468"
+  },
+  {
+    "id": 1469,
+    "communeCode": 2731,
+    "name": "Quảng Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 23.51,
+    "population": 38013,
+    "administrativeCenter": "Trụ Sở xã Quảng Bình (đảng, đoàn thể) và Trụ sở xã Quảng Lưu (chính quyền)",
+    "longitude": 105.813,
+    "latitude": 19.6739,
+    "previous": [
+      "Xã Quảng Lưu",
+      "Xã Quảng Lộc",
+      "Xã Quảng Thái",
+      "Xã Quảng Bình"
+    ],
+    "treeCode": "1384.1469"
+  },
+  {
+    "id": 1470,
+    "communeCode": 2854,
+    "name": "Quang Chiểu",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 109.88,
+    "population": 5986,
+    "administrativeCenter": "Xã Quang Chiểu",
+    "longitude": 104.453,
+    "latitude": 20.4602,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1470"
+  },
+  {
+    "id": 1471,
+    "communeCode": 2725,
+    "name": "Quảng Chính",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 26.14,
+    "population": 30765,
+    "administrativeCenter": "Trụ sở xã Quảng Chính (đảng, đoàn thể) và Trụ sở xã Quảng Khê (chính quyền)",
+    "longitude": 105.781,
+    "latitude": 19.6315,
+    "previous": [
+      "Xã Quảng Trường",
+      "Xã Quảng Khê",
+      "Xã Quảng Trung",
+      "Xã Quảng Chính"
+    ],
+    "treeCode": "1384.1471"
+  },
+  {
+    "id": 1472,
+    "communeCode": 2730,
+    "name": "Quảng Ngọc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 34.39,
+    "population": 33588,
+    "administrativeCenter": "Trụ sở xã Quảng Hợp (đảng, đoàn thể) và Trụ sở xã Quảng Ngọc (chính quyền)",
+    "longitude": 105.748,
+    "latitude": 19.6687,
+    "previous": [
+      "Xã Quảng Hợp",
+      "Xã Quảng Văn",
+      "Xã Quảng Phúc",
+      "Xã Quảng Ngọc"
+    ],
+    "treeCode": "1384.1472"
+  },
+  {
+    "id": 1473,
+    "communeCode": 2732,
+    "name": "Quảng Ninh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 100.27,
+    "population": 3621,
+    "administrativeCenter": "Trụ Sở xã Quảng Nhân (đảng, đoàn thể) và Trụ sở xã Quảng Ninh (chính quyền)",
+    "longitude": 105.808,
+    "latitude": 19.6992,
+    "previous": [
+      "Xã Quảng Nhân",
+      "Xã Quảng Hải",
+      "Xã Quảng Ninh"
+    ],
+    "treeCode": "1384.1473"
+  },
+  {
+    "id": 1474,
+    "communeCode": 2728,
+    "name": "Quảng Phú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 36.21,
+    "population": 29401,
+    "administrativeCenter": "Trụ sở phường Quảng Hưng (Đảng ủy, đoàn thể) và Trụ sở phường Quảng Phú (chính quyền)",
+    "longitude": 105.809,
+    "latitude": 19.7709,
+    "previous": [
+      "Phường Quảng Hưng",
+      "Phường Quảng Tâm",
+      "Phường Quảng Thành",
+      "Phường Quảng Đông",
+      "Phường Quảng Thịnh",
+      "Phường Quảng Cát",
+      "Phường Quảng Phú"
+    ],
+    "treeCode": "1384.1474"
+  },
+  {
+    "id": 1475,
+    "communeCode": 2871,
+    "name": "Quang Trung",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 29.22,
+    "population": 32808,
+    "administrativeCenter": "Trụ sở phường Ngọc Trạo",
+    "longitude": 105.851,
+    "latitude": 20.0806,
+    "previous": [
+      "Phường Bắc Sơn",
+      "Phường Ngọc Trạo",
+      "Phường Phú Sơn",
+      "Xã Quang Trung (thị xã Bỉm Sơn)"
+    ],
+    "treeCode": "1384.1475"
+  },
+  {
+    "id": 1476,
+    "communeCode": 2729,
+    "name": "Quảng Yên",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 24.92,
+    "population": 27768,
+    "administrativeCenter": "Trụ sở xã Quảng Trạch (đảng, đoàn thể) và Trụ sở xã Quảng Yên (chính quyền)",
+    "longitude": 105.74,
+    "latitude": 19.7186,
+    "previous": [
+      "Xã Quảng Trạch",
+      "Xã Quảng Hòa",
+      "Xã Quảng Long",
+      "Xã Quảng Yên"
+    ],
+    "treeCode": "1384.1476"
+  },
+  {
+    "id": 1477,
+    "communeCode": 2781,
+    "name": "Quý Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 38.01,
+    "population": 28549,
+    "administrativeCenter": "Trụ sở thị trấn Quý Lộc",
+    "longitude": 105.527,
+    "latitude": 20.0657,
+    "previous": [
+      "Xã Yên Thọ (huyện Yên Định)",
+      "Thị trấn Yên Lâm",
+      "Thị trấn Quý Lộc"
+    ],
+    "treeCode": "1384.1477"
+  },
+  {
+    "id": 1478,
+    "communeCode": 2797,
+    "name": "Quý Lương",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 133.44,
+    "population": 15125,
+    "administrativeCenter": "Xã Lương Trung",
+    "longitude": 105.357,
+    "latitude": 20.3455,
+    "previous": [
+      "Xã Lương Nội",
+      "Xã Lương Trung",
+      "Xã Lương Ngoại"
+    ],
+    "treeCode": "1384.1478"
+  },
+  {
+    "id": 1479,
+    "communeCode": 2723,
+    "name": "Sầm Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 30.29,
+    "population": 99866,
+    "administrativeCenter": "Trụ sở cơ quan Thành ủy, HĐND, UBND, UBMTTQ thành phố hiện nay",
+    "longitude": 105.889,
+    "latitude": 19.7551,
+    "previous": [
+      "Phường Bắc Sơn (thành phố Sầm Sơn)",
+      "Phường Quảng Tiến",
+      "Phường Quảng Cư",
+      "Phường Trung Sơn",
+      "Phường Trường Sơn",
+      "Phường Quảng Châu",
+      "Phường Quảng Thọ"
+    ],
+    "treeCode": "1384.1479"
+  },
+  {
+    "id": 1480,
+    "communeCode": 2809,
+    "name": "Sao Vàng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 89.27,
+    "population": 44643,
+    "administrativeCenter": "Thị trấn Sao Vàng",
+    "longitude": 105.45,
+    "latitude": 19.8762,
+    "previous": [
+      "Thị trấn Sao Vàng",
+      "Xã Thọ Lâm",
+      "Xã Xuân Phú",
+      "Xã Xuân Sinh"
+    ],
+    "treeCode": "1384.1480"
+  },
+  {
+    "id": 1481,
+    "communeCode": 2861,
+    "name": "Sơn Điện",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 94.37,
+    "population": 5002,
+    "administrativeCenter": "Xã Sơn Điện",
+    "longitude": 104.814,
+    "latitude": 20.2754,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1481"
+  },
+  {
+    "id": 1482,
+    "communeCode": 2860,
+    "name": "Sơn Thủy",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 95.77,
+    "population": 12658,
+    "administrativeCenter": "Xã Sơn Thủy",
+    "longitude": 104.742,
+    "latitude": 20.3545,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1482"
+  },
+  {
+    "id": 1483,
+    "communeCode": 2848,
+    "name": "Tam Chung",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 121.998,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 104.642,
+    "latitude": 20.566,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1483"
+  },
+  {
+    "id": 1484,
+    "communeCode": 2858,
+    "name": "Tam Lư",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 162.72,
+    "population": 6124,
+    "administrativeCenter": "Xã Tam Lư",
+    "longitude": 104.947,
+    "latitude": 20.1934,
+    "previous": [
+      "Xã Sơn Hà",
+      "Xã Tam Lư",
+      "Thị trấn Sơn Lư"
+    ],
+    "treeCode": "1384.1484"
+  },
+  {
+    "id": 1485,
+    "communeCode": 2859,
+    "name": "Tam Thanh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 99.24,
+    "population": 4196,
+    "administrativeCenter": "Xã Tam Thanh",
+    "longitude": 104.846,
+    "latitude": 20.1882,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1485"
+  },
+  {
+    "id": 1486,
+    "communeCode": 2753,
+    "name": "Tân Dân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 24.59,
+    "population": 22095,
+    "administrativeCenter": "Trụ sở phường Tân Dân",
+    "longitude": 105.782,
+    "latitude": 19.5363,
+    "previous": [
+      "Phường Hải An",
+      "Phường Tân Dân",
+      "Xã Ngọc Lĩnh"
+    ],
+    "treeCode": "1384.1486"
+  },
+  {
+    "id": 1487,
+    "communeCode": 2803,
+    "name": "Tân Ninh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 53.63,
+    "population": 27427,
+    "administrativeCenter": "Thị trấn Nưa",
+    "longitude": 105.609,
+    "latitude": 19.7543,
+    "previous": [
+      "Thị trấn Nưa",
+      "Xã Thái Hòa",
+      "Xã Vân Sơn"
+    ],
+    "treeCode": "1384.1487"
+  },
+  {
+    "id": 1488,
+    "communeCode": 2713,
+    "name": "Tân Thành",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 64.8,
+    "population": 30611,
+    "administrativeCenter": "Xã Tân Thành",
+    "longitude": 105.365,
+    "latitude": 19.7836,
+    "previous": [
+      "Xã Tân Thành",
+      "Xã Luận Khê"
+    ],
+    "treeCode": "1384.1488"
+  },
+  {
+    "id": 1489,
+    "communeCode": 2772,
+    "name": "Tân Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 207.2,
+    "population": 33994,
+    "administrativeCenter": "Trụ sở xã Nga Tiến",
+    "longitude": 106.009,
+    "latitude": 19.9834,
+    "previous": [
+      "Xã Nga Tiến",
+      "Xã Nga Tân",
+      "Xã Nga Thái"
+    ],
+    "treeCode": "1384.1489"
+  },
+  {
+    "id": 1490,
+    "communeCode": 2780,
+    "name": "Tây Đô",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 35.36,
+    "population": 27440,
+    "administrativeCenter": "Trụ sở xã Vĩnh Tiến (đảng ủy, đoàn thể); Trụ sở xã Vĩnh Long (chính quyền)",
+    "longitude": 105.596,
+    "latitude": 20.0887,
+    "previous": [
+      "Xã Vĩnh Quang",
+      "Xã Vĩnh Yên",
+      "Xã Vĩnh Tiến",
+      "Xã Vĩnh Long"
+    ],
+    "treeCode": "1384.1490"
+  },
+  {
+    "id": 1491,
+    "communeCode": 2776,
+    "name": "Thạch Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 90.47,
+    "population": 39553,
+    "administrativeCenter": "Xã Thạch Bình",
+    "longitude": 105.591,
+    "latitude": 20.1878,
+    "previous": [
+      "Xã Thạch Sơn",
+      "Xã Thạch Long",
+      "Xã Thạch Cẩm",
+      "Xã Thạch Bình"
+    ],
+    "treeCode": "1384.1491"
+  },
+  {
+    "id": 1492,
+    "communeCode": 2825,
+    "name": "Thạch Lập",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 83.78,
+    "population": 19465,
+    "administrativeCenter": "Xã Quang Trung",
+    "longitude": 105.363,
+    "latitude": 20.1537,
+    "previous": [
+      "Xã Quang Trung (huyện Ngọc Lặc)",
+      "Xã Đồng Thịnh",
+      "Xã Thạch Lập"
+    ],
+    "treeCode": "1384.1492"
+  },
+  {
+    "id": 1493,
+    "communeCode": 2784,
+    "name": "Thạch Quảng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 123.54,
+    "population": 15766,
+    "administrativeCenter": "Xã Thạch Quảng",
+    "longitude": 105.49,
+    "latitude": 20.3277,
+    "previous": [
+      "Xã Thạch Lâm",
+      "Xã Thạch Tượng",
+      "Xã Thạch Quảng"
+    ],
+    "treeCode": "1384.1493"
+  },
+  {
+    "id": 1494,
+    "communeCode": 2756,
+    "name": "Thăng Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 68.91,
+    "population": 54415,
+    "administrativeCenter": "Trụ sở xã Thăng Long",
+    "longitude": 105.658,
+    "latitude": 19.5907,
+    "previous": [
+      "Xã Thăng Long",
+      "Xã Thăng Thọ",
+      "Xã Thăng Bình"
+    ],
+    "treeCode": "1384.1494"
+  },
+  {
+    "id": 1495,
+    "communeCode": 2712,
+    "name": "Thắng Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 73.75,
+    "population": 8893,
+    "administrativeCenter": "Xuân Lộc",
+    "longitude": 105.31,
+    "latitude": 19.7641,
+    "previous": [
+      "Xã Xuân Lộc (huyện Thường Xuân)",
+      "Xã Xuân Thắng"
+    ],
+    "treeCode": "1384.1495"
+  },
+  {
+    "id": 1496,
+    "communeCode": 2736,
+    "name": "Thắng Lợi",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 40.26,
+    "population": 27909,
+    "administrativeCenter": "Trụ sở xã Tế Thắng",
+    "longitude": 105.663,
+    "latitude": 19.6798,
+    "previous": [
+      "Xã Trung Thành (huyện Nông Cống)",
+      "Xã Tế Nông",
+      "Xã Tế Thắng",
+      "Xã Tế Lợi"
+    ],
+    "treeCode": "1384.1496"
+  },
+  {
+    "id": 1497,
+    "communeCode": 2802,
+    "name": "Thanh Kỳ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 145.26,
+    "population": 12531,
+    "administrativeCenter": "Xa Thanh Tân",
+    "longitude": 105.596,
+    "latitude": 19.4442,
+    "previous": [
+      "Xã Thanh Kỳ",
+      "Xã Thanh Tân"
+    ],
+    "treeCode": "1384.1497"
+  },
+  {
+    "id": 1498,
+    "communeCode": 2827,
+    "name": "Thanh Phong",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 150.21,
+    "population": 9619,
+    "administrativeCenter": "Xã Thanh Lâm",
+    "longitude": 105.306,
+    "latitude": 19.6086,
+    "previous": [
+      "Xã Thanh Hòa",
+      "Xã Thanh Lâm",
+      "Xã Thanh Phong"
+    ],
+    "treeCode": "1384.1498"
+  },
+  {
+    "id": 1499,
+    "communeCode": 2828,
+    "name": "Thanh Quân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 109.22,
+    "population": 12107,
+    "administrativeCenter": "Xã Thanh Quân",
+    "longitude": 105.297,
+    "latitude": 19.701,
+    "previous": [
+      "Xã Thanh Sơn (huyện Như Xuân)",
+      "Xã Thanh Xuân",
+      "Xã Thanh Quân"
+    ],
+    "treeCode": "1384.1499"
+  },
+  {
+    "id": 1500,
+    "communeCode": 2777,
+    "name": "Thành Vinh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 115.47,
+    "population": 27008,
+    "administrativeCenter": "Xã Thành Vinh",
+    "longitude": 105.61,
+    "latitude": 20.2566,
+    "previous": [
+      "Xã Thành Minh",
+      "Xã Thành Mỹ",
+      "Xã Thành Yên",
+      "Xã Thành Vinh"
+    ],
+    "treeCode": "1384.1500"
+  },
+  {
+    "id": 1501,
+    "communeCode": 2837,
+    "name": "Thiên Phủ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 147.48,
+    "population": 6485,
+    "administrativeCenter": "Xã Thiên Phủ",
+    "longitude": 104.891,
+    "latitude": 20.3607,
+    "previous": [
+      "Xã Nam Động",
+      "Xã Thiên Phủ"
+    ],
+    "treeCode": "1384.1501"
+  },
+  {
+    "id": 1502,
+    "communeCode": 2794,
+    "name": "Thiết Ống",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 94.32,
+    "population": 13227,
+    "administrativeCenter": "Xã Thiết Ống",
+    "longitude": 105.188,
+    "latitude": 20.2874,
+    "previous": [
+      "Xã Thiết Kế",
+      "Xã Thiết Ống"
+    ],
+    "treeCode": "1384.1502"
+  },
+  {
+    "id": 1503,
+    "communeCode": 2820,
+    "name": "Thiệu Hóa",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 36.16,
+    "population": 4887,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND và UBND huyện",
+    "longitude": 105.679,
+    "latitude": 19.9059,
+    "previous": [
+      "Xã Thiệu Phúc",
+      "Xã Thiệu Công",
+      "Xã Thiệu Nguyên",
+      "Thị trấn Thiệu Hóa",
+      "Xã Thiệu Long"
+    ],
+    "treeCode": "1384.1503"
+  },
+  {
+    "id": 1504,
+    "communeCode": 2822,
+    "name": "Thiệu Quang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 35.45,
+    "population": 33689,
+    "administrativeCenter": "Trụ sở xã Thiệu Giang",
+    "longitude": 105.734,
+    "latitude": 19.912,
+    "previous": [
+      "Xã Thiệu Duy",
+      "Xã Thiệu Hợp",
+      "Xã Thiệu Thịnh",
+      "Xã Thiệu Giang",
+      "Xã Thiệu Quang",
+      "Thị trấn Thiệu Hóa"
+    ],
+    "treeCode": "1384.1504"
+  },
+  {
+    "id": 1505,
+    "communeCode": 2808,
+    "name": "Thiệu Tiến",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 23.68,
+    "population": 25383,
+    "administrativeCenter": "Trụ sở xã Thiệu Vũ",
+    "longitude": 105.625,
+    "latitude": 19.9258,
+    "previous": [
+      "Xã Thiệu Ngọc",
+      "Xã Thiệu Vũ",
+      "Xã Thiệu Thành",
+      "Xã Thiệu Tiến"
+    ],
+    "treeCode": "1384.1505"
+  },
+  {
+    "id": 1506,
+    "communeCode": 2840,
+    "name": "Thiệu Toán",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 28.39,
+    "population": 29915,
+    "administrativeCenter": "Trụ sở xã Thiệu Chính",
+    "longitude": 105.615,
+    "latitude": 19.8906,
+    "previous": [
+      "Thị trấn Hậu Hiền",
+      "Xã Thiệu Chính",
+      "Xã Thiệu Hòa",
+      "Xã Thiệu Toán"
+    ],
+    "treeCode": "1384.1506"
+  },
+  {
+    "id": 1507,
+    "communeCode": 2819,
+    "name": "Thiệu Trung",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 21.82,
+    "population": 32152,
+    "administrativeCenter": "Trụ sở xã Thiệu Lý",
+    "longitude": 105.667,
+    "latitude": 19.8643,
+    "previous": [
+      "Xã Thiệu Vận",
+      "Xã Thiệu Lý",
+      "Xã Thiệu Viên",
+      "Xã Thiệu Trung",
+      "Thị trấn Thiệu Hóa"
+    ],
+    "treeCode": "1384.1507"
+  },
+  {
+    "id": 1508,
+    "communeCode": 2815,
+    "name": "Thọ Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 47.12,
+    "population": 18556,
+    "administrativeCenter": "Xã Thọ Sơn",
+    "longitude": 105.471,
+    "latitude": 19.8222,
+    "previous": [
+      "Xã Thọ Sơn",
+      "Xã Bình Sơn",
+      "Xã Thọ Bình"
+    ],
+    "treeCode": "1384.1508"
+  },
+  {
+    "id": 1509,
+    "communeCode": 2842,
+    "name": "Thọ Lập",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 33.81,
+    "population": 27849,
+    "administrativeCenter": "Xã Thọ Lập",
+    "longitude": 105.451,
+    "latitude": 19.9677,
+    "previous": [
+      "Xã Xuân Thiên",
+      "Xã Thuận Minh",
+      "Xã Thọ Lập"
+    ],
+    "treeCode": "1384.1509"
+  },
+  {
+    "id": 1510,
+    "communeCode": 2845,
+    "name": "Thọ Long",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 22.13,
+    "population": 31101,
+    "administrativeCenter": "Xã Nam Giang",
+    "longitude": 105.551,
+    "latitude": 19.9058,
+    "previous": [
+      "Xã Thọ Lộc",
+      "Xã Xuân Phong",
+      "Xã Nam Giang",
+      "Xã Bắc Lương",
+      "Xã Tây Hồ"
+    ],
+    "treeCode": "1384.1510"
+  },
+  {
+    "id": 1511,
+    "communeCode": 2810,
+    "name": "Thọ Ngọc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.22,
+    "population": 24322,
+    "administrativeCenter": "Xã Thọ Cường",
+    "longitude": 105.52,
+    "latitude": 19.8539,
+    "previous": [
+      "Xã Thọ Tiến",
+      "Xã Xuân Thọ",
+      "Xã Thọ Cường",
+      "Xã Thọ Ngọc"
+    ],
+    "treeCode": "1384.1511"
+  },
+  {
+    "id": 1512,
+    "communeCode": 2811,
+    "name": "Thọ Phú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 35.12,
+    "population": 40004,
+    "administrativeCenter": "Xã Thọ Thế",
+    "longitude": 105.567,
+    "latitude": 19.8594,
+    "previous": [
+      "Xã Xuân Lộc (huyện Triệu Sơn)",
+      "Xã Thọ Dân",
+      "Xã Thọ Thế",
+      "Xã Thọ Tân",
+      "Xã Thọ Phú"
+    ],
+    "treeCode": "1384.1512"
+  },
+  {
+    "id": 1513,
+    "communeCode": 2812,
+    "name": "Thọ Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 27.4,
+    "population": 34346,
+    "administrativeCenter": "Trụ sở huyện Thọ Xuân",
+    "longitude": 105.512,
+    "latitude": 19.9293,
+    "previous": [
+      "Thị trấn Thọ Xuân",
+      "Xã Xuân Hồng",
+      "Xã Xuân Trường",
+      "Xã Xuân Giang"
+    ],
+    "treeCode": "1384.1513"
+  },
+  {
+    "id": 1514,
+    "communeCode": 2829,
+    "name": "Thượng Ninh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 92.61,
+    "population": 13991,
+    "administrativeCenter": "Xã Thượng Ninh",
+    "longitude": 105.413,
+    "latitude": 19.7139,
+    "previous": [
+      "Xã Cát Tân",
+      "Xã Cát Vân",
+      "Xã Thượng Ninh"
+    ],
+    "treeCode": "1384.1514"
+  },
+  {
+    "id": 1515,
+    "communeCode": 2711,
+    "name": "Thường Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 83.27,
+    "population": 3349,
+    "administrativeCenter": "Huyện Thường Xuân",
+    "longitude": 105.318,
+    "latitude": 19.9027,
+    "previous": [
+      "Thị trấn Thường Xuân",
+      "Xã Thọ Thanh",
+      "Xã Ngọc Phụng",
+      "Xã Xuân Dương"
+    ],
+    "treeCode": "1384.1515"
+  },
+  {
+    "id": 1516,
+    "communeCode": 2726,
+    "name": "Tiên Trang",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 17.75,
+    "population": 40809,
+    "administrativeCenter": "Trụ sở xã Quảng Thạch (đảng, đoàn thể) và Trụ sở xã Tiên Trang (chính quyền)",
+    "longitude": 105.811,
+    "latitude": 19.6288,
+    "previous": [
+      "Xã Quảng Thạch",
+      "Xã Quảng Nham",
+      "Xã Tiên Trang"
+    ],
+    "treeCode": "1384.1516"
+  },
+  {
+    "id": 1517,
+    "communeCode": 2719,
+    "name": "Tĩnh Gia",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 32.18,
+    "population": 58583,
+    "administrativeCenter": "Trụ sở phường Hải Hòa",
+    "longitude": 105.77,
+    "latitude": 19.4638,
+    "previous": [
+      "Phường Hải Hòa",
+      "Phường Bình Minh",
+      "Phường Hải Thanh",
+      "Xã Hải Nhân"
+    ],
+    "treeCode": "1384.1517"
+  },
+  {
+    "id": 1518,
+    "communeCode": 2760,
+    "name": "Tống Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 69.36,
+    "population": 28733,
+    "administrativeCenter": "Trụ sở thị trấn Hà Lĩnh và trụ sở xã Hà Tân",
+    "longitude": 105.786,
+    "latitude": 20.0144,
+    "previous": [
+      "Thị trấn Hà Lĩnh",
+      "Xã Hà Tiến",
+      "Xã Hà Tân",
+      "Xã Hà Sơn"
+    ],
+    "treeCode": "1384.1518"
+  },
+  {
+    "id": 1519,
+    "communeCode": 2767,
+    "name": "Triệu Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 29.27,
+    "population": 26386,
+    "administrativeCenter": "Trụ sở xã Triệu Lộc",
+    "longitude": 105.822,
+    "latitude": 19.9451,
+    "previous": [
+      "Xã Đại Lộc",
+      "Xã Tiến Lộc",
+      "Xã Triệu Lộc"
+    ],
+    "treeCode": "1384.1519"
+  },
+  {
+    "id": 1520,
+    "communeCode": 2818,
+    "name": "Triệu Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 41.09,
+    "population": 54445,
+    "administrativeCenter": "Huyện Triệu Sơn",
+    "longitude": 105.617,
+    "latitude": 19.8337,
+    "previous": [
+      "Thị trấn Triệu Sơn",
+      "Xã Minh Sơn (huyện Triệu Sơn)",
+      "Xã Dân Lực",
+      "Xã Dân Lý",
+      "Xã Dân Quyền"
+    ],
+    "treeCode": "1384.1520"
+  },
+  {
+    "id": 1521,
+    "communeCode": 2716,
+    "name": "Trúc Lâm",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "phường",
+    "areaKm2": 81.05,
+    "population": 2395,
+    "administrativeCenter": "Trụ sở phường Phú Lâm",
+    "longitude": 105.675,
+    "latitude": 19.4375,
+    "previous": [
+      "Phường Trúc Lâm",
+      "Xã Phú Sơn (thị xã Nghi Sơn)",
+      "Xã Phú Lâm",
+      "Xã Tùng Lâm"
+    ],
+    "treeCode": "1384.1521"
+  },
+  {
+    "id": 1522,
+    "communeCode": 2735,
+    "name": "Trung Chính",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 44.09,
+    "population": 3544,
+    "administrativeCenter": "Trụ sở xã Trung Chính",
+    "longitude": 105.672,
+    "latitude": 19.7285,
+    "previous": [
+      "Xã Tân Phúc (huyện Nông Cống)",
+      "Xã Tân Thọ",
+      "Xã Tân Khang",
+      "Xã Hoàng Sơn",
+      "Xã Hoàng Giang",
+      "Xã Trung Chính"
+    ],
+    "treeCode": "1384.1522"
+  },
+  {
+    "id": 1523,
+    "communeCode": 2857,
+    "name": "Trung Hạ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 123.86,
+    "population": 9289,
+    "administrativeCenter": "Xã Trung Hạ",
+    "longitude": 105.045,
+    "latitude": 20.3163,
+    "previous": [
+      "Xã Trung Tiến",
+      "Xã Trung Xuân",
+      "Xã Trung Hạ"
+    ],
+    "treeCode": "1384.1523"
+  },
+  {
+    "id": 1524,
+    "communeCode": 2852,
+    "name": "Trung Lý",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 197.5,
+    "population": 7335,
+    "administrativeCenter": "Xã Trung Lý",
+    "longitude": 104.769,
+    "latitude": 20.4972,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1524"
+  },
+  {
+    "id": 1525,
+    "communeCode": 2839,
+    "name": "Trung Sơn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 76.81,
+    "population": 3254,
+    "administrativeCenter": "Xã Trung Sơn",
+    "longitude": 104.852,
+    "latitude": 20.6161,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1525"
+  },
+  {
+    "id": 1526,
+    "communeCode": 2832,
+    "name": "Trung Thành",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 35.88,
+    "population": 35593,
+    "administrativeCenter": "Xã Thành Sơn",
+    "longitude": 104.916,
+    "latitude": 20.5731,
+    "previous": [
+      "Xã Thành Sơn",
+      "Xã Trung Thành (huyện Quan Hóa)"
+    ],
+    "treeCode": "1384.1526"
+  },
+  {
+    "id": 1527,
+    "communeCode": 2715,
+    "name": "Trường Lâm",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 68.16,
+    "population": 21582,
+    "administrativeCenter": "Trụ sở xã Trường Lâm",
+    "longitude": 105.686,
+    "latitude": 19.3499,
+    "previous": [
+      "Xã Tân Trường",
+      "Xã Trường Lâm"
+    ],
+    "treeCode": "1384.1527"
+  },
+  {
+    "id": 1528,
+    "communeCode": 2724,
+    "name": "Trường Văn",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 28.32,
+    "population": 22169,
+    "administrativeCenter": "Trụ sở xã Trường Sơn",
+    "longitude": 105.73,
+    "latitude": 19.6167,
+    "previous": [
+      "Xã Trường Minh",
+      "Xã Trường Trung",
+      "Xã Trường Sơn",
+      "Xã Trường Giang"
+    ],
+    "treeCode": "1384.1528"
+  },
+  {
+    "id": 1529,
+    "communeCode": 2755,
+    "name": "Tượng Lĩnh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 33.23,
+    "population": 18025,
+    "administrativeCenter": "Trụ sở xã Tượng Lĩnh",
+    "longitude": 105.711,
+    "latitude": 19.5656,
+    "previous": [
+      "Xã Tượng Sơn",
+      "Xã Tượng Văn",
+      "Xã Tượng Lĩnh"
+    ],
+    "treeCode": "1384.1529"
+  },
+  {
+    "id": 1530,
+    "communeCode": 2775,
+    "name": "Vân Du",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 84.3,
+    "population": 25868,
+    "administrativeCenter": "Thị trấn Vân Du",
+    "longitude": 105.723,
+    "latitude": 20.1704,
+    "previous": [
+      "Thị trấn Vân Du",
+      "Xã Thành Công",
+      "Xã Thành Tân"
+    ],
+    "treeCode": "1384.1530"
+  },
+  {
+    "id": 1531,
+    "communeCode": 2769,
+    "name": "Vạn Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 28.4,
+    "population": 70587,
+    "administrativeCenter": "Trụ sở xã Minh Lộc",
+    "longitude": 105.969,
+    "latitude": 19.9488,
+    "previous": [
+      "Xã Minh Lộc",
+      "Xã Hải Lộc",
+      "Xã Hưng Lộc",
+      "Xã Ngư Lộc",
+      "Xã Đa Lộc"
+    ],
+    "treeCode": "1384.1531"
+  },
+  {
+    "id": 1532,
+    "communeCode": 2799,
+    "name": "Văn Nho",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 64.77,
+    "population": 10112,
+    "administrativeCenter": "Xã Kỳ Tân",
+    "longitude": 105.128,
+    "latitude": 20.2655,
+    "previous": [
+      "Xã Kỳ Tân",
+      "Xã Văn Nho"
+    ],
+    "treeCode": "1384.1532"
+  },
+  {
+    "id": 1533,
+    "communeCode": 2868,
+    "name": "Văn Phú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 106.55,
+    "population": 8516,
+    "administrativeCenter": "Xã Tam Văn",
+    "longitude": 105.053,
+    "latitude": 20.2461,
+    "previous": [
+      "Xã Tam Văn",
+      "Xã Lâm Phú"
+    ],
+    "treeCode": "1384.1533"
+  },
+  {
+    "id": 1534,
+    "communeCode": 2709,
+    "name": "Vạn Xuân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 139.49,
+    "population": 6125,
+    "administrativeCenter": "Xã Vạn Xuân",
+    "longitude": 105.232,
+    "latitude": 19.8749,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1534"
+  },
+  {
+    "id": 1535,
+    "communeCode": 2779,
+    "name": "Vĩnh Lộc",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 48.47,
+    "population": 12047,
+    "administrativeCenter": "Trụ sở Huyện ủy (đảng ủy, đoàn thể) Trụ sở HĐND - UBND Vĩnh Lộc (chính quyền).",
+    "longitude": 105.64,
+    "latitude": 20.0522,
+    "previous": [
+      "Thị trấn Vĩnh Lộc",
+      "Xã Ninh Khang",
+      "Xã Vĩnh Phúc",
+      "Xã Vĩnh Hưng",
+      "Xã Vĩnh Hòa"
+    ],
+    "treeCode": "1384.1535"
+  },
+  {
+    "id": 1536,
+    "communeCode": 2826,
+    "name": "Xuân Bình",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 183.18,
+    "population": 16385,
+    "administrativeCenter": "Xã Bãi Trành",
+    "longitude": 105.406,
+    "latitude": 19.5171,
+    "previous": [
+      "Xã Xuân Hòa (huyện Như Xuân)",
+      "Xã Bãi Trành",
+      "Xã Xuân Bình"
+    ],
+    "treeCode": "1384.1536"
+  },
+  {
+    "id": 1537,
+    "communeCode": 2708,
+    "name": "Xuân Chinh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 172.48,
+    "population": 7588,
+    "administrativeCenter": "Xã Xuân Chinh",
+    "longitude": 105.196,
+    "latitude": 19.7794,
+    "previous": [
+      "Xã Xuân Lẹ",
+      "Xã Xuân Chinh"
+    ],
+    "treeCode": "1384.1537"
+  },
+  {
+    "id": 1538,
+    "communeCode": 2807,
+    "name": "Xuân Du",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 92.49,
+    "population": 22331,
+    "administrativeCenter": "Xã Xuân Du",
+    "longitude": 105.481,
+    "latitude": 19.7673,
+    "previous": [
+      "Xã Cán Khê",
+      "Xã Phượng Nghi",
+      "Xã Xuân Du"
+    ],
+    "treeCode": "1384.1538"
+  },
+  {
+    "id": 1539,
+    "communeCode": 2813,
+    "name": "Xuân Hòa",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 306,
+    "population": 78491,
+    "administrativeCenter": "Xã Xuân Hòa",
+    "longitude": 105.48,
+    "latitude": 19.9289,
+    "previous": [
+      "Xã Xuân Hòa (huyện Thọ Xuân)",
+      "Xã Thọ Hải",
+      "Xã Thọ Diên",
+      "Xã Xuân Hưng"
+    ],
+    "treeCode": "1384.1539"
+  },
+  {
+    "id": 1540,
+    "communeCode": 2846,
+    "name": "Xuân Lập",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 34.49,
+    "population": 36213,
+    "administrativeCenter": "Xã Xuân Minh",
+    "longitude": 105.555,
+    "latitude": 19.9624,
+    "previous": [
+      "Xã Xuân Minh",
+      "Xã Xuân Lai",
+      "Xã Trường Xuân",
+      "Xã Xuân Lập"
+    ],
+    "treeCode": "1384.1540"
+  },
+  {
+    "id": 1541,
+    "communeCode": 2801,
+    "name": "Xuân Thái",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 120.72,
+    "population": 4418,
+    "administrativeCenter": "Xã Xuân Thái",
+    "longitude": 105.516,
+    "latitude": 19.5412,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1541"
+  },
+  {
+    "id": 1542,
+    "communeCode": 2814,
+    "name": "Xuân Tín",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 31.93,
+    "population": 26531,
+    "administrativeCenter": "Xã Xuân Tín",
+    "longitude": 105.492,
+    "latitude": 19.9877,
+    "previous": [
+      "Xã Phú Xuân (huyện Thọ Xuân)",
+      "Xã Quảng Phú",
+      "Xã Xuân Tín"
+    ],
+    "treeCode": "1384.1542"
+  },
+  {
+    "id": 1543,
+    "communeCode": 2746,
+    "name": "Yên Định",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 29.42,
+    "population": 38596,
+    "administrativeCenter": "Trụ sở huyện Yên Định",
+    "longitude": 105.638,
+    "latitude": 19.9703,
+    "previous": [
+      "Thị trấn Quán Lào",
+      "Xã Định Liên",
+      "Xã Định Long",
+      "Xã Định Tăng"
+    ],
+    "treeCode": "1384.1543"
+  },
+  {
+    "id": 1544,
+    "communeCode": 2863,
+    "name": "Yên Khương",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 97.89,
+    "population": 5572,
+    "administrativeCenter": "Xã Yên Khương",
+    "longitude": 105.032,
+    "latitude": 20.1454,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1544"
+  },
+  {
+    "id": 1545,
+    "communeCode": 2707,
+    "name": "Yên Nhân",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 188.7,
+    "population": 5674,
+    "administrativeCenter": "Xã Yên Nhân",
+    "longitude": 105.133,
+    "latitude": 20.0084,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1545"
+  },
+  {
+    "id": 1546,
+    "communeCode": 2748,
+    "name": "Yên Ninh",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 24.67,
+    "population": 23569,
+    "administrativeCenter": "Trụ sở xã Yên Ninh",
+    "longitude": 105.589,
+    "latitude": 19.9798,
+    "previous": [
+      "Xã Yên Hùng",
+      "Xã Yên Thịnh",
+      "Xã Yên Ninh"
+    ],
+    "treeCode": "1384.1546"
+  },
+  {
+    "id": 1547,
+    "communeCode": 2758,
+    "name": "Yên Phú",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 42.61,
+    "population": 14964,
+    "administrativeCenter": "Trụ sở xã Yên Phú",
+    "longitude": 105.519,
+    "latitude": 20.0208,
+    "previous": [
+      "Thị trấn Thống Nhất",
+      "Xã Yên Tâm",
+      "Xã Yên Phú"
+    ],
+    "treeCode": "1384.1547"
+  },
+  {
+    "id": 1548,
+    "communeCode": 2865,
+    "name": "Yên Thắng",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 95.22,
+    "population": 6652,
+    "administrativeCenter": "Xã Yên Thắng",
+    "longitude": 105.099,
+    "latitude": 20.1424,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1384.1548"
+  },
+  {
+    "id": 1549,
+    "communeCode": 2821,
+    "name": "Yên Thọ",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 80.63,
+    "population": 23029,
+    "administrativeCenter": "Xã Yên Thọ",
+    "longitude": 105.599,
+    "latitude": 19.5587,
+    "previous": [
+      "Xã Xuân Phúc",
+      "Xã Yên Lạc",
+      "Xã Yên Thọ (huyện Như Thanh)"
+    ],
+    "treeCode": "1384.1549"
+  },
+  {
+    "id": 1550,
+    "communeCode": 2747,
+    "name": "Yên Trường",
+    "provinceCode": 16,
+    "provinceName": "tỉnh Thanh Hóa",
+    "type": "xã",
+    "areaKm2": 26.95,
+    "population": 29314,
+    "administrativeCenter": "Trụ sở xã Yên Trường",
+    "longitude": 105.589,
+    "latitude": 20.0146,
+    "previous": [
+      "Xã Yên Trung",
+      "Xã Yên Phong",
+      "Xã Yên Thái",
+      "Xã Yên Trường"
+    ],
+    "treeCode": "1384.1550"
+  }
+]

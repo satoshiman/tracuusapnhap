@@ -1,0 +1,775 @@
+[
+  {
+    "id": 1832,
+    "communeCode": 1857,
+    "name": "A Lưới 1",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 198.59,
+    "population": 12403,
+    "administrativeCenter": "Thôn A Niêng - Lê Triêng 1, xã A Lưới 1",
+    "longitude": 107.149,
+    "latitude": 16.3409,
+    "previous": [
+      "Xã Hồng Thủy",
+      "Xã Hồng Vân",
+      "Xã Trung Sơn",
+      "Xã Hồng Kim"
+    ],
+    "treeCode": "1831.1832"
+  },
+  {
+    "id": 1833,
+    "communeCode": 1856,
+    "name": "A Lưới 2",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 97.62,
+    "population": 20496,
+    "administrativeCenter": "195 Hồ Chí Minh, xã A Lưới 2",
+    "longitude": 107.198,
+    "latitude": 16.2566,
+    "previous": [
+      "Thị trấn A Lưới",
+      "Xã Hồng Bắc",
+      "Xã Quảng Nhâm",
+      "Xã A Ngo"
+    ],
+    "treeCode": "1831.1833"
+  },
+  {
+    "id": 1834,
+    "communeCode": 1859,
+    "name": "A Lưới 3",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 154.23,
+    "population": 8976,
+    "administrativeCenter": "Thôn Quảng Phú, xã A Lưới 3",
+    "longitude": 107.245,
+    "latitude": 16.2015,
+    "previous": [
+      "Xã Sơn Thủy",
+      "Xã Hồng Thượng",
+      "Xã Phú Vinh",
+      "Xã Hồng Thái"
+    ],
+    "treeCode": "1831.1834"
+  },
+  {
+    "id": 1835,
+    "communeCode": 1860,
+    "name": "A Lưới 4",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 233.65,
+    "population": 10752,
+    "administrativeCenter": "Thôn Chi Lanh - A Rom, xã A Lưới 4",
+    "longitude": 107.351,
+    "latitude": 16.1404,
+    "previous": [
+      "Xã Hương Phong",
+      "Xã A Roàng",
+      "Xã Đông Sơn",
+      "Xã Lâm Đớt"
+    ],
+    "treeCode": "1831.1835"
+  },
+  {
+    "id": 1836,
+    "communeCode": 1858,
+    "name": "A Lưới 5",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 464.4,
+    "population": 376,
+    "administrativeCenter": "Thôn Pa Hy, xã A Lưới 5",
+    "longitude": 107.411,
+    "latitude": 16.2205,
+    "previous": [
+      "Xã Hương Nguyên",
+      "Xã Hồng Hạ"
+    ],
+    "treeCode": "1831.1836"
+  },
+  {
+    "id": 1837,
+    "communeCode": 1833,
+    "name": "An Cựu",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 16.71,
+    "population": 55305,
+    "administrativeCenter": "67A Hoàng Quốc Việt, phường An Cựu",
+    "longitude": 107.596,
+    "latitude": 16.4316,
+    "previous": [
+      "Phường An Đông",
+      "Phường An Tây",
+      "Phường An Cựu"
+    ],
+    "treeCode": "1831.1837"
+  },
+  {
+    "id": 1838,
+    "communeCode": 1854,
+    "name": "Bình Điền",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 266.5,
+    "population": 15229,
+    "administrativeCenter": "1 Phú Lợi, xã Bình Điền",
+    "longitude": 107.459,
+    "latitude": 16.3492,
+    "previous": [
+      "Xã Hương Bình",
+      "Xã Bình Thành",
+      "Xã Bình Tiến"
+    ],
+    "treeCode": "1831.1838"
+  },
+  {
+    "id": 1839,
+    "communeCode": 1862,
+    "name": "Chân Mây - Lăng Cô",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 261.38,
+    "population": 50831,
+    "administrativeCenter": "Thôn Bình An, xã Chân Mây - Lăng Cô",
+    "longitude": 108.014,
+    "latitude": 16.246,
+    "previous": [
+      "Thị trấn Lăng Cô",
+      "Xã Lộc Tiến",
+      "Xã Lộc Vĩnh",
+      "Xã Lộc Thủy"
+    ],
+    "treeCode": "1831.1839"
+  },
+  {
+    "id": 1840,
+    "communeCode": 1840,
+    "name": "Đan Điền",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 82.62,
+    "population": 40389,
+    "administrativeCenter": "Thôn Lai Trung, xã Đan Điền",
+    "longitude": 107.438,
+    "latitude": 16.6304,
+    "previous": [
+      "Xã Quảng Thái",
+      "Xã Quảng Lợi",
+      "Xã Quảng Vinh",
+      "Xã Quảng Phú"
+    ],
+    "treeCode": "1831.1840"
+  },
+  {
+    "id": 1841,
+    "communeCode": 1845,
+    "name": "Dương Nỗ",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 20.63,
+    "population": 31692,
+    "administrativeCenter": "Tổ dân phố Mậu Tài, phường Dương Nỗ",
+    "longitude": 107.598,
+    "latitude": 16.5248,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "1831.1841"
+  },
+  {
+    "id": 1842,
+    "communeCode": 1841,
+    "name": "Hóa Châu",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 34.6,
+    "population": 41328,
+    "administrativeCenter": "đường Thanh Hà, phường Hóa Châu",
+    "longitude": 107.58,
+    "latitude": 16.5457,
+    "previous": [
+      "Phường Hương Phong",
+      "Phường Hương Vinh",
+      "Xã Quảng Thành"
+    ],
+    "treeCode": "1831.1842"
+  },
+  {
+    "id": 1843,
+    "communeCode": 1865,
+    "name": "Hưng Lộc",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 95.62,
+    "population": 32586,
+    "administrativeCenter": "Thôn La Sơn, xã Hưng Lộc",
+    "longitude": 107.705,
+    "latitude": 16.292,
+    "previous": [
+      "Thị trấn Lộc Sơn",
+      "Xã Lộc Bổn",
+      "Xã Xuân Lộc"
+    ],
+    "treeCode": "1831.1843"
+  },
+  {
+    "id": 1844,
+    "communeCode": 1834,
+    "name": "Hương An",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 19.43,
+    "population": 35885,
+    "administrativeCenter": "143 Nguyễn Văn Linh, phường Hương An",
+    "longitude": 107.515,
+    "latitude": 16.4612,
+    "previous": [
+      "Phường An Hòa",
+      "Phường Hương Sơ",
+      "Phường Hương An"
+    ],
+    "treeCode": "1831.1844"
+  },
+  {
+    "id": 1845,
+    "communeCode": 1851,
+    "name": "Hương Thủy",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 33.93,
+    "population": 29192,
+    "administrativeCenter": "749 Nguyễn Tất Thành, phường Hương Thủy",
+    "longitude": 107.693,
+    "latitude": 16.4186,
+    "previous": [
+      "Phường Thủy Lương",
+      "Phường Thủy Châu",
+      "Xã Thủy Tân"
+    ],
+    "treeCode": "1831.1845"
+  },
+  {
+    "id": 1846,
+    "communeCode": 1853,
+    "name": "Hương Trà",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 14.64,
+    "population": 33523,
+    "administrativeCenter": "107 Cách mạng tháng 8, phường Hương Trà",
+    "longitude": 107.401,
+    "latitude": 16.4064,
+    "previous": [
+      "Phường Tứ Hạ",
+      "Phường Hương Văn",
+      "Phường Hương Vân"
+    ],
+    "treeCode": "1831.1846"
+  },
+  {
+    "id": 1847,
+    "communeCode": 1866,
+    "name": "Khe Tre",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 256.02,
+    "population": 12882,
+    "administrativeCenter": "189 Khe Tre, xã Khe Tre",
+    "longitude": 107.77,
+    "latitude": 16.1513,
+    "previous": [
+      "Thị trấn Khe Tre",
+      "Xã Hương Phú",
+      "Xã Hương Lộc",
+      "Xã Thượng Lộ"
+    ],
+    "treeCode": "1831.1847"
+  },
+  {
+    "id": 1848,
+    "communeCode": 1855,
+    "name": "Kim Long",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 90.14,
+    "population": 48999,
+    "administrativeCenter": "87 Phạm Thị Liên, phường Kim Long",
+    "longitude": 107.543,
+    "latitude": 16.4047,
+    "previous": [
+      "Phường Long Hồ",
+      "Phường Hương Long",
+      "Phường Kim Long"
+    ],
+    "treeCode": "1831.1848"
+  },
+  {
+    "id": 1849,
+    "communeCode": 1852,
+    "name": "Kim Trà",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 42.8,
+    "population": 36296,
+    "administrativeCenter": "232 Lý Nhân Tông, phường Kim Trà",
+    "longitude": 107.509,
+    "latitude": 16.4941,
+    "previous": [
+      "Phường Hương Xuân",
+      "Phường Hương Chữ",
+      "Xã Hương Toàn"
+    ],
+    "treeCode": "1831.1849"
+  },
+  {
+    "id": 1850,
+    "communeCode": 1864,
+    "name": "Lộc An",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 177.58,
+    "population": 39217,
+    "administrativeCenter": "Thôn An Lại, xã Lộc An",
+    "longitude": 107.798,
+    "latitude": 16.274,
+    "previous": [
+      "Xã Lộc Hòa",
+      "Xã Lộc Điền",
+      "Xã Lộc An"
+    ],
+    "treeCode": "1831.1850"
+  },
+  {
+    "id": 1851,
+    "communeCode": 1868,
+    "name": "Long Quảng",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 215.85,
+    "population": 8883,
+    "administrativeCenter": "Thôn A Chiếu, xã Long Quảng",
+    "longitude": 107.587,
+    "latitude": 16.0997,
+    "previous": [
+      "Xã Thượng Quảng",
+      "Xã Thượng Long",
+      "Xã Hương Hữu"
+    ],
+    "treeCode": "1831.1851"
+  },
+  {
+    "id": 1852,
+    "communeCode": 1846,
+    "name": "Mỹ Thượng",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 28.83,
+    "population": 44736,
+    "administrativeCenter": "449 Phạm Văn Đồng, phường Mỹ Thượng",
+    "longitude": 107.633,
+    "latitude": 16.5042,
+    "previous": [
+      "Phường Phú Thượng",
+      "Xã Phú An",
+      "Xã Phú Mỹ"
+    ],
+    "treeCode": "1831.1852"
+  },
+  {
+    "id": 1853,
+    "communeCode": 1867,
+    "name": "Nam Đông",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 175.95,
+    "population": 9158,
+    "administrativeCenter": "Thôn Phú Nhuận, xã Nam Đông",
+    "longitude": 107.717,
+    "latitude": 16.066,
+    "previous": [
+      "Xã Hương Xuân",
+      "Xã Thượng Nhật",
+      "Xã Hương Sơn"
+    ],
+    "treeCode": "1831.1853"
+  },
+  {
+    "id": 1854,
+    "communeCode": 1839,
+    "name": "Phong Điền",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 592.48,
+    "population": 27862,
+    "administrativeCenter": "31 Phò Trạch, phường Phong Điền",
+    "longitude": 107.24,
+    "latitude": 16.4904,
+    "previous": [
+      "Phường Phong Thu",
+      "Xã Phong Mỹ",
+      "Xã Phong Xuân"
+    ],
+    "treeCode": "1831.1854"
+  },
+  {
+    "id": 1855,
+    "communeCode": 1838,
+    "name": "Phong Dinh",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 87.17,
+    "population": 28012,
+    "administrativeCenter": "168 Phò Trạch Đệm, phường Phong Dinh",
+    "longitude": 107.366,
+    "latitude": 16.6442,
+    "previous": [
+      "Phường Phong Hòa",
+      "Xã Phong Bình",
+      "Xã Phong Chương"
+    ],
+    "treeCode": "1831.1855"
+  },
+  {
+    "id": 1856,
+    "communeCode": 1837,
+    "name": "Phong Phú",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 60.85,
+    "population": 19057,
+    "administrativeCenter": "Tổ dân phố Nhất Tây, phường Phong Phú",
+    "longitude": 107.41,
+    "latitude": 16.6959,
+    "previous": [
+      "Phường Phong Phú",
+      "Xã Phong Thạnh"
+    ],
+    "treeCode": "1831.1856"
+  },
+  {
+    "id": 1857,
+    "communeCode": 1842,
+    "name": "Phong Quảng",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 41.7,
+    "population": 25728,
+    "administrativeCenter": "Thôn 2, phường Phong Quảng",
+    "longitude": 107.506,
+    "latitude": 16.6339,
+    "previous": [
+      "Phường Phong Hải",
+      "Xã Quảng Công",
+      "Xã Quảng Ngạn"
+    ],
+    "treeCode": "1831.1857"
+  },
+  {
+    "id": 1858,
+    "communeCode": 1869,
+    "name": "Phong Thái",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 187.02,
+    "population": 37406,
+    "administrativeCenter": "Tổ dân phố Bồ Điền, phường Phong Thái",
+    "longitude": 107.425,
+    "latitude": 16.5343,
+    "previous": [
+      "Phường Phong An",
+      "Phường Phong Hiền",
+      "Xã Phong Sơn"
+    ],
+    "treeCode": "1831.1858"
+  },
+  {
+    "id": 1859,
+    "communeCode": 1850,
+    "name": "Phú Bài",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 344.63,
+    "population": 3841,
+    "administrativeCenter": "1.297 Nguyễn Tất Thành, phường Phú Bài",
+    "longitude": 107.611,
+    "latitude": 16.2807,
+    "previous": [
+      "Phường Phú Bài",
+      "Xã Thủy Phù",
+      "Xã Phú Sơn",
+      "Xã Dương Hòa"
+    ],
+    "treeCode": "1831.1859"
+  },
+  {
+    "id": 1860,
+    "communeCode": 1848,
+    "name": "Phú Hồ",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 57.72,
+    "population": 2355,
+    "administrativeCenter": "Thôn Quảng Xuyên, xã Phú Hồ",
+    "longitude": 107.688,
+    "latitude": 16.4778,
+    "previous": [
+      "Xã Phú Xuân",
+      "Xã Phú Lương",
+      "Xã Phú Hồ"
+    ],
+    "treeCode": "1831.1860"
+  },
+  {
+    "id": 1861,
+    "communeCode": 1861,
+    "name": "Phú Lộc",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 80.15,
+    "population": 50929,
+    "administrativeCenter": "134 Lý Thánh Tông, xã Phú Lộc",
+    "longitude": 107.886,
+    "latitude": 16.2682,
+    "previous": [
+      "Thị trấn Phú Lộc",
+      "Xã Lộc Trì",
+      "Xã Lộc Bình"
+    ],
+    "treeCode": "1831.1861"
+  },
+  {
+    "id": 1862,
+    "communeCode": 1849,
+    "name": "Phú Vang",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 86.19,
+    "population": 3925,
+    "administrativeCenter": "26 Đỗ Tram, thôn Hòa Tây, xã Phú Vang",
+    "longitude": 107.771,
+    "latitude": 16.402,
+    "previous": [
+      "Thị trấn Phú Đa",
+      "Xã Phú Gia",
+      "Xã Vinh Hà"
+    ],
+    "treeCode": "1831.1862"
+  },
+  {
+    "id": 1863,
+    "communeCode": 1847,
+    "name": "Phú Vinh",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 69.5,
+    "population": 31328,
+    "administrativeCenter": "Thôn 3, xã Phú Vinh",
+    "longitude": 107.775,
+    "latitude": 16.4549,
+    "previous": [
+      "Xã Phú Diên",
+      "Xã Vinh Xuân",
+      "Xã Vinh An",
+      "Xã Vinh Thanh"
+    ],
+    "treeCode": "1831.1863"
+  },
+  {
+    "id": 1864,
+    "communeCode": 1830,
+    "name": "Phú Xuân",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 10.38,
+    "population": 130247,
+    "administrativeCenter": "394 Đinh Tiên Hoàng, phường Phú Xuân",
+    "longitude": 107.577,
+    "latitude": 16.4785,
+    "previous": [
+      "Phường Gia Hội",
+      "Phường Phú Hậu",
+      "Phường Tây Lộc",
+      "Phường Thuận Lộc",
+      "Phường Thuận Hòa",
+      "Phường Đông Ba"
+    ],
+    "treeCode": "1831.1864"
+  },
+  {
+    "id": 1865,
+    "communeCode": 1843,
+    "name": "Quảng Điền",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 45.93,
+    "population": 41798,
+    "administrativeCenter": "1 Trần Quang Nợ, xã Quảng Điền",
+    "longitude": 107.533,
+    "latitude": 16.5697,
+    "previous": [
+      "Thị trấn Sịa",
+      "Xã Quảng Phước",
+      "Xã Quảng An",
+      "Xã Quảng Thọ"
+    ],
+    "treeCode": "1831.1865"
+  },
+  {
+    "id": 1866,
+    "communeCode": 1836,
+    "name": "Thanh Thủy",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 48.92,
+    "population": 43569,
+    "administrativeCenter": "555 Nguyễn Tất Thành, phường Thanh Thủy",
+    "longitude": 107.635,
+    "latitude": 16.4205,
+    "previous": [
+      "Phường Thủy Dương",
+      "Phường Thủy Phương",
+      "Xã Thủy Thanh"
+    ],
+    "treeCode": "1831.1866"
+  },
+  {
+    "id": 1867,
+    "communeCode": 1844,
+    "name": "Thuận An",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 16.11,
+    "population": 64689,
+    "administrativeCenter": "164 Kinh Dương Vương, phường Thuận An",
+    "longitude": 107.641,
+    "latitude": 16.5518,
+    "previous": [
+      "Phường Thuận An",
+      "Xã Phú Hải",
+      "Xã Phú Thuận"
+    ],
+    "treeCode": "1831.1867"
+  },
+  {
+    "id": 1868,
+    "communeCode": 1832,
+    "name": "Thuận Hóa",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 7.57,
+    "population": 98923,
+    "administrativeCenter": "2 Lê Hồng Phong, phường Thuận Hóa",
+    "longitude": 107.584,
+    "latitude": 16.4556,
+    "previous": [
+      "Phường Phú Hội",
+      "Phường Phú Nhuận",
+      "Phường Đúc",
+      "Phường Vĩnh Ninh",
+      "Phường Phước Vĩnh",
+      "Phường Trường An"
+    ],
+    "treeCode": "1831.1868"
+  },
+  {
+    "id": 1869,
+    "communeCode": 1835,
+    "name": "Thủy Xuân",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 37.1422,
+    "population": null,
+    "administrativeCenter": "38 Lê Ngô Cát, phường Thủy Xuân",
+    "longitude": 107.583,
+    "latitude": 16.4077,
+    "previous": [
+      "Phường Thủy Biều",
+      "Phường Thủy Bằng",
+      "Phường Thủy Xuân"
+    ],
+    "treeCode": "1831.1869"
+  },
+  {
+    "id": 1870,
+    "communeCode": 1863,
+    "name": "Vinh Lộc",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "xã",
+    "areaKm2": 66.53,
+    "population": 3635,
+    "administrativeCenter": "Thôn Giang Chế, xã Vinh Lộc",
+    "longitude": 107.867,
+    "latitude": 16.3606,
+    "previous": [
+      "Xã Vinh Hưng",
+      "Xã Vinh Mỹ",
+      "Xã Giang Hải",
+      "Xã Vinh Hiền"
+    ],
+    "treeCode": "1831.1870"
+  },
+  {
+    "id": 1871,
+    "communeCode": 1831,
+    "name": "Vỹ Dạ",
+    "provinceCode": 20,
+    "provinceName": "thành phố Huế",
+    "type": "phường",
+    "areaKm2": 8.93,
+    "population": 49684,
+    "administrativeCenter": "20 Lâm Hoằng, phường Vỹ Dạ",
+    "longitude": 107.611,
+    "latitude": 16.4779,
+    "previous": [
+      "Phường Thủy Vân",
+      "Phường Xuân Phú",
+      "Phường Vỹ Dạ"
+    ],
+    "treeCode": "1831.1871"
+  }
+]

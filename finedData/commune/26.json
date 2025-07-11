@@ -1,0 +1,2317 @@
+[
+  {
+    "id": 2370,
+    "communeCode": 1071,
+    "name": "1 Bảo Lộc",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 51.46,
+    "population": 55845,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.844,
+    "latitude": 11.5733,
+    "previous": [
+      "Phường 1 (thành phố Bảo Lộc)",
+      "Phường Lộc Phát",
+      "Xã Lộc Thanh"
+    ],
+    "treeCode": "2369.2370"
+  },
+  {
+    "id": 2371,
+    "communeCode": 1076,
+    "name": "2 Bảo Lộc",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 176.72,
+    "population": 49564,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.724,
+    "latitude": 11.5951,
+    "previous": [
+      "Phường 2 (thành phố Bảo Lộc)",
+      "Xã Lộc Tân",
+      "Xã ĐamBri"
+    ],
+    "treeCode": "2369.2371"
+  },
+  {
+    "id": 2372,
+    "communeCode": 1075,
+    "name": "3 Bảo Lộc",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 108.98,
+    "population": 54445,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.758,
+    "latitude": 11.4975,
+    "previous": [
+      "Phường Lộc Tiến",
+      "Xã Lộc Châu",
+      "Xã Đại Lào"
+    ],
+    "treeCode": "2369.2372"
+  },
+  {
+    "id": 2373,
+    "communeCode": 1077,
+    "name": "B’Lao",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 33.7679,
+    "population": null,
+    "administrativeCenter": "UBND phường Lộc Sơn và UBND phường B’Lao",
+    "longitude": 107.859,
+    "latitude": 11.5247,
+    "previous": [
+      "Phường Lộc Sơn",
+      "Phường B’Lao",
+      "Xã Lộc Nga"
+    ],
+    "treeCode": "2369.2373"
+  },
+  {
+    "id": 2374,
+    "communeCode": 3219,
+    "name": "Bắc Bình",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 148.99,
+    "population": 51344,
+    "administrativeCenter": "Thị trấn Chợ Lầu",
+    "longitude": 108.542,
+    "latitude": 11.2311,
+    "previous": [
+      "Thị trấn Chợ Lầu",
+      "Xã Phan Hòa",
+      "Xã Phan Hiệp",
+      "Xã Phan Rí Thành"
+    ],
+    "treeCode": "2369.2374"
+  },
+  {
+    "id": 2375,
+    "communeCode": 2918,
+    "name": "Bắc Gia Nghĩa",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 250.55,
+    "population": 3776,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 107.767,
+    "latitude": 12.0523,
+    "previous": [
+      "Phường Quảng Thành",
+      "Phường Nghĩa Thành",
+      "Phường Nghĩa Đức",
+      "Xã Đắk Ha"
+    ],
+    "treeCode": "2369.2375"
+  },
+  {
+    "id": 2376,
+    "communeCode": 3235,
+    "name": "Bắc Ruộng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 165.33,
+    "population": 18949,
+    "administrativeCenter": "Xã Bắc Ruộng",
+    "longitude": 107.743,
+    "latitude": 11.2741,
+    "previous": [
+      "Xã Măng Tố",
+      "Xã Bắc Ruộng"
+    ],
+    "treeCode": "2369.2376"
+  },
+  {
+    "id": 2377,
+    "communeCode": 1078,
+    "name": "Bảo Lâm 1",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 204.43,
+    "population": 44151,
+    "administrativeCenter": "Huyện ủy, UBND huyện Bảo Lâm",
+    "longitude": 107.85,
+    "latitude": 11.6627,
+    "previous": [
+      "Thị trấn Lộc Thắng",
+      "Xã Lộc Quảng",
+      "Xã Lộc Ngãi"
+    ],
+    "treeCode": "2369.2377"
+  },
+  {
+    "id": 2378,
+    "communeCode": 1106,
+    "name": "Bảo Lâm 2",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 114,
+    "population": 33092,
+    "administrativeCenter": "UBND xã Lộc An",
+    "longitude": 107.9,
+    "latitude": 11.5592,
+    "previous": [
+      "Xã Lộc An",
+      "Xã Lộc Đức",
+      "Xã Tân Lạc"
+    ],
+    "treeCode": "2369.2378"
+  },
+  {
+    "id": 2379,
+    "communeCode": 1081,
+    "name": "Bảo Lâm 3",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 152.13,
+    "population": 32917,
+    "administrativeCenter": "UBND xã Lộc Nam",
+    "longitude": 107.836,
+    "latitude": 11.4239,
+    "previous": [
+      "Xã Lộc Thành",
+      "Xã Lộc Nam"
+    ],
+    "treeCode": "2369.2379"
+  },
+  {
+    "id": 2380,
+    "communeCode": 1080,
+    "name": "Bảo Lâm 4",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 343.35,
+    "population": 10073,
+    "administrativeCenter": "UBND xã Lộc Phú",
+    "longitude": 107.819,
+    "latitude": 11.7873,
+    "previous": [
+      "Xã Lộc Phú",
+      "Xã Lộc Lâm",
+      "Xã B’Lá"
+    ],
+    "treeCode": "2369.2380"
+  },
+  {
+    "id": 2381,
+    "communeCode": 1079,
+    "name": "Bảo Lâm 5",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 511.88,
+    "population": 11596,
+    "administrativeCenter": "UBND xã Lộc Bảo",
+    "longitude": 107.643,
+    "latitude": 11.7751,
+    "previous": [
+      "Xã Lộc Bảo",
+      "Xã Lộc Bắc"
+    ],
+    "treeCode": "2369.2381"
+  },
+  {
+    "id": 2382,
+    "communeCode": 531,
+    "name": "Bảo Thuận",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 300.3,
+    "population": 29557,
+    "administrativeCenter": "UBND xã Đinh Lạc",
+    "longitude": 108.14,
+    "latitude": 11.4907,
+    "previous": [
+      "Xã Đinh Lạc",
+      "Xã Tân Nghĩa",
+      "Xã Bảo Thuận"
+    ],
+    "treeCode": "2369.2382"
+  },
+  {
+    "id": 2383,
+    "communeCode": 3211,
+    "name": "Bình Thuận",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 45.16,
+    "population": 47858,
+    "administrativeCenter": "Xã Phong Nẫm",
+    "longitude": 108.03,
+    "latitude": 10.9831,
+    "previous": [
+      "Phường Phú Tài",
+      "Xã Phong Nẫm",
+      "Xã Hàm Hiệp"
+    ],
+    "treeCode": "2369.2383"
+  },
+  {
+    "id": 2384,
+    "communeCode": 422,
+    "name": "Cam Ly - Đà Lạt",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 80.92,
+    "population": 48919,
+    "administrativeCenter": "UBND phường 6, 29 Thi Sách",
+    "longitude": 108.369,
+    "latitude": 11.9331,
+    "previous": [
+      "Phường 5",
+      "Phường 6",
+      "Xã Tà Nung"
+    ],
+    "treeCode": "2369.2384"
+  },
+  {
+    "id": 2385,
+    "communeCode": 1065,
+    "name": "Cát Tiên",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 78.13,
+    "population": 19735,
+    "administrativeCenter": "UBND huyện Cát Tiên",
+    "longitude": 107.397,
+    "latitude": 11.596,
+    "previous": [
+      "Thị trấn Cát Tiên",
+      "Xã Nam Ninh",
+      "Xã Quảng Ngãi"
+    ],
+    "treeCode": "2369.2385"
+  },
+  {
+    "id": 2386,
+    "communeCode": 1069,
+    "name": "Cát Tiên 2",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 177.26,
+    "population": 15042,
+    "administrativeCenter": "UBND thị trấn Phước Cát",
+    "longitude": 107.33,
+    "latitude": 11.6699,
+    "previous": [
+      "Thị trấn Phước Cát",
+      "Xã Phước Cát 2",
+      "Xã Đức Phổ"
+    ],
+    "treeCode": "2369.2386"
+  },
+  {
+    "id": 2387,
+    "communeCode": 1070,
+    "name": "Cát Tiên 3",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 171.31,
+    "population": 10591,
+    "administrativeCenter": "UBND xã Tiên Hoàng",
+    "longitude": 107.426,
+    "latitude": 11.703,
+    "previous": [
+      "Xã Gia Viễn",
+      "Xã Tiên Hoàng",
+      "Xã Đồng Nai Thượng"
+    ],
+    "treeCode": "2369.2387"
+  },
+  {
+    "id": 2388,
+    "communeCode": 2908,
+    "name": "Cư Jút",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 104.11,
+    "population": 49614,
+    "administrativeCenter": "Thị trấn Ea Tling",
+    "longitude": 107.85,
+    "latitude": 12.5898,
+    "previous": [
+      "Thị trấn Ea T’ling",
+      "Xã Trúc Sơn",
+      "Xã Tâm Thắng",
+      "Xã Cư K’nia"
+    ],
+    "treeCode": "2369.2388"
+  },
+  {
+    "id": 2389,
+    "communeCode": 521,
+    "name": "D’Ran",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 240.89,
+    "population": 33517,
+    "administrativeCenter": "UBND xã Lạc Xuân",
+    "longitude": 108.572,
+    "latitude": 11.8051,
+    "previous": [
+      "Thị trấn D’Ran",
+      "Xã Lạc Xuân"
+    ],
+    "treeCode": "2369.2389"
+  },
+  {
+    "id": 2390,
+    "communeCode": 1107,
+    "name": "Đạ Huoai",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 113.96,
+    "population": 23117,
+    "administrativeCenter": "UBND huyện Đạ Huoai",
+    "longitude": 107.536,
+    "latitude": 11.4294,
+    "previous": [
+      "Thị trấn Mađaguôi",
+      "Xã Mađaguôi",
+      "Xã Đạ Oai"
+    ],
+    "treeCode": "2369.2390"
+  },
+  {
+    "id": 2391,
+    "communeCode": 1091,
+    "name": "Đạ Huoai 2",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 249.57,
+    "population": 14929,
+    "administrativeCenter": "UBND thị trấn Đạ M'Ri",
+    "longitude": 107.645,
+    "latitude": 11.4586,
+    "previous": [
+      "Thị trấn Đạ M’ri",
+      "Xã Hà Lâm"
+    ],
+    "treeCode": "2369.2391"
+  },
+  {
+    "id": 2392,
+    "communeCode": 1108,
+    "name": "Đạ Huoai 3",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 131.51,
+    "population": 6571,
+    "administrativeCenter": "UBND xã Bà Gia",
+    "longitude": 107.704,
+    "latitude": 11.3776,
+    "previous": [
+      "xã Bà Gia"
+    ],
+    "treeCode": "2369.2392"
+  },
+  {
+    "id": 2393,
+    "communeCode": 1064,
+    "name": "Đạ Tẻh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 145.85,
+    "population": 30725,
+    "administrativeCenter": "UBND huyện Đạ Huoai",
+    "longitude": 107.426,
+    "latitude": 11.5589,
+    "previous": [
+      "Thị trấn Đạ Tẻh",
+      "Xã An Nhơn",
+      "Xã Đạ Lây"
+    ],
+    "treeCode": "2369.2393"
+  },
+  {
+    "id": 2394,
+    "communeCode": 1096,
+    "name": "Đạ Tẻh 2",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 186.07,
+    "population": 1459,
+    "administrativeCenter": "UBND xã Quảng Trị",
+    "longitude": 107.551,
+    "latitude": 11.5209,
+    "previous": [
+      "Xã Quảng Trị",
+      "Xã Đạ Pal",
+      "Xã Đạ Kho"
+    ],
+    "treeCode": "2369.2394"
+  },
+  {
+    "id": 2395,
+    "communeCode": 1095,
+    "name": "Đạ Tẻh 3",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 194.82,
+    "population": 11678,
+    "administrativeCenter": "UBND xã Mỹ Đức",
+    "longitude": 107.544,
+    "latitude": 11.6213,
+    "previous": [
+      "Xã Mỹ Đức",
+      "Xã Quốc Oai"
+    ],
+    "treeCode": "2369.2395"
+  },
+  {
+    "id": 2396,
+    "communeCode": 2913,
+    "name": "Đắk Mil",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 213.76,
+    "population": 31579,
+    "administrativeCenter": "Xã Đắk R'la",
+    "longitude": 107.752,
+    "latitude": 12.5418,
+    "previous": [
+      "Xã Đắk Gằn",
+      "Xã Đắk N’Drót",
+      "Xã Đắk R’La"
+    ],
+    "treeCode": "2369.2396"
+  },
+  {
+    "id": 2397,
+    "communeCode": 2914,
+    "name": "Đắk Sắk",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 99,
+    "population": 28058,
+    "administrativeCenter": "Xã Long Sơn",
+    "longitude": 107.735,
+    "latitude": 12.4476,
+    "previous": [
+      "Xã Nam Xuân",
+      "Xã Long Sơn",
+      "Xã Đắk Sắk"
+    ],
+    "treeCode": "2369.2397"
+  },
+  {
+    "id": 2398,
+    "communeCode": 2926,
+    "name": "Đắk Song",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 193.208,
+    "population": null,
+    "administrativeCenter": "Xã Đắk Môl",
+    "longitude": 107.687,
+    "latitude": 12.3222,
+    "previous": [
+      "Xã Đắk Môl",
+      "Xã Đắk Hòa"
+    ],
+    "treeCode": "2369.2398"
+  },
+  {
+    "id": 2399,
+    "communeCode": 2909,
+    "name": "Đắk Wil",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 515.16,
+    "population": 24344,
+    "administrativeCenter": "Xã Ea Pô",
+    "longitude": 107.727,
+    "latitude": 12.722,
+    "previous": [
+      "Xã Ea Pô",
+      "Xã Đắk Wil"
+    ],
+    "treeCode": "2369.2399"
+  },
+  {
+    "id": 2400,
+    "communeCode": 519,
+    "name": "Đam Rông 1",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 172.55,
+    "population": 17265,
+    "administrativeCenter": "UBND xã Phi Liêng",
+    "longitude": 108.117,
+    "latitude": 11.9391,
+    "previous": [
+      "Xã Phi Liêng",
+      "Xã Đạ K’Nàng"
+    ],
+    "treeCode": "2369.2400"
+  },
+  {
+    "id": 2401,
+    "communeCode": 414,
+    "name": "Đam Rông 2",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 365.58,
+    "population": 16253,
+    "administrativeCenter": "Trung tâm hành chính huyện Đam Rông",
+    "longitude": 108.109,
+    "latitude": 12.0533,
+    "previous": [
+      "Xã Rô Men",
+      "Xã Liêng Srônh"
+    ],
+    "treeCode": "2369.2401"
+  },
+  {
+    "id": 2402,
+    "communeCode": 418,
+    "name": "Đam Rông 3",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 139.38,
+    "population": 15841,
+    "administrativeCenter": "UBND xã Đạ Rsal",
+    "longitude": 108.178,
+    "latitude": 12.1616,
+    "previous": [
+      "Xã Đạ Rsal",
+      "Xã Đạ M’Rông"
+    ],
+    "treeCode": "2369.2402"
+  },
+  {
+    "id": 2403,
+    "communeCode": 417,
+    "name": "Đam Rông 4",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 391.25,
+    "population": 17184,
+    "administrativeCenter": "UBND xã Đạ Tông",
+    "longitude": 108.367,
+    "latitude": 12.1741,
+    "previous": [
+      "Xã Đạ Tông",
+      "Xã Đạ Long",
+      "Xã Đưng K’Nớ"
+    ],
+    "treeCode": "2369.2403"
+  },
+  {
+    "id": 2404,
+    "communeCode": 416,
+    "name": "Di Linh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 268.28,
+    "population": 64179,
+    "administrativeCenter": "HĐND và UBND huyện Di Linh",
+    "longitude": 108.046,
+    "latitude": 11.5354,
+    "previous": [
+      "Thị trấn Di Linh",
+      "Xã Liên Đầm",
+      "Xã Tân Châu",
+      "Xã Gung Ré"
+    ],
+    "treeCode": "2369.2404"
+  },
+  {
+    "id": 2405,
+    "communeCode": 534,
+    "name": "Đinh Trang Thượng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 203.77,
+    "population": 20568,
+    "administrativeCenter": "UBND xã Tân Lâm",
+    "longitude": 107.984,
+    "latitude": 11.7091,
+    "previous": [
+      "Xã Tân Lâm",
+      "Xã Tân Thượng",
+      "Xã Đinh Trang Thượng"
+    ],
+    "treeCode": "2369.2405"
+  },
+  {
+    "id": 2406,
+    "communeCode": 454,
+    "name": "Đinh Văn Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 90.1789,
+    "population": null,
+    "administrativeCenter": "Trụ sở huyện ủy, UBND huyện Lâm Hà",
+    "longitude": 108.25,
+    "latitude": 11.7769,
+    "previous": [
+      "Xã Bình Thạnh (huyện Đức Trọng)",
+      "Xã Tân Văn",
+      "Thị trấn Đinh Văn"
+    ],
+    "treeCode": "2369.2406"
+  },
+  {
+    "id": 2407,
+    "communeCode": 522,
+    "name": "Đơn Dương",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 127.81,
+    "population": 4516,
+    "administrativeCenter": "UBND huyện Đơn Dương",
+    "longitude": 108.453,
+    "latitude": 11.7306,
+    "previous": [
+      "Thị trấn Thạnh Mỹ",
+      "Xã Đạ Ròn",
+      "Xã Tu Tra"
+    ],
+    "treeCode": "2369.2407"
+  },
+  {
+    "id": 2408,
+    "communeCode": 2920,
+    "name": "Đông Gia Nghĩa",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 105.78,
+    "population": 24199,
+    "administrativeCenter": "Phường Nghĩa Trung",
+    "longitude": 107.718,
+    "latitude": 11.9548,
+    "previous": [
+      "Phường Nghĩa Trung",
+      "Xã Đắk Nia"
+    ],
+    "treeCode": "2369.2408"
+  },
+  {
+    "id": 2409,
+    "communeCode": 3206,
+    "name": "Đông Giang",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 205.23,
+    "population": 5131,
+    "administrativeCenter": "Xã Đông Giang",
+    "longitude": 108.01,
+    "latitude": 11.2615,
+    "previous": [
+      "Xã Đông Tiến",
+      "Xã Đông Giang"
+    ],
+    "treeCode": "2369.2409"
+  },
+  {
+    "id": 2410,
+    "communeCode": 3237,
+    "name": "Đồng Kho",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 268.72,
+    "population": 30885,
+    "administrativeCenter": "Xã Đồng Kho",
+    "longitude": 107.769,
+    "latitude": 11.1685,
+    "previous": [
+      "Xã Huy Khiêm",
+      "Xã La Ngâu",
+      "Xã Đức Bình",
+      "Xã Đồng Kho"
+    ],
+    "treeCode": "2369.2410"
+  },
+  {
+    "id": 2411,
+    "communeCode": 2925,
+    "name": "Đức An",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 161.02,
+    "population": 33178,
+    "administrativeCenter": "Thị trấn Đức An",
+    "longitude": 107.606,
+    "latitude": 12.2813,
+    "previous": [
+      "Thị trấn Đức An",
+      "Xã Đắk N’Drung",
+      "Xã Nam Bình"
+    ],
+    "treeCode": "2369.2411"
+  },
+  {
+    "id": 2412,
+    "communeCode": 2911,
+    "name": "Đức Lập",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 59.41,
+    "population": 31722,
+    "administrativeCenter": "Thị trấn Đắk Mil",
+    "longitude": 107.627,
+    "latitude": 12.4162,
+    "previous": [
+      "Thị trấn Đắk Mil",
+      "Xã Đức Mạnh",
+      "Xã Đức Minh"
+    ],
+    "treeCode": "2369.2412"
+  },
+  {
+    "id": 2413,
+    "communeCode": 3239,
+    "name": "Đức Linh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 103.27,
+    "population": 51099,
+    "administrativeCenter": "Thị trấn Võ Xu",
+    "longitude": 107.552,
+    "latitude": 11.1834,
+    "previous": [
+      "Thị trấn Võ Xu",
+      "Xã Nam Chính",
+      "Xã Vũ Hòa"
+    ],
+    "treeCode": "2369.2413"
+  },
+  {
+    "id": 2414,
+    "communeCode": 525,
+    "name": "Đức Trọng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 148.78,
+    "population": 85163,
+    "administrativeCenter": "UBND huyện Đức Trọng",
+    "longitude": 108.361,
+    "latitude": 11.6788,
+    "previous": [
+      "Thị trấn Liên Nghĩa",
+      "Xã Phú Hội"
+    ],
+    "treeCode": "2369.2414"
+  },
+  {
+    "id": 2415,
+    "communeCode": 532,
+    "name": "Gia Hiệp",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 324.43,
+    "population": 21462,
+    "administrativeCenter": "UBND xã Tam Bố",
+    "longitude": 108.217,
+    "latitude": 11.5038,
+    "previous": [
+      "Xã Tam Bố",
+      "Xã Gia Hiệp"
+    ],
+    "treeCode": "2369.2415"
+  },
+  {
+    "id": 2416,
+    "communeCode": 3221,
+    "name": "Hải Ninh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 289.99,
+    "population": 19422,
+    "administrativeCenter": "Xã Hải Ninh",
+    "longitude": 108.492,
+    "latitude": 11.3055,
+    "previous": [
+      "Xã Bình An",
+      "Xã Phan Điền",
+      "Xã Hải Ninh"
+    ],
+    "treeCode": "2369.2416"
+  },
+  {
+    "id": 2417,
+    "communeCode": 3231,
+    "name": "Hàm Kiệm",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 162.09,
+    "population": 31445,
+    "administrativeCenter": "Xã Hàm Kiệm",
+    "longitude": 107.963,
+    "latitude": 10.9128,
+    "previous": [
+      "Xã Mương Mán",
+      "Xã Hàm Cường",
+      "Xã Hàm Kiệm"
+    ],
+    "treeCode": "2369.2417"
+  },
+  {
+    "id": 2418,
+    "communeCode": 3227,
+    "name": "Hàm Liêm",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 113.81,
+    "population": 31253,
+    "administrativeCenter": "Xã Hàm Liêm",
+    "longitude": 108.08,
+    "latitude": 11.0196,
+    "previous": [
+      "Xã Hàm Chính",
+      "Xã Hàm Liêm"
+    ],
+    "treeCode": "2369.2418"
+  },
+  {
+    "id": 2419,
+    "communeCode": 3246,
+    "name": "Hàm Tân",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 198.46,
+    "population": 35209,
+    "administrativeCenter": "Thị trấn Tân Nghĩa",
+    "longitude": 107.689,
+    "latitude": 10.7632,
+    "previous": [
+      "Xã Tân Hà (huyện Hàm Tân)",
+      "Xã Tân Xuân",
+      "Thị trấn Tân Nghĩa"
+    ],
+    "treeCode": "2369.2419"
+  },
+  {
+    "id": 2420,
+    "communeCode": 3213,
+    "name": "Hàm Thắng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 44.9,
+    "population": 54544,
+    "administrativeCenter": "Phường Xuân An",
+    "longitude": 108.147,
+    "latitude": 10.9712,
+    "previous": [
+      "Phường Xuân An",
+      "Thị trấn Phú Long",
+      "Xã Hàm Thắng"
+    ],
+    "treeCode": "2369.2420"
+  },
+  {
+    "id": 2421,
+    "communeCode": 3230,
+    "name": "Hàm Thạnh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 440.7,
+    "population": 16306,
+    "administrativeCenter": "Xã Hàm Thạnh",
+    "longitude": 107.892,
+    "latitude": 11.0557,
+    "previous": [
+      "Xã Mỹ Thạnh",
+      "Xã Hàm Cần",
+      "Xã Hàm Thạnh"
+    ],
+    "treeCode": "2369.2421"
+  },
+  {
+    "id": 2422,
+    "communeCode": 3207,
+    "name": "Hàm Thuận",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 198.36,
+    "population": 5068,
+    "administrativeCenter": "Thị trấn Ma Lâm",
+    "longitude": 107.997,
+    "latitude": 11.1128,
+    "previous": [
+      "Thị trấn Ma Lâm",
+      "Xã Thuận Minh",
+      "Xã Hàm Đức"
+    ],
+    "treeCode": "2369.2422"
+  },
+  {
+    "id": 2423,
+    "communeCode": 3304,
+    "name": "Hàm Thuận Bắc",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 292.7,
+    "population": 29855,
+    "administrativeCenter": "Xã Hàm Trí",
+    "longitude": 108.102,
+    "latitude": 11.1748,
+    "previous": [
+      "Xã Thuận Hòa",
+      "Xã Hàm Trí",
+      "Xã Hàm Phú"
+    ],
+    "treeCode": "2369.2423"
+  },
+  {
+    "id": 2424,
+    "communeCode": 3229,
+    "name": "Hàm Thuận Nam",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 111.82,
+    "population": 32771,
+    "administrativeCenter": "Thị trấn Thuận Nam",
+    "longitude": 107.91,
+    "latitude": 10.8472,
+    "previous": [
+      "Thị trấn Thuận Nam",
+      "Xã Hàm Minh"
+    ],
+    "treeCode": "2369.2424"
+  },
+  {
+    "id": 2425,
+    "communeCode": 526,
+    "name": "Hiệp Thạnh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 127.19,
+    "population": 5131,
+    "administrativeCenter": "UBND xã Hiệp Thạnh",
+    "longitude": 108.42,
+    "latitude": 11.8075,
+    "previous": [
+      "Xã Hiệp An",
+      "Xã Liên Hiệp",
+      "Xã Hiệp Thạnh"
+    ],
+    "treeCode": "2369.2425"
+  },
+  {
+    "id": 2426,
+    "communeCode": 1102,
+    "name": "Hòa Bắc",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 159.35,
+    "population": 19979,
+    "administrativeCenter": "UBND xã Hòa Nam",
+    "longitude": 107.944,
+    "latitude": 11.4303,
+    "previous": [
+      "Xã Hòa Nam",
+      "Xã Hòa Bắc"
+    ],
+    "treeCode": "2369.2426"
+  },
+  {
+    "id": 2427,
+    "communeCode": 1101,
+    "name": "Hòa Ninh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 95.17,
+    "population": 31904,
+    "administrativeCenter": "UBND xã Hòa Ninh",
+    "longitude": 107.954,
+    "latitude": 11.5437,
+    "previous": [
+      "Xã Đinh Trang Hòa",
+      "Xã Hòa Trung",
+      "Xã Hòa Ninh"
+    ],
+    "treeCode": "2369.2427"
+  },
+  {
+    "id": 2428,
+    "communeCode": 3225,
+    "name": "Hòa Thắng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 328.09,
+    "population": 11558,
+    "administrativeCenter": "Xã Hòa Thắng",
+    "longitude": 108.371,
+    "latitude": 11.0871,
+    "previous": [
+      "Xã Hồng Phong",
+      "Xã Hòa Thắng"
+    ],
+    "treeCode": "2369.2428"
+  },
+  {
+    "id": 2429,
+    "communeCode": 3241,
+    "name": "Hoài Đức",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 105.04,
+    "population": 47509,
+    "administrativeCenter": "Thị trấn Đức Tài",
+    "longitude": 107.497,
+    "latitude": 11.1446,
+    "previous": [
+      "Thị trấn Đức Tài",
+      "Xã Đức Tín",
+      "Xã Đức Hạnh"
+    ],
+    "treeCode": "2369.2429"
+  },
+  {
+    "id": 2430,
+    "communeCode": 3226,
+    "name": "Hồng Sơn",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 189.01,
+    "population": 29875,
+    "administrativeCenter": "Xã Hồng Sơn",
+    "longitude": 108.228,
+    "latitude": 11.1181,
+    "previous": [
+      "Xã Hồng Liêm",
+      "Xã Hồng Sơn"
+    ],
+    "treeCode": "2369.2430"
+  },
+  {
+    "id": 2431,
+    "communeCode": 3224,
+    "name": "Hồng Thái",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 101.64,
+    "population": 25049,
+    "administrativeCenter": "Xã Hồng Thái",
+    "longitude": 108.445,
+    "latitude": 11.1993,
+    "previous": [
+      "Xã Phan Thanh",
+      "Xã Hồng Thái",
+      "Xã Hòa Thắng"
+    ],
+    "treeCode": "2369.2431"
+  },
+  {
+    "id": 2432,
+    "communeCode": 523,
+    "name": "Ka Đô",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 108.08,
+    "population": 27954,
+    "administrativeCenter": "UBND xã Ka Đô",
+    "longitude": 108.593,
+    "latitude": 11.7266,
+    "previous": [
+      "Xã Lạc Lâm",
+      "Xã Ka Đô"
+    ],
+    "treeCode": "2369.2432"
+  },
+  {
+    "id": 2433,
+    "communeCode": 2930,
+    "name": "Kiến Đức",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 167.63,
+    "population": 38928,
+    "administrativeCenter": "Thị trấn Kiến Đức",
+    "longitude": 107.541,
+    "latitude": 11.9042,
+    "previous": [
+      "Thị trấn Kiến Đức",
+      "Xã Đạo Nghĩa",
+      "Xã Nghĩa Thắng",
+      "Xã Kiến Thành"
+    ],
+    "treeCode": "2369.2433"
+  },
+  {
+    "id": 2434,
+    "communeCode": 2915,
+    "name": "Krông Nô",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 159.82,
+    "population": 22636,
+    "administrativeCenter": "Thị trấn Đắk Mâm",
+    "longitude": 107.827,
+    "latitude": 12.4378,
+    "previous": [
+      "Xã Tân Thành (huyện Krông Nô)",
+      "Xã Đắk Drô",
+      "Thị trấn Đắk Mâm"
+    ],
+    "treeCode": "2369.2434"
+  },
+  {
+    "id": 2435,
+    "communeCode": 3228,
+    "name": "La Dạ",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 264.17,
+    "population": 9435,
+    "administrativeCenter": "Xã La Dạ",
+    "longitude": 107.888,
+    "latitude": 11.2751,
+    "previous": [
+      "Xã Đa Mi",
+      "Xã La Dạ"
+    ],
+    "treeCode": "2369.2435"
+  },
+  {
+    "id": 2436,
+    "communeCode": 3245,
+    "name": "La Gi",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 68.47,
+    "population": 60549,
+    "administrativeCenter": "Phường Tân An",
+    "longitude": 107.77,
+    "latitude": 10.7177,
+    "previous": [
+      "Phường Tân An",
+      "Phường Bình Tân",
+      "Phường Tân Thiện",
+      "Xã Tân Bình"
+    ],
+    "treeCode": "2369.2436"
+  },
+  {
+    "id": 2437,
+    "communeCode": 440,
+    "name": "Lạc Dương",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 828.01,
+    "population": 14912,
+    "administrativeCenter": "Trường THCS - THPT Đạ Nhim",
+    "longitude": 108.596,
+    "latitude": 12.1288,
+    "previous": [
+      "Xã Đạ Sar",
+      "Xã Đạ Nhim",
+      "Xã Đạ Chais"
+    ],
+    "treeCode": "2369.2437"
+  },
+  {
+    "id": 2438,
+    "communeCode": 420,
+    "name": "Lâm Viên - Đà Lạt",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 35.03,
+    "population": 71369,
+    "administrativeCenter": "UBND phường 9, đường - 09 đường Quang Trung",
+    "longitude": 108.466,
+    "latitude": 11.9746,
+    "previous": [
+      "Phường 8",
+      "Phường 9",
+      "Phường 12"
+    ],
+    "treeCode": "2369.2438"
+  },
+  {
+    "id": 2439,
+    "communeCode": 419,
+    "name": "Lang Biang - Đà Lạt",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 323.739,
+    "population": null,
+    "administrativeCenter": "Trụ sở huyện ủy, HĐND và UBND huyện Lạc Dương",
+    "longitude": 108.402,
+    "latitude": 12.0564,
+    "previous": [
+      "Phường 7",
+      "Thị trấn Lạc Dương",
+      "Xã Lát"
+    ],
+    "treeCode": "2369.2439"
+  },
+  {
+    "id": 2440,
+    "communeCode": 3215,
+    "name": "Liên Hương",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 128.23,
+    "population": 70737,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 108.699,
+    "latitude": 11.2607,
+    "previous": [
+      "Thị trấn Liên Hương",
+      "Xã Bình Thạnh (huyện Tuy Phong)",
+      "Xã Phước Thể",
+      "Xã Phú Lạc"
+    ],
+    "treeCode": "2369.2440"
+  },
+  {
+    "id": 2441,
+    "communeCode": 3223,
+    "name": "Lương Sơn",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 159.21,
+    "population": 23912,
+    "administrativeCenter": "Thị trấn Lương Sơn",
+    "longitude": 108.35,
+    "latitude": 11.2583,
+    "previous": [
+      "Thị trấn Lương Sơn",
+      "Xã Sông Bình"
+    ],
+    "treeCode": "2369.2441"
+  },
+  {
+    "id": 2442,
+    "communeCode": 3209,
+    "name": "Mũi Né",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 118.59,
+    "population": 50166,
+    "administrativeCenter": "Phường Hàm Tiến",
+    "longitude": 108.263,
+    "latitude": 10.9791,
+    "previous": [
+      "Phường Hàm Tiến",
+      "Phường Mũi Né",
+      "Xã Thiện Nghiệp"
+    ],
+    "treeCode": "2369.2442"
+  },
+  {
+    "id": 2443,
+    "communeCode": 441,
+    "name": "Nam Ban Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 117.926,
+    "population": null,
+    "administrativeCenter": "UBND thị trấn Nam Ban",
+    "longitude": 108.35,
+    "latitude": 11.8518,
+    "previous": [
+      "Thị trấn Nam Ban",
+      "Xã Đông Thanh",
+      "Xã Mê Linh",
+      "Xã Gia Lâm"
+    ],
+    "treeCode": "2369.2443"
+  },
+  {
+    "id": 2444,
+    "communeCode": 2916,
+    "name": "Nam Đà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 132.69,
+    "population": 2152,
+    "administrativeCenter": "Xã Nam Đà",
+    "longitude": 107.914,
+    "latitude": 12.4909,
+    "previous": [
+      "Xã Buôn Choáh",
+      "Xã Đắk Sôr",
+      "Xã Nam Đà"
+    ],
+    "treeCode": "2369.2444"
+  },
+  {
+    "id": 2445,
+    "communeCode": 2910,
+    "name": "Nam Dong",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 104.04,
+    "population": 35701,
+    "administrativeCenter": "Xã Nam Dong",
+    "longitude": 107.828,
+    "latitude": 12.6442,
+    "previous": [
+      "Xã Đắk D’rông",
+      "Xã Nam Dong"
+    ],
+    "treeCode": "2369.2445"
+  },
+  {
+    "id": 2446,
+    "communeCode": 2919,
+    "name": "Nam Gia Nghĩa",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 80.58,
+    "population": 2365,
+    "administrativeCenter": "Phường Nghĩa Tân",
+    "longitude": 107.632,
+    "latitude": 12.0199,
+    "previous": [
+      "Phường Nghĩa Phú",
+      "Phường Nghĩa Tân",
+      "Xã Đắk R’Moan"
+    ],
+    "treeCode": "2369.2446"
+  },
+  {
+    "id": 2447,
+    "communeCode": 456,
+    "name": "Nam Hà Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 100.366,
+    "population": null,
+    "administrativeCenter": "UBND Phi Tô",
+    "longitude": 108.275,
+    "latitude": 11.8846,
+    "previous": [
+      "Xã Nam Hà",
+      "Xã Phi Tô"
+    ],
+    "treeCode": "2369.2447"
+  },
+  {
+    "id": 2448,
+    "communeCode": 2924,
+    "name": "Nâm Nung",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 219.66,
+    "population": 19655,
+    "administrativeCenter": "Xã Nâm Nung",
+    "longitude": 107.828,
+    "latitude": 12.3442,
+    "previous": [
+      "Xã Nâm N’Đir",
+      "Xã Nâm Nung"
+    ],
+    "treeCode": "2369.2448"
+  },
+  {
+    "id": 2449,
+    "communeCode": 3240,
+    "name": "Nam Thành",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 201.78,
+    "population": 37497,
+    "administrativeCenter": "Xã Sùng Nhơn",
+    "longitude": 107.589,
+    "latitude": 11.2889,
+    "previous": [
+      "Xã Mê Pu",
+      "Xã Sùng Nhơn",
+      "Xã Đa Kai"
+    ],
+    "treeCode": "2369.2449"
+  },
+  {
+    "id": 2450,
+    "communeCode": 3236,
+    "name": "Nghị Đức",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 114.97,
+    "population": 20737,
+    "administrativeCenter": "Xã Nghị Đức",
+    "longitude": 107.682,
+    "latitude": 11.2725,
+    "previous": [
+      "Xã Đức Phú",
+      "Xã Nghị Đức"
+    ],
+    "treeCode": "2369.2450"
+  },
+  {
+    "id": 2451,
+    "communeCode": 2921,
+    "name": "Nhân Cơ",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 158.05,
+    "population": 27898,
+    "administrativeCenter": "Xã Nhân Cơ",
+    "longitude": 107.597,
+    "latitude": 11.954,
+    "previous": [
+      "Xã Nhân Đạo",
+      "Xã Đắk Wer",
+      "Xã Nhân Cơ"
+    ],
+    "treeCode": "2369.2451"
+  },
+  {
+    "id": 2452,
+    "communeCode": 528,
+    "name": "Ninh Gia",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 143.83,
+    "population": 16311,
+    "administrativeCenter": "UBND xã Ninh Gia",
+    "longitude": 108.27,
+    "latitude": 11.6107,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2369.2452"
+  },
+  {
+    "id": 2453,
+    "communeCode": 3216,
+    "name": "Phan Rí Cửa",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 67.67,
+    "population": 86813,
+    "administrativeCenter": "Thị trấn Phan Ría Cửa",
+    "longitude": 108.593,
+    "latitude": 11.1976,
+    "previous": [
+      "Thị trấn Phan Rí Cửa",
+      "Xã Chí Công",
+      "Xã Hòa Minh",
+      "Xã Phong Phú"
+    ],
+    "treeCode": "2369.2453"
+  },
+  {
+    "id": 2454,
+    "communeCode": 3220,
+    "name": "Phan Sơn",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 584.52,
+    "population": 7428,
+    "administrativeCenter": "Xã Phan Sơn",
+    "longitude": 108.397,
+    "latitude": 11.4297,
+    "previous": [
+      "Xã Phan Lâm",
+      "Xã Phan Sơn"
+    ],
+    "treeCode": "2369.2454"
+  },
+  {
+    "id": 2455,
+    "communeCode": 3212,
+    "name": "Phan Thiết",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 4.46,
+    "population": 85493,
+    "administrativeCenter": "Phường Lạc Đạo",
+    "longitude": 108.097,
+    "latitude": 10.9279,
+    "previous": [
+      "Phường Phú Trinh",
+      "Phường Lạc Đạo",
+      "Phường Bình Hưng"
+    ],
+    "treeCode": "2369.2455"
+  },
+  {
+    "id": 2456,
+    "communeCode": 3317,
+    "name": "Phú Quý",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "đặc khu",
+    "areaKm2": 17.4,
+    "population": null,
+    "administrativeCenter": "Xã Ngũ Phụng",
+    "longitude": 108.9453,
+    "latitude": 10.5283,
+    "previous": [
+      "Xã Long Hải",
+      "Xã Ngũ Phụng",
+      "Xã Tam Thanh"
+    ],
+    "treeCode": "2369.2456"
+  },
+  {
+    "id": 2457,
+    "communeCode": 455,
+    "name": "Phú Sơn Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 240.61,
+    "population": null,
+    "administrativeCenter": "UBND xã Đạ Đờn",
+    "longitude": 108.194,
+    "latitude": 11.8906,
+    "previous": [
+      "Xã Phú Sơn",
+      "Xã Đạ Đờn"
+    ],
+    "treeCode": "2369.2457"
+  },
+  {
+    "id": 2458,
+    "communeCode": 3210,
+    "name": "Phú Thủy",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 17.3435,
+    "population": null,
+    "administrativeCenter": "Phường Phú Thủy",
+    "longitude": 108.167,
+    "latitude": 10.9422,
+    "previous": [
+      "Phường Thanh Hải",
+      "Phường Phú Hài",
+      "Phường Phú Thủy"
+    ],
+    "treeCode": "2369.2458"
+  },
+  {
+    "id": 2459,
+    "communeCode": 415,
+    "name": "Phúc Thọ Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 231.137,
+    "population": null,
+    "administrativeCenter": "UBND xã Tân Thanh",
+    "longitude": 108.082,
+    "latitude": 11.7837,
+    "previous": [
+      "Xã Phúc Thọ",
+      "Xã Tân Thanh"
+    ],
+    "treeCode": "2369.2459"
+  },
+  {
+    "id": 2460,
+    "communeCode": 3244,
+    "name": "Phước Hội",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 38.09,
+    "population": 4948,
+    "administrativeCenter": "Phường Phước Hội",
+    "longitude": 107.731,
+    "latitude": 10.6677,
+    "previous": [
+      "Phường Phước Lộc",
+      "Phường Phước Hội",
+      "Xã Tân Phước"
+    ],
+    "treeCode": "2369.2460"
+  },
+  {
+    "id": 2461,
+    "communeCode": 2934,
+    "name": "Quảng Hòa",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 85.44,
+    "population": 8594,
+    "administrativeCenter": "Xã Quảng Hòa",
+    "longitude": 108.053,
+    "latitude": 12.1654,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2369.2461"
+  },
+  {
+    "id": 2462,
+    "communeCode": 2923,
+    "name": "Quảng Khê",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 224.29,
+    "population": 17825,
+    "administrativeCenter": "Xã Quảng Khê",
+    "longitude": 107.828,
+    "latitude": 11.9239,
+    "previous": [
+      "Xã Đắk Plao",
+      "Xã Quảng Khê"
+    ],
+    "treeCode": "2369.2462"
+  },
+  {
+    "id": 2463,
+    "communeCode": 524,
+    "name": "Quảng Lập",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 135.08,
+    "population": 24898,
+    "administrativeCenter": "UBND xã Quảng Lập",
+    "longitude": 108.518,
+    "latitude": 11.7111,
+    "previous": [
+      "Xã Ka Đơn",
+      "Xã Quảng Lập"
+    ],
+    "treeCode": "2369.2463"
+  },
+  {
+    "id": 2464,
+    "communeCode": 2917,
+    "name": "Quảng Phú",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 263.58,
+    "population": 17573,
+    "administrativeCenter": "Xã Quảng Phú",
+    "longitude": 107.949,
+    "latitude": 12.2903,
+    "previous": [
+      "Xã Đức Xuyên",
+      "Xã Đắk Nang",
+      "Xã Quảng Phú"
+    ],
+    "treeCode": "2369.2464"
+  },
+  {
+    "id": 2465,
+    "communeCode": 2933,
+    "name": "Quảng Sơn",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 454.22,
+    "population": 22018,
+    "administrativeCenter": "Quảng Sơn",
+    "longitude": 107.874,
+    "latitude": 12.1706,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2369.2465"
+  },
+  {
+    "id": 2466,
+    "communeCode": 2986,
+    "name": "Quảng Tân",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 294.18,
+    "population": 31185,
+    "administrativeCenter": "Xã Quảng Tân",
+    "longitude": 107.385,
+    "latitude": 12.0368,
+    "previous": [
+      "Xã Đắk Ngo",
+      "Xã Quảng Tân"
+    ],
+    "treeCode": "2369.2466"
+  },
+  {
+    "id": 2467,
+    "communeCode": 2985,
+    "name": "Quảng Tín",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 310.17,
+    "population": 34591,
+    "administrativeCenter": "Xã Đắk Sin",
+    "longitude": 107.461,
+    "latitude": 11.8706,
+    "previous": [
+      "Xã Đắk Sin",
+      "Xã Hưng Bình",
+      "Xã Đắk Ru",
+      "Xã Quảng Tín"
+    ],
+    "treeCode": "2369.2467"
+  },
+  {
+    "id": 2468,
+    "communeCode": 2983,
+    "name": "Quảng Trực",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 558.78,
+    "population": 11168,
+    "administrativeCenter": "Xã Quảng Trực",
+    "longitude": 107.305,
+    "latitude": 12.1846,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2369.2468"
+  },
+  {
+    "id": 2469,
+    "communeCode": 533,
+    "name": "Sơn Điền",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 261.88,
+    "population": 731,
+    "administrativeCenter": "UBND xã Gia Bắc",
+    "longitude": 108.065,
+    "latitude": 11.3495,
+    "previous": [
+      "Xã Gia Bắc",
+      "Xã Sơn Điền"
+    ],
+    "treeCode": "2369.2469"
+  },
+  {
+    "id": 2470,
+    "communeCode": 3248,
+    "name": "Sơn Mỹ",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 254.52,
+    "population": 26599,
+    "administrativeCenter": "Xã Sơn Mỹ",
+    "longitude": 107.607,
+    "latitude": 10.6737,
+    "previous": [
+      "Xã Tân Thắng",
+      "Xã Thắng Hải",
+      "Xã Sơn Mỹ"
+    ],
+    "treeCode": "2369.2470"
+  },
+  {
+    "id": 2471,
+    "communeCode": 3222,
+    "name": "Sông Lũy",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 253.33,
+    "population": 21243,
+    "administrativeCenter": "Xã Sông Lũy",
+    "longitude": 108.242,
+    "latitude": 11.2374,
+    "previous": [
+      "Xã Phan Tiến",
+      "Xã Bình Tân",
+      "Xã Sông Lũy"
+    ],
+    "treeCode": "2369.2471"
+  },
+  {
+    "id": 2472,
+    "communeCode": 3238,
+    "name": "Suối Kiết",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 378.61,
+    "population": 16656,
+    "administrativeCenter": "Xã Suối Kiết",
+    "longitude": 107.661,
+    "latitude": 10.9763,
+    "previous": [
+      "Xã Gia Huynh",
+      "Xã Suối Kiết"
+    ],
+    "treeCode": "2369.2472"
+  },
+  {
+    "id": 2473,
+    "communeCode": 2922,
+    "name": "Tà Đùng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 531.33,
+    "population": 22703,
+    "administrativeCenter": "Xã Đắk Som",
+    "longitude": 107.978,
+    "latitude": 11.9218,
+    "previous": [
+      "Xã Đắk Som",
+      "Xã Đắk R’Măng"
+    ],
+    "treeCode": "2369.2473"
+  },
+  {
+    "id": 2474,
+    "communeCode": 530,
+    "name": "Tà Hine",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 128.69,
+    "population": 23027,
+    "administrativeCenter": "UBND xã Tà Hine",
+    "longitude": 108.364,
+    "latitude": 11.5676,
+    "previous": [
+      "Xã Ninh Loan",
+      "Xã Đà Loan",
+      "Xã Tà Hine"
+    ],
+    "treeCode": "2369.2474"
+  },
+  {
+    "id": 2475,
+    "communeCode": 529,
+    "name": "Tà Năng",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 258.33,
+    "population": 13077,
+    "administrativeCenter": "UBND xã Tà Năng",
+    "longitude": 108.494,
+    "latitude": 11.5905,
+    "previous": [
+      "Xã Đa Quyn",
+      "Xã Tà Năng"
+    ],
+    "treeCode": "2369.2475"
+  },
+  {
+    "id": 2476,
+    "communeCode": 520,
+    "name": "Tân Hà Lâm Hà",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 168.9,
+    "population": null,
+    "administrativeCenter": "UBND xã Tân Hà",
+    "longitude": 108.164,
+    "latitude": 11.7119,
+    "previous": [
+      "Xã Tân Hà (huyện Lâm Hà)",
+      "Xã Hoài Đức",
+      "Xã Đan Phượng",
+      "Xã Liên Hà"
+    ],
+    "treeCode": "2369.2476"
+  },
+  {
+    "id": 2477,
+    "communeCode": 3247,
+    "name": "Tân Hải",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 77.18,
+    "population": 25626,
+    "administrativeCenter": "Xã Tân Tiến",
+    "longitude": 107.825,
+    "latitude": 10.7449,
+    "previous": [
+      "Xã Tân Tiến",
+      "Xã Tân Hải"
+    ],
+    "treeCode": "2369.2477"
+  },
+  {
+    "id": 2478,
+    "communeCode": 527,
+    "name": "Tân Hội",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 146.28,
+    "population": 4945,
+    "administrativeCenter": "Trụ sở UBND xã Tân Hội",
+    "longitude": 108.29,
+    "latitude": 11.7135,
+    "previous": [
+      "Xã Tân Thành (huyện Đức Trọng)",
+      "Xã N’ Thôn Hạ",
+      "Xã Tân Hội"
+    ],
+    "treeCode": "2369.2478"
+  },
+  {
+    "id": 2479,
+    "communeCode": 3232,
+    "name": "Tân Lập",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 257.61,
+    "population": 1681,
+    "administrativeCenter": "Xã Tân Lập",
+    "longitude": 107.795,
+    "latitude": 10.8662,
+    "previous": [
+      "Xã Sông Phan",
+      "Xã Tân Lập"
+    ],
+    "treeCode": "2369.2479"
+  },
+  {
+    "id": 2480,
+    "communeCode": 3243,
+    "name": "Tân Minh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 223.76,
+    "population": 22292,
+    "administrativeCenter": "Thị trấn Tân Minh",
+    "longitude": 107.63,
+    "latitude": 10.8464,
+    "previous": [
+      "Thị trấn Tân Minh",
+      "Xã Tân Đức",
+      "Xã Tân Phúc"
+    ],
+    "treeCode": "2369.2480"
+  },
+  {
+    "id": 2481,
+    "communeCode": 3233,
+    "name": "Tân Thành",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 64.8,
+    "population": 30611,
+    "administrativeCenter": "Xã Tân Thành",
+    "longitude": 107.973,
+    "latitude": 10.7599,
+    "previous": [
+      "Xã Tân Thành (huyện Hàm Thuận Nam)",
+      "Xã Thuận Quý",
+      "Xã Tân Thuận"
+    ],
+    "treeCode": "2369.2481"
+  },
+  {
+    "id": 2482,
+    "communeCode": 3234,
+    "name": "Tánh Linh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 271.39,
+    "population": 46741,
+    "administrativeCenter": "Thị trấn Lạc Tánh",
+    "longitude": 107.688,
+    "latitude": 11.0699,
+    "previous": [
+      "Thị trấn Lạc Tánh",
+      "Xã Gia An",
+      "Xã Đức Thuận"
+    ],
+    "treeCode": "2369.2482"
+  },
+  {
+    "id": 2483,
+    "communeCode": 2912,
+    "name": "Thuận An",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 315.81,
+    "population": 22625,
+    "administrativeCenter": "Xã Thuận An",
+    "longitude": 107.611,
+    "latitude": 12.5363,
+    "previous": [
+      "Xã Đắk Lao",
+      "Xã Thuận An"
+    ],
+    "treeCode": "2369.2483"
+  },
+  {
+    "id": 2484,
+    "communeCode": 2927,
+    "name": "Thuận Hạnh",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 129.78,
+    "population": 19236,
+    "administrativeCenter": "Xã Thuận Hà",
+    "longitude": 107.519,
+    "latitude": 12.2903,
+    "previous": [
+      "Xã Thuận Hà",
+      "Xã Thuận Hạnh"
+    ],
+    "treeCode": "2369.2484"
+  },
+  {
+    "id": 2485,
+    "communeCode": 3214,
+    "name": "Tiến Thành",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 55.06,
+    "population": 28395,
+    "administrativeCenter": "Phường Đức Long",
+    "longitude": 108.031,
+    "latitude": 10.8513,
+    "previous": [
+      "Phường Đức Long",
+      "Xã Tiến Thành"
+    ],
+    "treeCode": "2369.2485"
+  },
+  {
+    "id": 2486,
+    "communeCode": 3242,
+    "name": "Trà Tân",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 135.94,
+    "population": 29638,
+    "administrativeCenter": "Xã Trà Tân",
+    "longitude": 107.496,
+    "latitude": 11.0563,
+    "previous": [
+      "Xã Tân Hà (huyện Đức Linh)",
+      "Xã Đông Hà",
+      "Xã Trà Tân"
+    ],
+    "treeCode": "2369.2486"
+  },
+  {
+    "id": 2487,
+    "communeCode": 2928,
+    "name": "Trường Xuân",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 67.94,
+    "population": 36405,
+    "administrativeCenter": "Xã Trường Xuân",
+    "longitude": 107.652,
+    "latitude": 12.1499,
+    "previous": [
+      "Xã Nâm N’Jang",
+      "Xã Trường Xuân"
+    ],
+    "treeCode": "2369.2487"
+  },
+  {
+    "id": 2488,
+    "communeCode": 2984,
+    "name": "Tuy Đức",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 265.99,
+    "population": 31786,
+    "administrativeCenter": "Xã Đắk Búk So",
+    "longitude": 107.472,
+    "latitude": 12.1576,
+    "previous": [
+      "Xã Quảng Tâm",
+      "Xã Đắk R’Tíh",
+      "Xã Đắk Búk So"
+    ],
+    "treeCode": "2369.2488"
+  },
+  {
+    "id": 2489,
+    "communeCode": 3217,
+    "name": "Tuy Phong",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 444.1,
+    "population": 951,
+    "administrativeCenter": "UBND xã Phong Phú",
+    "longitude": 108.648,
+    "latitude": 11.4099,
+    "previous": [
+      "Xã Phan Dũng",
+      "Xã Phong Phú"
+    ],
+    "treeCode": "2369.2489"
+  },
+  {
+    "id": 2490,
+    "communeCode": 3208,
+    "name": "Tuyên Quang",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 38.17,
+    "population": 28817,
+    "administrativeCenter": "Xã Tiến Lợi",
+    "longitude": 108.039,
+    "latitude": 10.9266,
+    "previous": [
+      "Xã Tiến Lợi",
+      "Xã Hàm Mỹ"
+    ],
+    "treeCode": "2369.2490"
+  },
+  {
+    "id": 2491,
+    "communeCode": 3218,
+    "name": "Vĩnh Hảo",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "xã",
+    "areaKm2": 138.58,
+    "population": 15509,
+    "administrativeCenter": "UBND xã Vĩnh Hảo",
+    "longitude": 108.791,
+    "latitude": 11.3501,
+    "previous": [
+      "Xã Vĩnh Tân",
+      "Xã Vĩnh Hảo"
+    ],
+    "treeCode": "2369.2491"
+  },
+  {
+    "id": 2492,
+    "communeCode": 421,
+    "name": "Xuân Hương - Đà Lạt",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 73.45,
+    "population": 103178,
+    "administrativeCenter": "Thành ủy Đà Lạt, số 31 Đinh Tiên Hoàng",
+    "longitude": 108.443,
+    "latitude": 11.9033,
+    "previous": [
+      "Phường 1 (thành phố Đà Lạt)",
+      "Phường 2 (thành phố Đà Lạt)",
+      "Phường 3",
+      "Phường 4",
+      "Phường 10"
+    ],
+    "treeCode": "2369.2492"
+  },
+  {
+    "id": 2493,
+    "communeCode": 423,
+    "name": "Xuân Trường - Đà Lạt",
+    "provinceCode": 26,
+    "provinceName": "tỉnh Lâm Đồng",
+    "type": "phường",
+    "areaKm2": 168.83,
+    "population": 36163,
+    "administrativeCenter": "UBND xã Xuân Thọ thôn Đa Lộc",
+    "longitude": 108.531,
+    "latitude": 11.8993,
+    "previous": [
+      "Phường 11",
+      "Xã Xuân Thọ",
+      "Xã Xuân Trường",
+      "Xã Trạm Hành"
+    ],
+    "treeCode": "2369.2493"
+  }
+]

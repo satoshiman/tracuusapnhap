@@ -1,0 +1,3183 @@
+[
+  {
+    "id": 2688,
+    "communeCode": 177,
+    "name": "An Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.32,
+    "population": 81229,
+    "administrativeCenter": "209 An Dương Vương, phường 7, quận 5 cũ",
+    "longitude": 106.672,
+    "latitude": 10.7548,
+    "previous": [
+      "Phường 5",
+      "Phường 7",
+      "Phường 9 (Quận 5)"
+    ],
+    "treeCode": "2687.2688"
+  },
+  {
+    "id": 2689,
+    "communeCode": 75,
+    "name": "An Hội Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.29,
+    "population": 123681,
+    "administrativeCenter": "328 Thống Nhất, Phường 16, quận Gò Vấp cũ",
+    "longitude": 106.667,
+    "latitude": 10.8501,
+    "previous": [
+      "Phường 15",
+      "Phường 16 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2689"
+  },
+  {
+    "id": 2690,
+    "communeCode": 78,
+    "name": "An Hội Tây",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.81,
+    "population": 121004,
+    "administrativeCenter": "397 Phan Huy Ích, phường 14, quận Gò Vấp cũ",
+    "longitude": 106.638,
+    "latitude": 10.8389,
+    "previous": [
+      "Phường 12",
+      "Phường 14 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2690"
+  },
+  {
+    "id": 2691,
+    "communeCode": 119,
+    "name": "An Khánh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 15.33,
+    "population": 76967,
+    "administrativeCenter": "171/1 Lương Định Của, phường An Khánh, TP Thủ Đức cũ",
+    "longitude": 106.732,
+    "latitude": 10.7882,
+    "previous": [
+      "Phường Thủ Thiêm",
+      "Phường An Lợi Đông",
+      "Phường Thảo Điền",
+      "Phường An Khánh",
+      "Phường An Phú (thành phố Thủ Đức)"
+    ],
+    "treeCode": "2687.2691"
+  },
+  {
+    "id": 2692,
+    "communeCode": 218,
+    "name": "An Lạc",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 10.47,
+    "population": 172134,
+    "administrativeCenter": "521 Kinh Dương Vương, phường An Lạc, quận Bình Tân cũ",
+    "longitude": 106.612,
+    "latitude": 10.736,
+    "previous": [
+      "Phường Bình Trị Đông B",
+      "Phường An Lạc A",
+      "Phường An Lạc"
+    ],
+    "treeCode": "2687.2692"
+  },
+  {
+    "id": 2693,
+    "communeCode": 19,
+    "name": "An Long",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 72.2,
+    "population": 5005,
+    "administrativeCenter": "Tổ 04, ấp Xóm Quạt, xã An Long, huyện Phú Giáo, tỉnh Bình Dương cũ",
+    "longitude": 106.699,
+    "latitude": 11.3269,
+    "previous": [
+      "Xã An Linh",
+      "Xã Tân Long",
+      "Xã An Long"
+    ],
+    "treeCode": "2687.2693"
+  },
+  {
+    "id": 2694,
+    "communeCode": 77,
+    "name": "An Nhơn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.23,
+    "population": 114498,
+    "administrativeCenter": "1C Nguyễn Văn Lượng, phường 6, Gò Vấp cũ",
+    "longitude": 106.683,
+    "latitude": 10.8427,
+    "previous": [
+      "Phường 5",
+      "Phường 6 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2694"
+  },
+  {
+    "id": 2695,
+    "communeCode": 110,
+    "name": "An Nhơn Tây",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 77.7,
+    "population": 40896,
+    "administrativeCenter": "1407 đường Tỉnh lộ 7, xã An Nhơn Tây, huyện Củ Chi cũ",
+    "longitude": 106.483,
+    "latitude": 11.1015,
+    "previous": [
+      "Xã Phú Mỹ Hưng",
+      "Xã An Phú",
+      "Xã An Nhơn Tây"
+    ],
+    "treeCode": "2687.2695"
+  },
+  {
+    "id": 2696,
+    "communeCode": 34,
+    "name": "An Phú",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.85,
+    "population": 16293,
+    "administrativeCenter": "ĐT743, khu phố 1A, phường An Phú, TP Thuận An, tỉnh Bình Dương cũ",
+    "longitude": 106.736,
+    "latitude": 10.9593,
+    "previous": [
+      "Phường An Phú (thành phố Thuận An)",
+      "Phường Bình Chuẩn"
+    ],
+    "treeCode": "2687.2696"
+  },
+  {
+    "id": 2697,
+    "communeCode": 149,
+    "name": "An Phú Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 14.59,
+    "population": 179115,
+    "administrativeCenter": "Trụ sở UBND phường Thạnh Lộc, quận 12 cũ",
+    "longitude": 106.693,
+    "latitude": 10.8625,
+    "previous": [
+      "Phường Thạnh Lộc",
+      "Phường An Phú Đông"
+    ],
+    "treeCode": "2687.2697"
+  },
+  {
+    "id": 2698,
+    "communeCode": 147,
+    "name": "An Thới Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 257.85,
+    "population": 22607,
+    "administrativeCenter": "Trụ sở UBND xã An Thới Đông cũ, ấp An Hòa 1, huyện Cần Giờ cũ",
+    "longitude": 106.808,
+    "latitude": 10.5006,
+    "previous": [
+      "Xã Lý Nhơn",
+      "Xã An Thới Đông"
+    ],
+    "treeCode": "2687.2698"
+  },
+  {
+    "id": 2699,
+    "communeCode": 131,
+    "name": "Bà Điểm",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 27.36,
+    "population": 204289,
+    "administrativeCenter": "Trụ sở Đảng ủy - HĐND - UBND xã Bà Điểm cũ",
+    "longitude": 106.55,
+    "latitude": 10.8567,
+    "previous": [
+      "Xã Xuân Thới Thượng",
+      "Xã Trung Chánh",
+      "Xã Bà Điểm"
+    ],
+    "treeCode": "2687.2699"
+  },
+  {
+    "id": 2700,
+    "communeCode": 2369,
+    "name": "Bà Rịa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 15.55,
+    "population": 52265,
+    "administrativeCenter": "137 đường 27/4 phường Phước Trung, thành phố Bà Rịa, tỉnh Bà Rịa-Vũng Tàu cũ",
+    "longitude": 107.182,
+    "latitude": 10.4925,
+    "previous": [
+      "Phường Phước Trung",
+      "Phường Phước Nguyên",
+      "Phường Long Toàn",
+      "Phường Phước Hưng"
+    ],
+    "treeCode": "2687.2700"
+  },
+  {
+    "id": 2701,
+    "communeCode": 23,
+    "name": "Bắc Tân Uyên",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 143.69,
+    "population": 27964,
+    "administrativeCenter": "Khu phố 2, thị trấn Tân Thành, huyện Bắc Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.865,
+    "latitude": 11.1707,
+    "previous": [
+      "Thị trấn Tân Thành",
+      "Xã Đất Cuốc",
+      "Xã Tân Định"
+    ],
+    "treeCode": "2687.2701"
+  },
+  {
+    "id": 2702,
+    "communeCode": 133,
+    "name": "Bàn Cờ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 0.99,
+    "population": 67616,
+    "administrativeCenter": "296-298 Nguyễn Thiện Thuật, phường 3, quận 3 cũ",
+    "longitude": 106.682,
+    "latitude": 10.7705,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3",
+      "Phường 5",
+      "Phường 4 (Quận 3)"
+    ],
+    "treeCode": "2687.2702"
+  },
+  {
+    "id": 2703,
+    "communeCode": 11,
+    "name": "Bàu Bàng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 84.09,
+    "population": 42219,
+    "administrativeCenter": "Trung tâm hành chính huyện Bàu Bàng, khu phố Đồng Sổ, thị trấn Lai Uyên, Huyện Bàu Bàng, tỉnh Bình Dương cũ",
+    "longitude": 106.623,
+    "latitude": 11.2824,
+    "previous": [
+      "Thị trấn Lai Uyên"
+    ],
+    "treeCode": "2687.2703"
+  },
+  {
+    "id": 2704,
+    "communeCode": 2341,
+    "name": "Bàu Lâm",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 123.83,
+    "population": 22567,
+    "administrativeCenter": "Ấp 2 Đông, xã Bàu Lâm, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.418,
+    "latitude": 10.7308,
+    "previous": [
+      "Xã Tân Lâm",
+      "Xã Bàu Lâm"
+    ],
+    "treeCode": "2687.2704"
+  },
+  {
+    "id": 2705,
+    "communeCode": 103,
+    "name": "Bảy Hiền",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.86,
+    "population": 132252,
+    "administrativeCenter": "1129/20 Lạc Long Quân, phường 11, quận Tân Bình cũ",
+    "longitude": 106.649,
+    "latitude": 10.7922,
+    "previous": [
+      "Phường 10",
+      "Phường 11",
+      "Phường 12 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2705"
+  },
+  {
+    "id": 2706,
+    "communeCode": 9,
+    "name": "Bến Cát",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 100.89,
+    "population": 97928,
+    "administrativeCenter": "KP2, phường Mỹ Phước, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.605,
+    "latitude": 11.1908,
+    "previous": [
+      "Xã Tân Hưng (huyện Bàu Bàng)",
+      "Xã Lai Hưng",
+      "Phường Mỹ Phước"
+    ],
+    "treeCode": "2687.2706"
+  },
+  {
+    "id": 2707,
+    "communeCode": 38,
+    "name": "Bến Thành",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.85,
+    "population": 71785,
+    "administrativeCenter": "92 Nguyễn Trãi, phường Bến Thành, quận 1 cũ và 238 - 240 Đề Thám, phường Phạm Ngũ Lão, quận 1 cũ",
+    "longitude": 106.694,
+    "latitude": 10.7713,
+    "previous": [
+      "Phường Bến Thành",
+      "Phường Phạm Ngũ Lão",
+      "Phường Cầu Ông Lãnh",
+      "Phường Nguyễn Thái Bình"
+    ],
+    "treeCode": "2687.2707"
+  },
+  {
+    "id": 2708,
+    "communeCode": 142,
+    "name": "Bình Chánh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 21.33,
+    "population": 76187,
+    "administrativeCenter": "345 đường Trịnh Như Khuê, xã Bình Khánh, huyện Bình Chánh cũ",
+    "longitude": 106.586,
+    "latitude": 10.6662,
+    "previous": [
+      "Xã Tân Quý Tây",
+      "Xã Bình Chánh",
+      "Xã An Phú Tây"
+    ],
+    "treeCode": "2687.2708"
+  },
+  {
+    "id": 2709,
+    "communeCode": 2344,
+    "name": "Bình Châu",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 87.06,
+    "population": 26054,
+    "administrativeCenter": "Quốc lộ 55, ấp Láng Găng, xã Bình Châu, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.532,
+    "latitude": 10.5913,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2687.2709"
+  },
+  {
+    "id": 2710,
+    "communeCode": 24,
+    "name": "Bình Cơ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 73.69,
+    "population": 64601,
+    "administrativeCenter": "ĐT 747, khu phố 2, phường Hội Nghĩa, TP Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.765,
+    "latitude": 11.153,
+    "previous": [
+      "Xã Bình Mỹ (huyện Bắc Tân Uyên)",
+      "Phường Hội Nghĩa"
+    ],
+    "treeCode": "2687.2710"
+  },
+  {
+    "id": 2711,
+    "communeCode": 205,
+    "name": "Bình Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.93,
+    "population": 155555,
+    "administrativeCenter": "1094 Tạ Quang Bửu, phường 6, quận 8 cũ",
+    "longitude": 106.612,
+    "latitude": 10.7012,
+    "previous": [
+      "Phường 6 (Quận 8)",
+      "Phường 7 (Quận 8)",
+      "Xã An Phú Tây",
+      "Phường 5 (Quận 8)"
+    ],
+    "treeCode": "2687.2711"
+  },
+  {
+    "id": 2712,
+    "communeCode": 3,
+    "name": "Bình Dương",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 58.16,
+    "population": 107576,
+    "administrativeCenter": "357 đường Võ Nguyên Giáp, khu phố 1, phường Hòa Phú, TP Thủ Dầu Một, tỉnh Bình Dương cũ",
+    "longitude": 106.687,
+    "latitude": 11.0528,
+    "previous": [
+      "Phường Phú Mỹ (thành phố Thủ Dầu Một)",
+      "Phường Hòa Phú",
+      "Phường Phú Tân",
+      "Phường Phú Chánh"
+    ],
+    "treeCode": "2687.2712"
+  },
+  {
+    "id": 2713,
+    "communeCode": 2360,
+    "name": "Bình Giã",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 66.96,
+    "population": 34262,
+    "administrativeCenter": "Tổ 2, ấp Vĩnh Bình, xã Bình Giã, huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.282,
+    "latitude": 10.6717,
+    "previous": [
+      "Xã Bình Trung",
+      "Xã Quảng Thành",
+      "Xã Bình Giã"
+    ],
+    "treeCode": "2687.2713"
+  },
+  {
+    "id": 2714,
+    "communeCode": 35,
+    "name": "Bình Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 18.49,
+    "population": 120035,
+    "administrativeCenter": "ĐT 743C, khu phố Bình Đức 1, phường Bình Hoà, TP Thuận An, tỉnh Bình Dương cũ",
+    "longitude": 106.723,
+    "latitude": 10.9036,
+    "previous": [
+      "Phường Bình Hòa",
+      "Phường Vĩnh Phú"
+    ],
+    "treeCode": "2687.2714"
+  },
+  {
+    "id": 2715,
+    "communeCode": 138,
+    "name": "Bình Hưng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 32.63,
+    "population": 183697,
+    "administrativeCenter": "A10/26A, đường số 10, khu dân cư Bình Hưng, ấp 6, xã Bình Hưng, huyện Bình Chánh cũ",
+    "longitude": 106.66,
+    "latitude": 10.7067,
+    "previous": [
+      "Xã Phong Phú",
+      "Xã Bình Hưng",
+      "Phường 7 (Quận 8)"
+    ],
+    "treeCode": "2687.2715"
+  },
+  {
+    "id": 2716,
+    "communeCode": 206,
+    "name": "Bình Hưng Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.47,
+    "population": 18795,
+    "administrativeCenter": "621 Tân Kỳ Tân Quý, phường Bình Hưng Hòa A, quận Bình Tân cũ",
+    "longitude": 106.605,
+    "latitude": 10.8027,
+    "previous": [
+      "Phường Bình Hưng Hòa",
+      "Phường Sơn Kỳ",
+      "Phường Bình Hưng Hòa A"
+    ],
+    "treeCode": "2687.2716"
+  },
+  {
+    "id": 2717,
+    "communeCode": 146,
+    "name": "Bình Khánh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 158.28,
+    "population": 35482,
+    "administrativeCenter": "Trụ sở UBND xã Bình Khánh cũ, tọa lạc đường Rừng Sác, ấp Bình An 1, huyện Cần Giờ cũ",
+    "longitude": 106.887,
+    "latitude": 10.5788,
+    "previous": [
+      "Xã Tam Thôn Hiệp",
+      "Xã Bình Khánh",
+      "Xã An Thới Đông"
+    ],
+    "treeCode": "2687.2717"
+  },
+  {
+    "id": 2718,
+    "communeCode": 137,
+    "name": "Bình Lợi",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 54.18,
+    "population": 4718,
+    "administrativeCenter": "1905 đường Trần Văn Giàu, xã Lê Minh Xuân, huyện Bình Chánh cũ và 1060 đường Vườn Thơm, xã Bình Lợi, huyện Bình Chánh cũ",
+    "longitude": 106.516,
+    "latitude": 10.754,
+    "previous": [
+      "Xã Lê Minh Xuân",
+      "Xã Bình Lợi"
+    ],
+    "treeCode": "2687.2718"
+  },
+  {
+    "id": 2719,
+    "communeCode": 92,
+    "name": "Bình Lợi Trung",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.89,
+    "population": 116121,
+    "administrativeCenter": "355/5 Nơ Trang Long, phường 13, quận Bình Thạnh cũ",
+    "longitude": 106.706,
+    "latitude": 10.8273,
+    "previous": [
+      "Phường 5",
+      "Phường 11",
+      "Phường 13 (quận Bình Thạnh)"
+    ],
+    "treeCode": "2687.2719"
+  },
+  {
+    "id": 2720,
+    "communeCode": 126,
+    "name": "Bình Mỹ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 82.62,
+    "population": 6865,
+    "administrativeCenter": "1627 ấp 1A, xã Hòa Phú, huyện Củ Chi cũ",
+    "longitude": 106.635,
+    "latitude": 10.947,
+    "previous": [
+      "Xã Bình Mỹ (huyện Củ Chi)",
+      "Xã Hòa Phú",
+      "Xã Trung An"
+    ],
+    "treeCode": "2687.2720"
+  },
+  {
+    "id": 2721,
+    "communeCode": 196,
+    "name": "Bình Phú",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.86,
+    "population": 75925,
+    "administrativeCenter": "15 đường Chợ Lớn, phường, quận 6 cũ",
+    "longitude": 106.629,
+    "latitude": 10.7388,
+    "previous": [
+      "Phường 10",
+      "Phường 11 (Quận 6)",
+      "Phường 16 (Quận 8)"
+    ],
+    "treeCode": "2687.2721"
+  },
+  {
+    "id": 2722,
+    "communeCode": 96,
+    "name": "Bình Quới",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 6.34,
+    "population": 462,
+    "administrativeCenter": "1 khu hành chính Thanh Đa, phường 27, quận Bình Thạnh cũ",
+    "longitude": 106.742,
+    "latitude": 10.822,
+    "previous": [
+      "Phường 27",
+      "Phường 28"
+    ],
+    "treeCode": "2687.2722"
+  },
+  {
+    "id": 2723,
+    "communeCode": 217,
+    "name": "Bình Tân",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 11.25,
+    "population": 161851,
+    "administrativeCenter": "43 đường số 16, phường Bình Hưng Hòa B, quận Bình Tân cũ",
+    "longitude": 106.594,
+    "latitude": 10.8059,
+    "previous": [
+      "Phường Bình Hưng Hòa B",
+      "Phường Bình Trị Đông A",
+      "Phường Tân Tạo"
+    ],
+    "treeCode": "2687.2723"
+  },
+  {
+    "id": 2724,
+    "communeCode": 195,
+    "name": "Bình Tây",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.05,
+    "population": 63293,
+    "administrativeCenter": "178/7R Hậu Giang, phường 2, quận 6 cũ",
+    "longitude": 106.645,
+    "latitude": 10.7507,
+    "previous": [
+      "Phường 2",
+      "Phường 9 (Quận 6)"
+    ],
+    "treeCode": "2687.2724"
+  },
+  {
+    "id": 2725,
+    "communeCode": 93,
+    "name": "Bình Thạnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.32,
+    "population": 1263,
+    "administrativeCenter": "6 Phan Đăng Lưu, phường 14, quận Bình Thạnh cũ",
+    "longitude": 106.705,
+    "latitude": 10.8109,
+    "previous": [
+      "Phường 12",
+      "Phường 14 (quận Bình Thạnh)",
+      "Phường 26"
+    ],
+    "treeCode": "2687.2725"
+  },
+  {
+    "id": 2726,
+    "communeCode": 140,
+    "name": "Bình Thới",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.52,
+    "population": 76478,
+    "administrativeCenter": "268 - 270 Bình Thới, quận 11 cũ",
+    "longitude": 106.642,
+    "latitude": 10.7626,
+    "previous": [
+      "Phường 3",
+      "Phường 10 (Quận 11)",
+      "Phường 8 (Quận 11)"
+    ],
+    "treeCode": "2687.2726"
+  },
+  {
+    "id": 2727,
+    "communeCode": 97,
+    "name": "Bình Tiên",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.61,
+    "population": 9152,
+    "administrativeCenter": "107 đường Cao Văn Lầu, phường 1, quận 6 cũ",
+    "longitude": 106.643,
+    "latitude": 10.7425,
+    "previous": [
+      "Phường 1",
+      "Phường 7",
+      "Phường 8 (Quận 6)"
+    ],
+    "treeCode": "2687.2727"
+  },
+  {
+    "id": 2728,
+    "communeCode": 216,
+    "name": "Bình Trị Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 7.15,
+    "population": 165142,
+    "administrativeCenter": "162 Mã Lò, phường Bình Trị Đông A, quận Bình Tân cũ",
+    "longitude": 106.608,
+    "latitude": 10.7723,
+    "previous": [
+      "Phường Bình Trị Đông",
+      "Phường Bình Hưng Hòa A",
+      "Phường Bình Trị Đông A"
+    ],
+    "treeCode": "2687.2728"
+  },
+  {
+    "id": 2729,
+    "communeCode": 120,
+    "name": "Bình Trưng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 14.82,
+    "population": 121382,
+    "administrativeCenter": "8 đường Hồ Thị Nhung, khu phố 4, phường Bình Trưng Đông, TP Thủ Đức cũ",
+    "longitude": 106.767,
+    "latitude": 10.795,
+    "previous": [
+      "Phường Bình Trưng Đông",
+      "Phường Bình Trưng Tây",
+      "Phường An Phú (thành phố Thủ Đức)"
+    ],
+    "treeCode": "2687.2729"
+  },
+  {
+    "id": 2730,
+    "communeCode": 145,
+    "name": "Cần Giờ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 157.01,
+    "population": 2713,
+    "administrativeCenter": "48 đường Lương Văn Nho, khu phố Giồng Ao, thị trấn Cần Thạnh, huyện Cần Giờ cũ",
+    "longitude": 106.908,
+    "latitude": 10.4524,
+    "previous": [
+      "Xã Long Hòa (huyện Cần Giờ)",
+      "Thị trấn Cần Thạnh"
+    ],
+    "treeCode": "2687.2730"
+  },
+  {
+    "id": 2731,
+    "communeCode": 121,
+    "name": "Cát Lái",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 19.65,
+    "population": 68654,
+    "administrativeCenter": "45 Phan Bá Vành, phường Thạnh Mỹ Lợi, TP Thủ Đức cũ",
+    "longitude": 106.773,
+    "latitude": 10.7634,
+    "previous": [
+      "Phường Thạnh Mỹ Lợi",
+      "Phường Cát Lái"
+    ],
+    "treeCode": "2687.2731"
+  },
+  {
+    "id": 2732,
+    "communeCode": 115,
+    "name": "Cầu Kiệu",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.23,
+    "population": 62663,
+    "administrativeCenter": "18 Đoàn Thị Điểm, quận Phú Nhuận cũ",
+    "longitude": 106.689,
+    "latitude": 10.7995,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 7 (quận Phú Nhuận)",
+      "Phường 15 (quận Phú Nhuận)"
+    ],
+    "treeCode": "2687.2732"
+  },
+  {
+    "id": 2733,
+    "communeCode": 39,
+    "name": "Cầu Ông Lãnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.6,
+    "population": 78734,
+    "administrativeCenter": "105 Trần Đình Xu, phường Nguyễn Cư Trinh, quận 1 cũ",
+    "longitude": 106.69,
+    "latitude": 10.7607,
+    "previous": [
+      "Phường Nguyễn Cư Trinh",
+      "Phường Cầu Kho",
+      "Phường Cô Giang",
+      "Phường Cầu Ông Lãnh"
+    ],
+    "treeCode": "2687.2733"
+  },
+  {
+    "id": 2734,
+    "communeCode": 2,
+    "name": "Chánh Hiệp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 19.89,
+    "population": 57176,
+    "administrativeCenter": "279 đường Hồ Văn Cống, khu phố 3, phường Tương Bình Hiệp, TP Thủ Dầu Một, tỉnh Bình Dương cũ",
+    "longitude": 106.64,
+    "latitude": 11.0127,
+    "previous": [
+      "Phường Định Hòa",
+      "Phường Tương Bình Hiệp",
+      "Phường Hiệp An",
+      "Phường Chánh Mỹ"
+    ],
+    "treeCode": "2687.2734"
+  },
+  {
+    "id": 2735,
+    "communeCode": 199,
+    "name": "Chánh Hưng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 4.61,
+    "population": 190707,
+    "administrativeCenter": "39 Dương Bạch Mai, phường 5, quận 8 cũ",
+    "longitude": 106.677,
+    "latitude": 10.7434,
+    "previous": [
+      "Phường 4 (Quận 8)",
+      "Rạch Ông",
+      "Phường Hưng Phú",
+      "Phường 5 (Quận 8)"
+    ],
+    "treeCode": "2687.2735"
+  },
+  {
+    "id": 2736,
+    "communeCode": 13,
+    "name": "Chánh Phú Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 69.54,
+    "population": 53916,
+    "administrativeCenter": "đường ĐTT 741, khu phố 9, phường Chánh Phú Hòa, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.67,
+    "latitude": 11.1849,
+    "previous": [
+      "Phường Chánh Phú Hòa",
+      "Xã Hưng Hòa"
+    ],
+    "treeCode": "2687.2736"
+  },
+  {
+    "id": 2737,
+    "communeCode": 2361,
+    "name": "Châu Đức",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 84.66,
+    "population": 2824,
+    "administrativeCenter": "Ấp Liên Lộc, xã Xà Bang, huyện Châu Đức, tỉnh Bà Rịa Vũng Tàu cũ",
+    "longitude": 107.208,
+    "latitude": 10.7336,
+    "previous": [
+      "Xã Cù Bị",
+      "Xã Xà Bang"
+    ],
+    "treeCode": "2687.2737"
+  },
+  {
+    "id": 2738,
+    "communeCode": 2353,
+    "name": "Châu Pha",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 65.64,
+    "population": 25438,
+    "administrativeCenter": "Xã Châu Pha, TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.132,
+    "latitude": 10.5864,
+    "previous": [
+      "Xã Tóc Tiên",
+      "Xã Châu Pha"
+    ],
+    "treeCode": "2687.2738"
+  },
+  {
+    "id": 2739,
+    "communeCode": 178,
+    "name": "Chợ Lớn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.67,
+    "population": 85066,
+    "administrativeCenter": "131 Triệu Quang Phục, phường 11, quận 5 cũ",
+    "longitude": 106.659,
+    "latitude": 10.7532,
+    "previous": [
+      "Phường 11",
+      "Phường 12",
+      "Phường 13",
+      "Phường 14 (Quận 5)"
+    ],
+    "treeCode": "2687.2739"
+  },
+  {
+    "id": 2740,
+    "communeCode": 176,
+    "name": "Chợ Quán",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.28,
+    "population": 63545,
+    "administrativeCenter": "462-464 An Dương Vương, phường 4, quận 5 cũ",
+    "longitude": 106.681,
+    "latitude": 10.7574,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 4 (Quận 5)"
+    ],
+    "treeCode": "2687.2740"
+  },
+  {
+    "id": 2741,
+    "communeCode": 3311,
+    "name": "Côn Đảo",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "đặc khu",
+    "areaKm2": 75.79,
+    "population": 6500,
+    "administrativeCenter": "28 đường Tôn Đức Thắng, huyện Côn Đảo, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 106.6115,
+    "latitude": 8.6981,
+    "previous": [
+      "Huyện Côn Đảo"
+    ],
+    "treeCode": "2687.2741"
+  },
+  {
+    "id": 2742,
+    "communeCode": 124,
+    "name": "Củ Chi",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 64.88,
+    "population": 128661,
+    "administrativeCenter": "314 đường Phan Văn Khải, ấp Đình B, xã Tân Phú Trung, huyện Củ Chi cũ",
+    "longitude": 106.533,
+    "latitude": 10.9518,
+    "previous": [
+      "Xã Tân Phú Trung",
+      "Xã Tân Thông Hội",
+      "Xã Phước Vĩnh An"
+    ],
+    "treeCode": "2687.2742"
+  },
+  {
+    "id": 2743,
+    "communeCode": 2347,
+    "name": "Đất Đỏ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 119.759,
+    "population": null,
+    "administrativeCenter": "KP Hiệp Hòa, TT Đất Đỏ, huyện Long Đất, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.304,
+    "latitude": 10.5203,
+    "previous": [
+      "Thị trấn Đất Đỏ",
+      "Xã Long Tân (huyện Long Đất)",
+      "Xã Láng Dài",
+      "Xã Phước Long Thọ"
+    ],
+    "treeCode": "2687.2743"
+  },
+  {
+    "id": 2744,
+    "communeCode": 4,
+    "name": "Dầu Tiếng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 182.69,
+    "population": 39056,
+    "administrativeCenter": "Đường Hùng Vương, KP4B, thị trấn Dầu Tiếng, huyện Dầu Tiếng, tỉnh Bình Dương cũ",
+    "longitude": 106.394,
+    "latitude": 11.3413,
+    "previous": [
+      "Thị trấn Dầu Tiếng",
+      "Xã Định An",
+      "Xã Định Thành",
+      "Xã Định Hiệp"
+    ],
+    "treeCode": "2687.2744"
+  },
+  {
+    "id": 2745,
+    "communeCode": 28,
+    "name": "Dĩ An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 21.38,
+    "population": 227817,
+    "administrativeCenter": "10 Trung tâm hành chính, phường Dĩ An, tỉnh Bình Dương cũ",
+    "longitude": 106.759,
+    "latitude": 10.9034,
+    "previous": [
+      "Phường An Bình",
+      "Phường Dĩ An",
+      "Phường Tân Đông Hiệp"
+    ],
+    "treeCode": "2687.2745"
+  },
+  {
+    "id": 2746,
+    "communeCode": 122,
+    "name": "Diên Hồng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.86,
+    "population": 75633,
+    "administrativeCenter": "01A Thành Thái, phường 14, quận 10 cũ",
+    "longitude": 106.662,
+    "latitude": 10.7691,
+    "previous": [
+      "Phường 6",
+      "Phường 8 (Quận 10)",
+      "Phường 14 (Quận 10)"
+    ],
+    "treeCode": "2687.2746"
+  },
+  {
+    "id": 2747,
+    "communeCode": 30,
+    "name": "Đông Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 21.89,
+    "population": 132056,
+    "administrativeCenter": "153 Quốc lộ 1K, phường Đông Hoà, tỉnh Bình Dương cũ",
+    "longitude": 106.8,
+    "latitude": 10.8935,
+    "previous": [
+      "Phường Bình An",
+      "Phường Bình Thắng",
+      "Phường Đông Hòa"
+    ],
+    "treeCode": "2687.2747"
+  },
+  {
+    "id": 2748,
+    "communeCode": 56,
+    "name": "Đông Hưng Thuận",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.26,
+    "population": 182895,
+    "administrativeCenter": "Trụ sở UBND phường Tân Thới Nhất, quận 12 cũ",
+    "longitude": 106.622,
+    "latitude": 10.8357,
+    "previous": [
+      "Phường Tân Thới Nhất",
+      "Phường Tân Hưng Thuận",
+      "Phường Đông Hưng Thuận"
+    ],
+    "treeCode": "2687.2748"
+  },
+  {
+    "id": 2749,
+    "communeCode": 129,
+    "name": "Đông Thạnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 30.16,
+    "population": 1904,
+    "administrativeCenter": "Trụ sở Đảng ủy - HĐND - UBND xã Đông Thạnh cũ",
+    "longitude": 106.645,
+    "latitude": 10.9069,
+    "previous": [
+      "Xã Thới Tam Thôn",
+      "Xã Nhị Bình",
+      "Xã Đông Thạnh"
+    ],
+    "treeCode": "2687.2749"
+  },
+  {
+    "id": 2750,
+    "communeCode": 114,
+    "name": "Đức Nhuận",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.17,
+    "population": 71495,
+    "administrativeCenter": "744 Nguyễn Kiệm, quận Phú Nhuận cũ",
+    "longitude": 106.677,
+    "latitude": 10.8055,
+    "previous": [
+      "Phường 4",
+      "Phường 5",
+      "Phường 9 (quận Phú Nhuận)"
+    ],
+    "treeCode": "2687.2750"
+  },
+  {
+    "id": 2751,
+    "communeCode": 95,
+    "name": "Gia Định",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.76,
+    "population": 125946,
+    "administrativeCenter": "Tạm thời sử dụng trụ sở UBND phường 7, Bình Thạnh cũ, 58 Hoàng Hoa Thám, phường 7 và trụ sở UBND phường 2 cũ, số 14 Phan Bội Châu, phường 2.\nDự kiến xây dựng trụ sở UBND phường Gia Định tại số 134 Lê Văn Duyệt, phường 1, quận Bình Thạnh cũ",
+    "longitude": 106.699,
+    "latitude": 10.7983,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 7",
+      "Phường 17 (quận Bình Thạnh)"
+    ],
+    "treeCode": "2687.2751"
+  },
+  {
+    "id": 2752,
+    "communeCode": 76,
+    "name": "Gò Vấp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.81,
+    "population": 11085,
+    "administrativeCenter": "332 Quang Trung, phường 10, Quận Gò Vấp cũ",
+    "longitude": 106.673,
+    "latitude": 10.8358,
+    "previous": [
+      "Phường 10",
+      "Phường 17 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2752"
+  },
+  {
+    "id": 2753,
+    "communeCode": 81,
+    "name": "Hạnh Thông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.37,
+    "population": 128865,
+    "administrativeCenter": "306 Nguyễn Văn Nghi, phường 1, quận Gò Vấp cũ",
+    "longitude": 106.683,
+    "latitude": 10.8213,
+    "previous": [
+      "Phường 1",
+      "Phường 3 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2753"
+  },
+  {
+    "id": 2754,
+    "communeCode": 41,
+    "name": "Hiệp Bình",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.01,
+    "population": 215638,
+    "administrativeCenter": "721 Quốc lộ 13, khu phố 3, phường Hiệp Bình Phước, TP Thủ Đức cũ",
+    "longitude": 106.722,
+    "latitude": 10.8431,
+    "previous": [
+      "Phường Hiệp Bình Chánh",
+      "Phường Hiệp Bình Phước",
+      "Phường Linh Đông"
+    ],
+    "treeCode": "2687.2754"
+  },
+  {
+    "id": 2755,
+    "communeCode": 144,
+    "name": "Hiệp Phước",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 63.33,
+    "population": 67754,
+    "administrativeCenter": "209 Nguyễn Văn Tạo, xã Long Thới, huyện Nhà Bè cũ",
+    "longitude": 106.757,
+    "latitude": 10.614,
+    "previous": [
+      "Xã Nhơn Đức",
+      "Xã Long Thới",
+      "Xã Hiệp Phước"
+    ],
+    "treeCode": "2687.2755"
+  },
+  {
+    "id": 2756,
+    "communeCode": 2365,
+    "name": "Hồ Tràm",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 94.51,
+    "population": 51895,
+    "administrativeCenter": "151 quốc lộ 55, thị trấn Phước Bửu, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.398,
+    "latitude": 10.5221,
+    "previous": [
+      "Thị trấn Phước Bửu",
+      "Xã Phước Tân",
+      "Xã Phước Thuận"
+    ],
+    "treeCode": "2687.2756"
+  },
+  {
+    "id": 2757,
+    "communeCode": 139,
+    "name": "Hòa Bình",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 0.98,
+    "population": 69318,
+    "administrativeCenter": "347 Lạc Long Quân, phường 5, quận 11 cũ và 416/1 Lạc Long Quân, quận 11 cũ",
+    "longitude": 106.645,
+    "latitude": 10.7702,
+    "previous": [
+      "Phường 5",
+      "Phường 14 (Quận 11)"
+    ],
+    "treeCode": "2687.2757"
+  },
+  {
+    "id": 2758,
+    "communeCode": 2343,
+    "name": "Hòa Hiệp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 44.1,
+    "population": 31099,
+    "administrativeCenter": "Xã Hòa Hiệp, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.497,
+    "latitude": 10.6991,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2687.2758"
+  },
+  {
+    "id": 2759,
+    "communeCode": 2342,
+    "name": "Hòa Hội",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 136.27,
+    "population": 36174,
+    "administrativeCenter": "xã Hòa Bình, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.424,
+    "latitude": 10.63,
+    "previous": [
+      "Xã Hòa Hưng",
+      "Xã Hòa Bình",
+      "Xã Hòa Hội"
+    ],
+    "treeCode": "2687.2759"
+  },
+  {
+    "id": 2760,
+    "communeCode": 116,
+    "name": "Hòa Hưng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.59,
+    "population": 96414,
+    "administrativeCenter": "TT20 (số cũ LL1) Tam Đảo, phường 15, quận 10 cũ",
+    "longitude": 106.67,
+    "latitude": 10.7776,
+    "previous": [
+      "Phường 12",
+      "Phường 13",
+      "Phường 15 (Quận 10)",
+      "Phường 14 (Quận 10)"
+    ],
+    "treeCode": "2687.2760"
+  },
+  {
+    "id": 2761,
+    "communeCode": 15,
+    "name": "Hòa Lợi",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 34.2361,
+    "population": 79694,
+    "administrativeCenter": "Khu phố An Hoà, phường Hòa Lợi, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.649,
+    "latitude": 11.0673,
+    "previous": [
+      "Phường Tân Định (thành phố Bến Cát)",
+      "Phường Hòa Lợi"
+    ],
+    "treeCode": "2687.2761"
+  },
+  {
+    "id": 2762,
+    "communeCode": 128,
+    "name": "Hóc Môn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 16.43,
+    "population": 93323,
+    "administrativeCenter": "Trụ sở Đảng ủy - HĐND - UBND huyện Hóc Môn cũ",
+    "longitude": 106.591,
+    "latitude": 10.9021,
+    "previous": [
+      "Xã Tân Hiệp (huyện Hóc Môn)",
+      "Xã Tân Xuân",
+      "Thị trấn Hóc Môn"
+    ],
+    "treeCode": "2687.2762"
+  },
+  {
+    "id": 2763,
+    "communeCode": 141,
+    "name": "Hưng Long",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 35.54,
+    "population": 71504,
+    "administrativeCenter": "564 đường Đoàn Nguyễn Tuấn, ấp 6, xã Hưng Long, huyện Bình Chánh cũ và  33 đường Hưng Long - Qui Đức, ấp 3, xã Qui Đức, huyện Bình Chánh cũ",
+    "longitude": 106.645,
+    "latitude": 10.6594,
+    "previous": [
+      "Xã Đa Phước",
+      "Xã Qui Đức",
+      "Xã Hưng Long"
+    ],
+    "treeCode": "2687.2763"
+  },
+  {
+    "id": 2764,
+    "communeCode": 153,
+    "name": "Khánh Hội",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.07,
+    "population": 94507,
+    "administrativeCenter": "104 Bến Vân Đồn, phường 9, quận 4 cũ",
+    "longitude": 106.704,
+    "latitude": 10.7589,
+    "previous": [
+      "Phường 8",
+      "Phường 9 (Quận 4)",
+      "Phường 2",
+      "Phường 4 (Quận 4)",
+      "Phường 15 (Quận 4)"
+    ],
+    "treeCode": "2687.2764"
+  },
+  {
+    "id": 2765,
+    "communeCode": 2372,
+    "name": "Kim Long",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 63.92,
+    "population": 33369,
+    "administrativeCenter": "Tổ 19, khu phố Hưng Long, thị trấn Kim Long, huyện Châu Đức, tỉnh Bà Rịa -Vũng Tàu cũ",
+    "longitude": 107.187,
+    "latitude": 10.6694,
+    "previous": [
+      "Thị trấn Kim Long",
+      "Xã Bàu Chinh",
+      "Xã Láng Lớn"
+    ],
+    "treeCode": "2687.2765"
+  },
+  {
+    "id": 2766,
+    "communeCode": 32,
+    "name": "Lái Thiêu",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 15.46,
+    "population": 118852,
+    "administrativeCenter": "Khu phố chợ, phường Lái Thiêu, TP Thuận An, tỉnh Bình Dương cũ",
+    "longitude": 106.699,
+    "latitude": 10.9091,
+    "previous": [
+      "Phường Bình Nhâm",
+      "Phường Lái Thiêu",
+      "Phường Vĩnh Phú"
+    ],
+    "treeCode": "2687.2766"
+  },
+  {
+    "id": 2767,
+    "communeCode": 57,
+    "name": "Linh Xuân",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 12.29,
+    "population": 158334,
+    "administrativeCenter": "1262 Kha Vạn Cân, khu phố 2, phường Linh Trung và 49 Hoàng Cầm, khu phố 2, phường Linh Xuân, TP Thủ Đức cũ",
+    "longitude": 106.78,
+    "latitude": 10.8609,
+    "previous": [
+      "Phường Linh Trung",
+      "Phường Linh Xuân",
+      "Phường Linh Tây"
+    ],
+    "treeCode": "2687.2767"
+  },
+  {
+    "id": 2768,
+    "communeCode": 68,
+    "name": "Long Bình",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 24.5575,
+    "population": null,
+    "administrativeCenter": "325 đường Nguyễn Văn Tăng, phường Long Thạnh Mỹ, TP Thủ Đức cũ",
+    "longitude": 106.834,
+    "latitude": 10.8614,
+    "previous": [
+      "Phường Long Bình",
+      "Phường Long Thạnh Mỹ"
+    ],
+    "treeCode": "2687.2768"
+  },
+  {
+    "id": 2769,
+    "communeCode": 2345,
+    "name": "Long Điền",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 87.72,
+    "population": 29479,
+    "administrativeCenter": "120 Dương Bạch Mai, KP Long Phượng, TT Long Điền, huyện Long Đất, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.224,
+    "latitude": 10.4676,
+    "previous": [
+      "Thị trấn Long Điền",
+      "Xã Tam An"
+    ],
+    "treeCode": "2687.2769"
+  },
+  {
+    "id": 2770,
+    "communeCode": 2346,
+    "name": "Long Hải",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 27.93,
+    "population": 109149,
+    "administrativeCenter": "Xã Phước Tỉnh, huyện Long Đất, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.224,
+    "latitude": 10.4106,
+    "previous": [
+      "Thị trấn Long Hải",
+      "Xã Phước Tỉnh",
+      "Xã Phước Hưng"
+    ],
+    "treeCode": "2687.2770"
+  },
+  {
+    "id": 2771,
+    "communeCode": 6,
+    "name": "Long Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 52.67,
+    "population": 13309,
+    "administrativeCenter": "Tổ 9, ấp Long Điền, xã Long Hòa, huyện Dầu Tiếng, tỉnh Bình Dương cũ",
+    "longitude": 106.507,
+    "latitude": 11.3287,
+    "previous": [
+      "Xã Long Tân",
+      "Xã Long Hòa (huyện Dầu Tiếng)",
+      "Xã Minh Tân",
+      "Xã Minh Thạnh"
+    ],
+    "treeCode": "2687.2771"
+  },
+  {
+    "id": 2772,
+    "communeCode": 2371,
+    "name": "Long Hương",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 41.22,
+    "population": 31457,
+    "administrativeCenter": "Đường Trịnh Đình Thảo, tổ 9, khu phố Kim Sơn, phường Kim Dinh, TP Bà Rịa, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.15,
+    "latitude": 10.5,
+    "previous": [
+      "Xã Tân Hưng (thành phố Bà Rịa)",
+      "Phường Kim Dinh",
+      "Phường Long Hương"
+    ],
+    "treeCode": "2687.2772"
+  },
+  {
+    "id": 2773,
+    "communeCode": 12,
+    "name": "Long Nguyên",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 108,
+    "population": 53387,
+    "administrativeCenter": "Khu phố Kiến An, phường An Điền, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.562,
+    "latitude": 11.1843,
+    "previous": [
+      "Phường An Điền",
+      "Xã Long Nguyên",
+      "Phường Mỹ Phước"
+    ],
+    "treeCode": "2687.2773"
+  },
+  {
+    "id": 2774,
+    "communeCode": 73,
+    "name": "Long Phước",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 34.29,
+    "population": 53092,
+    "administrativeCenter": "239 Khu phố Long Thuận, phường Long Phước, TP Thủ Đức cũ",
+    "longitude": 106.85,
+    "latitude": 10.8068,
+    "previous": [
+      "Phường Trường Thạnh",
+      "Phường Long Phước"
+    ],
+    "treeCode": "2687.2774"
+  },
+  {
+    "id": 2775,
+    "communeCode": 2354,
+    "name": "Long Sơn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 56.5,
+    "population": 17767,
+    "administrativeCenter": "Thôn 1, xã Long Sơn, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.101,
+    "latitude": 10.4522,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2687.2775"
+  },
+  {
+    "id": 2776,
+    "communeCode": 74,
+    "name": "Long Trường",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 24.49,
+    "population": 73669,
+    "administrativeCenter": "1314 đường Nguyễn Duy Trinh, phường Long Trường, TP Thủ Đức cũ",
+    "longitude": 106.812,
+    "latitude": 10.7934,
+    "previous": [
+      "Phường Phú Hữu",
+      "Phường Long Trường"
+    ],
+    "treeCode": "2687.2776"
+  },
+  {
+    "id": 2777,
+    "communeCode": 152,
+    "name": "Minh Phụng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.27,
+    "population": 90808,
+    "administrativeCenter": "139B Thuận Kiều, quận 11 cũ",
+    "longitude": 106.648,
+    "latitude": 10.7559,
+    "previous": [
+      "Phường 1",
+      "Phường 7",
+      "Phường 16 (Quận 11)"
+    ],
+    "treeCode": "2687.2777"
+  },
+  {
+    "id": 2778,
+    "communeCode": 5,
+    "name": "Minh Thạnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 159.06,
+    "population": 24215,
+    "administrativeCenter": "Tổ 3, ấp Hòa Cường, xã Minh Hòa, huyện Dầu Tiếng, tỉnh Bình Dương cũ",
+    "longitude": 106.469,
+    "latitude": 11.454,
+    "previous": [
+      "Xã Minh Hòa",
+      "Xã Minh Tân",
+      "Xã Minh Thạnh"
+    ],
+    "treeCode": "2687.2778"
+  },
+  {
+    "id": 2779,
+    "communeCode": 2373,
+    "name": "Ngãi Giao",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 69.3,
+    "population": 49065,
+    "administrativeCenter": "70 Trần Hưng Đạo, thị trấn Ngãi Giao, huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.209,
+    "latitude": 10.6161,
+    "previous": [
+      "Thị trấn Ngãi Giao",
+      "Xã Bình Ba",
+      "Xã Suối Nghệ"
+    ],
+    "treeCode": "2687.2779"
+  },
+  {
+    "id": 2780,
+    "communeCode": 2362,
+    "name": "Nghĩa Thành",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 65.67,
+    "population": 27819,
+    "administrativeCenter": "đường số 6, xã Nghĩa Thành, huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.275,
+    "latitude": 10.5937,
+    "previous": [
+      "Xã Đá Bạc",
+      "Xã Nghĩa Thành"
+    ],
+    "treeCode": "2687.2780"
+  },
+  {
+    "id": 2781,
+    "communeCode": 143,
+    "name": "Nhà Bè",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 37.1,
+    "population": 125832,
+    "administrativeCenter": "330 đường Nguyễn Bình, xã Phú Xuân, huyện Nhà Bè cũ",
+    "longitude": 106.699,
+    "latitude": 10.7078,
+    "previous": [
+      "Thị trấn Nhà Bè",
+      "Xã Phú Xuân",
+      "Xã Phước Kiển",
+      "Xã Phước Lộc"
+    ],
+    "treeCode": "2687.2781"
+  },
+  {
+    "id": 2782,
+    "communeCode": 127,
+    "name": "Nhiêu Lộc",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.71,
+    "population": 8809,
+    "administrativeCenter": "82 Bà Huyện Thanh Quan, phường 9, quận 3 cũ",
+    "longitude": 106.676,
+    "latitude": 10.7855,
+    "previous": [
+      "Phường 9",
+      "Phường 11",
+      "Phường 12",
+      "Phường 14 (Quận 3)"
+    ],
+    "treeCode": "2687.2782"
+  },
+  {
+    "id": 2783,
+    "communeCode": 111,
+    "name": "Nhuận Đức",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 62.06,
+    "population": 40239,
+    "administrativeCenter": "1A đường Bà Thiên Ấp Ngã 4, xã Nhuận Đức, huyện Củ Chi cũ",
+    "longitude": 106.499,
+    "latitude": 11.0321,
+    "previous": [
+      "Xã Phạm Văn Cội",
+      "Xã Trung Lập Hạ",
+      "Xã Nhuận Đức"
+    ],
+    "treeCode": "2687.2783"
+  },
+  {
+    "id": 2784,
+    "communeCode": 16,
+    "name": "Phú An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 34.97,
+    "population": 46142,
+    "administrativeCenter": "143 đường Nguyễn Đức Cảnh, khu phố 4, phường Hiệp An, TP Thủ Dầu Một, tỉnh Bình Dương cũ",
+    "longitude": 106.579,
+    "latitude": 11.0654,
+    "previous": [
+      "Phường Tân An",
+      "Xã Phú An",
+      "Phường Hiệp An"
+    ],
+    "treeCode": "2687.2784"
+  },
+  {
+    "id": 2785,
+    "communeCode": 200,
+    "name": "Phú Định",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 5.85,
+    "population": 150389,
+    "administrativeCenter": "184 Lưu Hữu Phước, phường 15, quận 8 cũ",
+    "longitude": 106.631,
+    "latitude": 10.7255,
+    "previous": [
+      "Phường 14",
+      "Phường 15 (Quận 8)",
+      "Phường Xóm Củi",
+      "Phường 16 (Quận 8)"
+    ],
+    "treeCode": "2687.2785"
+  },
+  {
+    "id": 2786,
+    "communeCode": 17,
+    "name": "Phú Giáo",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 192.83,
+    "population": 42739,
+    "administrativeCenter": "02 đường Hùng Vương, khu phố 02, thị trấn Phước Vĩnh, huyện Phú Giáo, tỉnh Bình Dương cũ",
+    "longitude": 106.82,
+    "latitude": 11.3174,
+    "previous": [
+      "Thị trấn Phước Vĩnh",
+      "Xã An Bình",
+      "Xã Tam Lập"
+    ],
+    "treeCode": "2687.2786"
+  },
+  {
+    "id": 2787,
+    "communeCode": 117,
+    "name": "Phú Hòa Đông",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 59.75,
+    "population": 97766,
+    "administrativeCenter": "269 tỉnh lộ 8, ấp 2A, xã Tân Thạnh Tây, huyện Củ Chi cũ",
+    "longitude": 106.598,
+    "latitude": 10.9495,
+    "previous": [
+      "Xã Tân Thạnh Tây",
+      "Xã Tân Thạnh Đông",
+      "Xã Phú Hòa Đông"
+    ],
+    "treeCode": "2687.2787"
+  },
+  {
+    "id": 2788,
+    "communeCode": 183,
+    "name": "Phú Lâm",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2,
+    "population": 87513,
+    "administrativeCenter": "241/3 đường Tân Hòa Đông, phường 14, quận 6 cũ",
+    "longitude": 106.63,
+    "latitude": 10.7529,
+    "previous": [
+      "Phường 12",
+      "Phường 13",
+      "Phường 14 (Quận 6)"
+    ],
+    "treeCode": "2687.2788"
+  },
+  {
+    "id": 2789,
+    "communeCode": 0,
+    "name": "Phú Lợi",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 26.79,
+    "population": 95516,
+    "administrativeCenter": "438 đường Phú Lợi, khu phố 8, phường Phú Hòa, TP Thủ Dầu Một, tỉnh Bình Dương cũ",
+    "longitude": 106.676,
+    "latitude": 10.9861,
+    "previous": [
+      "Phường Phú Hòa",
+      "Phường Phú Lợi",
+      "Phường Hiệp Thành (thành phố Thủ Dầu Một)"
+    ],
+    "treeCode": "2687.2789"
+  },
+  {
+    "id": 2790,
+    "communeCode": 2349,
+    "name": "Phú Mỹ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 70.92,
+    "population": 78641,
+    "administrativeCenter": "Quốc lộ 51, phường Phú Mỹ - TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.046,
+    "latitude": 10.6111,
+    "previous": [
+      "Phường Phú Mỹ (thành phố Phú Mỹ)",
+      "Phường Mỹ Xuân"
+    ],
+    "treeCode": "2687.2790"
+  },
+  {
+    "id": 2791,
+    "communeCode": 118,
+    "name": "Phú Nhuận",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.46,
+    "population": 6842,
+    "administrativeCenter": "159 Nguyễn Văn Trỗi, phường 11, quận Phú Nhuận cũ",
+    "longitude": 106.673,
+    "latitude": 10.7943,
+    "previous": [
+      "Phường 8",
+      "Phường 10",
+      "Phường 11",
+      "Phường 13 (quận Phú Nhuận)",
+      "Phường 15 (quận Phú Nhuận)"
+    ],
+    "treeCode": "2687.2791"
+  },
+  {
+    "id": 2792,
+    "communeCode": 112,
+    "name": "Phú Thạnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.99,
+    "population": 10378,
+    "administrativeCenter": "275 Nguyễn Sơn, phường Phú Thạnh, quận Tân Phú và UBND phường Hiệp Tân cũ (cơ sở 2)",
+    "longitude": 106.627,
+    "latitude": 10.7728,
+    "previous": [
+      "Phường Hiệp Tân",
+      "Phường Phú Thạnh",
+      "Phường Tân Thới Hòa"
+    ],
+    "treeCode": "2687.2792"
+  },
+  {
+    "id": 2793,
+    "communeCode": 109,
+    "name": "Phú Thọ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.37,
+    "population": 65369,
+    "administrativeCenter": "233 - 235 Lê Đại Hành, phường 11, quận 11 và 35-37 Bình Thới, phường 11, quận 11 cũ",
+    "longitude": 106.654,
+    "latitude": 10.7675,
+    "previous": [
+      "Phường 11",
+      "Phường 15 (Quận 11)",
+      "Phường 8 (Quận 11)"
+    ],
+    "treeCode": "2687.2793"
+  },
+  {
+    "id": 2794,
+    "communeCode": 108,
+    "name": "Phú Thọ Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.02,
+    "population": 140436,
+    "administrativeCenter": "146 Độc Lập, phường Tân Thành, quận Tân Phú cũ và UBND phường Phú Thọ Hòa cũ (cơ sở 2)",
+    "longitude": 106.621,
+    "latitude": 10.7923,
+    "previous": [
+      "Phường Phú Thọ Hòa",
+      "Phường Tân Thành",
+      "Phường Tân Quý"
+    ],
+    "treeCode": "2687.2794"
+  },
+  {
+    "id": 2795,
+    "communeCode": 246,
+    "name": "Phú Thuận",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 10.55,
+    "population": 84089,
+    "administrativeCenter": "1203 Huỳnh Tấn Phát, khu phố 3, phường Phú Thuận, quận 7 cũ",
+    "longitude": 106.747,
+    "latitude": 10.7272,
+    "previous": [
+      "Phường Phú Thuận",
+      "Phường Phú Mỹ (Quận 7)"
+    ],
+    "treeCode": "2687.2795"
+  },
+  {
+    "id": 2796,
+    "communeCode": 2348,
+    "name": "Phước Hải",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 70.04,
+    "population": 43615,
+    "administrativeCenter": "Xã Phước Hội, huyện Long Đất, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.3,
+    "latitude": 10.4499,
+    "previous": [
+      "Thị trấn Phước Hải",
+      "Xã Phước Hội"
+    ],
+    "treeCode": "2687.2796"
+  },
+  {
+    "id": 2797,
+    "communeCode": 20,
+    "name": "Phước Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 128.07,
+    "population": 4247,
+    "administrativeCenter": "Tổ 3, ấp Trảng Sắn, xã Vĩnh Hoà, huyện Phú Giáo, tỉnh Bình Dương cũ",
+    "longitude": 106.773,
+    "latitude": 11.2411,
+    "previous": [
+      "Xã Vĩnh Hòa",
+      "Xã Phước Hòa",
+      "Xã Tam Lập"
+    ],
+    "treeCode": "2687.2797"
+  },
+  {
+    "id": 2798,
+    "communeCode": 72,
+    "name": "Phước Long",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 9.23,
+    "population": 137331,
+    "administrativeCenter": "183 đường Đỗ Xuân Hợp, phường Phước Long B, TP Thủ Đức cũ",
+    "longitude": 106.775,
+    "latitude": 10.8179,
+    "previous": [
+      "Phường Phước Bình",
+      "Phường Phước Long A",
+      "Phường Phước Long B"
+    ],
+    "treeCode": "2687.2798"
+  },
+  {
+    "id": 2799,
+    "communeCode": 2368,
+    "name": "Phước Thắng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 47.35,
+    "population": 52589,
+    "administrativeCenter": "7A Nguyễn Gia Thiều, phường 12, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.162,
+    "latitude": 10.4235,
+    "previous": [
+      "Phường 11",
+      "Phường 12 (thành phố Vũng Tàu)"
+    ],
+    "treeCode": "2687.2799"
+  },
+  {
+    "id": 2800,
+    "communeCode": 18,
+    "name": "Phước Thành",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 123.49,
+    "population": 15803,
+    "administrativeCenter": "Tổ 4, ấp Sa Dụp, xã Phước Sang, huyện Phú Giáo, tỉnh Bình Dương cũ",
+    "longitude": 106.756,
+    "latitude": 11.3742,
+    "previous": [
+      "Xã Tân Hiệp (huyện Phú Giáo)",
+      "Xã An Thái",
+      "Xã Phước Sang"
+    ],
+    "treeCode": "2687.2800"
+  },
+  {
+    "id": 2801,
+    "communeCode": 2367,
+    "name": "Rạch Dừa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 19.7,
+    "population": 76281,
+    "administrativeCenter": "219/28 Lưu Chí Hiếu, phường 10, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.109,
+    "latitude": 10.3887,
+    "previous": [
+      "Phường 10 (thành phố Vũng Tàu)",
+      "Phường Thắng Nhất",
+      "Phường Rạch Dừa"
+    ],
+    "treeCode": "2687.2801"
+  },
+  {
+    "id": 2802,
+    "communeCode": 37,
+    "name": "Sài Gòn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.04,
+    "population": 47022,
+    "administrativeCenter": "45 - 47 Lê Duẩn, phường Bến Nghé, quận 1 cũ",
+    "longitude": 106.704,
+    "latitude": 10.7805,
+    "previous": [
+      "Phường Bến Nghé",
+      "Phường Đa Kao",
+      "Phường Nguyễn Thái Bình"
+    ],
+    "treeCode": "2687.2802"
+  },
+  {
+    "id": 2803,
+    "communeCode": 58,
+    "name": "Tam Bình",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 10.71,
+    "population": 153414,
+    "administrativeCenter": "707 Tỉnh lộ 43, khu phố 3, phường Tam Bình, TP Thủ Đức cũ",
+    "longitude": 106.733,
+    "latitude": 10.8727,
+    "previous": [
+      "Phường Bình Chiểu",
+      "Phường Tam Phú",
+      "Phường Tam Bình"
+    ],
+    "treeCode": "2687.2803"
+  },
+  {
+    "id": 2804,
+    "communeCode": 2370,
+    "name": "Tam Long",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 34.7,
+    "population": 4113,
+    "administrativeCenter": "Xã Hòa Long, thành phố Bà Rịa, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.214,
+    "latitude": 10.5267,
+    "previous": [
+      "Phường Long Tâm",
+      "Xã Hòa Long",
+      "Xã Long Phước"
+    ],
+    "treeCode": "2687.2804"
+  },
+  {
+    "id": 2805,
+    "communeCode": 2366,
+    "name": "Tam Thắng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 11.76,
+    "population": 8642,
+    "administrativeCenter": "603 Nguyễn An Ninh, phường Nguyễn An Ninh, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.096,
+    "latitude": 10.3669,
+    "previous": [
+      "Phường 7",
+      "Phường 8",
+      "Phường 9 (thành phố Vũng Tàu)",
+      "Phường Nguyễn An Ninh"
+    ],
+    "treeCode": "2687.2805"
+  },
+  {
+    "id": 2806,
+    "communeCode": 123,
+    "name": "Tân An Hội",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 53.51,
+    "population": 84342,
+    "administrativeCenter": "77 Tỉnh lộ 8, thị trấn Củ Chi, huyện Củ Chi cũ",
+    "longitude": 106.471,
+    "latitude": 10.9633,
+    "previous": [
+      "Thị trấn Củ Chi",
+      "Xã Phước Hiệp",
+      "Xã Tân An Hội"
+    ],
+    "treeCode": "2687.2806"
+  },
+  {
+    "id": 2807,
+    "communeCode": 104,
+    "name": "Tân Bình",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.12,
+    "population": 89373,
+    "administrativeCenter": "387A Trường Chinh, phường 14, quận Tân Bình cũ",
+    "longitude": 106.642,
+    "latitude": 10.8006,
+    "previous": [
+      "Phường 13",
+      "Phường 14 (quận Tân Bình)",
+      "Phường 15 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2807"
+  },
+  {
+    "id": 2808,
+    "communeCode": 36,
+    "name": "Tân Định",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.23,
+    "population": 48524,
+    "administrativeCenter": "58B Nguyễn Đình Chiểu, phường Đa Kao, quận 1 cũ",
+    "longitude": 106.693,
+    "latitude": 10.7917,
+    "previous": [
+      "Phường Tân Định (Quận 1)",
+      "Phường Đa Kao"
+    ],
+    "treeCode": "2687.2808"
+  },
+  {
+    "id": 2809,
+    "communeCode": 29,
+    "name": "Tân Đông Hiệp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 21.47,
+    "population": 100243,
+    "administrativeCenter": "880 đường Nguyễn Thị Minh Khai, phường Tân Bình, tỉnh Bình Dương cũ",
+    "longitude": 106.774,
+    "latitude": 10.9304,
+    "previous": [
+      "Phường Tân Bình",
+      "Phường Thái Hòa",
+      "Phường Tân Đông Hiệp"
+    ],
+    "treeCode": "2687.2809"
+  },
+  {
+    "id": 2810,
+    "communeCode": 2350,
+    "name": "Tân Hải",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 51.86,
+    "population": 30297,
+    "administrativeCenter": "Phường Tân Hải, TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.103,
+    "latitude": 10.5118,
+    "previous": [
+      "Phường Tân Hòa",
+      "Phường Tân Hải"
+    ],
+    "treeCode": "2687.2810"
+  },
+  {
+    "id": 2811,
+    "communeCode": 26,
+    "name": "Tân Hiệp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 47.06,
+    "population": 142494,
+    "administrativeCenter": "Đường Nguyễn Khuyến, khu phố Tân Bình, phường Tân Hiệp, TP Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.747,
+    "latitude": 11.0567,
+    "previous": [
+      "Phường Khánh Bình",
+      "Phường Tân Hiệp"
+    ],
+    "treeCode": "2687.2811"
+  },
+  {
+    "id": 2812,
+    "communeCode": 105,
+    "name": "Tân Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.47,
+    "population": 93437,
+    "administrativeCenter": "356 Bắc Hải, phường 6, quận Tân Bình cũ",
+    "longitude": 106.655,
+    "latitude": 10.7809,
+    "previous": [
+      "Phường 6",
+      "Phường 8",
+      "Phường 9 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2812"
+  },
+  {
+    "id": 2813,
+    "communeCode": 245,
+    "name": "Tân Hưng",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.54,
+    "population": 153674,
+    "administrativeCenter": "9 đường 2A phường Tân Hưng, quận 7 cũ",
+    "longitude": 106.705,
+    "latitude": 10.7372,
+    "previous": [
+      "Phường Tân Phong",
+      "Phường Tân Quy",
+      "Phường Tân Kiểng",
+      "Phường Tân Hưng"
+    ],
+    "treeCode": "2687.2813"
+  },
+  {
+    "id": 2814,
+    "communeCode": 22,
+    "name": "Tân Khánh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 38.23,
+    "population": 126393,
+    "administrativeCenter": "Đường Lý Tự trọng, khu phố Khánh Hòa, phường Tân Phước Khánh, TP Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.726,
+    "latitude": 11.0122,
+    "previous": [
+      "Phường Thạnh Phước",
+      "Phường Tân Phước Khánh",
+      "Phường Tân Vĩnh Hiệp",
+      "Xã Thạnh Hội",
+      "Phường Thái Hòa"
+    ],
+    "treeCode": "2687.2814"
+  },
+  {
+    "id": 2815,
+    "communeCode": 102,
+    "name": "Tân Mỹ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 6.45,
+    "population": 68124,
+    "administrativeCenter": "7 Tân Phú, phường Tân Phú, quận 7 cũ",
+    "longitude": 106.731,
+    "latitude": 10.715,
+    "previous": [
+      "Phường Tân Phú (Quận 7)",
+      "Phường Phú Mỹ (Quận 7)"
+    ],
+    "treeCode": "2687.2815"
+  },
+  {
+    "id": 2816,
+    "communeCode": 134,
+    "name": "Tân Nhựt",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 43.67,
+    "population": 115513,
+    "administrativeCenter": "79 đường Tân Túc, thị trấn Tân Túc, huyện Bình Chánh cũ",
+    "longitude": 106.562,
+    "latitude": 10.7048,
+    "previous": [
+      "Thị trấn Tân Túc",
+      "Xã Tân Nhựt",
+      "Phường Tân Tạo A",
+      "Xã Tân Kiên",
+      "Phường 16 (Quận 8)"
+    ],
+    "treeCode": "2687.2816"
+  },
+  {
+    "id": 2817,
+    "communeCode": 113,
+    "name": "Tân Phú",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.52,
+    "population": 93117,
+    "administrativeCenter": "70A Thoại Ngọc Hầu, phường Hòa Thạnh, quận Tân Phú cũ",
+    "longitude": 106.638,
+    "latitude": 10.7751,
+    "previous": [
+      "Phường Phú Trung",
+      "Phường Hòa Thạnh",
+      "Phường Tân Thới Hòa",
+      "Phường Tân Thành"
+    ],
+    "treeCode": "2687.2817"
+  },
+  {
+    "id": 2818,
+    "communeCode": 2351,
+    "name": "Tân Phước",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 83.62,
+    "population": 29363,
+    "administrativeCenter": "Đường Độc Lập, khu phố Tân Lộc, phường Phước Hòa, thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.056,
+    "latitude": 10.5329,
+    "previous": [
+      "Phường Phước Hòa",
+      "Phường Tân Phước"
+    ],
+    "treeCode": "2687.2818"
+  },
+  {
+    "id": 2819,
+    "communeCode": 106,
+    "name": "Tân Sơn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 10.12,
+    "population": 77229,
+    "administrativeCenter": "822 Trường Chinh, phường 15, quận Tân Bình cũ",
+    "longitude": 106.65,
+    "latitude": 10.8224,
+    "previous": [
+      "Phường 15 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2819"
+  },
+  {
+    "id": 2820,
+    "communeCode": 98,
+    "name": "Tân Sơn Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.62,
+    "population": 6415,
+    "administrativeCenter": "291 Lê Văn Sỹ, phường 1, quận Tân Bình cũ",
+    "longitude": 106.666,
+    "latitude": 10.806,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2820"
+  },
+  {
+    "id": 2821,
+    "communeCode": 101,
+    "name": "Tân Sơn Nhất",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.19,
+    "population": 84639,
+    "administrativeCenter": "25/4-6 Hoàng Việt, phường 4, quận Tân Bình cũ",
+    "longitude": 106.658,
+    "latitude": 10.8007,
+    "previous": [
+      "Phường 4",
+      "Phường 5",
+      "Phường 7 (quận Tân Bình)"
+    ],
+    "treeCode": "2687.2821"
+  },
+  {
+    "id": 2822,
+    "communeCode": 107,
+    "name": "Tân Sơn Nhì",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.46,
+    "population": 117277,
+    "administrativeCenter": "48 Tân Quý, phường Tân Quý, quận Tân Phú  cũ và UBND phường Tân Sơn Nhì cũ (cơ sở 2)",
+    "longitude": 106.63,
+    "latitude": 10.7987,
+    "previous": [
+      "Phường Tân Sơn Nhì",
+      "Phường Sơn Kỳ",
+      "Phường Tân Quý",
+      "Phường Tân Thành"
+    ],
+    "treeCode": "2687.2822"
+  },
+  {
+    "id": 2823,
+    "communeCode": 219,
+    "name": "Tân Tạo",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 14.71,
+    "population": 113363,
+    "administrativeCenter": "1409 Tỉnh lộ 10, phường Tân Tạo A, quận Bình Tân cũ",
+    "longitude": 106.584,
+    "latitude": 10.7388,
+    "previous": [
+      "Xã Tân Kiên",
+      "Phường Tân Tạo A",
+      "Phường Tân Tạo"
+    ],
+    "treeCode": "2687.2823"
+  },
+  {
+    "id": 2824,
+    "communeCode": 2352,
+    "name": "Tân Thành",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 48.42,
+    "population": 83758,
+    "administrativeCenter": "Phường Hắc Dịch, TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.133,
+    "latitude": 10.6558,
+    "previous": [
+      "Phường Hắc Dịch",
+      "Xã Sông Xoài"
+    ],
+    "treeCode": "2687.2824"
+  },
+  {
+    "id": 2825,
+    "communeCode": 42,
+    "name": "Tân Thới Hiệp",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.06,
+    "population": 16806,
+    "administrativeCenter": "Trụ sở UBND phường Tân Thới Hiệp, quận 12 cũ",
+    "longitude": 106.64,
+    "latitude": 10.8746,
+    "previous": [
+      "Phường Hiệp Thành (Quận 12)",
+      "Phường Tân Thới Hiệp"
+    ],
+    "treeCode": "2687.2825"
+  },
+  {
+    "id": 2826,
+    "communeCode": 233,
+    "name": "Tân Thuận",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 10.16,
+    "population": 14809,
+    "administrativeCenter": "342 Huỳnh Tấn Phát, quận 7 cũ",
+    "longitude": 106.735,
+    "latitude": 10.7553,
+    "previous": [
+      "Phường Bình Thuận",
+      "Phường Tân Thuận Đông",
+      "Phường Tân Thuận Tây"
+    ],
+    "treeCode": "2687.2826"
+  },
+  {
+    "id": 2827,
+    "communeCode": 21,
+    "name": "Tân Uyên",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 94.67,
+    "population": 73032,
+    "administrativeCenter": "ĐT 747, khu phố 1, phường Uyên Hưng, TP Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.808,
+    "latitude": 11.0928,
+    "previous": [
+      "Phường Uyên Hưng",
+      "Xã Bạch Đằng",
+      "Xã Tân Lập",
+      "Xã Tân Mỹ"
+    ],
+    "treeCode": "2687.2827"
+  },
+  {
+    "id": 2828,
+    "communeCode": 136,
+    "name": "Tân Vĩnh Lộc",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 34.05,
+    "population": 163839,
+    "administrativeCenter": "2206 đường Trần Văn Giàu, ấp 8 xã Phạm Văn Hai, huyện Bình Chánh cũ và 1304 đường Vĩnh Lộc, xã Vĩnh Lộc B, huyện Bình Chánh cũ",
+    "longitude": 106.551,
+    "latitude": 10.7912,
+    "previous": [
+      "Xã Vĩnh Lộc B",
+      "Xã Phạm Văn Hai",
+      "Phường Tân Tạo"
+    ],
+    "treeCode": "2687.2828"
+  },
+  {
+    "id": 2829,
+    "communeCode": 69,
+    "name": "Tăng Nhơn Phú",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.51,
+    "population": 208233,
+    "administrativeCenter": "29 Lê Văn Việt, phường Tăng Nhơn Phú A, TP Thủ Đức cũ",
+    "longitude": 106.798,
+    "latitude": 10.8433,
+    "previous": [
+      "Phường Tân Phú (thành phố Thủ Đức)",
+      "Phường Hiệp Phú",
+      "Phường Tăng Nhơn Phú A",
+      "Phường Tăng Nhơn Phú B",
+      "Phường Long Thạnh Mỹ"
+    ],
+    "treeCode": "2687.2829"
+  },
+  {
+    "id": 2830,
+    "communeCode": 7,
+    "name": "Tây Nam",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 119.8,
+    "population": 56784,
+    "administrativeCenter": "Khu phố Lồ ồ, phường An Tây, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.501,
+    "latitude": 11.1836,
+    "previous": [
+      "Phường An Tây",
+      "Xã Thanh Tuyền",
+      "Xã An Lập"
+    ],
+    "treeCode": "2687.2830"
+  },
+  {
+    "id": 2831,
+    "communeCode": 43,
+    "name": "Tây Thạnh",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.95,
+    "population": 72616,
+    "administrativeCenter": "200/12 Nguyễn Hữu Tiến, phường Tây Thạnh, quận Tân Phú cũ và Nhà Văn hóa Lao động (cơ sở 2)",
+    "longitude": 106.622,
+    "latitude": 10.8108,
+    "previous": [
+      "Phường Tây Thạnh",
+      "Phường Sơn Kỳ"
+    ],
+    "treeCode": "2687.2831"
+  },
+  {
+    "id": 2832,
+    "communeCode": 125,
+    "name": "Thái Mỹ",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 62.44,
+    "population": 49862,
+    "administrativeCenter": "712 đường Phan Văn Khải, ấp Phước Hưng, xã Phước Thạnh, huyện Củ Chi cũ",
+    "longitude": 106.407,
+    "latitude": 10.9898,
+    "previous": [
+      "Xã Trung Lập Thượng",
+      "Xã Phước Thạnh",
+      "Xã Thái Mỹ"
+    ],
+    "treeCode": "2687.2832"
+  },
+  {
+    "id": 2833,
+    "communeCode": 8,
+    "name": "Thanh An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 136.72,
+    "population": 25324,
+    "administrativeCenter": "Tổ 1, ấp Cần Giăng, xã Thanh An, huyện Dầu Tiếng, tỉnh Bình Dương cũ",
+    "longitude": 106.434,
+    "latitude": 11.2442,
+    "previous": [
+      "Xã Thanh An",
+      "Xã Định Hiệp",
+      "Xã Thanh Tuyền",
+      "Xã An Lập"
+    ],
+    "treeCode": "2687.2833"
+  },
+  {
+    "id": 2834,
+    "communeCode": 148,
+    "name": "Thạnh An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 85.97,
+    "population": 30682,
+    "administrativeCenter": "Trụ sở UBND xã Thạnh An cũ, tọa lạc ấp Thạnh Bình, huyện Cần Giờ cũ",
+    "longitude": 106.975,
+    "latitude": 10.5464,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2687.2834"
+  },
+  {
+    "id": 2835,
+    "communeCode": 94,
+    "name": "Thạnh Mỹ Tây",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 4.4,
+    "population": 153216,
+    "administrativeCenter": "85/16 Phạm Viết Chánh, 85/8 Phạm Viết Chánh và 5 Phạm Viết Chánh, quận Bình Thạnh cũ",
+    "longitude": 106.718,
+    "latitude": 10.7981,
+    "previous": [
+      "Phường 19",
+      "Phường 22",
+      "Phường 25"
+    ],
+    "treeCode": "2687.2835"
+  },
+  {
+    "id": 2836,
+    "communeCode": 40,
+    "name": "Thới An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 14.9,
+    "population": 125657,
+    "administrativeCenter": "Trụ sở UBND phường Thới An, quận 12 cũ",
+    "longitude": 106.666,
+    "latitude": 10.8791,
+    "previous": [
+      "Phường Thạnh Xuân",
+      "Phường Thới An"
+    ],
+    "treeCode": "2687.2836"
+  },
+  {
+    "id": 2837,
+    "communeCode": 14,
+    "name": "Thới Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 37.93,
+    "population": 79601,
+    "administrativeCenter": "Khu phố 3A, phường Thới Hoà, TP Bến Cát, tỉnh Bình Dương cũ",
+    "longitude": 106.62,
+    "latitude": 11.1021,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "2687.2837"
+  },
+  {
+    "id": 2838,
+    "communeCode": 91,
+    "name": "Thông Tây Hội",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 3.24,
+    "population": 121192,
+    "administrativeCenter": "175 Nguyễn văn Khối, phường 8, quận Gò Vấp cũ",
+    "longitude": 106.655,
+    "latitude": 10.8417,
+    "previous": [
+      "Phường 8",
+      "Phường 11 (quận Gò Vấp)"
+    ],
+    "treeCode": "2687.2838"
+  },
+  {
+    "id": 2839,
+    "communeCode": 1,
+    "name": "Thủ Dầu Một",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 15.68,
+    "population": 88132,
+    "administrativeCenter": "1 đường Quang Trung, khu phố 6, phường Phú Cường, TP Thủ Dầu Một, tỉnh Bình Dương cũ",
+    "longitude": 106.661,
+    "latitude": 10.969,
+    "previous": [
+      "Phường Phú Cường",
+      "Phường Phú Thọ",
+      "Phường Chánh Nghĩa",
+      "Phường Hiệp Thành (thành phố Thủ Dầu Một)",
+      "Phường Chánh Mỹ"
+    ],
+    "treeCode": "2687.2839"
+  },
+  {
+    "id": 2840,
+    "communeCode": 59,
+    "name": "Thủ Đức",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 8.81,
+    "population": 118952,
+    "administrativeCenter": "2 Nguyễn Công Trứ, phường Bình Thọ, TP Thủ Đức cũ",
+    "longitude": 106.757,
+    "latitude": 10.8426,
+    "previous": [
+      "Phường Bình Thọ",
+      "Phường Linh Chiểu",
+      "Phường Trường Thọ",
+      "Phường Linh Tây",
+      "Phường Linh Đông"
+    ],
+    "treeCode": "2687.2840"
+  },
+  {
+    "id": 2841,
+    "communeCode": 31,
+    "name": "Thuận An",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.11,
+    "population": 64689,
+    "administrativeCenter": "289 đường Hưng Định 31, khu phố Hưng Thọ, phường Hưng Định, TP Thuận An, tỉnh Bình Dương cũ",
+    "longitude": 106.679,
+    "latitude": 10.9418,
+    "previous": [
+      "Phường Hưng Định",
+      "Phường An Thạnh",
+      "Xã An Sơn"
+    ],
+    "treeCode": "2687.2841"
+  },
+  {
+    "id": 2842,
+    "communeCode": 33,
+    "name": "Thuận Giao",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.81,
+    "population": 150781,
+    "administrativeCenter": "743, đường Thủ Khoa Huân, phường Bình Chuẩn, TP Thuận An, tỉnh Bình Dương cũ",
+    "longitude": 106.712,
+    "latitude": 10.9635,
+    "previous": [
+      "Phường Thuận Giao",
+      "Phường Bình Chuẩn"
+    ],
+    "treeCode": "2687.2842"
+  },
+  {
+    "id": 2843,
+    "communeCode": 27,
+    "name": "Thường Tân",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 120.7,
+    "population": 21238,
+    "administrativeCenter": "Ấp 4, xã ã Lạc An, huyện Bắc Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.911,
+    "latitude": 11.0962,
+    "previous": [
+      "Xã Lạc An",
+      "Xã Hiếu Liêm",
+      "Xã Thường Tân",
+      "Xã Tân Mỹ"
+    ],
+    "treeCode": "2687.2843"
+  },
+  {
+    "id": 2844,
+    "communeCode": 10,
+    "name": "Trừ Văn Thố",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 76.56,
+    "population": 24533,
+    "administrativeCenter": "Ấp ông Thanh, xã Cây Trường, huyện Bàu Bàng cũ",
+    "longitude": 106.588,
+    "latitude": 11.3426,
+    "previous": [
+      "Xã Trừ Văn Thố",
+      "Xã Cây Trường II",
+      "Thị trấn Lai Uyên"
+    ],
+    "treeCode": "2687.2844"
+  },
+  {
+    "id": 2845,
+    "communeCode": 55,
+    "name": "Trung Mỹ Tây",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 6.93,
+    "population": 12647,
+    "administrativeCenter": "Trụ sở UBND phường Trung Mỹ Tây, quận 12 cũ",
+    "longitude": 106.622,
+    "latitude": 10.8601,
+    "previous": [
+      "Phường Tân Chánh Hiệp",
+      "Phường Trung Mỹ Tây"
+    ],
+    "treeCode": "2687.2845"
+  },
+  {
+    "id": 2846,
+    "communeCode": 175,
+    "name": "Vĩnh Hội",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.17,
+    "population": 63015,
+    "administrativeCenter": "183 Tôn Thất Thuyết, phường 4 cũ",
+    "longitude": 106.696,
+    "latitude": 10.7553,
+    "previous": [
+      "Phường 1",
+      "Phường 3 (Quận 4)",
+      "Phường 2",
+      "Phường 4 (Quận 4)"
+    ],
+    "treeCode": "2687.2846"
+  },
+  {
+    "id": 2847,
+    "communeCode": 135,
+    "name": "Vĩnh Lộc",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 48.47,
+    "population": 12047,
+    "administrativeCenter": "F7/16, đường Vĩnh Lộc, ấp 67 xã Vĩnh Lộc A, huyện Bình Chánh cũ",
+    "longitude": 106.553,
+    "latitude": 10.8237,
+    "previous": [
+      "Xã Vĩnh Lộc A",
+      "Xã Phạm Văn Hai"
+    ],
+    "treeCode": "2687.2847"
+  },
+  {
+    "id": 2848,
+    "communeCode": 25,
+    "name": "Vĩnh Tân",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 61.35,
+    "population": 61865,
+    "administrativeCenter": "ĐT 742, khu phố 4, phường Vĩnh Tân, TP Tân Uyên, tỉnh Bình Dương cũ",
+    "longitude": 106.7,
+    "latitude": 11.1457,
+    "previous": [
+      "Phường Vĩnh Tân",
+      "Thị trấn Tân Bình"
+    ],
+    "treeCode": "2687.2848"
+  },
+  {
+    "id": 2849,
+    "communeCode": 2339,
+    "name": "Vũng Tàu",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 16.86,
+    "population": 117413,
+    "administrativeCenter": "87-89 Lý Thường Kiệt, phường 1, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.076,
+    "latitude": 10.3565,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 3",
+      "Phường 4",
+      "Phường 5 (thành phố Vũng Tàu)",
+      "Phường Thắng Nhì",
+      "Phường Thắng Tam"
+    ],
+    "treeCode": "2687.2849"
+  },
+  {
+    "id": 2850,
+    "communeCode": 99,
+    "name": "Vườn Lài",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.28,
+    "population": 104076,
+    "administrativeCenter": "168 (số cũ 66) Hùng Vương, phường 2, quận 10 cũ",
+    "longitude": 106.675,
+    "latitude": 10.7644,
+    "previous": [
+      "Phường 1",
+      "Phường 2",
+      "Phường 4",
+      "Phường 9",
+      "Phường 10 (Quận 10)"
+    ],
+    "treeCode": "2687.2850"
+  },
+  {
+    "id": 2851,
+    "communeCode": 166,
+    "name": "Xóm Chiếu",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 1.94,
+    "population": 57875,
+    "administrativeCenter": "18 Đoàn Như Hài, phường 13, quận 4 cũ",
+    "longitude": 106.717,
+    "latitude": 10.757,
+    "previous": [
+      "Phường 13",
+      "Phường 16",
+      "Phường 18",
+      "Phường 15 (Quận 4)"
+    ],
+    "treeCode": "2687.2851"
+  },
+  {
+    "id": 2852,
+    "communeCode": 132,
+    "name": "Xuân Hòa",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "phường",
+    "areaKm2": 2.22,
+    "population": 48464,
+    "administrativeCenter": "99 - 99A Trần Quốc Thảo, phường Võ Thị Sáu, quận 3 cũ",
+    "longitude": 106.69,
+    "latitude": 10.7818,
+    "previous": [
+      "Phường Võ Thị Sáu",
+      "Phường 4 (Quận 3)"
+    ],
+    "treeCode": "2687.2852"
+  },
+  {
+    "id": 2853,
+    "communeCode": 2359,
+    "name": "Xuân Sơn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 73.81,
+    "population": 27368,
+    "administrativeCenter": "Tổ 10, thôn Xuân Tân, xã Xuân Sơn, huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.331,
+    "latitude": 10.6185,
+    "previous": [
+      "Xã Suối Rao",
+      "Xã Sơn Bình",
+      "Xã Xuân Sơn"
+    ],
+    "treeCode": "2687.2853"
+  },
+  {
+    "id": 2854,
+    "communeCode": 130,
+    "name": "Xuân Thới Sơn",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 35.21,
+    "population": 103643,
+    "administrativeCenter": "Trụ sở Đảng ủy - HĐND - UBND xã Xuân Thới Sơn cũ",
+    "longitude": 106.557,
+    "latitude": 10.89,
+    "previous": [
+      "Xã Tân Thới Nhì",
+      "Xã Xuân Thới Đông",
+      "Xã Xuân Thới Sơn"
+    ],
+    "treeCode": "2687.2854"
+  },
+  {
+    "id": 2855,
+    "communeCode": 2340,
+    "name": "Xuyên Mộc",
+    "provinceCode": 29,
+    "provinceName": "thành phố Hồ Chí Minh",
+    "type": "xã",
+    "areaKm2": 102.96,
+    "population": 26917,
+    "administrativeCenter": "Quốc lộ 55, ấp Trang Hoàng, xã Bông Trang, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu cũ",
+    "longitude": 107.466,
+    "latitude": 10.549,
+    "previous": [
+      "Xã Bông Trang",
+      "Xã Bưng Riềng",
+      "Xã Xuyên Mộc"
+    ],
+    "treeCode": "2687.2855"
+  }
+]

@@ -1,0 +1,2852 @@
+[
+  {
+    "id": 786,
+    "communeCode": 1817,
+    "name": "An Bình",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 61.84,
+    "population": 51382,
+    "administrativeCenter": "Trụ sở xã Thống Nhất cũ",
+    "longitude": 105.704,
+    "latitude": 20.4758,
+    "previous": [
+      "Xã Hưng Thi",
+      "Xã Thống Nhất",
+      "Xã An Bình"
+    ],
+    "treeCode": "0785.0786"
+  },
+  {
+    "id": 787,
+    "communeCode": 1788,
+    "name": "An Nghĩa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 95.73,
+    "population": 27556,
+    "administrativeCenter": "Trụ sở xã Phú Nghĩa cũ",
+    "longitude": 105.712,
+    "latitude": 20.5722,
+    "previous": [
+      "Thị trấn Ba Hàng Đồi",
+      "Xã Phú Nghĩa",
+      "Xã Phú Thành"
+    ],
+    "treeCode": "0785.0787"
+  },
+  {
+    "id": 788,
+    "communeCode": 1723,
+    "name": "Âu Cơ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 12.51,
+    "population": 18951,
+    "administrativeCenter": "Số 64 Bạch Đằng, phường Âu Cơ, tỉnh Phú Thọ (Trụ sở UBND thị xã Phú Thọ cũ)",
+    "longitude": 105.201,
+    "latitude": 21.394,
+    "previous": [
+      "Phường Thanh Vinh",
+      "Phường Âu Cơ",
+      "Xã Thanh Minh"
+    ],
+    "treeCode": "0785.0788"
+  },
+  {
+    "id": 789,
+    "communeCode": 1729,
+    "name": "Bản Nguyên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 26.15,
+    "population": 38963,
+    "administrativeCenter": "Trụ sở xã Cao Xá",
+    "longitude": 105.34,
+    "latitude": 21.281,
+    "previous": [
+      "Xã Cao Xá",
+      "Xã Vĩnh Lại",
+      "Xã Bản Nguyên"
+    ],
+    "treeCode": "0785.0789"
+  },
+  {
+    "id": 790,
+    "communeCode": 1680,
+    "name": "Bằng Luân",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 59.77,
+    "population": 16932,
+    "administrativeCenter": "Trụ sở UBND xã Bằng Doãn cũ",
+    "longitude": 105.063,
+    "latitude": 21.6467,
+    "previous": [
+      "Xã Bằng Doãn",
+      "Xã Phúc Lai",
+      "Xã Bằng Luân"
+    ],
+    "treeCode": "0785.0790"
+  },
+  {
+    "id": 791,
+    "communeCode": 1707,
+    "name": "Bao La",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 104.27,
+    "population": 12409,
+    "administrativeCenter": "Trụ sở UBND xã Bao La",
+    "longitude": 104.977,
+    "latitude": 20.6463,
+    "previous": [
+      "Xã Mai Hịch",
+      "Xã Xăm Khòe",
+      "Xã Bao La"
+    ],
+    "treeCode": "0785.0791"
+  },
+  {
+    "id": 792,
+    "communeCode": 1771,
+    "name": "Bình Nguyên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 30.6,
+    "population": 46425,
+    "administrativeCenter": "DT305, xã Bình Nguyên, tỉnh Phú Thọ (Trụ sở UBND huyện Bình Xuyên cũ)",
+    "longitude": 105.66,
+    "latitude": 21.278,
+    "previous": [
+      "Thị trấn Hương Canh",
+      "Xã Tam Hợp",
+      "Xã Quất Lưu",
+      "Xã Sơn Lôi"
+    ],
+    "treeCode": "0785.0792"
+  },
+  {
+    "id": 793,
+    "communeCode": 1711,
+    "name": "Bình Phú",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 47.3,
+    "population": 51081,
+    "administrativeCenter": "Trụ sở UBND xã Bình Phú",
+    "longitude": 105.367,
+    "latitude": 21.4133,
+    "previous": [
+      "Xã Tiên Du",
+      "Xã An Đạo",
+      "Xã Bình Phú"
+    ],
+    "treeCode": "0785.0793"
+  },
+  {
+    "id": 794,
+    "communeCode": 1770,
+    "name": "Bình Tuyền",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 58.5,
+    "population": 29926,
+    "administrativeCenter": "Trụ sở thị trấn Bá Hiến cũ",
+    "longitude": 105.692,
+    "latitude": 21.3725,
+    "previous": [
+      "Thị trấn Bá Hiến",
+      "Xã Trung Mỹ"
+    ],
+    "treeCode": "0785.0794"
+  },
+  {
+    "id": 795,
+    "communeCode": 1769,
+    "name": "Bình Xuyên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 29.5,
+    "population": 32534,
+    "administrativeCenter": "Thôn Chân Sơn, xã Bình Xuyên, tỉnh Phú Thọ (Trụ sở xã Hương Sơn cũ)",
+    "longitude": 105.648,
+    "latitude": 21.3224,
+    "previous": [
+      "Thị trấn Gia Khánh",
+      "Xã Hương Sơn",
+      "Xã Thiện Kế"
+    ],
+    "treeCode": "0785.0795"
+  },
+  {
+    "id": 796,
+    "communeCode": 1722,
+    "name": "Cẩm Khê",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 50.44,
+    "population": 47059,
+    "administrativeCenter": "Trụ sở Huyện ủy Cẩm Khê cũ",
+    "longitude": 105.096,
+    "latitude": 21.4291,
+    "previous": [
+      "Thị trấn Cẩm Khê",
+      "Xã Minh Tân",
+      "Xã Phong Thịnh"
+    ],
+    "treeCode": "0785.0796"
+  },
+  {
+    "id": 797,
+    "communeCode": 1790,
+    "name": "Cao Dương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 113.38,
+    "population": 36783,
+    "administrativeCenter": "Trụ sở UBND xã Thanh Cao cũ",
+    "longitude": 105.634,
+    "latitude": 20.6962,
+    "previous": [
+      "Xã Thanh Cao",
+      "Xã Thanh Sơn",
+      "Xã Cao Dương"
+    ],
+    "treeCode": "0785.0797"
+  },
+  {
+    "id": 798,
+    "communeCode": 1799,
+    "name": "Cao Phong",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 77.76,
+    "population": 20372,
+    "administrativeCenter": "Khu 2, xã Cao Phong (trụ sở HĐND - UBND huyện Cao Phong cũ)",
+    "longitude": 105.362,
+    "latitude": 20.7017,
+    "previous": [
+      "Thị trấn Cao Phong",
+      "Xã Hợp Phong",
+      "Xã Thu Phong"
+    ],
+    "treeCode": "0785.0798"
+  },
+  {
+    "id": 799,
+    "communeCode": 1819,
+    "name": "Cao Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 124.93,
+    "population": 8872,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Cao Sơn, sử dụng trụ sở xã Tân Minh",
+    "longitude": 105.152,
+    "latitude": 20.8928,
+    "previous": [
+      "Xã Tân Minh",
+      "Xã Cao Sơn (huyện Đà Bắc)"
+    ],
+    "treeCode": "0785.0799"
+  },
+  {
+    "id": 800,
+    "communeCode": 1684,
+    "name": "Chân Mộng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 89.85,
+    "population": 38565,
+    "administrativeCenter": "Trụ sở UBND xã Tiêu Sơn cũ",
+    "longitude": 105.211,
+    "latitude": 21.5603,
+    "previous": [
+      "Xã Hùng Long",
+      "Xã Yên Kiện",
+      "Xã Chân Mộng"
+    ],
+    "treeCode": "0785.0800"
+  },
+  {
+    "id": 801,
+    "communeCode": 1681,
+    "name": "Chí Đám",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 49.36,
+    "population": 28005,
+    "administrativeCenter": "Trụ sở UBND xã Chí Đám trước sáp nhập",
+    "longitude": 105.161,
+    "latitude": 21.6724,
+    "previous": [
+      "Xã Hùng Xuyên",
+      "Xã Chí Đám"
+    ],
+    "treeCode": "0785.0801"
+  },
+  {
+    "id": 802,
+    "communeCode": 1736,
+    "name": "Chí Tiên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 23.75,
+    "population": 1755,
+    "administrativeCenter": "Trụ sở UBND xã Thanh Hà cũ",
+    "longitude": 105.164,
+    "latitude": 21.4234,
+    "previous": [
+      "Xã Sơn Cương",
+      "Xã Thanh Hà",
+      "Xã Chí Tiên"
+    ],
+    "treeCode": "0785.0802"
+  },
+  {
+    "id": 803,
+    "communeCode": 1734,
+    "name": "Cự Đồng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 45.77,
+    "population": 14988,
+    "administrativeCenter": "Trụ sở xã Cự Đồng",
+    "longitude": 105.238,
+    "latitude": 21.1086,
+    "previous": [
+      "Xã Tất Thắng",
+      "Xã Thắng Sơn",
+      "Xã Cự Đồng"
+    ],
+    "treeCode": "0785.0803"
+  },
+  {
+    "id": 804,
+    "communeCode": 1823,
+    "name": "Đà Bắc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 136.8,
+    "population": 19834,
+    "administrativeCenter": "Trụ sở UBND huyện Đà Bắc cũ",
+    "longitude": 105.251,
+    "latitude": 20.8729,
+    "previous": [
+      "Thị trấn Đà Bắc",
+      "Xã Hiền Lương (huyện Đà Bắc)",
+      "Xã Toàn Sơn",
+      "Xã Tú Lý"
+    ],
+    "treeCode": "0785.0804"
+  },
+  {
+    "id": 805,
+    "communeCode": 1768,
+    "name": "Đại Đình",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 44,
+    "population": 20551,
+    "administrativeCenter": "Trại Mới, xã Đại Đình, tỉnh Phú Thọ (Trụ sở xã Đại Đình)",
+    "longitude": 105.577,
+    "latitude": 21.4615,
+    "previous": [
+      "Thị trấn Đại Đình",
+      "Xã Bồ Lý"
+    ],
+    "treeCode": "0785.0805"
+  },
+  {
+    "id": 806,
+    "communeCode": 1814,
+    "name": "Đại Đồng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 77.87,
+    "population": 63131,
+    "administrativeCenter": "Trụ sở xã Ân Nghĩa cũ",
+    "longitude": 105.504,
+    "latitude": 20.4045,
+    "previous": [
+      "Xã Ân Nghĩa",
+      "Xã Tân Mỹ",
+      "Xã Yên Nghiệp"
+    ],
+    "treeCode": "0785.0806"
+  },
+  {
+    "id": 807,
+    "communeCode": 1695,
+    "name": "Dân Chủ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 29.85,
+    "population": 18568,
+    "administrativeCenter": "Trụ sở UBND xã Trị Quận cũ",
+    "longitude": 105.311,
+    "latitude": 21.4714,
+    "previous": [
+      "Xã Bảo Thanh",
+      "Xã Trị Quận",
+      "Xã Hạ Giáp",
+      "Xã Gia Thanh"
+    ],
+    "treeCode": "0785.0807"
+  },
+  {
+    "id": 808,
+    "communeCode": 1743,
+    "name": "Đan Thượng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 84.15,
+    "population": 28838,
+    "administrativeCenter": "Khu 8, xã Đan Thượng, tỉnh Phú Thọ (Trụ sở UBND xã Tứ Hiệp cũ)",
+    "longitude": 104.981,
+    "latitude": 21.6314,
+    "previous": [
+      "Xã Tứ Hiệp",
+      "Xã Đại Phạm",
+      "Xã Hà Lương",
+      "Xã Đan Thượng"
+    ],
+    "treeCode": "0785.0808"
+  },
+  {
+    "id": 809,
+    "communeCode": 1767,
+    "name": "Đạo Trù",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 83.8,
+    "population": 24759,
+    "administrativeCenter": "Trụ sở xã Đạo Trù",
+    "longitude": 105.553,
+    "latitude": 21.5163,
+    "previous": [
+      "Xã Yên Dương",
+      "Xã Đạo Trù"
+    ],
+    "treeCode": "0785.0809"
+  },
+  {
+    "id": 810,
+    "communeCode": 1726,
+    "name": "Đào Xá",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 45.53,
+    "population": 32156,
+    "administrativeCenter": "Trụ sở xã Đào Xá",
+    "longitude": 105.288,
+    "latitude": 21.2116,
+    "previous": [
+      "Xã Xuân Lộc",
+      "Xã Thạch Đồng",
+      "Xã Tân Phương",
+      "Xã Đào Xá"
+    ],
+    "treeCode": "0785.0810"
+  },
+  {
+    "id": 811,
+    "communeCode": 1679,
+    "name": "Đoan Hùng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 44.8,
+    "population": 30509,
+    "administrativeCenter": "Ngõ 592 đường Đồng Tâm, xã Đoan Hùng, tỉnh Phú Thọ (Trụ sở UBND Huyện Đoan Hùng cũ)",
+    "longitude": 105.188,
+    "latitude": 21.6163,
+    "previous": [
+      "Thị trấn Đoan Hùng",
+      "Xã Hợp Nhất",
+      "Xã Ngọc Quan"
+    ],
+    "treeCode": "0785.0811"
+  },
+  {
+    "id": 812,
+    "communeCode": 1706,
+    "name": "Đồng Lương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 76.1,
+    "population": 11875,
+    "administrativeCenter": "Trụ sở UBND xã Điêu Lương cũ",
+    "longitude": 105.162,
+    "latitude": 21.3135,
+    "previous": [
+      "Xã Điêu Lương",
+      "Xã Yên Dưỡng",
+      "Xã Đồng Lương"
+    ],
+    "treeCode": "0785.0812"
+  },
+  {
+    "id": 813,
+    "communeCode": 1708,
+    "name": "Đông Thành",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 130.94,
+    "population": 27169,
+    "administrativeCenter": "Trụ sở UBND xã Khải Xuân cũ",
+    "longitude": 105.197,
+    "latitude": 21.4561,
+    "previous": [
+      "Xã Khải Xuân",
+      "Xã Võ Lao",
+      "Xã Đông Thành"
+    ],
+    "treeCode": "0785.0813"
+  },
+  {
+    "id": 814,
+    "communeCode": 1825,
+    "name": "Đức Nhàn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 107.6,
+    "population": 7389,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Mường Chiềng, sử dụng trụ sở xã Nánh Nghê",
+    "longitude": 104.914,
+    "latitude": 21.035,
+    "previous": [
+      "Xã Mường Chiềng",
+      "Xã Nánh Nghê"
+    ],
+    "treeCode": "0785.0814"
+  },
+  {
+    "id": 815,
+    "communeCode": 1797,
+    "name": "Dũng Tiến",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 101.1,
+    "population": 20,
+    "administrativeCenter": "Trụ sở xã Nuông Dăm cũ",
+    "longitude": 105.641,
+    "latitude": 20.5615,
+    "previous": [
+      "Xã Cuối Hạ",
+      "Xã Mỵ Hòa",
+      "Xã Nuông Dăm"
+    ],
+    "treeCode": "0785.0815"
+  },
+  {
+    "id": 816,
+    "communeCode": 1685,
+    "name": "Hạ Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 41.23,
+    "population": 21779,
+    "administrativeCenter": "Đường Hàn Thuyên - Âu Cơ, xã Hạ Hòa, tỉnh Phú Thọ (Trụ sở Huyện ủy - UBND huyện Hạ Hòa cũ)",
+    "longitude": 105.032,
+    "latitude": 21.585,
+    "previous": [
+      "Thị trấn Hạ Hòa",
+      "Xã Minh Hạc",
+      "Xã Ấm Hạ",
+      "Xã Gia Điền"
+    ],
+    "treeCode": "0785.0816"
+  },
+  {
+    "id": 817,
+    "communeCode": 1755,
+    "name": "Hải Lựu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 38.8,
+    "population": 30098,
+    "administrativeCenter": "Trụ sở xã Hải Lựu",
+    "longitude": 105.36,
+    "latitude": 21.4591,
+    "previous": [
+      "Xã Nhân Đạo",
+      "Xã Đôn Nhân",
+      "Xã Phương Khoan",
+      "Xã Hải Lựu"
+    ],
+    "treeCode": "0785.0817"
+  },
+  {
+    "id": 818,
+    "communeCode": 1744,
+    "name": "Hiền Lương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 81.39,
+    "population": 22337,
+    "administrativeCenter": "Khu 10, xã Hiền Lương, tỉnh Phú Thọ (trụ sở UBND xã Xuân Áng cũ)",
+    "longitude": 104.934,
+    "latitude": 21.5705,
+    "previous": [
+      "Xã Hiền Lương (huyện Hạ Hòa)",
+      "Xã Xuân Áng"
+    ],
+    "treeCode": "0785.0818"
+  },
+  {
+    "id": 819,
+    "communeCode": 1702,
+    "name": "Hiền Quan",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 31.38,
+    "population": 27476,
+    "administrativeCenter": "Trụ sở xã Bắc Sơn cũ",
+    "longitude": 105.237,
+    "latitude": 21.3576,
+    "previous": [
+      "Xã Thanh Uyên",
+      "Xã Bắc Sơn",
+      "Xã Hiền Quan"
+    ],
+    "treeCode": "0785.0819"
+  },
+  {
+    "id": 820,
+    "communeCode": 1792,
+    "name": "Hòa Bình",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 0.98,
+    "population": 69318,
+    "administrativeCenter": "Đường Lý Nam Đế, phường Hòa Bình, tỉnh Phú Thọ (Trụ sở UBND TP Hòa Bình cũ)",
+    "longitude": 105.352,
+    "latitude": 20.837,
+    "previous": [
+      "Phường Đồng Tiến",
+      "Phường Hữu Nghị",
+      "Phường Phương Lâm",
+      "Phường Quỳnh Lâm",
+      "Phường Tân Thịnh",
+      "Phường Thịnh Lang",
+      "Phường Trung Minh"
+    ],
+    "treeCode": "0785.0820"
+  },
+  {
+    "id": 821,
+    "communeCode": 1765,
+    "name": "Hoàng An",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 20.8,
+    "population": 26,
+    "administrativeCenter": "Trụ sở xã Hoàng Đan cũ",
+    "longitude": 105.523,
+    "latitude": 21.3521,
+    "previous": [
+      "Xã Hoàng Đan",
+      "Xã Hoàng Lâu",
+      "Xã An Hòa"
+    ],
+    "treeCode": "0785.0821"
+  },
+  {
+    "id": 822,
+    "communeCode": 1733,
+    "name": "Hoàng Cương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 39.51,
+    "population": 2789,
+    "administrativeCenter": "Trụ sở UBND xã Hoàng Cương",
+    "longitude": 105.133,
+    "latitude": 21.4721,
+    "previous": [
+      "Xã Ninh Dân",
+      "Xã Mạn Lạn",
+      "Xã Hoàng Cương"
+    ],
+    "treeCode": "0785.0822"
+  },
+  {
+    "id": 823,
+    "communeCode": 1764,
+    "name": "Hội Thịnh",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 25.1,
+    "population": 37115,
+    "administrativeCenter": "Trụ sở xã Duy Phiên cũ",
+    "longitude": 105.548,
+    "latitude": 21.315,
+    "previous": [
+      "Xã Duy Phiên",
+      "Xã Thanh Vân",
+      "Xã Hội Thịnh"
+    ],
+    "treeCode": "0785.0823"
+  },
+  {
+    "id": 824,
+    "communeCode": 1801,
+    "name": "Hợp Kim",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 86.29,
+    "population": 21033,
+    "administrativeCenter": "Trụ sở xã Nam Thượng cũ",
+    "longitude": 105.589,
+    "latitude": 20.6523,
+    "previous": [
+      "Xã Kim Lập",
+      "Xã Nam Thượng",
+      "Xã Sào Báy"
+    ],
+    "treeCode": "0785.0824"
+  },
+  {
+    "id": 825,
+    "communeCode": 1784,
+    "name": "Hợp Lý",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 34.1,
+    "population": 19611,
+    "administrativeCenter": "Trụ sở xã Quang Sơn cũ",
+    "longitude": 105.444,
+    "latitude": 21.4873,
+    "previous": [
+      "Xã Ngọc Mỹ (huyện Lập Thạch)",
+      "Xã Quang Sơn",
+      "Xã Hợp Lý"
+    ],
+    "treeCode": "0785.0825"
+  },
+  {
+    "id": 826,
+    "communeCode": 1725,
+    "name": "Hùng Việt",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 32.77,
+    "population": 22935,
+    "administrativeCenter": "Trụ sở UBND xã Hùng Việt",
+    "longitude": 105.146,
+    "latitude": 21.3584,
+    "previous": [
+      "Xã Nhật Tiến",
+      "Xã Hùng Việt"
+    ],
+    "treeCode": "0785.0826"
+  },
+  {
+    "id": 827,
+    "communeCode": 1741,
+    "name": "Hương Cần",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 81.3,
+    "population": 179,
+    "administrativeCenter": "Trụ sở xã Hương Cần",
+    "longitude": 105.266,
+    "latitude": 21.0104,
+    "previous": [
+      "Xã Yên Lương",
+      "Xã Yên Lãng",
+      "Xã Hương Cần"
+    ],
+    "treeCode": "0785.0827"
+  },
+  {
+    "id": 828,
+    "communeCode": 1700,
+    "name": "Hy Cương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 23.95,
+    "population": 22693,
+    "administrativeCenter": "Khu 6, xã Hy Cương, tỉnh Phú Thọ (Trụ sở UBND xã Thanh Đình cũ)",
+    "longitude": 105.32,
+    "latitude": 21.3471,
+    "previous": [
+      "Xã Thanh Đình",
+      "Xã Chu Hóa",
+      "Xã Hy Cương"
+    ],
+    "treeCode": "0785.0828"
+  },
+  {
+    "id": 829,
+    "communeCode": 1710,
+    "name": "Khả Cửu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 148.48,
+    "population": 13149,
+    "administrativeCenter": "Trụ sở xã Khả Cửu",
+    "longitude": 105.125,
+    "latitude": 21.0029,
+    "previous": [
+      "Xã Đông Cửu",
+      "Xã Thượng Cửu",
+      "Xã Khả Cửu"
+    ],
+    "treeCode": "0785.0829"
+  },
+  {
+    "id": 830,
+    "communeCode": 1807,
+    "name": "Kim Bôi",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 64.57,
+    "population": 35915,
+    "administrativeCenter": "Trụ sở chính đặt tại thị trấn Bọ, sử dụng trụ sở UBND huyện Kim Bôi",
+    "longitude": 105.523,
+    "latitude": 20.6573,
+    "previous": [
+      "Thị trấn Bo",
+      "Xã Vĩnh Đồng",
+      "Xã Kim Bôi"
+    ],
+    "treeCode": "0785.0830"
+  },
+  {
+    "id": 831,
+    "communeCode": 1821,
+    "name": "Kỳ Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 115.7,
+    "population": 20319,
+    "administrativeCenter": "Trụ sở chính tại trụ sở xã Mông Hóa cũ",
+    "longitude": 105.404,
+    "latitude": 20.8817,
+    "previous": [
+      "Phường Kỳ Sơn",
+      "Xã Độc Lập",
+      "Xã Mông Hóa"
+    ],
+    "treeCode": "0785.0831"
+  },
+  {
+    "id": 832,
+    "communeCode": 1806,
+    "name": "Lạc Lương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 130.41,
+    "population": 25289,
+    "administrativeCenter": "Trụ sở UBND xã Bảo Hiệu cũ",
+    "longitude": 105.609,
+    "latitude": 20.4742,
+    "previous": [
+      "Xã Bảo Hiệu",
+      "Xã Đa Phúc",
+      "Xã Lạc Sỹ",
+      "Xã Lạc Lương"
+    ],
+    "treeCode": "0785.0832"
+  },
+  {
+    "id": 833,
+    "communeCode": 1791,
+    "name": "Lạc Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 58.1,
+    "population": 275,
+    "administrativeCenter": "Trụ sở thị trấn Vụ Bản cũ",
+    "longitude": 105.483,
+    "latitude": 20.455,
+    "previous": [
+      "Thị trấn Vụ Bản",
+      "Xã Hương Nhượng",
+      "Xã Vũ Bình"
+    ],
+    "treeCode": "0785.0833"
+  },
+  {
+    "id": 834,
+    "communeCode": 1787,
+    "name": "Lạc Thủy",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 90.69,
+    "population": 24529,
+    "administrativeCenter": "Trụ sở UBND huyện Chi Nê cũ",
+    "longitude": 105.799,
+    "latitude": 20.476,
+    "previous": [
+      "Thị trấn Chi Nê",
+      "Xã Đồng Tâm",
+      "Xã Khoan Dụ",
+      "Xã Yên Bồng"
+    ],
+    "treeCode": "0785.0834"
+  },
+  {
+    "id": 835,
+    "communeCode": 1724,
+    "name": "Lai Đồng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 108.45,
+    "population": 16321,
+    "administrativeCenter": "Trụ sở xã Lai Đồng",
+    "longitude": 104.909,
+    "latitude": 21.2118,
+    "previous": [
+      "Xã Kiệt Sơn",
+      "Xã Tân Sơn",
+      "Xã Đồng Sơn",
+      "Xã Lai Đồng"
+    ],
+    "treeCode": "0785.0835"
+  },
+  {
+    "id": 836,
+    "communeCode": 1721,
+    "name": "Lâm Thao",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 15.45,
+    "population": 31321,
+    "administrativeCenter": "Trụ sở HĐND - UBND huyện Lâm Thao cũ",
+    "longitude": 105.289,
+    "latitude": 21.3425,
+    "previous": [
+      "Thị trấn Hùng Sơn",
+      "Thị trấn Lâm Thao",
+      "Xã Thạch Sơn"
+    ],
+    "treeCode": "0785.0836"
+  },
+  {
+    "id": 837,
+    "communeCode": 1753,
+    "name": "Lập Thạch",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 39.1,
+    "population": 34604,
+    "administrativeCenter": "Tổ dân phố Vĩnh Thịnh, DT307, xã Lập Thạch, tỉnh Phú Thọ (Trụ sở UBND huyện Lập Thạch cũ)",
+    "longitude": 105.464,
+    "latitude": 21.4301,
+    "previous": [
+      "Thị trấn Lập Thạch",
+      "Xã Xuân Hòa",
+      "Xã Tử Du",
+      "Xã Vân Trục"
+    ],
+    "treeCode": "0785.0837"
+  },
+  {
+    "id": 838,
+    "communeCode": 1777,
+    "name": "Liên Châu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 26,
+    "population": 35029,
+    "administrativeCenter": "Trụ sở xã Đại Tự cũ",
+    "longitude": 105.567,
+    "latitude": 21.18,
+    "previous": [
+      "Xã Đại Tự",
+      "Xã Hồng Châu",
+      "Xã Liên Châu"
+    ],
+    "treeCode": "0785.0838"
+  },
+  {
+    "id": 839,
+    "communeCode": 1757,
+    "name": "Liên Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 18.8,
+    "population": 19257,
+    "administrativeCenter": "Trụ sở xã Liên Hòa",
+    "longitude": 105.509,
+    "latitude": 21.4115,
+    "previous": [
+      "Thị trấn Hoa Sơn",
+      "Xã Bàn Giản",
+      "Xã Liên Hòa"
+    ],
+    "treeCode": "0785.0839"
+  },
+  {
+    "id": 840,
+    "communeCode": 1703,
+    "name": "Liên Minh",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 20.98,
+    "population": 23443,
+    "administrativeCenter": "Trụ sở UBND xã Đỗ Xuyên cũ",
+    "longitude": 105.203,
+    "latitude": 21.3464,
+    "previous": [
+      "Xã Đỗ Sơn",
+      "Xã Đỗ Xuyên",
+      "Xã Lương Lỗ"
+    ],
+    "treeCode": "0785.0840"
+  },
+  {
+    "id": 841,
+    "communeCode": 1803,
+    "name": "Liên Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 120.21,
+    "population": 31834,
+    "administrativeCenter": "Trụ sở UBND xã Cư Yên cũ",
+    "longitude": 105.537,
+    "latitude": 20.8254,
+    "previous": [
+      "Xã Cư Yên",
+      "Xã Liên Sơn",
+      "Xã Cao Sơn (huyện Lương Sơn)"
+    ],
+    "treeCode": "0785.0841"
+  },
+  {
+    "id": 842,
+    "communeCode": 1731,
+    "name": "Long Cốc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 67.09,
+    "population": 8708,
+    "administrativeCenter": "Trụ sở xã Tam Thanh cũ",
+    "longitude": 105.071,
+    "latitude": 21.0918,
+    "previous": [
+      "Xã Tam Thanh",
+      "Xã Vinh Tiền",
+      "Xã Long Cốc"
+    ],
+    "treeCode": "0785.0842"
+  },
+  {
+    "id": 843,
+    "communeCode": 1745,
+    "name": "Lương Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 159.21,
+    "population": 23912,
+    "administrativeCenter": "543 đường Trần Phú, xã Lương Sơn, tỉnh Phú Thọ (Trụ sở UBND huyện Lương Sơn)",
+    "longitude": 104.934,
+    "latitude": 21.4722,
+    "previous": [
+      "Thị trấn Lương Sơn",
+      "Xã Hòa Sơn",
+      "Xã Lâm Sơn",
+      "Xã Nhuận Trạch",
+      "Xã Tân Vinh",
+      "Xã Cao Sơn (huyện Lương Sơn)"
+    ],
+    "treeCode": "0785.0843"
+  },
+  {
+    "id": 844,
+    "communeCode": 1827,
+    "name": "Mai Châu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 147.74,
+    "population": 19143,
+    "administrativeCenter": "Quốc lộ 15, tiểu khu 2, xã Mai Châu, tỉnh Phú Thọ (Trụ sở UBND huyện Mai Châu cũ)",
+    "longitude": 105.054,
+    "latitude": 20.693,
+    "previous": [
+      "Thị trấn Mai Châu",
+      "Xã Nà Phòn",
+      "Xã Thành Sơn",
+      "Xã Tòng Đậu",
+      "Xã Đồng Tân"
+    ],
+    "treeCode": "0785.0844"
+  },
+  {
+    "id": 845,
+    "communeCode": 1829,
+    "name": "Mai Hạ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 71.86,
+    "population": 10317,
+    "administrativeCenter": "Trụ sở UBND xã Vạn Mai cũ",
+    "longitude": 105.051,
+    "latitude": 20.6088,
+    "previous": [
+      "Xã Chiềng Châu",
+      "Xã Vạn Mai",
+      "Xã Mai Hạ"
+    ],
+    "treeCode": "0785.0845"
+  },
+  {
+    "id": 846,
+    "communeCode": 1718,
+    "name": "Minh Đài",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 84.74,
+    "population": 24209,
+    "administrativeCenter": "Trụ sở xã Văn Luông",
+    "longitude": 105.066,
+    "latitude": 21.1796,
+    "previous": [
+      "Xã Mỹ Thuận",
+      "Xã Văn Luông",
+      "Xã Minh Đài"
+    ],
+    "treeCode": "0785.0846"
+  },
+  {
+    "id": 847,
+    "communeCode": 1714,
+    "name": "Minh Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 68.44,
+    "population": 16425,
+    "administrativeCenter": "Trụ sở xã Minh Hòa",
+    "longitude": 105.125,
+    "latitude": 21.2537,
+    "previous": [
+      "Xã Ngọc Lập",
+      "Xã Ngọc Đồng",
+      "Xã Minh Hòa"
+    ],
+    "treeCode": "0785.0847"
+  },
+  {
+    "id": 848,
+    "communeCode": 1785,
+    "name": "Mường Bi",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 94.79,
+    "population": 20931,
+    "administrativeCenter": "Trụ sở UBND xã Mỹ Hòa cũ",
+    "longitude": 105.192,
+    "latitude": 20.6312,
+    "previous": [
+      "Xã Mỹ Hòa",
+      "Xã Phong Phú",
+      "Xã Phú Cường"
+    ],
+    "treeCode": "0785.0848"
+  },
+  {
+    "id": 849,
+    "communeCode": 1796,
+    "name": "Mường Động",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 144.69,
+    "population": 26092,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Đông Bắc, sử dụng trụ sở xã Đông Bắc",
+    "longitude": 105.436,
+    "latitude": 20.6924,
+    "previous": [
+      "Xã Đông Bắc",
+      "Xã Hợp Tiến",
+      "Xã Tú Sơn",
+      "Xã Vĩnh Tiến"
+    ],
+    "treeCode": "0785.0849"
+  },
+  {
+    "id": 850,
+    "communeCode": 1795,
+    "name": "Mường Hoa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 104.54,
+    "population": 8563,
+    "administrativeCenter": "Trụ sở UBND xã Suối Hoa cũ",
+    "longitude": 105.19,
+    "latitude": 20.71,
+    "previous": [
+      "Xã Phú Vinh",
+      "Xã Suối Hoa"
+    ],
+    "treeCode": "0785.0850"
+  },
+  {
+    "id": 851,
+    "communeCode": 1793,
+    "name": "Mường Thàng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 91.58,
+    "population": 19883,
+    "administrativeCenter": "Trụ sở xã Dũng Phong (tạm thời sử dụng trụ sở xã Nam Phong)",
+    "longitude": 105.337,
+    "latitude": 20.6417,
+    "previous": [
+      "Xã Dũng Phong",
+      "Xã Nam Phong",
+      "Xã Tây Phong",
+      "Xã Thạch Yên"
+    ],
+    "treeCode": "0785.0851"
+  },
+  {
+    "id": 852,
+    "communeCode": 1815,
+    "name": "Mường Vang",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 69.79,
+    "population": 20853,
+    "administrativeCenter": "Trụ sở xã Tân Lập cũ",
+    "longitude": 105.461,
+    "latitude": 20.5841,
+    "previous": [
+      "Xã Tân Lập (huyện Lạc Sơn)",
+      "Xã Quý Hòa",
+      "Xã Tuân Đạo"
+    ],
+    "treeCode": "0785.0852"
+  },
+  {
+    "id": 853,
+    "communeCode": 1794,
+    "name": "Nật Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 154.65,
+    "population": 2894,
+    "administrativeCenter": "Trụ sở xã Bình Sơn cũ",
+    "longitude": 105.494,
+    "latitude": 20.7602,
+    "previous": [
+      "Xã Xuân Thủy (huyện Kim Bôi)",
+      "Xã Bình Sơn",
+      "Xã Đú Sáng",
+      "Xã Hùng Sơn"
+    ],
+    "treeCode": "0785.0853"
+  },
+  {
+    "id": 854,
+    "communeCode": 1811,
+    "name": "Ngọc Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 114.63,
+    "population": 8981,
+    "administrativeCenter": "Trụ sở xã Ngọc Sơn",
+    "longitude": 105.362,
+    "latitude": 20.4214,
+    "previous": [
+      "Xã Ngọc Lâu",
+      "Xã Tự Do",
+      "Xã Ngọc Sơn"
+    ],
+    "treeCode": "0785.0854"
+  },
+  {
+    "id": 855,
+    "communeCode": 1776,
+    "name": "Nguyệt Đức",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 19,
+    "population": 34166,
+    "administrativeCenter": "Trụ sở xã Nguyệt Đức",
+    "longitude": 105.612,
+    "latitude": 21.1982,
+    "previous": [
+      "Xã Văn Tiến",
+      "Xã Trung Kiên",
+      "Xã Trung Hà",
+      "Xã Nguyệt Đức"
+    ],
+    "treeCode": "0785.0855"
+  },
+  {
+    "id": 856,
+    "communeCode": 1798,
+    "name": "Nhân Nghĩa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 81.37,
+    "population": 19456,
+    "administrativeCenter": "Trụ sở xã Nhân Nghĩa",
+    "longitude": 105.494,
+    "latitude": 20.5403,
+    "previous": [
+      "Xã Mỹ Thành",
+      "Xã Văn Nghĩa",
+      "Xã Nhân Nghĩa"
+    ],
+    "treeCode": "0785.0856"
+  },
+  {
+    "id": 857,
+    "communeCode": 1701,
+    "name": "Nông Trang",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 15.89,
+    "population": 5777,
+    "administrativeCenter": "- Trụ sở UBND và Trung tâm Hành chính công: Phố Đốc Ngữ, phường Nông Trang, tỉnh Phú Thọ (Trụ sở phường Minh Phương cũ) - Trụ sở Đảng ủy: 1686 đại lộ Hùng Vương, phường Nông Trang, tỉnh Phú Thọ (Trụ sở phường Nông Trang cũ)",
+    "longitude": 105.357,
+    "latitude": 21.3283,
+    "previous": [
+      "Phường Minh Phương",
+      "Phường Nông Trang",
+      "Xã Thụy Vân"
+    ],
+    "treeCode": "0785.0857"
+  },
+  {
+    "id": 858,
+    "communeCode": 1828,
+    "name": "Pà Cò",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 115.76,
+    "population": 11334,
+    "administrativeCenter": "Trụ sở UBND xã Cun Pheo cũ",
+    "longitude": 104.887,
+    "latitude": 20.7119,
+    "previous": [
+      "Xã Cun Pheo",
+      "Xã Hang Kia",
+      "Xã Pà Cò",
+      "Xã Đồng Tân"
+    ],
+    "treeCode": "0785.0858"
+  },
+  {
+    "id": 859,
+    "communeCode": 1735,
+    "name": "Phong Châu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 29.61,
+    "population": 32519,
+    "administrativeCenter": "Đảng ủy-HĐND-UBND-MTTQ: Đường quốc lộ 2, phường Phong Châu (Trụ sở UBND xã Phú Hộ cũ)\nTrung tâm Hành chính công: Đường sông Hồng, khu dân cư Phú Hà, phường Phong Châu, tỉnh Phú Thọ (Trụ sở UBND phường Phong Châu cũ)",
+    "longitude": 105.257,
+    "latitude": 21.4208,
+    "previous": [
+      "Phường Phong Châu",
+      "Xã Phú Hộ",
+      "Xã Hà Thạch"
+    ],
+    "treeCode": "0785.0859"
+  },
+  {
+    "id": 860,
+    "communeCode": 1737,
+    "name": "Phú Khê",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 37.11,
+    "population": 2563,
+    "administrativeCenter": "Trụ sở UBND xã Phú Khê",
+    "longitude": 105.102,
+    "latitude": 21.3779,
+    "previous": [
+      "Xã Hương Lung",
+      "Xã Phú Khê"
+    ],
+    "treeCode": "0785.0860"
+  },
+  {
+    "id": 861,
+    "communeCode": 1693,
+    "name": "Phú Mỹ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 87.81,
+    "population": 26205,
+    "administrativeCenter": "Trụ sở UBND xã Liên Hoa cũ",
+    "longitude": 105.274,
+    "latitude": 21.5134,
+    "previous": [
+      "Xã Liên Hoa",
+      "Xã Lệ Mỹ",
+      "Xã Phú Mỹ"
+    ],
+    "treeCode": "0785.0861"
+  },
+  {
+    "id": 862,
+    "communeCode": 1712,
+    "name": "Phù Ninh",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 39.28,
+    "population": 45037,
+    "administrativeCenter": "Trụ sở Huyện ủy - UBND huyện Phù Ninh cũ",
+    "longitude": 105.314,
+    "latitude": 21.4134,
+    "previous": [
+      "Thị trấn Phong Châu",
+      "Xã Phú Nham",
+      "Xã Phú Lộc",
+      "Xã Phù Ninh"
+    ],
+    "treeCode": "0785.0862"
+  },
+  {
+    "id": 863,
+    "communeCode": 1727,
+    "name": "Phú Thọ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 23.1408,
+    "population": null,
+    "administrativeCenter": "Đảng ủy và MTTQ: Số 198 đường Nguyễn Tất Thành, phường Phú Thọ (Trụ sở Thị ủy Phú Thọ cũ)\nHĐND và UBND: Số 200 đường Nguyễn Tất Thành, phường Phú Thọ (Trường Đại học Hùng Vương cũ)\nTrung tâm hành chính công: Số 210 đường Nguyễn Tất Thành, phường Phú Thọ (Trụ sở UBND phường Hùng Vương cũ)",
+    "longitude": 105.225,
+    "latitude": 21.4263,
+    "previous": [
+      "Phường Hùng Vương (thị xã Phú Thọ)",
+      "Xã Văn Lung",
+      "Xã Hà Lộc"
+    ],
+    "treeCode": "0785.0863"
+  },
+  {
+    "id": 864,
+    "communeCode": 1751,
+    "name": "Phúc Yên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 23.4,
+    "population": 63954,
+    "administrativeCenter": "145 Trần Hưng Đạo, phường Phúc Yên, tỉnh Phú Thọ (Trụ sở UBND TP Phúc Yên cũ)",
+    "longitude": 105.707,
+    "latitude": 21.2457,
+    "previous": [
+      "Phường Hùng Vương (thành phố Phúc Yên)",
+      "Phường Hai Bà Trưng",
+      "Phường Phúc Thắng",
+      "Phường Tiền Châu",
+      "Phường Nam Viêm"
+    ],
+    "treeCode": "0785.0864"
+  },
+  {
+    "id": 865,
+    "communeCode": 1732,
+    "name": "Phùng Nguyên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 30.57,
+    "population": 41046,
+    "administrativeCenter": "Trụ sở xã Phùng Nguyên",
+    "longitude": 105.295,
+    "latitude": 21.2936,
+    "previous": [
+      "Xã Tứ Xã",
+      "Xã Sơn Vi",
+      "Xã Phùng Nguyên"
+    ],
+    "treeCode": "0785.0865"
+  },
+  {
+    "id": 866,
+    "communeCode": 1691,
+    "name": "Quảng Yên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 24.92,
+    "population": 27768,
+    "administrativeCenter": "Trụ sở UBND xã Quảng Yên",
+    "longitude": 105.175,
+    "latitude": 21.5152,
+    "previous": [
+      "Xã Đại An",
+      "Xã Đông Lĩnh",
+      "Xã Quảng Yên"
+    ],
+    "treeCode": "0785.0866"
+  },
+  {
+    "id": 867,
+    "communeCode": 1822,
+    "name": "Quy Đức",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 146.97,
+    "population": 9462,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Đoàn Kết, sử dụng trụ sở xã Yên Hòa",
+    "longitude": 105.056,
+    "latitude": 20.8893,
+    "previous": [
+      "Xã Đoàn Kết (huyện Đà Bắc)",
+      "Xã Đồng Ruộng",
+      "Xã Trung Thành",
+      "Xã Yên Hoà"
+    ],
+    "treeCode": "0785.0867"
+  },
+  {
+    "id": 868,
+    "communeCode": 1818,
+    "name": "Quyết Thắng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 59.66,
+    "population": 22746,
+    "administrativeCenter": "Trụ sở xã Quyết Thắng",
+    "longitude": 105.363,
+    "latitude": 20.4744,
+    "previous": [
+      "Xã Chí Đạo",
+      "Xã Định Cư",
+      "Xã Quyết Thắng"
+    ],
+    "treeCode": "0785.0868"
+  },
+  {
+    "id": 869,
+    "communeCode": 1761,
+    "name": "Sơn Đông",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 26.7,
+    "population": 36076,
+    "administrativeCenter": "Trụ sở xã Cao Phong cũ",
+    "longitude": 105.461,
+    "latitude": 21.332,
+    "previous": [
+      "Xã Tây Sơn",
+      "Xã Cao Phong",
+      "Xã Sơn Đông"
+    ],
+    "treeCode": "0785.0869"
+  },
+  {
+    "id": 870,
+    "communeCode": 1824,
+    "name": "Sơn Lương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 159.21,
+    "population": 23912,
+    "administrativeCenter": "Trụ sở xã Lương Sơn cũ",
+    "longitude": 105.512,
+    "latitude": 20.8924,
+    "previous": [
+      "Xã Mỹ Lương",
+      "Xã Mỹ Lung",
+      "Xã Lương Sơn"
+    ],
+    "treeCode": "0785.0870"
+  },
+  {
+    "id": 871,
+    "communeCode": 1759,
+    "name": "Sông Lô",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 33.4,
+    "population": 34291,
+    "administrativeCenter": "Trụ sở xã Đồng Thịnh cũ",
+    "longitude": 105.421,
+    "latitude": 21.3776,
+    "previous": [
+      "Xã Đồng Thịnh (huyện Sông Lô)",
+      "Xã Tứ Yên",
+      "Xã Đức Bác",
+      "Xã Yên Thạch"
+    ],
+    "treeCode": "0785.0871"
+  },
+  {
+    "id": 872,
+    "communeCode": 1766,
+    "name": "Tam Đảo",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 79.2,
+    "population": 34772,
+    "administrativeCenter": "Km10 Hợp Châu, xã Tam Đảo, tỉnh Phú Thọ (Trụ sở UBND huyện Tam Đảo cũ)",
+    "longitude": 105.643,
+    "latitude": 21.409,
+    "previous": [
+      "Thị trấn Hợp Châu",
+      "Thị trấn Tam Đảo",
+      "Xã Hồ Sơn",
+      "Xã Minh Quang"
+    ],
+    "treeCode": "0785.0872"
+  },
+  {
+    "id": 873,
+    "communeCode": 1762,
+    "name": "Tam Dương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 44.3,
+    "population": 47936,
+    "administrativeCenter": "quốc lộ 2C, phố Me, xã Tam Dương, tỉnh Phú Thọ (trụ sở UBND huyện Tam Dương cũ)",
+    "longitude": 105.572,
+    "latitude": 21.3729,
+    "previous": [
+      "Thị trấn Hợp Hòa",
+      "Thị trấn Kim Long",
+      "Xã Hướng Đạo",
+      "Xã Đạo Tú"
+    ],
+    "treeCode": "0785.0873"
+  },
+  {
+    "id": 874,
+    "communeCode": 1763,
+    "name": "Tam Dương Bắc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 45.8,
+    "population": 37284,
+    "administrativeCenter": "Trụ sở xã Hoàng Hoa cũ",
+    "longitude": 105.578,
+    "latitude": 21.4299,
+    "previous": [
+      "Xã Đồng Tĩnh",
+      "Xã Hoàng Hoa",
+      "Xã Tam Quan"
+    ],
+    "treeCode": "0785.0874"
+  },
+  {
+    "id": 875,
+    "communeCode": 1775,
+    "name": "Tam Hồng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 22.6,
+    "population": 40224,
+    "administrativeCenter": "Trụ sở xã Tam Hồng",
+    "longitude": 105.568,
+    "latitude": 21.2144,
+    "previous": [
+      "Thị trấn Tam Hồng",
+      "Xã Yên Phương",
+      "Xã Yên Đồng"
+    ],
+    "treeCode": "0785.0875"
+  },
+  {
+    "id": 876,
+    "communeCode": 1716,
+    "name": "Tam Nông",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 102.7,
+    "population": 21031,
+    "administrativeCenter": "Trụ sở HĐND-UBND huyện Tam Nông cũ",
+    "longitude": 105.3,
+    "latitude": 21.2501,
+    "previous": [
+      "Thị trấn Hưng Hóa",
+      "Xã Dân Quyền",
+      "Xã Hương Nộn"
+    ],
+    "treeCode": "0785.0876"
+  },
+  {
+    "id": 877,
+    "communeCode": 1758,
+    "name": "Tam Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 33.1,
+    "population": 25523,
+    "administrativeCenter": "xã Tam Sơn, tỉnh Phú Thọ (Trụ sở Huyện ủy-HĐND-UBND huyện Sông Lô cũ)",
+    "longitude": 105.418,
+    "latitude": 21.4358,
+    "previous": [
+      "Xã Tân Lập (huyện Sông Lô)",
+      "Xã Đồng Quế",
+      "Thị trấn Tam Sơn"
+    ],
+    "treeCode": "0785.0877"
+  },
+  {
+    "id": 878,
+    "communeCode": 1804,
+    "name": "Tân Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 1.47,
+    "population": 93437,
+    "administrativeCenter": "Trụ sở chính tại trụ sở xã Tên Mông cũ",
+    "longitude": 105.319,
+    "latitude": 20.8729,
+    "previous": [
+      "Phường Tân Hòa",
+      "Xã Hòa Bình",
+      "Xã Yên Mông"
+    ],
+    "treeCode": "0785.0878"
+  },
+  {
+    "id": 879,
+    "communeCode": 1786,
+    "name": "Tân Lạc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 139.9,
+    "population": 42031,
+    "administrativeCenter": "Trụ HĐND-UBND huyện Tân Lạc",
+    "longitude": 105.318,
+    "latitude": 20.5633,
+    "previous": [
+      "Thị trấn Mãn Đức",
+      "Xã Ngọc Mỹ (huyện Tân Lạc)",
+      "Xã Đông Lai",
+      "Xã Thanh Hối",
+      "Xã Tử Nê"
+    ],
+    "treeCode": "0785.0879"
+  },
+  {
+    "id": 880,
+    "communeCode": 1800,
+    "name": "Tân Mai",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 130.71,
+    "population": 7924,
+    "administrativeCenter": "Trụ sở UBND xã Tân Thành cũ",
+    "longitude": 105.057,
+    "latitude": 20.7768,
+    "previous": [
+      "Xã Sơn Thủy (huyện Mai Châu)",
+      "Xã Tân Thành"
+    ],
+    "treeCode": "0785.0880"
+  },
+  {
+    "id": 881,
+    "communeCode": 1826,
+    "name": "Tân Pheo",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 139.38,
+    "population": 10528,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Tân Pheo, sử dụng trụ sở xã Giáp Đắt",
+    "longitude": 105.048,
+    "latitude": 20.9798,
+    "previous": [
+      "Xã Đồng Chum",
+      "Xã Giáp Đắt",
+      "Xã Tân Pheo"
+    ],
+    "treeCode": "0785.0881"
+  },
+  {
+    "id": 882,
+    "communeCode": 1696,
+    "name": "Tân Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 118.21,
+    "population": 18246,
+    "administrativeCenter": "Trụ sở HĐND-UBND huyện Tân Sơn cũ",
+    "longitude": 105.006,
+    "latitude": 21.2493,
+    "previous": [
+      "Thị trấn Tân Phú",
+      "Xã Thu Ngạc",
+      "Xã Thạch Kiệt"
+    ],
+    "treeCode": "0785.0882"
+  },
+  {
+    "id": 883,
+    "communeCode": 1682,
+    "name": "Tây Cốc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 59.07,
+    "population": 21227,
+    "administrativeCenter": "Trụ sở UBND xã Tây Cốc trước sáp nhập",
+    "longitude": 105.124,
+    "latitude": 21.6342,
+    "previous": [
+      "Xã Phú Lâm",
+      "Xã Ca Đình",
+      "Xã Tây Cốc"
+    ],
+    "treeCode": "0785.0883"
+  },
+  {
+    "id": 884,
+    "communeCode": 1774,
+    "name": "Tề Lỗ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 18.3,
+    "population": 37232,
+    "administrativeCenter": "Trụ sở xã Đồng Văn cũ",
+    "longitude": 105.55,
+    "latitude": 21.2592,
+    "previous": [
+      "Xã Đồng Văn",
+      "Xã Trung Nguyên",
+      "Xã Tề Lỗ"
+    ],
+    "treeCode": "0785.0884"
+  },
+  {
+    "id": 885,
+    "communeCode": 1756,
+    "name": "Thái Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 29,
+    "population": 23943,
+    "administrativeCenter": "Trụ sở xã Liễn Sơn cũ",
+    "longitude": 105.501,
+    "latitude": 21.4589,
+    "previous": [
+      "Xã Bắc Bình",
+      "Xã Liễn Sơn",
+      "Xã Thái Hòa"
+    ],
+    "treeCode": "0785.0885"
+  },
+  {
+    "id": 886,
+    "communeCode": 1690,
+    "name": "Thanh Ba",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 38.6,
+    "population": 30014,
+    "administrativeCenter": "Trụ sở UBND huyện Thanh Ba cũ",
+    "longitude": 105.118,
+    "latitude": 21.5195,
+    "previous": [
+      "Thị trấn Thanh Ba",
+      "Xã Đồng Xuân",
+      "Xã Hanh Cù",
+      "Xã Vân Lĩnh"
+    ],
+    "treeCode": "0785.0886"
+  },
+  {
+    "id": 887,
+    "communeCode": 1705,
+    "name": "Thanh Miếu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 19.57,
+    "population": 58548,
+    "administrativeCenter": "Đường Nguyễn Tất Thành, phường Thanh Miếu, tỉnh Phú Thọ (Trung tâm Thanh thiếu nhi Hùng Vương)",
+    "longitude": 105.431,
+    "latitude": 21.303,
+    "previous": [
+      "Phường Thọ Sơn",
+      "Phường Tiên Cát",
+      "Phường Bạch Hạc",
+      "Phường Thanh Miếu",
+      "Xã Sông Lô"
+    ],
+    "treeCode": "0785.0887"
+  },
+  {
+    "id": 888,
+    "communeCode": 1698,
+    "name": "Thanh Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 315.4,
+    "population": 33342,
+    "administrativeCenter": "Trụ sở Huyện ủy-HDND-UBND huyện Thanh Sơn cũ",
+    "longitude": 105.204,
+    "latitude": 21.1988,
+    "previous": [
+      "Thị trấn Thanh Sơn",
+      "Xã Sơn Hùng",
+      "Xã Giáp Lai",
+      "Xã Thạch Khoán",
+      "Xã Thục Luyện"
+    ],
+    "treeCode": "0785.0888"
+  },
+  {
+    "id": 889,
+    "communeCode": 1715,
+    "name": "Thanh Thủy",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 30.8747,
+    "population": null,
+    "administrativeCenter": "Trụ sở HĐND-UBND huyện Thanh Thủy cũ",
+    "longitude": 105.271,
+    "latitude": 21.1475,
+    "previous": [
+      "Xã Sơn Thủy (huyện Thanh Thủy)",
+      "Xã Đoan Hạ",
+      "Xã Bảo Yên",
+      "Thị trấn Thanh Thủy"
+    ],
+    "treeCode": "0785.0889"
+  },
+  {
+    "id": 890,
+    "communeCode": 1820,
+    "name": "Thịnh Minh",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 89.21,
+    "population": 19198,
+    "administrativeCenter": "Trụ sở UBND xã Thịnh Minh",
+    "longitude": 105.379,
+    "latitude": 20.9701,
+    "previous": [
+      "Xã Hợp Thành",
+      "Xã Quang Tiến",
+      "Xã Thịnh Minh"
+    ],
+    "treeCode": "0785.0890"
+  },
+  {
+    "id": 891,
+    "communeCode": 1782,
+    "name": "Thổ Tang",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 21.3,
+    "population": 43208,
+    "administrativeCenter": "Phố Lý Quốc Sư, xã Thổ Tang, tỉnh Phú Thọ (Trụ sở thị trấn Thổ Tang cũ)",
+    "longitude": 105.489,
+    "latitude": 21.2333,
+    "previous": [
+      "Thị trấn Thổ Tang",
+      "Xã Thượng Trưng",
+      "Xã Tuân Chính"
+    ],
+    "treeCode": "0785.0891"
+  },
+  {
+    "id": 892,
+    "communeCode": 1739,
+    "name": "Thọ Văn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 43.54,
+    "population": 15281,
+    "administrativeCenter": "Trụ sở xã Thọ Văn",
+    "longitude": 105.249,
+    "latitude": 21.2428,
+    "previous": [
+      "Xã Dị Nậu",
+      "Xã Tề Lễ",
+      "Xã Thọ Văn"
+    ],
+    "treeCode": "0785.0892"
+  },
+  {
+    "id": 893,
+    "communeCode": 1816,
+    "name": "Thống Nhất",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 22.92,
+    "population": 48721,
+    "administrativeCenter": "Trụ sở UBND phường Thống Nhất",
+    "longitude": 105.334,
+    "latitude": 20.7815,
+    "previous": [
+      "Phường Dân Chủ",
+      "Phường Thái Bình",
+      "Phường Thống Nhất",
+      "Xã Vầy Nưa"
+    ],
+    "treeCode": "0785.0893"
+  },
+  {
+    "id": 894,
+    "communeCode": 1747,
+    "name": "Thu Cúc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 100.51,
+    "population": 11313,
+    "administrativeCenter": "Trụ sở xã Thu Cúc",
+    "longitude": 104.883,
+    "latitude": 21.3008,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0785.0894"
+  },
+  {
+    "id": 895,
+    "communeCode": 1812,
+    "name": "Thung Nai",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 86.34,
+    "population": 106,
+    "administrativeCenter": "Trụ sở xã Bắc Phong (tạm thời sử dụng trụ sở xã Nam Phong)",
+    "longitude": 105.262,
+    "latitude": 20.7472,
+    "previous": [
+      "Xã Bắc Phong",
+      "Xã Bình Thanh",
+      "Xã Thung Nai"
+    ],
+    "treeCode": "0785.0895"
+  },
+  {
+    "id": 896,
+    "communeCode": 1802,
+    "name": "Thượng Cốc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 58.38,
+    "population": 1843,
+    "administrativeCenter": "Trụ sở xã Văn Sơn cũ",
+    "longitude": 105.391,
+    "latitude": 20.5256,
+    "previous": [
+      "Xã Miền Đồi",
+      "Xã Văn Sơn",
+      "Xã Thượng Cốc"
+    ],
+    "treeCode": "0785.0896"
+  },
+  {
+    "id": 897,
+    "communeCode": 1720,
+    "name": "Thượng Long",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 60.36,
+    "population": 16108,
+    "administrativeCenter": "Trụ sở xã Phúc Khánh cũ",
+    "longitude": 105.01,
+    "latitude": 21.3287,
+    "previous": [
+      "Xã Phúc Khánh",
+      "Xã Nga Hoàng",
+      "Xã Thượng Long"
+    ],
+    "treeCode": "0785.0897"
+  },
+  {
+    "id": 898,
+    "communeCode": 1760,
+    "name": "Tiên Lữ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 31.8,
+    "population": 3271,
+    "administrativeCenter": "Trụ sở xã Tiên Lữ",
+    "longitude": 105.462,
+    "latitude": 21.3731,
+    "previous": [
+      "Xã Xuân Lôi",
+      "Xã Văn Quán",
+      "Xã Đồng Ích",
+      "Xã Tiên Lữ"
+    ],
+    "treeCode": "0785.0898"
+  },
+  {
+    "id": 899,
+    "communeCode": 1694,
+    "name": "Tiên Lương",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 54.55,
+    "population": 38028,
+    "administrativeCenter": "Trụ sở UBND xã Minh Thắng cũ",
+    "longitude": 105.025,
+    "latitude": 21.4665,
+    "previous": [
+      "Xã Phượng Vĩ",
+      "Xã Minh Thắng",
+      "Xã Tiên Lương"
+    ],
+    "treeCode": "0785.0899"
+  },
+  {
+    "id": 900,
+    "communeCode": 1805,
+    "name": "Tiền Phong",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 319.02,
+    "population": 14494,
+    "administrativeCenter": "Trụ sở chính đặt tại xã Vầy Nữa, sủ dụng trụ sở xã Tiền Phong",
+    "longitude": 105.128,
+    "latitude": 20.7831,
+    "previous": [
+      "Xã Tiền Phong",
+      "Xã Vầy Nưa"
+    ],
+    "treeCode": "0785.0900"
+  },
+  {
+    "id": 901,
+    "communeCode": 1789,
+    "name": "Toàn Thắng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 71.11,
+    "population": 15427,
+    "administrativeCenter": "Trụ sở UBND xã Nhân Mỹ cũ",
+    "longitude": 105.259,
+    "latitude": 20.5475,
+    "previous": [
+      "Xã Gia Mô",
+      "Xã Lỗ Sơn",
+      "Xã Nhân Mỹ"
+    ],
+    "treeCode": "0785.0901"
+  },
+  {
+    "id": 902,
+    "communeCode": 1748,
+    "name": "Trạm Thản",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 32.6,
+    "population": 16138,
+    "administrativeCenter": "Trụ sở UBND xã Tiên Phú cũ",
+    "longitude": 105.255,
+    "latitude": 21.4731,
+    "previous": [
+      "Xã Tiên Phú",
+      "Xã Trung Giáp",
+      "Xã Trạm Thản"
+    ],
+    "treeCode": "0785.0902"
+  },
+  {
+    "id": 903,
+    "communeCode": 1746,
+    "name": "Trung Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 76.81,
+    "population": 3254,
+    "administrativeCenter": "Trụ sở xã Trung Sơn",
+    "longitude": 104.944,
+    "latitude": 21.3566,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0785.0903"
+  },
+  {
+    "id": 904,
+    "communeCode": 1717,
+    "name": "Tu Vũ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 49.07,
+    "population": 41564,
+    "administrativeCenter": "Trụ sở xã Đồng Trung",
+    "longitude": 105.289,
+    "latitude": 21.0736,
+    "previous": [
+      "Xã Đồng Trung",
+      "Xã Hoàng Xá",
+      "Xã Tu Vũ"
+    ],
+    "treeCode": "0785.0904"
+  },
+  {
+    "id": 905,
+    "communeCode": 1730,
+    "name": "Vân Bán",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 22.6645,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.049,
+    "latitude": 21.4227,
+    "previous": [
+      "Xã Tùng Khê",
+      "Xã Tam Sơn",
+      "Xã Văn Bán"
+    ],
+    "treeCode": "0785.0905"
+  },
+  {
+    "id": 906,
+    "communeCode": 1688,
+    "name": "Văn Lang",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 54.06,
+    "population": 17949,
+    "administrativeCenter": "Trụ sở UBND xã Văn Lang trước sáp nhập",
+    "longitude": 104.99,
+    "latitude": 21.5244,
+    "previous": [
+      "Xã Vô Tranh",
+      "Xã Bằng Giã",
+      "Xã Minh Côi",
+      "Xã Văn Lang"
+    ],
+    "treeCode": "0785.0906"
+  },
+  {
+    "id": 907,
+    "communeCode": 1742,
+    "name": "Văn Miếu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 89.11,
+    "population": 18752,
+    "administrativeCenter": "Trụ sở xã Văn Miếu",
+    "longitude": 105.167,
+    "latitude": 21.0623,
+    "previous": [
+      "Xã Tân Lập",
+      "Xã Tân Minh (huyện Thanh Sơn)",
+      "Xã Văn Miếu"
+    ],
+    "treeCode": "0785.0907"
+  },
+  {
+    "id": 908,
+    "communeCode": 1697,
+    "name": "Vân Phú",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 26.26,
+    "population": 3745,
+    "administrativeCenter": "Đường Trường Chinh, khu 3, phường Vân Phú, tỉnh Phú Thọ (trụ sở UBND phường Vân Phú)",
+    "longitude": 105.366,
+    "latitude": 21.3636,
+    "previous": [
+      "Phường Vân Phú",
+      "Xã Phượng Lâu",
+      "Xã Hùng Lô",
+      "Xã Kim Đức"
+    ],
+    "treeCode": "0785.0908"
+  },
+  {
+    "id": 909,
+    "communeCode": 1808,
+    "name": "Vân Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 120.53,
+    "population": 9197,
+    "administrativeCenter": "Trụ sở UBND xã Vân Sơn",
+    "longitude": 105.198,
+    "latitude": 20.5441,
+    "previous": [
+      "Xã Ngổ Luông",
+      "Xã Quyết Chiến",
+      "Xã Vân Sơn"
+    ],
+    "treeCode": "0785.0909"
+  },
+  {
+    "id": 910,
+    "communeCode": 1740,
+    "name": "Vạn Xuân",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 139.49,
+    "population": 6125,
+    "administrativeCenter": "Trụ sở xã Vạn Xuân",
+    "longitude": 105.227,
+    "latitude": 21.3017,
+    "previous": [
+      "Xã Quang Húc",
+      "Xã Lam Sơn",
+      "Xã Vạn Xuân"
+    ],
+    "treeCode": "0785.0910"
+  },
+  {
+    "id": 911,
+    "communeCode": 1713,
+    "name": "Việt Trì",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 25.83,
+    "population": 73006,
+    "administrativeCenter": "1508 đại lộ Hùng Vương, phường Việt Trì, tỉnh Phú Thọ",
+    "longitude": 105.399,
+    "latitude": 21.3326,
+    "previous": [
+      "Phường Tân Dân",
+      "Phường Gia Cẩm",
+      "Phường Minh Nông",
+      "Phường Dữu Lâu",
+      "Xã Trưng Vương"
+    ],
+    "treeCode": "0785.0911"
+  },
+  {
+    "id": 912,
+    "communeCode": 1779,
+    "name": "Vĩnh An",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 93.41,
+    "population": 33036,
+    "administrativeCenter": "Trụ sở xã Kim Xá cũ",
+    "longitude": 105.511,
+    "latitude": 21.3073,
+    "previous": [
+      "Xã Kim Xá",
+      "Xã Yên Bình",
+      "Xã Chấn Hưng"
+    ],
+    "treeCode": "0785.0912"
+  },
+  {
+    "id": 913,
+    "communeCode": 1689,
+    "name": "Vĩnh Chân",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 27.12,
+    "population": 17173,
+    "administrativeCenter": "Trụ sở UBND xã Mai Tùng cũ (tạm thời đặt tại UBND xã Yên Luật do đang sửa chữa)",
+    "longitude": 105.052,
+    "latitude": 21.522,
+    "previous": [
+      "Xã Lang Sơn",
+      "Xã Yên Luật",
+      "Xã Vĩnh Chân"
+    ],
+    "treeCode": "0785.0913"
+  },
+  {
+    "id": 914,
+    "communeCode": 1780,
+    "name": "Vĩnh Hưng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 95.26,
+    "population": 21204,
+    "administrativeCenter": "Trụ sở xã Đại Đồng cũ",
+    "longitude": 105.495,
+    "latitude": 21.2828,
+    "previous": [
+      "Xã Nghĩa Hưng",
+      "Xã Yên Lập",
+      "Xã Đại Đồng"
+    ],
+    "treeCode": "0785.0914"
+  },
+  {
+    "id": 915,
+    "communeCode": 1783,
+    "name": "Vĩnh Phú",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 34.6,
+    "population": 49755,
+    "administrativeCenter": "Trụ sở xã Vĩnh Thịnh cũ",
+    "longitude": 105.502,
+    "latitude": 21.1776,
+    "previous": [
+      "Xã An Nhân",
+      "Xã Vĩnh Thịnh",
+      "Xã Ngũ Kiên",
+      "Xã Vĩnh Phú"
+    ],
+    "treeCode": "0785.0915"
+  },
+  {
+    "id": 916,
+    "communeCode": 1750,
+    "name": "Vĩnh Phúc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 25.3,
+    "population": 78371,
+    "administrativeCenter": "Đảng ủy-HĐND-UBND: Số 9A, đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ (Trụ sở Thành ủy Vĩnh Yên cũ)\nTrung tâm hành chính công: 159 đường Trần Phú (trụ sở phường Liên Bảo cũ)",
+    "longitude": 105.608,
+    "latitude": 21.3178,
+    "previous": [
+      "Phường Định Trung",
+      "Phường Liên Bảo",
+      "Phường Khai Quang",
+      "Phường Ngô Quyền",
+      "Phường Đống Đa"
+    ],
+    "treeCode": "0785.0916"
+  },
+  {
+    "id": 917,
+    "communeCode": 1781,
+    "name": "Vĩnh Thành",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 52.01,
+    "population": 42885,
+    "administrativeCenter": "Trụ sở xã Lũng Hòa cũ",
+    "longitude": 105.463,
+    "latitude": 21.2634,
+    "previous": [
+      "Xã Sao Đại Việt",
+      "Xã Lũng Hòa",
+      "Xã Tân Phú"
+    ],
+    "treeCode": "0785.0917"
+  },
+  {
+    "id": 918,
+    "communeCode": 1778,
+    "name": "Vĩnh Tường",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 67.01,
+    "population": 31676,
+    "administrativeCenter": "Đường Lê Xoay, xã Vĩnh Tường, tỉnh Phú Thọ (Trụ sở UBND huyện Vĩnh Tường cũ)",
+    "longitude": 105.52,
+    "latitude": 21.2269,
+    "previous": [
+      "Thị trấn Vĩnh Tường",
+      "Thị trấn Tứ Trưng",
+      "Xã Lương Điền",
+      "Xã Vũ Di"
+    ],
+    "treeCode": "0785.0918"
+  },
+  {
+    "id": 919,
+    "communeCode": 1749,
+    "name": "Vĩnh Yên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 25,
+    "population": 56428,
+    "administrativeCenter": "Đảng ủy-HĐND-UBND: Số 9A, đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ (Trụ sở UBND TP Vĩnh Yên cũ)\nTrung tâm Hành chính công: Số 5 đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ",
+    "longitude": 105.584,
+    "latitude": 21.2937,
+    "previous": [
+      "Phường Tích Sơn",
+      "Phường Hội Hợp",
+      "Phường Đồng Tâm",
+      "Xã Thanh Trù"
+    ],
+    "treeCode": "0785.0919"
+  },
+  {
+    "id": 920,
+    "communeCode": 1738,
+    "name": "Võ Miếu",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 96.36,
+    "population": 28853,
+    "administrativeCenter": "Trụ sở xã Võ Miếu",
+    "longitude": 105.159,
+    "latitude": 21.1341,
+    "previous": [
+      "Xã Địch Quả",
+      "Xã Cự Thắng",
+      "Xã Võ Miếu"
+    ],
+    "treeCode": "0785.0920"
+  },
+  {
+    "id": 921,
+    "communeCode": 1704,
+    "name": "Xuân Đài",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 209.6,
+    "population": 15073,
+    "administrativeCenter": "Trụ sở xã Kim Thượng cũ",
+    "longitude": 104.97,
+    "latitude": 21.1149,
+    "previous": [
+      "Xã Kim Thượng",
+      "Xã Xuân Sơn",
+      "Xã Xuân Đài"
+    ],
+    "treeCode": "0785.0921"
+  },
+  {
+    "id": 922,
+    "communeCode": 1752,
+    "name": "Xuân Hòa",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "phường",
+    "areaKm2": 2.22,
+    "population": 48464,
+    "administrativeCenter": "Đường Lê Duẩn, khu Đồng Đầm, phường Xuân Hòa, tỉnh Phú Thọ (Trụ sở xã Ngọc Thanh cũ)",
+    "longitude": 105.735,
+    "latitude": 21.3408,
+    "previous": [
+      "Phường Đồng Xuân",
+      "Phường Xuân Hòa",
+      "Xã Cao Minh",
+      "Xã Ngọc Thanh"
+    ],
+    "treeCode": "0785.0922"
+  },
+  {
+    "id": 923,
+    "communeCode": 1772,
+    "name": "Xuân Lãng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 29.9,
+    "population": 48186,
+    "administrativeCenter": "Trụ sở thị trấn Đạo Đức cũ",
+    "longitude": 105.624,
+    "latitude": 21.254,
+    "previous": [
+      "Thị trấn Thanh Lãng",
+      "Thị trấn Đạo Đức",
+      "Xã Tân Phong",
+      "Xã Phú Xuân"
+    ],
+    "treeCode": "0785.0923"
+  },
+  {
+    "id": 924,
+    "communeCode": 1728,
+    "name": "Xuân Lũng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 24.03,
+    "population": 20604,
+    "administrativeCenter": "Trụ sở xã Xuân Lũng",
+    "longitude": 105.282,
+    "latitude": 21.379,
+    "previous": [
+      "Xã Tiên Kiên",
+      "Xã Xuân Huy",
+      "Xã Xuân Lũng"
+    ],
+    "treeCode": "0785.0924"
+  },
+  {
+    "id": 925,
+    "communeCode": 1699,
+    "name": "Xuân Viên",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 46.19,
+    "population": 14428,
+    "administrativeCenter": "Trụ sở xã Xuân Viên",
+    "longitude": 104.993,
+    "latitude": 21.4047,
+    "previous": [
+      "Xã Xuân Thủy (huyện Yên Lập)",
+      "Xã Xuân An",
+      "Xã Xuân Viên"
+    ],
+    "treeCode": "0785.0925"
+  },
+  {
+    "id": 926,
+    "communeCode": 1686,
+    "name": "Yên Kỳ",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 53.58,
+    "population": 20973,
+    "administrativeCenter": "Trụ sở UBND xã Yên Kỳ trước sáp nhập",
+    "longitude": 105.087,
+    "latitude": 21.5613,
+    "previous": [
+      "Xã Hương Xạ",
+      "Xã Phương Viên",
+      "Xã Yên Kỳ"
+    ],
+    "treeCode": "0785.0926"
+  },
+  {
+    "id": 927,
+    "communeCode": 1773,
+    "name": "Yên Lạc",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 21.7,
+    "population": 3973,
+    "administrativeCenter": "154 DT305, xã Yên Lạc, tỉnh Phú Thọ (Trụ sở UBND huyện Yên Lạc cũ)",
+    "longitude": 105.588,
+    "latitude": 21.2559,
+    "previous": [
+      "Thị trấn Yên Lạc",
+      "Xã Bình Định",
+      "Xã Đồng Cương"
+    ],
+    "treeCode": "0785.0927"
+  },
+  {
+    "id": 928,
+    "communeCode": 1754,
+    "name": "Yên Lãng",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 38.2,
+    "population": 18459,
+    "administrativeCenter": "Trụ sở xã Lãng Công cũ",
+    "longitude": 105.384,
+    "latitude": 21.495,
+    "previous": [
+      "Xã Quang Yên",
+      "Xã Lãng Công"
+    ],
+    "treeCode": "0785.0928"
+  },
+  {
+    "id": 929,
+    "communeCode": 1709,
+    "name": "Yên Lập",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 69.05,
+    "population": 29678,
+    "administrativeCenter": "Trụ sở HĐND - UBND huyện Yên Lập cũ",
+    "longitude": 105.072,
+    "latitude": 21.3378,
+    "previous": [
+      "Thị trấn Yên Lập",
+      "Xã Đồng Thịnh (huyện Yên Lập)",
+      "Xã Hưng Long",
+      "Xã Đồng Lạc"
+    ],
+    "treeCode": "0785.0929"
+  },
+  {
+    "id": 930,
+    "communeCode": 1810,
+    "name": "Yên Phú",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 42.61,
+    "population": 14964,
+    "administrativeCenter": "Trụ sở xã Yên Phú",
+    "longitude": 105.487,
+    "latitude": 20.4929,
+    "previous": [
+      "Xã Bình Hẻm",
+      "Xã Xuất Hóa",
+      "Xã Yên Phú"
+    ],
+    "treeCode": "0785.0930"
+  },
+  {
+    "id": 931,
+    "communeCode": 1719,
+    "name": "Yên Sơn",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 116.62,
+    "population": 12614,
+    "administrativeCenter": "Trụ sở xã Tinh Nhuệ cũ",
+    "longitude": 105.285,
+    "latitude": 20.9602,
+    "previous": [
+      "Xã Tinh Nhuệ",
+      "Xã Lương Nha",
+      "Xã Yên Sơn"
+    ],
+    "treeCode": "0785.0931"
+  },
+  {
+    "id": 932,
+    "communeCode": 1813,
+    "name": "Yên Thủy",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 76.19,
+    "population": 24012,
+    "administrativeCenter": "Khu phố Tân Bình, số 26 đường Hùng Vương, xã Yên Thủy, tỉnh Phú Thọ (Trụ sở UBND huyện Yên Thủy cũ)",
+    "longitude": 105.602,
+    "latitude": 20.3865,
+    "previous": [
+      "Thị trấn Hàng Trạm",
+      "Xã Lạc Thịnh",
+      "Xã Phú Lai"
+    ],
+    "treeCode": "0785.0932"
+  },
+  {
+    "id": 933,
+    "communeCode": 1809,
+    "name": "Yên Trị",
+    "provinceCode": 12,
+    "provinceName": "tỉnh Phú Thọ",
+    "type": "xã",
+    "areaKm2": 81.97,
+    "population": 27005,
+    "administrativeCenter": "Trụ sở UBND xã Yên Trị",
+    "longitude": 105.678,
+    "latitude": 20.3708,
+    "previous": [
+      "Xã Đoàn Kết (huyện Yên Thủy)",
+      "Xã Hữu Lợi",
+      "Xã Ngọc Lương",
+      "Xã Yên Trị"
+    ],
+    "treeCode": "0785.0933"
+  }
+]

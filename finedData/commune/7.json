@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 129,
+    "communeCode": 1183,
+    "name": "Bạch Đằng",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 141.61,
+    "population": 4808,
+    "administrativeCenter": "Trụ sở UBND xã Bạch Đằng",
+    "longitude": 106.159,
+    "latitude": 22.5894,
+    "previous": [
+      "Xã Thịnh Vượng",
+      "Xã Bình Dương",
+      "Xã Bạch Đằng"
+    ],
+    "treeCode": "0128.0129"
+  },
+  {
+    "id": 130,
+    "communeCode": 1210,
+    "name": "Bảo Lạc",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 118.7,
+    "population": 10889,
+    "administrativeCenter": "Văn phòng HĐND, UBND huyện Bảo Lạc",
+    "longitude": 105.633,
+    "latitude": 22.9452,
+    "previous": [
+      "Thị trấn Bảo Lạc",
+      "Xã Bảo Toàn",
+      "Xã Hồng Trị"
+    ],
+    "treeCode": "0128.0130"
+  },
+  {
+    "id": 131,
+    "communeCode": 1202,
+    "name": "Bảo Lâm",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 161.82,
+    "population": 14198,
+    "administrativeCenter": "Trụ sở Văn phòng HĐND, UBND huyện Bảo Lâm và trụ sở Ban quản lý dự án Đầu tư và Xây dựng huyện Bảo Lâm",
+    "longitude": 105.544,
+    "latitude": 22.8215,
+    "previous": [
+      "Thị trấn Pác Miầu",
+      "Xã Mông Ân",
+      "Xã Vĩnh Phong"
+    ],
+    "treeCode": "0128.0131"
+  },
+  {
+    "id": 132,
+    "communeCode": 1228,
+    "name": "Bế Văn Đàn",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 118.31,
+    "population": 10253,
+    "administrativeCenter": "Trụ sở UBND xã Cách Linh",
+    "longitude": 106.541,
+    "latitude": 22.6125,
+    "previous": [
+      "Xã Hồng Quang",
+      "Xã Cách Linh",
+      "Xã Bế Văn Đàn"
+    ],
+    "treeCode": "0128.0132"
+  },
+  {
+    "id": 133,
+    "communeCode": 1215,
+    "name": "Ca Thành",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 109.85,
+    "population": 4684,
+    "administrativeCenter": "Trụ sở UBND xã Ca Thành",
+    "longitude": 105.828,
+    "latitude": 22.7244,
+    "previous": [
+      "Xã Yên Lạc",
+      "Xã Ca Thành"
+    ],
+    "treeCode": "0128.0133"
+  },
+  {
+    "id": 134,
+    "communeCode": 1188,
+    "name": "Cần Yên",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 144.64,
+    "population": 10375,
+    "administrativeCenter": "Trụ sở UBND xã Lương Thông",
+    "longitude": 105.926,
+    "latitude": 22.8831,
+    "previous": [
+      "Xã Cần Nông",
+      "Xã Lương Thông",
+      "Xã Cần Yên"
+    ],
+    "treeCode": "0128.0134"
+  },
+  {
+    "id": 135,
+    "communeCode": 1192,
+    "name": "Canh Tân",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 132.26,
+    "population": 4513,
+    "administrativeCenter": "Trụ sở UBND xã Canh Tân",
+    "longitude": 106.269,
+    "latitude": 22.51,
+    "previous": [
+      "Xã Đức Thông",
+      "Xã Canh Tân"
+    ],
+    "treeCode": "0128.0135"
+  },
+  {
+    "id": 136,
+    "communeCode": 1221,
+    "name": "Cô Ba",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 134.52,
+    "population": 8397,
+    "administrativeCenter": "Trụ sở UBND xã Thượng Hà (trụ sở cũ xóm Phiêng Sinh)",
+    "longitude": 105.714,
+    "latitude": 22.9993,
+    "previous": [
+      "Xã Thượng Hà",
+      "Xã Cô Ba"
+    ],
+    "treeCode": "0128.0136"
+  },
+  {
+    "id": 137,
+    "communeCode": 1213,
+    "name": "Cốc Pàng",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 170.28,
+    "population": 10134,
+    "administrativeCenter": "Trụ sở UBND xã Cốc Pàng và trụ sở UBND xã Đức Hạnh",
+    "longitude": 105.577,
+    "latitude": 23.0393,
+    "previous": [
+      "Xã Đức Hạnh",
+      "Xã Cốc Pàng"
+    ],
+    "treeCode": "0128.0137"
+  },
+  {
+    "id": 138,
+    "communeCode": 1229,
+    "name": "Đàm Thủy",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 114.63,
+    "population": 12281,
+    "administrativeCenter": "Trụ sở UBND xã Chí Viễn (trụ sở mới)",
+    "longitude": 106.651,
+    "latitude": 22.8332,
+    "previous": [
+      "Xã Chí Viễn",
+      "Xã Phong Châu",
+      "Xã Đàm Thủy"
+    ],
+    "treeCode": "0128.0138"
+  },
+  {
+    "id": 139,
+    "communeCode": 1233,
+    "name": "Đình Phong",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 113.77,
+    "population": 10778,
+    "administrativeCenter": "Trụ sở UBND xã Đình Phong (trụ sở mới)",
+    "longitude": 106.566,
+    "latitude": 22.8904,
+    "previous": [
+      "Xã Ngọc Côn",
+      "Xã Ngọc Khê",
+      "Xã Phong Nặm",
+      "Xã Đình Phong"
+    ],
+    "treeCode": "0128.0139"
+  },
+  {
+    "id": 140,
+    "communeCode": 1239,
+    "name": "Đoài Dương",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 114.48,
+    "population": 12536,
+    "administrativeCenter": "Trụ sở UBND xã Đoài Dương (trụ sở mới)",
+    "longitude": 106.503,
+    "latitude": 22.7565,
+    "previous": [
+      "Xã Trung Phúc",
+      "Xã Cao Thăng",
+      "Xã Đoài Dương"
+    ],
+    "treeCode": "0128.0140"
+  },
+  {
+    "id": 141,
+    "communeCode": 1223,
+    "name": "Độc Lập",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 102.21,
+    "population": 84,
+    "administrativeCenter": "Trụ sở UBND xã Độc Lập (trụ sở mới)",
+    "longitude": 106.5,
+    "latitude": 22.7084,
+    "previous": [
+      "Xã Quảng Hưng",
+      "Xã Cai Bộ",
+      "Xã Độc Lập"
+    ],
+    "treeCode": "0128.0141"
+  },
+  {
+    "id": 142,
+    "communeCode": 1226,
+    "name": "Đông Khê",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 125.27,
+    "population": 9099,
+    "administrativeCenter": "Trụ sở Văn phòng HĐND, UBND huyện Thạch An",
+    "longitude": 106.359,
+    "latitude": 22.4133,
+    "previous": [
+      "Thị trấn Đông Khê",
+      "Xã Đức Xuân",
+      "Xã Trọng Con"
+    ],
+    "treeCode": "0128.0142"
+  },
+  {
+    "id": 143,
+    "communeCode": 1225,
+    "name": "Đức Long",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 106.93,
+    "population": 5236,
+    "administrativeCenter": "Trụ sở UBND xã Đức Long",
+    "longitude": 106.495,
+    "latitude": 22.4453,
+    "previous": [
+      "Xã Đức Long (huyện Thạch An)",
+      "Xã Thụy Hùng",
+      "Xã Lê Lợi"
+    ],
+    "treeCode": "0128.0143"
+  },
+  {
+    "id": 144,
+    "communeCode": 1230,
+    "name": "Hạ Lang",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 81.13,
+    "population": 8091,
+    "administrativeCenter": "Trụ sở HĐND và UBND huyện Hạ Lang",
+    "longitude": 106.691,
+    "latitude": 22.6132,
+    "previous": [
+      "Thị trấn Thanh Nhật",
+      "Xã Thống Nhất",
+      "Xã Thị Hoa"
+    ],
+    "treeCode": "0128.0144"
+  },
+  {
+    "id": 145,
+    "communeCode": 1187,
+    "name": "Hà Quảng",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 112.25,
+    "population": 10997,
+    "administrativeCenter": "Trụ sở UBND xã Ngọc Đào",
+    "longitude": 106.16,
+    "latitude": 22.8513,
+    "previous": [
+      "Xã Hồng Sỹ",
+      "Xã Ngọc Đào",
+      "Xã Mã Ba"
+    ],
+    "treeCode": "0128.0145"
+  },
+  {
+    "id": 146,
+    "communeCode": 1240,
+    "name": "Hạnh Phúc",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 193.85,
+    "population": 13763,
+    "administrativeCenter": "Trụ sở UBND xã Ngọc Động",
+    "longitude": 106.412,
+    "latitude": 22.6235,
+    "previous": [
+      "Xã Ngọc Động (huyện Quảng Hòa)",
+      "Xã Tự Do",
+      "Xã Hạnh Phúc"
+    ],
+    "treeCode": "0128.0146"
+  },
+  {
+    "id": 147,
+    "communeCode": 1181,
+    "name": "Hòa An",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 61.62,
+    "population": 32937,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.181,
+    "latitude": 22.7503,
+    "previous": [
+      "Thị trấn Nước Hai",
+      "Xã Đại Tiến",
+      "Xã Hồng Việt"
+    ],
+    "treeCode": "0128.0147"
+  },
+  {
+    "id": 148,
+    "communeCode": 1211,
+    "name": "Hưng Đạo",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 122.43,
+    "population": 9354,
+    "administrativeCenter": "Trụ sở UBND xã Hưng Đạo",
+    "longitude": 105.671,
+    "latitude": 22.8355,
+    "previous": [
+      "Xã Hưng Thịnh",
+      "Xã Kim Cúc",
+      "Xã Hưng Đạo (huyện Bảo Lạc)"
+    ],
+    "treeCode": "0128.0148"
+  },
+  {
+    "id": 149,
+    "communeCode": 1218,
+    "name": "Huy Giáp",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 133.76,
+    "population": 7373,
+    "administrativeCenter": "Trụ sở UBND xã Huy Giáp",
+    "longitude": 105.775,
+    "latitude": 22.7948,
+    "previous": [
+      "Xã Đình Phùng",
+      "Xã Huy Giáp"
+    ],
+    "treeCode": "0128.0149"
+  },
+  {
+    "id": 150,
+    "communeCode": 1220,
+    "name": "Khánh Xuân",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 109.96,
+    "population": 6563,
+    "administrativeCenter": "Trụ sở UBND xã Khánh Xuân",
+    "longitude": 105.76,
+    "latitude": 22.9038,
+    "previous": [
+      "Xã Phan Thanh (huyện Bảo Lạc)",
+      "Xã Khánh Xuân"
+    ],
+    "treeCode": "0128.0150"
+  },
+  {
+    "id": 151,
+    "communeCode": 1193,
+    "name": "Kim Đồng",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 112.06,
+    "population": 6056,
+    "administrativeCenter": "Trụ sở UBND xã Kim Đồng cũ",
+    "longitude": 106.344,
+    "latitude": 22.5336,
+    "previous": [
+      "Xã Hồng Nam",
+      "Xã Thái Cường",
+      "Xã Kim Đồng"
+    ],
+    "treeCode": "0128.0151"
+  },
+  {
+    "id": 152,
+    "communeCode": 1190,
+    "name": "Lũng Nặm",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 97.59,
+    "population": 7221,
+    "administrativeCenter": "Trụ sở UBND xã Lũng Nặm",
+    "longitude": 106.115,
+    "latitude": 22.9158,
+    "previous": [
+      "Xã Thượng Thôn",
+      "Xã Lũng Nặm"
+    ],
+    "treeCode": "0128.0152"
+  },
+  {
+    "id": 153,
+    "communeCode": 1203,
+    "name": "Lý Bôn",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 173.25,
+    "population": 11807,
+    "administrativeCenter": "Trụ sở UBND xã Lý Bôn",
+    "longitude": 105.53,
+    "latitude": 22.9306,
+    "previous": [
+      "Xã Vĩnh Quang (huyện Bảo Lâm)",
+      "Xã Lý Bôn"
+    ],
+    "treeCode": "0128.0153"
+  },
+  {
+    "id": 154,
+    "communeCode": 1235,
+    "name": "Lý Quốc",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 102.18,
+    "population": 5966,
+    "administrativeCenter": "Trụ sở UBND xã Lý Quốc",
+    "longitude": 106.735,
+    "latitude": 22.7947,
+    "previous": [
+      "Xã Minh Long",
+      "Xã Đồng Loan",
+      "Xã Lý Quốc"
+    ],
+    "treeCode": "0128.0154"
+  },
+  {
+    "id": 155,
+    "communeCode": 1194,
+    "name": "Minh Khai",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 173.4,
+    "population": 4437,
+    "administrativeCenter": "Trụ sở UBND xã Quang Trọng",
+    "longitude": 106.171,
+    "latitude": 22.4697,
+    "previous": [
+      "Xã Quang Trọng",
+      "Xã Minh Khai"
+    ],
+    "treeCode": "0128.0155"
+  },
+  {
+    "id": 156,
+    "communeCode": 1200,
+    "name": "Minh Tâm",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 106.64,
+    "population": 8182,
+    "administrativeCenter": "Trụ sở UBND xã Minh Tâm",
+    "longitude": 106.078,
+    "latitude": 22.6949,
+    "previous": [
+      "Xã Trương Lương",
+      "Xã Minh Tâm"
+    ],
+    "treeCode": "0128.0156"
+  },
+  {
+    "id": 157,
+    "communeCode": 1204,
+    "name": "Nam Quang",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 148.16,
+    "population": 1014,
+    "administrativeCenter": "Trụ sở UBND xã Nam Quang",
+    "longitude": 105.433,
+    "latitude": 22.9158,
+    "previous": [
+      "Xã Nam Cao",
+      "Xã Nam Quang"
+    ],
+    "treeCode": "0128.0157"
+  },
+  {
+    "id": 158,
+    "communeCode": 1180,
+    "name": "Nam Tuấn",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 119.66,
+    "population": 1631,
+    "administrativeCenter": "Trụ sở UBND xã Nam Tuấn",
+    "longitude": 106.106,
+    "latitude": 22.7807,
+    "previous": [
+      "Xã Đức Long (huyện Hòa An)",
+      "Xã Dân Chủ",
+      "Xã Nam Tuấn"
+    ],
+    "treeCode": "0128.0158"
+  },
+  {
+    "id": 159,
+    "communeCode": 1198,
+    "name": "Nguyên Bình",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 99.73,
+    "population": 9278,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND, UBND huyện Nguyên Bình",
+    "longitude": 105.986,
+    "latitude": 22.66,
+    "previous": [
+      "Thị trấn Nguyên Bình",
+      "Xã Thể Dục",
+      "Xã Vũ Minh"
+    ],
+    "treeCode": "0128.0159"
+  },
+  {
+    "id": 160,
+    "communeCode": 1182,
+    "name": "Nguyễn Huệ",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 146.8,
+    "population": 9349,
+    "administrativeCenter": "Trụ sở UBND xã Nguyễn Huệ",
+    "longitude": 106.297,
+    "latitude": 22.6961,
+    "previous": [
+      "Xã Quang Trung (huyện Hòa An)",
+      "Xã Ngũ Lão",
+      "Xã Nguyễn Huệ"
+    ],
+    "treeCode": "0128.0160"
+  },
+  {
+    "id": 161,
+    "communeCode": 1207,
+    "name": "Nùng Trí Cao",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "phường",
+    "areaKm2": 29.31,
+    "population": 19507,
+    "administrativeCenter": "Trụ sở UBND phường Sông Bằng",
+    "longitude": 106.24,
+    "latitude": 22.697,
+    "previous": [
+      "Phường Ngọc Xuân",
+      "Phường Sông Bằng",
+      "Xã Vĩnh Quang (thành phố Cao Bằng)"
+    ],
+    "treeCode": "0128.0161"
+  },
+  {
+    "id": 162,
+    "communeCode": 1216,
+    "name": "Phan Thanh",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 138.09,
+    "population": 6647,
+    "administrativeCenter": "Trụ sở UBND xã Phan Thanh",
+    "longitude": 105.8,
+    "latitude": 22.6142,
+    "previous": [
+      "Xã Phan Thanh (huyện Nguyên Bình)",
+      "Xã Mai Long"
+    ],
+    "treeCode": "0128.0162"
+  },
+  {
+    "id": 163,
+    "communeCode": 1227,
+    "name": "Phục Hòa",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 122.7,
+    "population": 14339,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.531,
+    "latitude": 22.5269,
+    "previous": [
+      "Thị trấn Tà Lùng",
+      "Thị trấn Hòa Thuận",
+      "Xã Mỹ Hưng",
+      "Xã Đại Sơn"
+    ],
+    "treeCode": "0128.0163"
+  },
+  {
+    "id": 164,
+    "communeCode": 1236,
+    "name": "Quang Hán",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 93.61,
+    "population": 6918,
+    "administrativeCenter": "Trụ sở UBND xã Quang Hán",
+    "longitude": 106.265,
+    "latitude": 22.835,
+    "previous": [
+      "Xã Quang Vinh",
+      "Xã Quang Hán"
+    ],
+    "treeCode": "0128.0164"
+  },
+  {
+    "id": 165,
+    "communeCode": 1209,
+    "name": "Quảng Lâm",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 233.25,
+    "population": 10021,
+    "administrativeCenter": "Trụ sở UBND xã Thạch Lâm",
+    "longitude": 105.377,
+    "latitude": 22.8564,
+    "previous": [
+      "Xã Thạch Lâm",
+      "Xã Quảng Lâm"
+    ],
+    "treeCode": "0128.0165"
+  },
+  {
+    "id": 166,
+    "communeCode": 1234,
+    "name": "Quang Long",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 130.15,
+    "population": 5768,
+    "administrativeCenter": "Trụ sở UBND xã Đức Quang (trụ sở mới)",
+    "longitude": 106.692,
+    "latitude": 22.7373,
+    "previous": [
+      "Xã Đức Quang",
+      "Xã Thắng Lợi",
+      "Xã Quang Long"
+    ],
+    "treeCode": "0128.0166"
+  },
+  {
+    "id": 167,
+    "communeCode": 1237,
+    "name": "Quang Trung",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 82.6,
+    "population": 5975,
+    "administrativeCenter": "Trụ sở UBND xã Quang Trung",
+    "longitude": 106.39,
+    "latitude": 22.8351,
+    "previous": [
+      "Xã Quang Trung (huyện Trùng Khánh)",
+      "Xã Tri Phương",
+      "Xã Xuân Nội"
+    ],
+    "treeCode": "0128.0167"
+  },
+  {
+    "id": 168,
+    "communeCode": 1222,
+    "name": "Quảng Uyên",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 128.05,
+    "population": 16689,
+    "administrativeCenter": "Trụ sở Văn phòng HĐND, UBND huyện Quảng Hoà",
+    "longitude": 106.416,
+    "latitude": 22.7143,
+    "previous": [
+      "Thị trấn Quảng Uyên",
+      "Xã Phi Hải",
+      "Xã Phúc Sen",
+      "Xã Chí Thảo"
+    ],
+    "treeCode": "0128.0168"
+  },
+  {
+    "id": 169,
+    "communeCode": 1212,
+    "name": "Sơn Lộ",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 97.38,
+    "population": 5578,
+    "administrativeCenter": "Trụ sở UBND xã Sơn Lộ",
+    "longitude": 105.652,
+    "latitude": 22.7346,
+    "previous": [
+      "Xã Sơn Lập",
+      "Xã Sơn Lộ"
+    ],
+    "treeCode": "0128.0169"
+  },
+  {
+    "id": 170,
+    "communeCode": 1201,
+    "name": "Tam Kim",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 161.81,
+    "population": 5864,
+    "administrativeCenter": "Trụ sở UBND xã Tam Kim",
+    "longitude": 106.02,
+    "latitude": 22.5958,
+    "previous": [
+      "Xã Hưng Đạo (huyện Nguyên Bình)",
+      "Xã Hoa Thám",
+      "Xã Tam Kim"
+    ],
+    "treeCode": "0128.0170"
+  },
+  {
+    "id": 171,
+    "communeCode": 1208,
+    "name": "Tân Giang",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "phường",
+    "areaKm2": 84.26,
+    "population": 18204,
+    "administrativeCenter": "Trụ sở UBND phường Hoà Chung và Trường Trung cấp y (cũ), phường Tân Giang",
+    "longitude": 106.276,
+    "latitude": 22.6154,
+    "previous": [
+      "Phường Tân Giang",
+      "Phường Duyệt Trung",
+      "Phường Hòa Chung",
+      "Xã Chu Trinh",
+      "Xã Lê Chung"
+    ],
+    "treeCode": "0128.0171"
+  },
+  {
+    "id": 172,
+    "communeCode": 1191,
+    "name": "Thạch An",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 113.74,
+    "population": 7589,
+    "administrativeCenter": "Trụ sở UBND xã Vân Trình",
+    "longitude": 106.423,
+    "latitude": 22.4985,
+    "previous": [
+      "Xã Tiên Thành",
+      "Xã Vân Trình",
+      "Xã Lê Lai"
+    ],
+    "treeCode": "0128.0172"
+  },
+  {
+    "id": 173,
+    "communeCode": 1217,
+    "name": "Thành Công",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 43.45,
+    "population": 28281,
+    "administrativeCenter": "Trụ sở UBND xã Thành Công (trụ sở mới)",
+    "longitude": 105.895,
+    "latitude": 22.5733,
+    "previous": [
+      "Xã Quang Thành",
+      "Xã Thành Công"
+    ],
+    "treeCode": "0128.0173"
+  },
+  {
+    "id": 174,
+    "communeCode": 1197,
+    "name": "Thanh Long",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 118.62,
+    "population": 6507,
+    "administrativeCenter": "Trụ sở UBND xã Thanh Long",
+    "longitude": 105.978,
+    "latitude": 22.7219,
+    "previous": [
+      "Xã Ngọc Động (huyện Hà Quảng)",
+      "Xã Yên Sơn",
+      "Xã Thanh Long"
+    ],
+    "treeCode": "0128.0174"
+  },
+  {
+    "id": 175,
+    "communeCode": 1185,
+    "name": "Thông Nông",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 94.29,
+    "population": 9458,
+    "administrativeCenter": "Trụ sở UBND thị trấn Thông Nông",
+    "longitude": 105.994,
+    "latitude": 22.7925,
+    "previous": [
+      "Thị trấn Thông Nông",
+      "Xã Đa Thông",
+      "Xã Lương Can"
+    ],
+    "treeCode": "0128.0175"
+  },
+  {
+    "id": 176,
+    "communeCode": 1206,
+    "name": "Thục Phán",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "phường",
+    "areaKm2": 55.44,
+    "population": 41157,
+    "administrativeCenter": "Trụ sở Thành uỷ, HĐND và UBND TP Cao Bằng",
+    "longitude": 106.189,
+    "latitude": 22.6777,
+    "previous": [
+      "Phường Sông Hiến",
+      "Phường Đề Thám",
+      "Phường Hợp Giang",
+      "Xã Hưng Đạo (thành phố Cao Bằng)",
+      "Xã Hoàng Tung"
+    ],
+    "treeCode": "0128.0176"
+  },
+  {
+    "id": 177,
+    "communeCode": 1199,
+    "name": "Tĩnh Túc",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 86.79,
+    "population": 585,
+    "administrativeCenter": "Trụ sở UBND thị trấn Tĩnh Túc",
+    "longitude": 105.889,
+    "latitude": 22.6881,
+    "previous": [
+      "Thị trấn Tĩnh Túc",
+      "Xã Triệu Nguyên",
+      "Xã Vũ Nông"
+    ],
+    "treeCode": "0128.0177"
+  },
+  {
+    "id": 178,
+    "communeCode": 1184,
+    "name": "Tổng Cọt",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 100.48,
+    "population": 6854,
+    "administrativeCenter": "Trụ sở UBND xã Tổng Cọt",
+    "longitude": 106.19,
+    "latitude": 22.9418,
+    "previous": [
+      "Xã Nội Thôn",
+      "Xã Cải Viên",
+      "Xã Tổng Cọt"
+    ],
+    "treeCode": "0128.0178"
+  },
+  {
+    "id": 179,
+    "communeCode": 1242,
+    "name": "Trà Lĩnh",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 74.97,
+    "population": 10805,
+    "administrativeCenter": "Trụ sở UBND huyện Trùng Khánh (trụ sở cũ UBND huyện Trà Lĩnh)",
+    "longitude": 106.328,
+    "latitude": 22.784,
+    "previous": [
+      "Thị trấn Trà Lĩnh",
+      "Xã Cao Chương",
+      "Xã Quốc Toản"
+    ],
+    "treeCode": "0128.0179"
+  },
+  {
+    "id": 180,
+    "communeCode": 1238,
+    "name": "Trùng Khánh",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 125.5,
+    "population": 17849,
+    "administrativeCenter": "Trụ sở UBND huyện Trùng Khánh",
+    "longitude": 106.496,
+    "latitude": 22.8405,
+    "previous": [
+      "Thị trấn Trùng Khánh",
+      "Xã Đức Hồng",
+      "Xã Lăng Hiếu",
+      "Xã Khâm Thành"
+    ],
+    "treeCode": "0128.0180"
+  },
+  {
+    "id": 181,
+    "communeCode": 1189,
+    "name": "Trường Hà",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 143.3,
+    "population": 12736,
+    "administrativeCenter": "Trụ sở Văn phòng HĐND & UBND huyện Hà Quảng",
+    "longitude": 106.029,
+    "latitude": 22.9121,
+    "previous": [
+      "Thị trấn Xuân Hòa",
+      "Xã Quý Quân",
+      "Xã Sóc Hà",
+      "Xã Trường Hà"
+    ],
+    "treeCode": "0128.0181"
+  },
+  {
+    "id": 182,
+    "communeCode": 1231,
+    "name": "Vinh Quý",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 143.05,
+    "population": 692,
+    "administrativeCenter": "Trụ sở UBND xã Vinh Quý",
+    "longitude": 106.619,
+    "latitude": 22.6786,
+    "previous": [
+      "Xã Cô Ngân",
+      "Xã An Lạc",
+      "Xã Kim Loan",
+      "Xã Vinh Quý"
+    ],
+    "treeCode": "0128.0182"
+  },
+  {
+    "id": 183,
+    "communeCode": 1219,
+    "name": "Xuân Trường",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 122.92,
+    "population": 5669,
+    "administrativeCenter": "Trụ sở UBND xã Xuân Trường",
+    "longitude": 105.828,
+    "latitude": 22.8909,
+    "previous": [
+      "Xã Hồng An",
+      "Xã Xuân Trường"
+    ],
+    "treeCode": "0128.0183"
+  },
+  {
+    "id": 184,
+    "communeCode": 1205,
+    "name": "Yên Thổ",
+    "provinceCode": 7,
+    "provinceName": "tỉnh Cao Bằng",
+    "type": "xã",
+    "areaKm2": 167.67,
+    "population": 1281,
+    "administrativeCenter": "Trụ sở UBND xã Thái Học",
+    "longitude": 105.539,
+    "latitude": 22.7232,
+    "previous": [
+      "Xã Thái Học",
+      "Xã Thái Sơn",
+      "Xã Yên Thổ"
+    ],
+    "treeCode": "0128.0184"
+  }
+]

@@ -1,0 +1,2471 @@
+[
+  {
+    "id": 1255,
+    "communeCode": 2947,
+    "name": "Bắc Lý",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 109.17,
+    "population": 5552,
+    "administrativeCenter": "Trụ sở xã Đạo Lý hiện nay",
+    "longitude": 106.112,
+    "latitude": 20.6006,
+    "previous": [
+      "Xã Chân Lý",
+      "Xã Đạo Lý",
+      "Xã Bắc Lý"
+    ],
+    "treeCode": "1254.1255"
+  },
+  {
+    "id": 1256,
+    "communeCode": 2982,
+    "name": "Bình An",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 73.43,
+    "population": 59475,
+    "administrativeCenter": "Trụ sở xã Bình An hiện nay",
+    "longitude": 106.058,
+    "latitude": 20.4982,
+    "previous": [
+      "Xã Trung Lương",
+      "Xã Ngọc Lũ",
+      "Xã Bình An"
+    ],
+    "treeCode": "1254.1256"
+  },
+  {
+    "id": 1257,
+    "communeCode": 2932,
+    "name": "Bình Giang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 163.7,
+    "population": 18257,
+    "administrativeCenter": "Trụ sở xã Bồ Đề hiện nay",
+    "longitude": 106.123,
+    "latitude": 20.505,
+    "previous": [
+      "Xã Bồ Đề",
+      "Xã Vũ Bản",
+      "Xã An Ninh"
+    ],
+    "treeCode": "1254.1257"
+  },
+  {
+    "id": 1258,
+    "communeCode": 2946,
+    "name": "Bình Lục",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.97,
+    "population": 35225,
+    "administrativeCenter": "Trụ sở xã Bình Nghĩa hiện nay",
+    "longitude": 106.013,
+    "latitude": 20.5476,
+    "previous": [
+      "Xã Bình Nghĩa",
+      "Xã Tràng An",
+      "Xã Đồng Du"
+    ],
+    "treeCode": "1254.1258"
+  },
+  {
+    "id": 1259,
+    "communeCode": 843,
+    "name": "Bình Minh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 36.7,
+    "population": 83354,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Kim Mỹ; Trụ sở HĐND, UBND tại thị trấn Bình Minh",
+    "longitude": 106.065,
+    "latitude": 19.9939,
+    "previous": [
+      "Thị trấn Bình Minh",
+      "Xã Cồn Thoi",
+      "Xã Kim Mỹ"
+    ],
+    "treeCode": "1254.1259"
+  },
+  {
+    "id": 1260,
+    "communeCode": 2964,
+    "name": "Bình Mỹ",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 82.62,
+    "population": 6865,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Bình Lục",
+    "longitude": 106.005,
+    "latitude": 20.4886,
+    "previous": [
+      "Thị trấn Bình Mỹ",
+      "Xã Đồn Xá",
+      "Xã La Sơn"
+    ],
+    "treeCode": "1254.1260"
+  },
+  {
+    "id": 1261,
+    "communeCode": 2963,
+    "name": "Bình Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 281.7,
+    "population": 61517,
+    "administrativeCenter": "Trụ sở xã Tiêu Động hiện nay",
+    "longitude": 106.008,
+    "latitude": 20.4261,
+    "previous": [
+      "Xã Tiêu Động",
+      "Xã An Lão",
+      "Xã An Đổ"
+    ],
+    "treeCode": "1254.1261"
+  },
+  {
+    "id": 1262,
+    "communeCode": 820,
+    "name": "Cát Thành",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.07,
+    "population": 39035,
+    "administrativeCenter": "Trụ sở thị trấn Cát Thành hiện nay",
+    "longitude": 106.284,
+    "latitude": 20.2529,
+    "previous": [
+      "Thị trấn Cát Thành",
+      "Xã Việt Hùng",
+      "Xã Trực Đạo"
+    ],
+    "treeCode": "1254.1262"
+  },
+  {
+    "id": 1263,
+    "communeCode": 828,
+    "name": "Chất Bình",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 18.6,
+    "population": 17237,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Hồi Ninh; Trụ sở HĐND-UBND tại xã Chất Bình",
+    "longitude": 106.138,
+    "latitude": 20.1262,
+    "previous": [
+      "Xã Xuân Chính",
+      "Xã Hồi Ninh",
+      "Xã Chất Bình"
+    ],
+    "treeCode": "1254.1263"
+  },
+  {
+    "id": 1264,
+    "communeCode": 2973,
+    "name": "Châu Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 17.45,
+    "population": 33348,
+    "administrativeCenter": "Trụ sở phường Châu Sơn hiện nay",
+    "longitude": 105.895,
+    "latitude": 20.5057,
+    "previous": [
+      "Phường Thanh Tuyền",
+      "Phường Châu Sơn",
+      "Thị trấn Kiện Khê"
+    ],
+    "treeCode": "1254.1264"
+  },
+  {
+    "id": 1265,
+    "communeCode": 818,
+    "name": "Cổ Lễ",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 18.33,
+    "population": 40163,
+    "administrativeCenter": "Trụ sở Huyện uỷ - HĐND - UBND huyện Trực Ninh hiện nay",
+    "longitude": 106.274,
+    "latitude": 20.2968,
+    "previous": [
+      "Thị trấn Cổ Lễ",
+      "Xã Trung Đông",
+      "Xã Trực Tuấn"
+    ],
+    "treeCode": "1254.1265"
+  },
+  {
+    "id": 1266,
+    "communeCode": 749,
+    "name": "Cúc Phương",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 132.68,
+    "population": 865,
+    "administrativeCenter": "Trụ sở xã Cúc Phương hiện nay",
+    "longitude": 105.655,
+    "latitude": 20.2978,
+    "previous": [
+      "Xã Văn Phương",
+      "Xã Cúc Phương"
+    ],
+    "treeCode": "1254.1266"
+  },
+  {
+    "id": 1267,
+    "communeCode": 737,
+    "name": "Đại Hoàng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.75,
+    "population": 23848,
+    "administrativeCenter": "Trụ sở xã Tiến Thắng hiện nay",
+    "longitude": 105.869,
+    "latitude": 20.3167,
+    "previous": [
+      "Xã Tiến Thắng (huyện Gia Viễn)",
+      "Xã Gia Phương",
+      "Xã Gia Trung"
+    ],
+    "treeCode": "1254.1267"
+  },
+  {
+    "id": 1268,
+    "communeCode": 754,
+    "name": "Định Hóa",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 67.3,
+    "population": 22333,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Văn Hải; Trụ sở HĐND, UBND tại xã Định Hóa",
+    "longitude": 106.089,
+    "latitude": 20.0314,
+    "previous": [
+      "Xã Văn Hải",
+      "Xã Kim Tân",
+      "Xã Định Hóa"
+    ],
+    "treeCode": "1254.1268"
+  },
+  {
+    "id": 1269,
+    "communeCode": 766,
+    "name": "Đông A",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 22.07,
+    "population": 31802,
+    "administrativeCenter": "Trụ sở phường Lộc Hòa hiện nay",
+    "longitude": 106.134,
+    "latitude": 20.4617,
+    "previous": [
+      "Phường Lộc Hòa",
+      "Xã Mỹ Thắng",
+      "Xã Mỹ Hà"
+    ],
+    "treeCode": "1254.1269"
+  },
+  {
+    "id": 1270,
+    "communeCode": 736,
+    "name": "Đông Hoa Lư",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 25.62,
+    "population": 34414,
+    "administrativeCenter": "Trụ sở xã Khánh Phú hiện nay",
+    "longitude": 106.014,
+    "latitude": 20.2236,
+    "previous": [
+      "Phường Ninh Phúc",
+      "Xã Khánh Hòa",
+      "Xã Khánh Phú",
+      "Xã Khánh An"
+    ],
+    "treeCode": "1254.1270"
+  },
+  {
+    "id": 1271,
+    "communeCode": 860,
+    "name": "Đồng Thái",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 47.6,
+    "population": 24049,
+    "administrativeCenter": "Trụ sở xã Yên Đồng hiện nay",
+    "longitude": 105.973,
+    "latitude": 20.0977,
+    "previous": [
+      "Xã Yên Đồng (huyện Yên Mô)",
+      "Xã Yên Thành",
+      "Xã Yên Thái"
+    ],
+    "treeCode": "1254.1271"
+  },
+  {
+    "id": 1272,
+    "communeCode": 865,
+    "name": "Đồng Thịnh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 30.45,
+    "population": 30888,
+    "administrativeCenter": "Trụ sở xã Đồng Thịnh",
+    "longitude": 106.116,
+    "latitude": 20.2428,
+    "previous": [
+      "Xã Hoàng Nam",
+      "Xã Đồng Thịnh"
+    ],
+    "treeCode": "1254.1272"
+  },
+  {
+    "id": 1273,
+    "communeCode": 2940,
+    "name": "Đồng Văn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 18.88,
+    "population": 34484,
+    "administrativeCenter": "Trụ sở phường Yên Bắc hiện nay",
+    "longitude": 105.931,
+    "latitude": 20.6434,
+    "previous": [
+      "Phường Bạch Thượng",
+      "Phường Yên Bắc",
+      "Phường Đồng Văn"
+    ],
+    "treeCode": "1254.1273"
+  },
+  {
+    "id": 1274,
+    "communeCode": 2941,
+    "name": "Duy Hà",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 15.46,
+    "population": 24310,
+    "administrativeCenter": "Trụ sở phường Duy Minh hiện nay",
+    "longitude": 105.903,
+    "latitude": 20.6522,
+    "previous": [
+      "Phường Duy Minh",
+      "Phường Duy Hải",
+      "Phường Hoàng Đông"
+    ],
+    "treeCode": "1254.1274"
+  },
+  {
+    "id": 1275,
+    "communeCode": 2931,
+    "name": "Duy Tân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 28.86,
+    "population": 28299,
+    "administrativeCenter": "Trụ sở phường Châu Giang hiện nay",
+    "longitude": 105.997,
+    "latitude": 20.6623,
+    "previous": [
+      "Phường Châu Giang",
+      "Xã Mộc Hoàn",
+      "Phường Hòa Mạc"
+    ],
+    "treeCode": "1254.1275"
+  },
+  {
+    "id": 1276,
+    "communeCode": 2929,
+    "name": "Duy Tiên",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 28.93,
+    "population": 39957,
+    "administrativeCenter": "Trụ sở Thị ủy - HĐND – UBND thị xã Duy Tiên",
+    "longitude": 105.983,
+    "latitude": 20.6253,
+    "previous": [
+      "Xã Chuyên Ngoại",
+      "Xã Trác Văn",
+      "Xã Yên Nam",
+      "Phường Hòa Mạc"
+    ],
+    "treeCode": "1254.1276"
+  },
+  {
+    "id": 1277,
+    "communeCode": 734,
+    "name": "Gia Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 28.37,
+    "population": 21669,
+    "administrativeCenter": "Trụ sở xã Gia Phú hiện nay",
+    "longitude": 105.821,
+    "latitude": 20.3831,
+    "previous": [
+      "Xã Liên Sơn (huyện Gia Viễn)",
+      "Xã Gia Phú",
+      "Xã Gia Hưng"
+    ],
+    "treeCode": "1254.1277"
+  },
+  {
+    "id": 1278,
+    "communeCode": 743,
+    "name": "Gia Lâm",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 37.61,
+    "population": 20189,
+    "administrativeCenter": "Trụ sở xã Gia Lâm hiện nay",
+    "longitude": 105.78,
+    "latitude": 20.4102,
+    "previous": [
+      "Xã Gia Sơn",
+      "Xã Xích Thổ",
+      "Xã Gia Lâm"
+    ],
+    "treeCode": "1254.1278"
+  },
+  {
+    "id": 1279,
+    "communeCode": 732,
+    "name": "Gia Phong",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 18.53,
+    "population": 13034,
+    "administrativeCenter": "Trụ sở xã Gia Phong hiện nay",
+    "longitude": 105.825,
+    "latitude": 20.302,
+    "previous": [
+      "Xã Gia Lạc",
+      "Xã Gia Minh",
+      "Xã Gia Phong"
+    ],
+    "treeCode": "1254.1279"
+  },
+  {
+    "id": 1280,
+    "communeCode": 730,
+    "name": "Gia Trấn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 18.76,
+    "population": 20619,
+    "administrativeCenter": "Trụ sở xã Gia Trấn hiện nay",
+    "longitude": 105.922,
+    "latitude": 20.355,
+    "previous": [
+      "Xã Gia Thanh",
+      "Xã Gia Xuân",
+      "Xã Gia Trấn"
+    ],
+    "treeCode": "1254.1280"
+  },
+  {
+    "id": 1281,
+    "communeCode": 729,
+    "name": "Gia Tường",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 27.09,
+    "population": 19489,
+    "administrativeCenter": "Trụ sở xã Gia Tường hiện nay",
+    "longitude": 105.788,
+    "latitude": 20.3541,
+    "previous": [
+      "Xã Gia Thủy",
+      "Xã Đức Long",
+      "Xã Gia Tường"
+    ],
+    "treeCode": "1254.1281"
+  },
+  {
+    "id": 1282,
+    "communeCode": 735,
+    "name": "Gia Vân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 26.94,
+    "population": 2592,
+    "administrativeCenter": "Trụ sở xã Gia Tân hiện nay",
+    "longitude": 105.893,
+    "latitude": 20.3443,
+    "previous": [
+      "Xã Gia Lập",
+      "Xã Gia Vân",
+      "Xã Gia Tân"
+    ],
+    "treeCode": "1254.1282"
+  },
+  {
+    "id": 1283,
+    "communeCode": 733,
+    "name": "Gia Viễn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 39.8,
+    "population": 28921,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Gia Viễn hiện nay",
+    "longitude": 105.85,
+    "latitude": 20.374,
+    "previous": [
+      "Thị trấn Thịnh Vượng",
+      "Xã Gia Hòa"
+    ],
+    "treeCode": "1254.1283"
+  },
+  {
+    "id": 1284,
+    "communeCode": 889,
+    "name": "Giao Bình",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 21.75,
+    "population": 26708,
+    "administrativeCenter": "Trụ sở xã Giao Yến hiện nay",
+    "longitude": 106.404,
+    "latitude": 20.2336,
+    "previous": [
+      "Xã Giao Yến",
+      "Xã Bạch Long",
+      "Xã Giao Tân"
+    ],
+    "treeCode": "1254.1284"
+  },
+  {
+    "id": 1285,
+    "communeCode": 764,
+    "name": "Giao Hòa",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 43.8617,
+    "population": null,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 106.524,
+    "latitude": 20.2445,
+    "previous": [
+      "Xã Hồng Thuận",
+      "Xã Giao An",
+      "Xã Giao Lạc"
+    ],
+    "treeCode": "1254.1285"
+  },
+  {
+    "id": 1286,
+    "communeCode": 877,
+    "name": "Giao Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 21.74,
+    "population": 27985,
+    "administrativeCenter": "Trụ sở của xã Giao Nhân hiện nay",
+    "longitude": 106.431,
+    "latitude": 20.2492,
+    "previous": [
+      "Xã Giao Nhân",
+      "Xã Giao Long",
+      "Xã Giao Châu"
+    ],
+    "treeCode": "1254.1286"
+  },
+  {
+    "id": 1287,
+    "communeCode": 763,
+    "name": "Giao Minh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 27.74,
+    "population": 29261,
+    "administrativeCenter": "Trụ sở xã Giao Thiện hiện nay",
+    "longitude": 106.518,
+    "latitude": 20.2034,
+    "previous": [
+      "Xã Giao Thiện",
+      "Xã Giao Hương",
+      "Xã Giao Thanh"
+    ],
+    "treeCode": "1254.1287"
+  },
+  {
+    "id": 1288,
+    "communeCode": 903,
+    "name": "Giao Ninh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 25.81,
+    "population": 33777,
+    "administrativeCenter": "Trụ sở xã Giao Phong hiện nay",
+    "longitude": 106.374,
+    "latitude": 20.2122,
+    "previous": [
+      "Thị trấn Quất Lâm",
+      "Xã Giao Phong",
+      "Xã Giao Thịnh"
+    ],
+    "treeCode": "1254.1288"
+  },
+  {
+    "id": 1289,
+    "communeCode": 882,
+    "name": "Giao Phúc",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 19.47,
+    "population": 29758,
+    "administrativeCenter": "Trụ sở xã Giao Hải hiện nay",
+    "longitude": 106.474,
+    "latitude": 20.2304,
+    "previous": [
+      "Xã Giao Xuân",
+      "Xã Giao Hà",
+      "Xã Giao Hải"
+    ],
+    "treeCode": "1254.1289"
+  },
+  {
+    "id": 1290,
+    "communeCode": 821,
+    "name": "Giao Thủy",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.5747,
+    "population": null,
+    "administrativeCenter": "Trụ sở của Huyện uỷ - HĐND - UBND huyện Giao Thủy hiện nay",
+    "longitude": 106.398,
+    "latitude": 20.2726,
+    "previous": [
+      "Thị trấn Giao Thủy",
+      "Xã Bình Hòa"
+    ],
+    "treeCode": "1254.1290"
+  },
+  {
+    "id": 1291,
+    "communeCode": 2975,
+    "name": "Hà Nam",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 29.98,
+    "population": 33343,
+    "administrativeCenter": "Trụ sở phường Tân Hiệp hiện nay",
+    "longitude": 105.938,
+    "latitude": 20.5789,
+    "previous": [
+      "Phường Lam Hạ",
+      "Phường Tân Hiệp",
+      "Phường Quang Trung (thành phố Phủ Lý)",
+      "Phường Hoàng Đông",
+      "Phường Tiên Nội",
+      "Xã Tiên Ngoại"
+    ],
+    "treeCode": "1254.1291"
+  },
+  {
+    "id": 1292,
+    "communeCode": 907,
+    "name": "Hải An",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 25.19,
+    "population": 2692,
+    "administrativeCenter": "Trụ sở xã Hải Phong hiện nay",
+    "longitude": 106.209,
+    "latitude": 20.1392,
+    "previous": [
+      "Xã Hải Phong",
+      "Xã Hải Giang",
+      "Xã Hải An"
+    ],
+    "treeCode": "1254.1292"
+  },
+  {
+    "id": 1293,
+    "communeCode": 831,
+    "name": "Hải Anh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 26.13,
+    "population": 51246,
+    "administrativeCenter": "Trụ sở xã Hải Anh hiện nay",
+    "longitude": 106.27,
+    "latitude": 20.2285,
+    "previous": [
+      "Xã Hải Minh",
+      "Xã Hải Đường",
+      "Xã Hải Anh"
+    ],
+    "treeCode": "1254.1293"
+  },
+  {
+    "id": 1294,
+    "communeCode": 830,
+    "name": "Hải Hậu",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.87,
+    "population": 45227,
+    "administrativeCenter": "Trụ sở của Huyện uỷ - HĐND - UBND huyện Hải Hậu hiện nay",
+    "longitude": 106.283,
+    "latitude": 20.2015,
+    "previous": [
+      "Thị trấn Yên Định",
+      "Xã Hải Trung",
+      "Xã Hải Long"
+    ],
+    "treeCode": "1254.1294"
+  },
+  {
+    "id": 1295,
+    "communeCode": 900,
+    "name": "Hải Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 39.89,
+    "population": 64918,
+    "administrativeCenter": "Trụ sở xã Hải Hưng hiện nay",
+    "longitude": 106.329,
+    "latitude": 20.2029,
+    "previous": [
+      "Xã Hải Nam",
+      "Xã Hải Lộc",
+      "Xã Hải Hưng"
+    ],
+    "treeCode": "1254.1295"
+  },
+  {
+    "id": 1296,
+    "communeCode": 826,
+    "name": "Hải Quang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 24.68,
+    "population": 25798,
+    "administrativeCenter": "Trụ sở xã Hải Tây hiện nay",
+    "longitude": 106.308,
+    "latitude": 20.1563,
+    "previous": [
+      "Xã Hải Đông",
+      "Xã Hải Tây",
+      "Xã Hải Quang"
+    ],
+    "treeCode": "1254.1296"
+  },
+  {
+    "id": 1297,
+    "communeCode": 914,
+    "name": "Hải Thịnh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 32.92,
+    "population": 33521,
+    "administrativeCenter": "Trụ sở thị trấn Thịnh Long hiện nay",
+    "longitude": 106.219,
+    "latitude": 20.0681,
+    "previous": [
+      "Thị trấn Thịnh Long",
+      "Xã Hải Châu",
+      "Xã Hải Ninh"
+    ],
+    "treeCode": "1254.1297"
+  },
+  {
+    "id": 1298,
+    "communeCode": 899,
+    "name": "Hải Tiến",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 24.19,
+    "population": 44728,
+    "administrativeCenter": "Trụ sở của thị trấn Cồn hiện nay",
+    "longitude": 106.267,
+    "latitude": 20.1424,
+    "previous": [
+      "Thị trấn Cồn",
+      "Xã Hải Sơn",
+      "Xã Hải Tân"
+    ],
+    "treeCode": "1254.1298"
+  },
+  {
+    "id": 1299,
+    "communeCode": 833,
+    "name": "Hải Xuân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 31.27,
+    "population": 44001,
+    "administrativeCenter": "Trụ sở xã Hải Xuân hiện nay",
+    "longitude": 106.252,
+    "latitude": 20.0976,
+    "previous": [
+      "Xã Hải Phú",
+      "Xã Hải Hòa",
+      "Xã Hải Xuân"
+    ],
+    "treeCode": "1254.1299"
+  },
+  {
+    "id": 1300,
+    "communeCode": 771,
+    "name": "Hiển Khánh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 30.24,
+    "population": 29965,
+    "administrativeCenter": "Trụ sở xã Hợp Hưng hiện nay",
+    "longitude": 106.066,
+    "latitude": 20.4238,
+    "previous": [
+      "Xã Hợp Hưng",
+      "Xã Trung Thành",
+      "Xã Quang Trung",
+      "Xã Hiển Khánh"
+    ],
+    "treeCode": "1254.1300"
+  },
+  {
+    "id": 1301,
+    "communeCode": 728,
+    "name": "Hoa Lư",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 53.72,
+    "population": 148406,
+    "administrativeCenter": "Trụ sở Thành ủy Hoa Lư hiện nay",
+    "longitude": 105.956,
+    "latitude": 20.2629,
+    "previous": [
+      "Phường Ninh Mỹ",
+      "Phường Ninh Khánh",
+      "Phường Đông Thành",
+      "Phường Tân Thành",
+      "Phường Vân Giang",
+      "Phường Nam Thành",
+      "Phường Nam Bình",
+      "Phường Bích Đào",
+      "Xã Ninh Khang",
+      "Xã Ninh Nhất",
+      "Xã Ninh Tiến"
+    ],
+    "treeCode": "1254.1301"
+  },
+  {
+    "id": 1302,
+    "communeCode": 827,
+    "name": "Hồng Phong",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 132.98,
+    "population": 6885,
+    "administrativeCenter": "Trụ sở xã Nghĩa Phong hiện nay",
+    "longitude": 106.174,
+    "latitude": 20.0832,
+    "previous": [
+      "Xã Nghĩa Hồng",
+      "Xã Nghĩa Phong",
+      "Xã Nghĩa Phú"
+    ],
+    "treeCode": "1254.1302"
+  },
+  {
+    "id": 1303,
+    "communeCode": 795,
+    "name": "Hồng Quang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 27.53,
+    "population": 35784,
+    "administrativeCenter": "Trụ sở xã Hồng Quang hiện nay",
+    "longitude": 106.194,
+    "latitude": 20.3721,
+    "previous": [
+      "Xã Hồng Quang (huyện Nam Trực)",
+      "Xã Nghĩa An",
+      "Phường Nam Vân"
+    ],
+    "treeCode": "1254.1303"
+  },
+  {
+    "id": 1304,
+    "communeCode": 841,
+    "name": "Khánh Hội",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 22.89,
+    "population": 23641,
+    "administrativeCenter": "Trụ sở xã Khánh Hội hiện nay",
+    "longitude": 106.11,
+    "latitude": 20.1763,
+    "previous": [
+      "Xã Khánh Mậu",
+      "Xã Khánh Thủy",
+      "Xã Khánh Hội"
+    ],
+    "treeCode": "1254.1304"
+  },
+  {
+    "id": 1305,
+    "communeCode": 859,
+    "name": "Khánh Nhạc",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 19.58,
+    "population": 25612,
+    "administrativeCenter": "Trụ sở xã Khánh Nhạc hiện nay",
+    "longitude": 106.08,
+    "latitude": 20.153,
+    "previous": [
+      "Xã Khánh Hồng",
+      "Xã Khánh Nhạc"
+    ],
+    "treeCode": "1254.1305"
+  },
+  {
+    "id": 1306,
+    "communeCode": 742,
+    "name": "Khánh Thiện",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 24.51,
+    "population": 25693,
+    "administrativeCenter": "Trụ sở xã Khánh Thiện hiện nay",
+    "longitude": 106.09,
+    "latitude": 20.2268,
+    "previous": [
+      "Xã Khánh Cường",
+      "Xã Khánh Lợi",
+      "Xã Khánh Thiện"
+    ],
+    "treeCode": "1254.1306"
+  },
+  {
+    "id": 1307,
+    "communeCode": 822,
+    "name": "Khánh Trung",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 26.42,
+    "population": 26453,
+    "administrativeCenter": "Trụ sở xã Khánh Thành hiện nay",
+    "longitude": 106.144,
+    "latitude": 20.1823,
+    "previous": [
+      "Xã Khánh Thành",
+      "Xã Khánh Công",
+      "Xã Khánh Trung"
+    ],
+    "treeCode": "1254.1307"
+  },
+  {
+    "id": 1308,
+    "communeCode": 2970,
+    "name": "Kim Bảng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 15.22,
+    "population": 23232,
+    "administrativeCenter": "Trụ sở Thị ủy - HĐND - UBND thị xã Kim Bảng hiện nay",
+    "longitude": 105.9,
+    "latitude": 20.5916,
+    "previous": [
+      "Phường Quế",
+      "Phường Ngọc Sơn",
+      "Xã Văn Xá"
+    ],
+    "treeCode": "1254.1308"
+  },
+  {
+    "id": 1309,
+    "communeCode": 757,
+    "name": "Kim Đông",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 81.82,
+    "population": 9409,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Kim Trung; Trụ sở HĐND, UBND tại xã Kim Đông",
+    "longitude": 106.069,
+    "latitude": 19.9483,
+    "previous": [
+      "Xã Kim Trung",
+      "Xã Kim Đông",
+      "Khu vực bãi bồi ven biển (do huyện Kim Sơn quản lý)"
+    ],
+    "treeCode": "1254.1309"
+  },
+  {
+    "id": 1310,
+    "communeCode": 814,
+    "name": "Kim Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 29.4,
+    "population": 29382,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Hùng Tiến; Trụ sở HĐND, UBND tại xã Ân Hòa",
+    "longitude": 106.121,
+    "latitude": 20.1074,
+    "previous": [
+      "Xã Kim Định",
+      "Xã Ân Hòa",
+      "Xã Hùng Tiến"
+    ],
+    "treeCode": "1254.1310"
+  },
+  {
+    "id": 1311,
+    "communeCode": 2942,
+    "name": "Kim Thanh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 13.715,
+    "population": null,
+    "administrativeCenter": "Trụ sở phường Tân Tựu hiện nay",
+    "longitude": 105.901,
+    "latitude": 20.616,
+    "previous": [
+      "Phường Tân Tựu",
+      "Xã Hoàng Tây"
+    ],
+    "treeCode": "1254.1311"
+  },
+  {
+    "id": 1312,
+    "communeCode": 844,
+    "name": "Lai Thành",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 22.07,
+    "population": 28718,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Tân Thành; Trụ sở HĐND, UBND tại xã Lai Thành",
+    "longitude": 106.057,
+    "latitude": 20.0836,
+    "previous": [
+      "Xã Yên Lộc (huyện Kim Sơn)",
+      "Xã Tân Thành",
+      "Xã Lai Thành"
+    ],
+    "treeCode": "1254.1312"
+  },
+  {
+    "id": 1313,
+    "communeCode": 2938,
+    "name": "Lê Hồ",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 22.3964,
+    "population": null,
+    "administrativeCenter": "Trụ sở của phường Lê Hồ hiện nay",
+    "longitude": 105.854,
+    "latitude": 20.6281,
+    "previous": [
+      "Phường Đại Cương",
+      "Phường Đồng Hoá",
+      "Phường Lê Hồ"
+    ],
+    "treeCode": "1254.1313"
+  },
+  {
+    "id": 1314,
+    "communeCode": 2969,
+    "name": "Liêm Hà",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 20.95,
+    "population": 27732,
+    "administrativeCenter": "Trụ sở xã Liêm Cần hiện nay",
+    "longitude": 105.952,
+    "latitude": 20.5039,
+    "previous": [
+      "Xã Liêm Phong",
+      "Xã Liêm Cần",
+      "Xã Thanh Hà"
+    ],
+    "treeCode": "1254.1314"
+  },
+  {
+    "id": 1315,
+    "communeCode": 2976,
+    "name": "Liêm Tuyền",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 21.44,
+    "population": 27781,
+    "administrativeCenter": "Trụ sở phường Tân Liêm hiện nay",
+    "longitude": 105.97,
+    "latitude": 20.5366,
+    "previous": [
+      "Phường Tân Liêm",
+      "Xã Đinh Xá",
+      "Xã Trịnh Xá"
+    ],
+    "treeCode": "1254.1315"
+  },
+  {
+    "id": 1316,
+    "communeCode": 896,
+    "name": "Liên Minh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 20.98,
+    "population": 23443,
+    "administrativeCenter": "Trụ sở xã Đại Thắng hiện nay",
+    "longitude": 106.127,
+    "latitude": 20.328,
+    "previous": [
+      "Xã Vĩnh Hào",
+      "Xã Đại Thắng",
+      "Xã Liên Minh"
+    ],
+    "treeCode": "1254.1316"
+  },
+  {
+    "id": 1317,
+    "communeCode": 2962,
+    "name": "Lý Nhân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 18.38,
+    "population": 32183,
+    "administrativeCenter": "Trụ sở xã Chính Lý hiện nay",
+    "longitude": 106.004,
+    "latitude": 20.6001,
+    "previous": [
+      "Xã Chính Lý",
+      "Xã Hợp Lý",
+      "Xã Văn Lý"
+    ],
+    "treeCode": "1254.1317"
+  },
+  {
+    "id": 1318,
+    "communeCode": 2972,
+    "name": "Lý Thường Kiệt",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 53.66,
+    "population": 22958,
+    "administrativeCenter": "Trụ sở phường Thi Sơn hiện nay",
+    "longitude": 105.856,
+    "latitude": 20.531,
+    "previous": [
+      "Xã Liên Sơn",
+      "Xã Thanh Sơn (thị xã Kim Bảng)",
+      "Phường Thi Sơn"
+    ],
+    "treeCode": "1254.1318"
+  },
+  {
+    "id": 1319,
+    "communeCode": 784,
+    "name": "Minh Tân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 105.7,
+    "population": 7485,
+    "administrativeCenter": "Trụ sở xã Minh Tân hiện nay",
+    "longitude": 106.036,
+    "latitude": 20.4228,
+    "previous": [
+      "Xã Cộng Hòa",
+      "Xã Minh Tân"
+    ],
+    "treeCode": "1254.1319"
+  },
+  {
+    "id": 1320,
+    "communeCode": 901,
+    "name": "Minh Thái",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.44,
+    "population": 3333,
+    "administrativeCenter": "Trụ sở xã Trực Đại hiện nay",
+    "longitude": 106.233,
+    "latitude": 20.1941,
+    "previous": [
+      "Xã Trực Đại",
+      "Xã Trực Thái",
+      "Xã Trực Thắng"
+    ],
+    "treeCode": "1254.1320"
+  },
+  {
+    "id": 1321,
+    "communeCode": 770,
+    "name": "Mỹ Lộc",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 35.54,
+    "population": 38068,
+    "administrativeCenter": "Trụ sở của UBND huyện Mỹ Lộc (cũ)",
+    "longitude": 106.093,
+    "latitude": 20.4385,
+    "previous": [
+      "Phường Hưng Lộc",
+      "Xã Mỹ Thuận",
+      "Xã Mỹ Lộc"
+    ],
+    "treeCode": "1254.1321"
+  },
+  {
+    "id": 1322,
+    "communeCode": 797,
+    "name": "Nam Định",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 19.91,
+    "population": 188751,
+    "administrativeCenter": "Trụ sở UBND TP Nam Định hiện nay",
+    "longitude": 106.17,
+    "latitude": 20.4413,
+    "previous": [
+      "Phường Quang Trung (thành phố Nam Định)",
+      "Phường Vị Xuyên",
+      "Phường Lộc Vượng",
+      "Phường Cửa Bắc",
+      "Phường Trần Hưng Đạo",
+      "Phường Năng Tĩnh",
+      "Phường Cửa Nam",
+      "Xã Mỹ Phúc"
+    ],
+    "treeCode": "1254.1322"
+  },
+  {
+    "id": 1323,
+    "communeCode": 787,
+    "name": "Nam Đồng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.42,
+    "population": 28348,
+    "administrativeCenter": "Trụ sở xã Đồng Sơn hiện nay",
+    "longitude": 106.179,
+    "latitude": 20.2853,
+    "previous": [
+      "Xã Đồng Sơn",
+      "Xã Nam Thái"
+    ],
+    "treeCode": "1254.1323"
+  },
+  {
+    "id": 1324,
+    "communeCode": 748,
+    "name": "Nam Hoa Lư",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 54.3,
+    "population": 53514,
+    "administrativeCenter": "Trụ sở xã Ninh Hải hiện nay",
+    "longitude": 105.939,
+    "latitude": 20.2001,
+    "previous": [
+      "Phường Ninh Phong",
+      "Phường Ninh Sơn",
+      "Xã Ninh Vân",
+      "Xã Ninh An",
+      "Xã Ninh Hải"
+    ],
+    "treeCode": "1254.1324"
+  },
+  {
+    "id": 1325,
+    "communeCode": 796,
+    "name": "Nam Hồng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 28.81,
+    "population": 31823,
+    "administrativeCenter": "Trụ sở xã Tân Thịnh hiện nay",
+    "longitude": 106.257,
+    "latitude": 20.3793,
+    "previous": [
+      "Xã Tân Thịnh",
+      "Xã Nam Thắng",
+      "Xã Nam Hồng"
+    ],
+    "treeCode": "1254.1325"
+  },
+  {
+    "id": 1326,
+    "communeCode": 2936,
+    "name": "Nam Lý",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 28.69,
+    "population": 37887,
+    "administrativeCenter": "Trụ sở xã Tiến Thắng hiện nay",
+    "longitude": 106.161,
+    "latitude": 20.5051,
+    "previous": [
+      "Xã Tiến Thắng (huyện Lý Nhân)",
+      "Xã Phú Phúc",
+      "Xã Hòa Hậu"
+    ],
+    "treeCode": "1254.1326"
+  },
+  {
+    "id": 1327,
+    "communeCode": 790,
+    "name": "Nam Minh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 24.79,
+    "population": 38121,
+    "administrativeCenter": "Trụ sở xã Bình Minh hiện nay",
+    "longitude": 106.198,
+    "latitude": 20.3097,
+    "previous": [
+      "Xã Nam Dương",
+      "Xã Bình Minh",
+      "Xã Nam Tiến"
+    ],
+    "treeCode": "1254.1327"
+  },
+  {
+    "id": 1328,
+    "communeCode": 791,
+    "name": "Nam Ninh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 25.8,
+    "population": 37668,
+    "administrativeCenter": "Trụ sở xã Nam Thanh hiện nay",
+    "longitude": 106.239,
+    "latitude": 20.3043,
+    "previous": [
+      "Xã Nam Hoa",
+      "Xã Nam Lợi",
+      "Xã Nam Hải",
+      "Xã Nam Thanh"
+    ],
+    "treeCode": "1254.1328"
+  },
+  {
+    "id": 1329,
+    "communeCode": 864,
+    "name": "Nam Trực",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 20.47,
+    "population": 39822,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Nam Trực hiện nay",
+    "longitude": 106.195,
+    "latitude": 20.3475,
+    "previous": [
+      "Thị trấn Nam Giang",
+      "Xã Nam Cường",
+      "Xã Nam Hùng"
+    ],
+    "treeCode": "1254.1329"
+  },
+  {
+    "id": 1330,
+    "communeCode": 2944,
+    "name": "Nam Xang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 22.7561,
+    "population": null,
+    "administrativeCenter": "Trụ sở xã Đức Lý hiện nay",
+    "longitude": 106.046,
+    "latitude": 20.5881,
+    "previous": [
+      "Xã Công Lý",
+      "Xã Nguyên Lý",
+      "Xã Đức Lý"
+    ],
+    "treeCode": "1254.1330"
+  },
+  {
+    "id": 1331,
+    "communeCode": 863,
+    "name": "Nghĩa Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 68.65,
+    "population": 25459,
+    "administrativeCenter": "Trụ sở Huyện uỷ - UBND huyện Nghĩa Hưng hiện nay",
+    "longitude": 106.163,
+    "latitude": 20.2305,
+    "previous": [
+      "Thị trấn Liễu Đề",
+      "Xã Nghĩa Thái",
+      "Xã Nghĩa Châu",
+      "Xã Nghĩa Trung"
+    ],
+    "treeCode": "1254.1331"
+  },
+  {
+    "id": 1332,
+    "communeCode": 823,
+    "name": "Nghĩa Lâm",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 121.75,
+    "population": 23753,
+    "administrativeCenter": "Trụ sở xã Nghĩa Hải hiện nay",
+    "longitude": 106.128,
+    "latitude": 20.0194,
+    "previous": [
+      "Xã Nghĩa Hùng",
+      "Xã Nghĩa Hải",
+      "Xã Nghĩa Lâm"
+    ],
+    "treeCode": "1254.1332"
+  },
+  {
+    "id": 1333,
+    "communeCode": 913,
+    "name": "Nghĩa Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 26.83,
+    "population": 28669,
+    "administrativeCenter": "Trụ sở xã Nghĩa Sơn hiện nay",
+    "longitude": 106.178,
+    "latitude": 20.1247,
+    "previous": [
+      "Xã Nghĩa Lạc",
+      "Xã Nghĩa Sơn"
+    ],
+    "treeCode": "1254.1333"
+  },
+  {
+    "id": 1334,
+    "communeCode": 2939,
+    "name": "Nguyễn Úy",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 24.5707,
+    "population": null,
+    "administrativeCenter": "Trụ sở phường Tượng Lĩnh hiện nay",
+    "longitude": 105.828,
+    "latitude": 20.6213,
+    "previous": [
+      "Phường Tượng Lĩnh",
+      "Phường Tân Sơn",
+      "Xã Nguyễn Úy"
+    ],
+    "treeCode": "1254.1334"
+  },
+  {
+    "id": 1335,
+    "communeCode": 2937,
+    "name": "Nhân Hà",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.98,
+    "population": 24535,
+    "administrativeCenter": "Trụ sở xã Nhân Mỹ hiện nay",
+    "longitude": 106.139,
+    "latitude": 20.545,
+    "previous": [
+      "Xã Nhân Thịnh",
+      "Xã Nhân Mỹ",
+      "Xã Xuân Khê"
+    ],
+    "treeCode": "1254.1335"
+  },
+  {
+    "id": 1336,
+    "communeCode": 747,
+    "name": "Nho Quan",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 32.62,
+    "population": 33204,
+    "administrativeCenter": "Trụ sở Huyện Ủy - UBND huyện Nho Quan hiện nay",
+    "longitude": 105.735,
+    "latitude": 20.309,
+    "previous": [
+      "Thị trấn Nho Quan",
+      "Xã Đồng Phong",
+      "Xã Yên Quang"
+    ],
+    "treeCode": "1254.1336"
+  },
+  {
+    "id": 1337,
+    "communeCode": 898,
+    "name": "Ninh Cường",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 22.28,
+    "population": 32887,
+    "administrativeCenter": "Trụ sở thị trấn Ninh Cường hiện nay",
+    "longitude": 106.201,
+    "latitude": 20.1848,
+    "previous": [
+      "Thị trấn Ninh Cường",
+      "Xã Trực Cường",
+      "Xã Trực Hùng"
+    ],
+    "treeCode": "1254.1337"
+  },
+  {
+    "id": 1338,
+    "communeCode": 876,
+    "name": "Ninh Giang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.69,
+    "population": 38745,
+    "administrativeCenter": "Trụ sở xã Liêm Hải hiện nay",
+    "longitude": 106.302,
+    "latitude": 20.3073,
+    "previous": [
+      "Xã Trực Chính",
+      "Xã Phương Định",
+      "Xã Liêm Hải"
+    ],
+    "treeCode": "1254.1338"
+  },
+  {
+    "id": 1339,
+    "communeCode": 755,
+    "name": "Phát Diệm",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.1,
+    "population": 37617,
+    "administrativeCenter": "Trụ sở Huyện uỷ - HĐND - UBND huyện Kim Sơn hiện nay",
+    "longitude": 106.09,
+    "latitude": 20.0827,
+    "previous": [
+      "Thị trấn Phát Diệm",
+      "Xã Thượng Kiệm",
+      "Xã Kim Chính"
+    ],
+    "treeCode": "1254.1339"
+  },
+  {
+    "id": 1340,
+    "communeCode": 890,
+    "name": "Phong Doanh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 34.98,
+    "population": 37231,
+    "administrativeCenter": "Trụ sở xã Yên Chính hiện nay",
+    "longitude": 105.961,
+    "latitude": 20.3601,
+    "previous": [
+      "Xã Phú Hưng",
+      "Xã Yên Thọ",
+      "Xã Yên Chính"
+    ],
+    "treeCode": "1254.1340"
+  },
+  {
+    "id": 1341,
+    "communeCode": 756,
+    "name": "Phú Long",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 75.0125,
+    "population": null,
+    "administrativeCenter": "Trụ sở xã Phú Long",
+    "longitude": 105.769,
+    "latitude": 20.2092,
+    "previous": [
+      "Xã Kỳ Phú",
+      "Xã Phú Long"
+    ],
+    "treeCode": "1254.1341"
+  },
+  {
+    "id": 1342,
+    "communeCode": 2974,
+    "name": "Phủ Lý",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 11.84,
+    "population": 62893,
+    "administrativeCenter": "Trụ sở UBND tỉnh Hà Nam hiện nay",
+    "longitude": 105.928,
+    "latitude": 20.5307,
+    "previous": [
+      "Phường Châu Cầu",
+      "Phường Thanh Châu",
+      "Phường Liêm Chính",
+      "Phường Quang Trung (thành phố Phủ Lý)"
+    ],
+    "treeCode": "1254.1342"
+  },
+  {
+    "id": 1343,
+    "communeCode": 746,
+    "name": "Phú Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 41.12,
+    "population": 22712,
+    "administrativeCenter": "Trụ sở xã Phú Sơn hiện nay",
+    "longitude": 105.735,
+    "latitude": 20.3636,
+    "previous": [
+      "Xã Thạch Bình",
+      "Xã Lạc Vân",
+      "Xã Phú Sơn"
+    ],
+    "treeCode": "1254.1343"
+  },
+  {
+    "id": 1344,
+    "communeCode": 2981,
+    "name": "Phù Vân",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 19.34,
+    "population": 40927,
+    "administrativeCenter": "Trụ sở của Sở GD-ĐT và MTTQ tỉnh Hà Nam hiện nay",
+    "longitude": 105.904,
+    "latitude": 20.5591,
+    "previous": [
+      "Phường Lê Hồng Phong",
+      "Xã Kim Bình",
+      "Xã Phù Vân"
+    ],
+    "treeCode": "1254.1344"
+  },
+  {
+    "id": 1345,
+    "communeCode": 862,
+    "name": "Quang Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 15.89,
+    "population": 20701,
+    "administrativeCenter": "Trụ sở xã Trực Khang hiện nay",
+    "longitude": 106.2,
+    "latitude": 20.2378,
+    "previous": [
+      "Xã Trực Khang",
+      "Xã Trực Mỹ",
+      "Xã Trực Thuận"
+    ],
+    "treeCode": "1254.1345"
+  },
+  {
+    "id": 1346,
+    "communeCode": 845,
+    "name": "Quang Thiện",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 20.73,
+    "population": 2686,
+    "administrativeCenter": "Trụ sở Đảng ủy, MTTQ, các tổ chức CT-XH tại xã Đồng Hướng; Trụ sở HĐND, UBND tại xã Quang Thiện",
+    "longitude": 106.106,
+    "latitude": 20.0967,
+    "previous": [
+      "Xã Như Hòa",
+      "Xã Đồng Hướng",
+      "Xã Quang Thiện"
+    ],
+    "treeCode": "1254.1346"
+  },
+  {
+    "id": 1347,
+    "communeCode": 902,
+    "name": "Quỹ Nhất",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 32.7,
+    "population": 32984,
+    "administrativeCenter": "Trụ sở thị trấn Quỹ Nhất hiện nay",
+    "longitude": 106.172,
+    "latitude": 20.039,
+    "previous": [
+      "Thị trấn Quỹ Nhất",
+      "Xã Nghĩa Thành",
+      "Xã Nghĩa Lợi"
+    ],
+    "treeCode": "1254.1347"
+  },
+  {
+    "id": 1348,
+    "communeCode": 731,
+    "name": "Quỳnh Lưu",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 40.55,
+    "population": 73584,
+    "administrativeCenter": "Trụ sở xã Phú Lộc hiện nay",
+    "longitude": 105.815,
+    "latitude": 20.2405,
+    "previous": [
+      "Xã Phú Lộc",
+      "Xã Quỳnh Lưu"
+    ],
+    "treeCode": "1254.1348"
+  },
+  {
+    "id": 1349,
+    "communeCode": 832,
+    "name": "Rạng Đông",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 32.39,
+    "population": 30956,
+    "administrativeCenter": "Trụ sở thị trấn Rạng Đông hiện nay",
+    "longitude": 106.14,
+    "latitude": 19.9647,
+    "previous": [
+      "Xã Nam Điền (huyện Nghĩa Hưng)",
+      "Xã Phúc Thắng",
+      "Thị trấn Rạng Đông"
+    ],
+    "treeCode": "1254.1349"
+  },
+  {
+    "id": 1350,
+    "communeCode": 2971,
+    "name": "Tam Chúc",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 46.56,
+    "population": 18114,
+    "administrativeCenter": "Trụ sở xã Khả Phong hiện nay",
+    "longitude": 105.813,
+    "latitude": 20.5558,
+    "previous": [
+      "Phường Ba Sao",
+      "Xã Khả Phong",
+      "Xã Thuỵ Lôi"
+    ],
+    "treeCode": "1254.1350"
+  },
+  {
+    "id": 1351,
+    "communeCode": 847,
+    "name": "Tam Điệp",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 41.2,
+    "population": 26845,
+    "administrativeCenter": "Trụ sở Thành ủy - HĐND - UBND TP Tam Điệp hiện nay",
+    "longitude": 105.86,
+    "latitude": 20.163,
+    "previous": [
+      "Phường Bắc Sơn",
+      "Phường Tây Sơn",
+      "Xã Quang Sơn"
+    ],
+    "treeCode": "1254.1351"
+  },
+  {
+    "id": 1352,
+    "communeCode": 765,
+    "name": "Tân Minh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 223.76,
+    "population": 22292,
+    "administrativeCenter": "Trụ sở xã Tân Minh hiện nay",
+    "longitude": 106.021,
+    "latitude": 20.3851,
+    "previous": [
+      "Xã Trung Nghĩa",
+      "Xã Tân Minh"
+    ],
+    "treeCode": "1254.1352"
+  },
+  {
+    "id": 1353,
+    "communeCode": 2968,
+    "name": "Tân Thanh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 114.5,
+    "population": 18116,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Thanh Liêm",
+    "longitude": 105.906,
+    "latitude": 20.4754,
+    "previous": [
+      "Thị trấn Tân Thanh",
+      "Xã Thanh Thủy",
+      "Xã Thanh Phong"
+    ],
+    "treeCode": "1254.1353"
+  },
+  {
+    "id": 1354,
+    "communeCode": 726,
+    "name": "Tây Hoa Lư",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 84.96,
+    "population": 46648,
+    "administrativeCenter": "Trụ sở xã Trường Yên hiện nay",
+    "longitude": 105.886,
+    "latitude": 20.2711,
+    "previous": [
+      "Phường Ninh Giang",
+      "Xã Trường Yên",
+      "Xã Ninh Hòa",
+      "Xã Phúc Sơn",
+      "Xã Gia Sinh",
+      "Xã Gia Tân"
+    ],
+    "treeCode": "1254.1354"
+  },
+  {
+    "id": 1355,
+    "communeCode": 2967,
+    "name": "Thanh Bình",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 86,
+    "population": 4741,
+    "administrativeCenter": "Trụ sở xã Liêm Sơn hiện nay",
+    "longitude": 105.968,
+    "latitude": 20.4567,
+    "previous": [
+      "Xã Liêm Sơn",
+      "Xã Liêm Thuận",
+      "Xã Liêm Túc"
+    ],
+    "treeCode": "1254.1355"
+  },
+  {
+    "id": 1356,
+    "communeCode": 2966,
+    "name": "Thanh Lâm",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 52.91,
+    "population": 2955,
+    "administrativeCenter": "Trụ sở xã Thanh Nghị hiện nay",
+    "longitude": 105.893,
+    "latitude": 20.4215,
+    "previous": [
+      "Xã Thanh Nghị",
+      "Xã Thanh Tân",
+      "Xã Thanh Hải"
+    ],
+    "treeCode": "1254.1356"
+  },
+  {
+    "id": 1357,
+    "communeCode": 2965,
+    "name": "Thanh Liêm",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.27,
+    "population": 23609,
+    "administrativeCenter": "Trụ sở xã Thanh Nguyên hiện nay",
+    "longitude": 105.931,
+    "latitude": 20.4302,
+    "previous": [
+      "Xã Thanh Hương",
+      "Xã Thanh Tâm",
+      "Xã Thanh Nguyên"
+    ],
+    "treeCode": "1254.1357"
+  },
+  {
+    "id": 1358,
+    "communeCode": 772,
+    "name": "Thành Nam",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 16.03,
+    "population": 30830,
+    "administrativeCenter": "Trụ sở phường Mỹ Xá hiện nay",
+    "longitude": 106.127,
+    "latitude": 20.3999,
+    "previous": [
+      "Phường Mỹ Xá",
+      "Xã Đại An"
+    ],
+    "treeCode": "1254.1358"
+  },
+  {
+    "id": 1359,
+    "communeCode": 727,
+    "name": "Thanh Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 315.4,
+    "population": 33342,
+    "administrativeCenter": "Trụ sở xã Thanh Sơn hiện nay",
+    "longitude": 105.786,
+    "latitude": 20.2785,
+    "previous": [
+      "Xã Thanh Sơn (huyện Nho Quan)",
+      "Xã Thượng Hòa",
+      "Xã Văn Phú"
+    ],
+    "treeCode": "1254.1359"
+  },
+  {
+    "id": 1360,
+    "communeCode": 868,
+    "name": "Thiên Trường",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 20.53,
+    "population": 31031,
+    "administrativeCenter": "Trụ sở phường Lộc Hạ hiện nay",
+    "longitude": 106.2,
+    "latitude": 20.4598,
+    "previous": [
+      "Phường Lộc Hạ",
+      "Xã Mỹ Tân",
+      "Xã Mỹ Trung"
+    ],
+    "treeCode": "1254.1360"
+  },
+  {
+    "id": 1361,
+    "communeCode": 2979,
+    "name": "Tiên Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 23.96,
+    "population": 27062,
+    "administrativeCenter": "Trụ sở xã Tiên Ngoại hiện nay",
+    "longitude": 105.974,
+    "latitude": 20.5778,
+    "previous": [
+      "Phường Tiên Sơn",
+      "Phường Tiên Nội",
+      "Xã Tiên Ngoại"
+    ],
+    "treeCode": "1254.1361"
+  },
+  {
+    "id": 1362,
+    "communeCode": 2943,
+    "name": "Trần Thương",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 26.32,
+    "population": 21933,
+    "administrativeCenter": "Trụ sở xã Trần Hưng Đạo hiện nay",
+    "longitude": 106.104,
+    "latitude": 20.5511,
+    "previous": [
+      "Xã Trần Hưng Đạo",
+      "Xã Nhân Nghĩa",
+      "Xã Nhân Bình"
+    ],
+    "treeCode": "1254.1362"
+  },
+  {
+    "id": 1363,
+    "communeCode": 866,
+    "name": "Trực Ninh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 17.26,
+    "population": 18453,
+    "administrativeCenter": "Trụ sở xã Trực Nội hiện nay",
+    "longitude": 106.226,
+    "latitude": 20.2537,
+    "previous": [
+      "Xã Trực Thanh",
+      "Xã Trực Nội",
+      "Xã Trực Hưng"
+    ],
+    "treeCode": "1254.1363"
+  },
+  {
+    "id": 1364,
+    "communeCode": 750,
+    "name": "Trung Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 38.15,
+    "population": 31539,
+    "administrativeCenter": "Trụ sở Đảng ủy - HĐND - UBND phường Trung Sơn hiện nay",
+    "longitude": 105.913,
+    "latitude": 20.1312,
+    "previous": [
+      "Phường Nam Sơn",
+      "Phường Trung Sơn",
+      "Xã Đông Sơn"
+    ],
+    "treeCode": "1254.1364"
+  },
+  {
+    "id": 1365,
+    "communeCode": 869,
+    "name": "Trường Thi",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 31.5,
+    "population": 69988,
+    "administrativeCenter": "Trụ sở của xã Thành Lợi hiện nay",
+    "longitude": 106.134,
+    "latitude": 20.3676,
+    "previous": [
+      "Phường Trường Thi",
+      "Xã Thành Lợi"
+    ],
+    "treeCode": "1254.1365"
+  },
+  {
+    "id": 1366,
+    "communeCode": 894,
+    "name": "Vạn Thắng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 74.8,
+    "population": 31625,
+    "administrativeCenter": "Trụ sở xã Yên Thắng hiện nay",
+    "longitude": 106.036,
+    "latitude": 20.2925,
+    "previous": [
+      "Xã Yên Thắng (huyện Ý Yên)",
+      "Xã Yên Tiến",
+      "Xã Yên Lương"
+    ],
+    "treeCode": "1254.1366"
+  },
+  {
+    "id": 1367,
+    "communeCode": 870,
+    "name": "Vị Khê",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 25.27,
+    "population": 36210,
+    "administrativeCenter": "Trụ sở xã Nam Điền hiện nay",
+    "longitude": 106.213,
+    "latitude": 20.4038,
+    "previous": [
+      "Xã Nam Điền (huyện Nam Trực)",
+      "Phường Nam Phong"
+    ],
+    "treeCode": "1254.1367"
+  },
+  {
+    "id": 1368,
+    "communeCode": 2952,
+    "name": "Vĩnh Trụ",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 17.59,
+    "population": 36158,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Lý Nhân hiện nay",
+    "longitude": 106.049,
+    "latitude": 20.5482,
+    "previous": [
+      "Thị trấn Vĩnh Trụ",
+      "Xã Nhân Chính",
+      "Xã Nhân Khang"
+    ],
+    "treeCode": "1254.1368"
+  },
+  {
+    "id": 1369,
+    "communeCode": 891,
+    "name": "Vụ Bản",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 21.56,
+    "population": 26675,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Vụ Bản hiện nay",
+    "longitude": 106.081,
+    "latitude": 20.3407,
+    "previous": [
+      "Thị trấn Gôi",
+      "Xã Kim Thái",
+      "Xã Tam Thanh"
+    ],
+    "treeCode": "1254.1369"
+  },
+  {
+    "id": 1370,
+    "communeCode": 893,
+    "name": "Vũ Dương",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 30.59,
+    "population": 39429,
+    "administrativeCenter": "Trụ sở xã Yên Dương hiện nay",
+    "longitude": 106.037,
+    "latitude": 20.3415,
+    "previous": [
+      "Xã Yên Mỹ (huyện Ý Yên)",
+      "Xã Yên Bình",
+      "Xã Yên Dương",
+      "Xã Yên Ninh"
+    ],
+    "treeCode": "1254.1370"
+  },
+  {
+    "id": 1371,
+    "communeCode": 819,
+    "name": "Xuân Giang",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 86.06,
+    "population": 9234,
+    "administrativeCenter": "Trụ sở xã Xuân Giang hiện nay",
+    "longitude": 106.384,
+    "latitude": 20.3242,
+    "previous": [
+      "Xã Xuân Tân",
+      "Xã Xuân Phú",
+      "Xã Xuân Giang"
+    ],
+    "treeCode": "1254.1371"
+  },
+  {
+    "id": 1372,
+    "communeCode": 816,
+    "name": "Xuân Hồng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 27.61,
+    "population": 40698,
+    "administrativeCenter": "Trụ sở xã Xuân Hồng hiện nay",
+    "longitude": 106.334,
+    "latitude": 20.3408,
+    "previous": [
+      "Xã Xuân Châu",
+      "Xã Xuân Thành",
+      "Xã Xuân Thượng",
+      "Xã Xuân Hồng"
+    ],
+    "treeCode": "1254.1372"
+  },
+  {
+    "id": 1373,
+    "communeCode": 817,
+    "name": "Xuân Hưng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.17,
+    "population": 53539,
+    "administrativeCenter": "Trụ sở xã Trà Lũ hiện nay",
+    "longitude": 106.369,
+    "latitude": 20.287,
+    "previous": [
+      "Xã Xuân Vinh",
+      "Xã Trà Lũ",
+      "Xã Thọ Nghiệp"
+    ],
+    "treeCode": "1254.1373"
+  },
+  {
+    "id": 1374,
+    "communeCode": 815,
+    "name": "Xuân Trường",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 122.92,
+    "population": 5669,
+    "administrativeCenter": "Trụ sở Huyện uỷ - HĐND - UBND huyện Xuân Trường hiện nay",
+    "longitude": 106.332,
+    "latitude": 20.2647,
+    "previous": [
+      "Thị trấn Xuân Trường",
+      "Xã Xuân Phúc",
+      "Xã Xuân Ninh",
+      "Xã Xuân Ngọc"
+    ],
+    "treeCode": "1254.1374"
+  },
+  {
+    "id": 1375,
+    "communeCode": 892,
+    "name": "Ý Yên",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 46.73,
+    "population": 53419,
+    "administrativeCenter": "Trụ sở Huyện ủy - HĐND - UBND huyện Ý Yên",
+    "longitude": 105.999,
+    "latitude": 20.3026,
+    "previous": [
+      "Xã Yên Phong",
+      "Xã Hồng Quang (huyện Ý Yên)",
+      "Xã Yên Khánh",
+      "Thị trấn Lâm"
+    ],
+    "treeCode": "1254.1375"
+  },
+  {
+    "id": 1376,
+    "communeCode": 895,
+    "name": "Yên Cường",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 116.9,
+    "population": 9741,
+    "administrativeCenter": "Trụ sở xã Yên Cường hiện nay",
+    "longitude": 106.107,
+    "latitude": 20.2804,
+    "previous": [
+      "Xã Yên Nhân",
+      "Xã Yên Lộc (huyện Ý Yên)",
+      "Xã Yên Phúc",
+      "Xã Yên Cường"
+    ],
+    "treeCode": "1254.1376"
+  },
+  {
+    "id": 1377,
+    "communeCode": 897,
+    "name": "Yên Đồng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 30.53,
+    "population": 35898,
+    "administrativeCenter": "Trụ sở xã Yên Đồng hiện nay",
+    "longitude": 106.067,
+    "latitude": 20.2492,
+    "previous": [
+      "Xã Yên Đồng (huyện Ý Yên)",
+      "Xã Yên Trị",
+      "Xã Yên Khang"
+    ],
+    "treeCode": "1254.1377"
+  },
+  {
+    "id": 1378,
+    "communeCode": 825,
+    "name": "Yên Khánh",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 29.88,
+    "population": 40134,
+    "administrativeCenter": "Trụ sở Huyện Ủy - HĐNĐ - UBND huyện Yên Khánh hiện nay",
+    "longitude": 106.053,
+    "latitude": 20.1929,
+    "previous": [
+      "Thị trấn Yên Ninh",
+      "Xã Khánh Cư",
+      "Xã Khánh Vân",
+      "Xã Khánh Hải"
+    ],
+    "treeCode": "1254.1378"
+  },
+  {
+    "id": 1379,
+    "communeCode": 829,
+    "name": "Yên Mạc",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 20.6,
+    "population": 22524,
+    "administrativeCenter": "Trụ sở xã Yên Mạc hiện nay",
+    "longitude": 106.019,
+    "latitude": 20.0962,
+    "previous": [
+      "Xã Yên Mỹ (huyện Yên Mô)",
+      "Xã Yên Lâm",
+      "Xã Yên Mạc"
+    ],
+    "treeCode": "1254.1379"
+  },
+  {
+    "id": 1380,
+    "communeCode": 861,
+    "name": "Yên Mô",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 28.6,
+    "population": 35415,
+    "administrativeCenter": "Trụ sở Huyện uỷ - HĐND - UBND huyện Yên Mô hiện nay",
+    "longitude": 106.005,
+    "latitude": 20.162,
+    "previous": [
+      "Thị trấn Yên Thịnh",
+      "Xã Khánh Dương",
+      "Xã Yên Hòa"
+    ],
+    "treeCode": "1254.1380"
+  },
+  {
+    "id": 1381,
+    "communeCode": 842,
+    "name": "Yên Sơn",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 35.86,
+    "population": 21196,
+    "administrativeCenter": "Trụ sở xã Yên Sơn hiện nay",
+    "longitude": 105.879,
+    "latitude": 20.1922,
+    "previous": [
+      "Phường Tân Bình",
+      "Xã Quảng Lạc",
+      "Xã Yên Sơn"
+    ],
+    "treeCode": "1254.1381"
+  },
+  {
+    "id": 1382,
+    "communeCode": 846,
+    "name": "Yên Thắng",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "phường",
+    "areaKm2": 29.95,
+    "population": 28405,
+    "administrativeCenter": "Trụ sở xã Yên Thắng hiện nay",
+    "longitude": 105.964,
+    "latitude": 20.1652,
+    "previous": [
+      "Xã Yên Thắng (huyện Yên Mô)",
+      "Xã Khánh Thượng",
+      "Phường Yên Bình"
+    ],
+    "treeCode": "1254.1382"
+  },
+  {
+    "id": 1383,
+    "communeCode": 753,
+    "name": "Yên Từ",
+    "provinceCode": 6,
+    "provinceName": "tỉnh Ninh Bình",
+    "type": "xã",
+    "areaKm2": 23.98,
+    "population": 31917,
+    "administrativeCenter": "Trụ sở xã Yên Từ hiện nay",
+    "longitude": 106.04,
+    "latitude": 20.1355,
+    "previous": [
+      "Xã Yên Phong",
+      "Xã Yên Nhân (huyện Yên Mô)",
+      "Xã Yên Từ"
+    ],
+    "treeCode": "1254.1383"
+  }
+]

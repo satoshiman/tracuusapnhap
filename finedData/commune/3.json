@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 731,
+    "communeCode": 2041,
+    "name": "An Sinh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 106.42,
+    "population": 24956,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Bình Dương",
+    "longitude": 106.521,
+    "latitude": 21.1539,
+    "previous": [
+      "Phường Bình Dương",
+      "Xã An Sinh",
+      "Xã Việt Dân",
+      "Phường Đức Chính"
+    ],
+    "treeCode": "0730.0731"
+  },
+  {
+    "id": 732,
+    "communeCode": 2020,
+    "name": "Ba Chẽ",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 332.68,
+    "population": 17504,
+    "administrativeCenter": "Trụ sở Huyện ủy Ba Chẽ",
+    "longitude": 107.252,
+    "latitude": 21.2528,
+    "previous": [
+      "Thị trấn Ba Chẽ",
+      "Xã Thanh Sơn",
+      "Xã Nam Sơn",
+      "Xã Đồn Đạc",
+      "Xã Hải Lạng"
+    ],
+    "treeCode": "0730.0732"
+  },
+  {
+    "id": 733,
+    "communeCode": 2010,
+    "name": "Bãi Cháy",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 25.39,
+    "population": 42108,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Bãi Cháy",
+    "longitude": 107.029,
+    "latitude": 20.9617,
+    "previous": [
+      "Phường Hùng Thắng",
+      "Phường Bãi Cháy"
+    ],
+    "treeCode": "0730.0733"
+  },
+  {
+    "id": 734,
+    "communeCode": 2001,
+    "name": "Bình Khê",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 138.74,
+    "population": 21845,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Bình Khê",
+    "longitude": 106.626,
+    "latitude": 21.1294,
+    "previous": [
+      "Phường Tràng An",
+      "Phường Bình Khê",
+      "Xã Tràng Lương"
+    ],
+    "treeCode": "0730.0734"
+  },
+  {
+    "id": 735,
+    "communeCode": 2016,
+    "name": "Bình Liêu",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 225.29,
+    "population": 1622,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND huyện Bình Liêu",
+    "longitude": 107.387,
+    "latitude": 21.5169,
+    "previous": [
+      "Thị trấn Bình Liêu",
+      "Xã Húc Động",
+      "Xã Vô Ngại"
+    ],
+    "treeCode": "0730.0735"
+  },
+  {
+    "id": 736,
+    "communeCode": -1,
+    "name": "Cái Chiên",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Cái Chiên",
+    "longitude": 107.02,
+    "latitude": 20.9563,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "0730.0736"
+  },
+  {
+    "id": 737,
+    "communeCode": 2014,
+    "name": "Cẩm Phả",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 17.52,
+    "population": 61506,
+    "administrativeCenter": "Thành ủy, HĐND, UBND thành phố Cẩm Phả",
+    "longitude": 107.288,
+    "latitude": 21.0186,
+    "previous": [
+      "Phường Cẩm Trung",
+      "Phường Cẩm Thành",
+      "Phường Cẩm Bình",
+      "Phường Cẩm Tây",
+      "Phường Cẩm Đông"
+    ],
+    "treeCode": "0730.0737"
+  },
+  {
+    "id": 738,
+    "communeCode": 2027,
+    "name": "Cao Xanh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 38.89,
+    "population": 32809,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Cao Xanh",
+    "longitude": 107.128,
+    "latitude": 21.0013,
+    "previous": [
+      "Phường Hà Khánh",
+      "Phường Cao Xanh"
+    ],
+    "treeCode": "0730.0738"
+  },
+  {
+    "id": 739,
+    "communeCode": 3307,
+    "name": "Cô Tô",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "đặc khu",
+    "areaKm2": 47.79,
+    "population": 7939,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND, UBND huyện Cô Tô",
+    "longitude": 107.779,
+    "latitude": 20.987,
+    "previous": [
+      "Thị trấn Cô Tô",
+      "Xã Đồng Tiến",
+      "Xã Thanh Lân"
+    ],
+    "treeCode": "0730.0739"
+  },
+  {
+    "id": 740,
+    "communeCode": 2015,
+    "name": "Cửa Ông",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 41.07,
+    "population": 66504,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Cẩm Sơn",
+    "longitude": 107.335,
+    "latitude": 21.0164,
+    "previous": [
+      "Phường Cẩm Phú",
+      "Phường Cẩm Thịnh",
+      "Phường Cẩm Sơn",
+      "Phường Cửa Ông"
+    ],
+    "treeCode": "0730.0740"
+  },
+  {
+    "id": 741,
+    "communeCode": 2033,
+    "name": "Đầm Hà",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 142.43,
+    "population": 25947,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND huyện Đầm Hà",
+    "longitude": 107.601,
+    "latitude": 21.3452,
+    "previous": [
+      "Thị trấn Đầm Hà",
+      "Xã Tân Bình",
+      "Xã Đại Bình",
+      "Xã Tân Lập",
+      "Xã Đầm Hà"
+    ],
+    "treeCode": "0730.0741"
+  },
+  {
+    "id": 742,
+    "communeCode": 2017,
+    "name": "Điền Xá",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 240.49,
+    "population": 6956,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Điền Xá",
+    "longitude": 107.284,
+    "latitude": 21.4476,
+    "previous": [
+      "Xã Hà Lâu",
+      "Xã Điền Xá",
+      "Xã Yên Than"
+    ],
+    "treeCode": "0730.0742"
+  },
+  {
+    "id": 743,
+    "communeCode": 2026,
+    "name": "Đông Mai",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 50.61,
+    "population": 21649,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đông Mai",
+    "longitude": 106.855,
+    "latitude": 21.0003,
+    "previous": [
+      "Phường Minh Thành",
+      "Phường Đông Mai"
+    ],
+    "treeCode": "0730.0743"
+  },
+  {
+    "id": 744,
+    "communeCode": 2037,
+    "name": "Đông Ngũ",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 142.8,
+    "population": 18063,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đông Ngũ",
+    "longitude": 107.466,
+    "latitude": 21.3723,
+    "previous": [
+      "Xã Đông Hải",
+      "Xã Đại Dực",
+      "Xã Đông Ngũ"
+    ],
+    "treeCode": "0730.0744"
+  },
+  {
+    "id": 745,
+    "communeCode": 2042,
+    "name": "Đông Triều",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 40.42,
+    "population": 43712,
+    "administrativeCenter": "Trụ sở Thành ủy, HĐND, UBND thành phố Đông Triều",
+    "longitude": 106.52,
+    "latitude": 21.0754,
+    "previous": [
+      "Phường Thủy An",
+      "Phường Hưng Đạo",
+      "Phường Hồng Phong",
+      "Xã Nguyễn Huệ",
+      "Phường Đức Chính"
+    ],
+    "treeCode": "0730.0745"
+  },
+  {
+    "id": 746,
+    "communeCode": 2036,
+    "name": "Đường Hoa",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 220.38,
+    "population": 17201,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quảng Long",
+    "longitude": 107.634,
+    "latitude": 21.4933,
+    "previous": [
+      "Xã Quảng Sơn",
+      "Xã Đường Hoa",
+      "Xã Quảng Long"
+    ],
+    "treeCode": "0730.0746"
+  },
+  {
+    "id": 747,
+    "communeCode": 2006,
+    "name": "Hà An",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 100.18,
+    "population": 21314,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hà An",
+    "longitude": 106.886,
+    "latitude": 20.9256,
+    "previous": [
+      "Phường Tân An",
+      "Phường Hà An",
+      "Xã Hoàng Tân",
+      "Xã Liên Hòa"
+    ],
+    "treeCode": "0730.0747"
+  },
+  {
+    "id": 748,
+    "communeCode": 2011,
+    "name": "Hà Lầm",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 11.99,
+    "population": 47747,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Cao Thắng",
+    "longitude": 107.123,
+    "latitude": 20.9668,
+    "previous": [
+      "Phường Cao Thắng",
+      "Phường Hà Trung",
+      "Phường Hà Lầm"
+    ],
+    "treeCode": "0730.0748"
+  },
+  {
+    "id": 749,
+    "communeCode": -1,
+    "name": "Hạ Long",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hồng Hải",
+    "longitude": 107.0458,
+    "latitude": 20.9626,
+    "previous": [
+      "Phường Hồng Hà",
+      "Phường Hồng Hải"
+    ],
+    "treeCode": "0730.0749"
+  },
+  {
+    "id": 750,
+    "communeCode": -1,
+    "name": "Hà Tu",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hà Phong",
+    "longitude": 107.122,
+    "latitude": 20.9393,
+    "previous": [
+      "Phường Hà Phong",
+      "Phường Hà Tu"
+    ],
+    "treeCode": "0730.0750"
+  },
+  {
+    "id": 751,
+    "communeCode": 2040,
+    "name": "Hải Hòa",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 95.87,
+    "population": 5731,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hải Hòa",
+    "longitude": 107.363,
+    "latitude": 21.1456,
+    "previous": [
+      "Xã Hải Lạng",
+      "Xã Hải Hòa"
+    ],
+    "treeCode": "0730.0751"
+  },
+  {
+    "id": 752,
+    "communeCode": 2023,
+    "name": "Hải Lạng",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 131.03,
+    "population": 9827,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hải Lạng",
+    "longitude": 107.382,
+    "latitude": 21.2643,
+    "previous": [
+      "Xã Đồng Rui",
+      "Xã Hải Lạng",
+      "Xã Hải Hòa"
+    ],
+    "treeCode": "0730.0752"
+  },
+  {
+    "id": 753,
+    "communeCode": 2029,
+    "name": "Hải Ninh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 289.99,
+    "population": 19422,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hải Tiến",
+    "longitude": 107.799,
+    "latitude": 21.5366,
+    "previous": [
+      "Xã Quảng Nghĩa",
+      "Xã Hải Tiến"
+    ],
+    "treeCode": "0730.0753"
+  },
+  {
+    "id": 754,
+    "communeCode": 2028,
+    "name": "Hải Sơn",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 132.04,
+    "population": 4567,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hải Sơn",
+    "longitude": 107.818,
+    "latitude": 21.6085,
+    "previous": [
+      "Xã Bắc Sơn",
+      "Xã Hải Sơn"
+    ],
+    "treeCode": "0730.0754"
+  },
+  {
+    "id": 755,
+    "communeCode": 2025,
+    "name": "Hiệp Hòa",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 35.83,
+    "population": 33381,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hiệp Hòa",
+    "longitude": 106.81,
+    "latitude": 20.9676,
+    "previous": [
+      "Phường Cộng Hòa",
+      "Xã Sông Khoai",
+      "Xã Hiệp Hòa"
+    ],
+    "treeCode": "0730.0755"
+  },
+  {
+    "id": 756,
+    "communeCode": 2002,
+    "name": "Hoàng Quế",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 63.83,
+    "population": 31988,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hoàng Quế",
+    "longitude": 106.664,
+    "latitude": 21.0547,
+    "previous": [
+      "Phường Yên Đức",
+      "Phường Hoàng Quế",
+      "Xã Hồng Thái Tây",
+      "Xã Hồng Thái Đông"
+    ],
+    "treeCode": "0730.0756"
+  },
+  {
+    "id": 757,
+    "communeCode": 2007,
+    "name": "Hoành Bồ",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 175.94,
+    "population": 28534,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hoành Bồ",
+    "longitude": 106.991,
+    "latitude": 21.0438,
+    "previous": [
+      "Phường Hoành Bồ",
+      "Xã Sơn Dương",
+      "Xã Lê Lợi",
+      "Xã Đồng Lâm"
+    ],
+    "treeCode": "0730.0757"
+  },
+  {
+    "id": 758,
+    "communeCode": 2034,
+    "name": "Hoành Mô",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 137.91,
+    "population": 9014,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Hoành Mô",
+    "longitude": 107.523,
+    "latitude": 21.5592,
+    "previous": [
+      "Xã Đồng Văn",
+      "Xã Hoành Mô"
+    ],
+    "treeCode": "0730.0758"
+  },
+  {
+    "id": 759,
+    "communeCode": -1,
+    "name": "Hồng Gai",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Trần Hưng Đạo",
+    "longitude": 107.0462,
+    "latitude": 20.9485,
+    "previous": [
+      "Phường Bạch Đằng",
+      "Phường Trần Hưng Đạo",
+      "Phường Hồng Gai"
+    ],
+    "treeCode": "0730.0759"
+  },
+  {
+    "id": 760,
+    "communeCode": 2021,
+    "name": "Kỳ Thượng",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 218.82,
+    "population": 15822,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Đạp Thanh",
+    "longitude": 107.131,
+    "latitude": 21.2659,
+    "previous": [
+      "Xã Thanh Lâm",
+      "Xã Đạp Thanh",
+      "Xã Kỳ Thượng"
+    ],
+    "treeCode": "0730.0760"
+  },
+  {
+    "id": 761,
+    "communeCode": 2019,
+    "name": "Liên Hòa",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 71.44,
+    "population": 32847,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Liên Hòa",
+    "longitude": 106.823,
+    "latitude": 20.8605,
+    "previous": [
+      "Phường Phong Hải",
+      "Xã Liên Vị",
+      "Xã Tiền Phong",
+      "Xã Liên Hòa"
+    ],
+    "treeCode": "0730.0761"
+  },
+  {
+    "id": 762,
+    "communeCode": 2035,
+    "name": "Lục Hồn",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 107.13,
+    "population": 9974,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lục Hồn",
+    "longitude": 107.438,
+    "latitude": 21.5737,
+    "previous": [
+      "Xã Đồng Tâm",
+      "Xã Lục Hồn"
+    ],
+    "treeCode": "0730.0762"
+  },
+  {
+    "id": 763,
+    "communeCode": 2003,
+    "name": "Lương Minh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 225.28,
+    "population": 5608,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Lương Minh",
+    "longitude": 107.029,
+    "latitude": 21.2134,
+    "previous": [
+      "Xã Đồng Sơn",
+      "Xã Lương Minh"
+    ],
+    "treeCode": "0730.0763"
+  },
+  {
+    "id": 764,
+    "communeCode": 2043,
+    "name": "Mạo Khê",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 46.55,
+    "population": 72012,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Mạo Khê",
+    "longitude": 106.61,
+    "latitude": 21.065,
+    "previous": [
+      "Phường Xuân Sơn",
+      "Phường Kim Sơn",
+      "Phường Yên Thọ",
+      "Phường Mạo Khê"
+    ],
+    "treeCode": "0730.0764"
+  },
+  {
+    "id": 765,
+    "communeCode": 2045,
+    "name": "Móng Cái 1",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 82.47,
+    "population": 46588,
+    "administrativeCenter": "Trụ sở Thành ủy, HĐND, UBND thành phố Móng Cái",
+    "longitude": 107.995,
+    "latitude": 21.5029,
+    "previous": [
+      "Phường Trần Phú",
+      "Phường Hải Hòa",
+      "Phường Bình Ngọc",
+      "Phường Trà Cổ",
+      "Xã Hải Xuân"
+    ],
+    "treeCode": "0730.0765"
+  },
+  {
+    "id": 766,
+    "communeCode": 2039,
+    "name": "Móng Cái 2",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 72.97,
+    "population": 29189,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Ka Long",
+    "longitude": 107.949,
+    "latitude": 21.4919,
+    "previous": [
+      "Phường Ninh Dương",
+      "Phường Ka Long",
+      "Xã Vạn Ninh"
+    ],
+    "treeCode": "0730.0766"
+  },
+  {
+    "id": 767,
+    "communeCode": 2031,
+    "name": "Móng Cái 3",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 90.03,
+    "population": 22565,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Hải Yên",
+    "longitude": 107.898,
+    "latitude": 21.5406,
+    "previous": [
+      "Phường Hải Yên",
+      "Xã Hải Đông"
+    ],
+    "treeCode": "0730.0767"
+  },
+  {
+    "id": 768,
+    "communeCode": 2013,
+    "name": "Mông Dương",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 167.16,
+    "population": 18953,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Mông Dương",
+    "longitude": 107.327,
+    "latitude": 21.073,
+    "previous": [
+      "Phường Mông Dương",
+      "Xã Dương Huy"
+    ],
+    "treeCode": "0730.0768"
+  },
+  {
+    "id": 769,
+    "communeCode": 2018,
+    "name": "Phong Cốc",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 42.17,
+    "population": 27356,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Phong Cốc",
+    "longitude": 106.788,
+    "latitude": 20.8973,
+    "previous": [
+      "Phường Nam Hòa",
+      "Phường Yên Hải",
+      "Phường Phong Cốc",
+      "Xã Cẩm La"
+    ],
+    "treeCode": "0730.0769"
+  },
+  {
+    "id": 770,
+    "communeCode": 2038,
+    "name": "Quảng Đức",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 131.48,
+    "population": 11682,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quảng Thành",
+    "longitude": 107.71,
+    "latitude": 21.5489,
+    "previous": [
+      "Xã Quảng Thành",
+      "Xã Quảng Thịnh",
+      "Xã Quảng Đức"
+    ],
+    "treeCode": "0730.0770"
+  },
+  {
+    "id": 771,
+    "communeCode": 2030,
+    "name": "Quảng Hà",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 134.37,
+    "population": 40988,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị trấn Quảng Hà",
+    "longitude": 107.734,
+    "latitude": 21.4174,
+    "previous": [
+      "Thị trấn Quảng Hà",
+      "Xã Quảng Minh",
+      "Xã Quảng Chính",
+      "Xã Quảng Phong",
+      "Xã Quảng Long"
+    ],
+    "treeCode": "0730.0771"
+  },
+  {
+    "id": 772,
+    "communeCode": 2012,
+    "name": "Quang Hanh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 62.63,
+    "population": 5275,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Quang Hanh",
+    "longitude": 107.212,
+    "latitude": 20.9995,
+    "previous": [
+      "Phường Cẩm Thạch",
+      "Phường Cẩm Thủy",
+      "Phường Quang Hanh"
+    ],
+    "treeCode": "0730.0772"
+  },
+  {
+    "id": 773,
+    "communeCode": 2004,
+    "name": "Quảng La",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 165.67,
+    "population": 9183,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quảng La",
+    "longitude": 106.885,
+    "latitude": 21.1092,
+    "previous": [
+      "Xã Bằng Cả",
+      "Xã Dân Chủ",
+      "Xã Tân Dân",
+      "Xã Quảng La"
+    ],
+    "treeCode": "0730.0773"
+  },
+  {
+    "id": 774,
+    "communeCode": 2032,
+    "name": "Quảng Tân",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 294.18,
+    "population": 31185,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Quảng Tân",
+    "longitude": 107.545,
+    "latitude": 21.4178,
+    "previous": [
+      "Xã Quảng An",
+      "Xã Dực Yên",
+      "Xã Quảng Lâm",
+      "Xã Quảng Tân"
+    ],
+    "treeCode": "0730.0774"
+  },
+  {
+    "id": 775,
+    "communeCode": 2024,
+    "name": "Quảng Yên",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 20.69,
+    "population": 31353,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND thị xã Quảng Yên",
+    "longitude": 106.817,
+    "latitude": 20.9334,
+    "previous": [
+      "Phường Yên Giang",
+      "Phường Quảng Yên",
+      "Xã Tiền An"
+    ],
+    "treeCode": "0730.0775"
+  },
+  {
+    "id": 776,
+    "communeCode": 2008,
+    "name": "Thống Nhất",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 120.1,
+    "population": 71665,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Thống Nhất",
+    "longitude": 107.1,
+    "latitude": 21.0908,
+    "previous": [
+      "Xã Vũ Oai",
+      "Xã Hòa Bình",
+      "Xã Thống Nhất",
+      "Xã Đồng Lâm"
+    ],
+    "treeCode": "0730.0776"
+  },
+  {
+    "id": 777,
+    "communeCode": 2022,
+    "name": "Tiên Yên",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 97.18,
+    "population": 14241,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND huyện Tiên Yên",
+    "longitude": 107.382,
+    "latitude": 21.3701,
+    "previous": [
+      "Thị trấn Tiên Yên",
+      "Xã Phong Dụ",
+      "Xã Tiên Lãng",
+      "Xã Yên Than",
+      "Xã Đại Dực",
+      "Xã Đông Ngũ",
+      "Xã Vô Ngại"
+    ],
+    "treeCode": "0730.0777"
+  },
+  {
+    "id": 778,
+    "communeCode": 2044,
+    "name": "Tuần Châu",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 62.08,
+    "population": 14904,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Đại Yên",
+    "longitude": 106.925,
+    "latitude": 20.9773,
+    "previous": [
+      "Phường Đại Yên",
+      "Phường Tuần Châu",
+      "Phường Hà Khẩu"
+    ],
+    "treeCode": "0730.0778"
+  },
+  {
+    "id": 779,
+    "communeCode": 1999,
+    "name": "Uông Bí",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 49.81,
+    "population": 59866,
+    "administrativeCenter": "Trụ sở Thành ủy, HĐND, UBND thành phố Uông Bí",
+    "longitude": 106.766,
+    "latitude": 21.0249,
+    "previous": [
+      "Phường Quang Trung",
+      "Phường Thanh Sơn",
+      "Phường Yên Thanh",
+      "Phường Trưng Vương"
+    ],
+    "treeCode": "0730.0779"
+  },
+  {
+    "id": 780,
+    "communeCode": 3308,
+    "name": "Vân Đồn",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "đặc khu",
+    "areaKm2": 581.83,
+    "population": 61648,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND, UBND huyện Vân Đồn",
+    "longitude": 107.527,
+    "latitude": 21.149,
+    "previous": [
+      "Thị trấn Cái Rồng",
+      "Xã Bản Sen",
+      "Xã Bình Dân",
+      "Xã Đài Xuyên",
+      "Xã Đoàn Kết",
+      "Xã Đông Xá",
+      "Xã Hạ Long",
+      "Xã Minh Châu",
+      "Xã Ngọc Vừng",
+      "Xã Quan Lạn",
+      "Xã Thắng Lợi",
+      "Xã Vạn Yên"
+    ],
+    "treeCode": "0730.0780"
+  },
+  {
+    "id": 781,
+    "communeCode": 2009,
+    "name": "Vàng Danh",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 93.77,
+    "population": 36864,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Trưng Vương",
+    "longitude": 106.81,
+    "latitude": 21.0869,
+    "previous": [
+      "Phường Bắc Sơn",
+      "Phường Nam Khê",
+      "Phường Vàng Danh",
+      "Phường Trưng Vương"
+    ],
+    "treeCode": "0730.0781"
+  },
+  {
+    "id": 782,
+    "communeCode": 2005,
+    "name": "Việt Hưng",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 41.39,
+    "population": 51787,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND phường Giếng Đáy",
+    "longitude": 106.979,
+    "latitude": 20.9871,
+    "previous": [
+      "Phường Giếng Đáy",
+      "Phường Việt Hưng",
+      "Phường Hà Khẩu"
+    ],
+    "treeCode": "0730.0782"
+  },
+  {
+    "id": 783,
+    "communeCode": -1,
+    "name": "Vĩnh Thực",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "xã",
+    "areaKm2": 0,
+    "population": null,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND xã Vĩnh Thực",
+    "longitude": 107.025,
+    "latitude": 20.9563,
+    "previous": [
+      "Xã Vĩnh Trung",
+      "Xã Vĩnh Thực"
+    ],
+    "treeCode": "0730.0783"
+  },
+  {
+    "id": 784,
+    "communeCode": 2000,
+    "name": "Yên Tử",
+    "provinceCode": 3,
+    "provinceName": "tỉnh Quảng Ninh",
+    "type": "phường",
+    "areaKm2": 113.23,
+    "population": 38932,
+    "administrativeCenter": "Trụ sở Ban Quản lý Di tích và Rừng quốc gia Yên Tử",
+    "longitude": 106.756,
+    "latitude": 21.1161,
+    "previous": [
+      "Phường Phương Đông",
+      "Phường Phương Nam",
+      "Xã Thượng Yên Công"
+    ],
+    "treeCode": "0730.0784"
+  }
+]

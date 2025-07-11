@@ -1,0 +1,1916 @@
+[
+  {
+    "id": 3188,
+    "communeCode": 258,
+    "name": "An Bình",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 18.39,
+    "population": 5015,
+    "administrativeCenter": "UBND phường An Bình",
+    "longitude": 105.7,
+    "latitude": 10.0009,
+    "previous": [
+      "Phường An Bình",
+      "Xã Mỹ Khánh",
+      "Phường Long Tuyền"
+    ],
+    "treeCode": "3187.3188"
+  },
+  {
+    "id": 3189,
+    "communeCode": 85,
+    "name": "An Lạc Thôn",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 84.99,
+    "population": 56248,
+    "administrativeCenter": "UBND thị trấn An Lạc Thôn",
+    "longitude": 105.912,
+    "latitude": 9.87378,
+    "previous": [
+      "Thị trấn An Lạc Thôn",
+      "Xã Xuân Hòa",
+      "Xã Trinh Phú"
+    ],
+    "treeCode": "3187.3189"
+  },
+  {
+    "id": 3190,
+    "communeCode": 297,
+    "name": "An Ninh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 68.81,
+    "population": 40,
+    "administrativeCenter": "UBND xã An Hiệp",
+    "longitude": 105.911,
+    "latitude": 9.63103,
+    "previous": [
+      "Xã An Hiệp",
+      "Xã An Ninh"
+    ],
+    "treeCode": "3187.3190"
+  },
+  {
+    "id": 3191,
+    "communeCode": 299,
+    "name": "An Thạnh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 94.92,
+    "population": 37711,
+    "administrativeCenter": "UBND huyện Cù Lao Dung",
+    "longitude": 106.148,
+    "latitude": 9.68459,
+    "previous": [
+      "Thị trấn Cù Lao Dung",
+      "Xã An Thạnh 1",
+      "Xã An Thạnh Tây",
+      "Xã An Thạnh Đông"
+    ],
+    "treeCode": "3187.3191"
+  },
+  {
+    "id": 3192,
+    "communeCode": 259,
+    "name": "Bình Thủy",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 15.17,
+    "population": 62483,
+    "administrativeCenter": "đang cập nhật",
+    "longitude": 105.752,
+    "latitude": 10.0712,
+    "previous": [
+      "Phường An Thới",
+      "Phường Bình Thủy",
+      "Phường Bùi Hữu Nghĩa (phần còn lại sau khi sáp nhập vào phường Cái Khế)"
+    ],
+    "treeCode": "3187.3192"
+  },
+  {
+    "id": 3193,
+    "communeCode": 249,
+    "name": "Cái Khế",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 10.04,
+    "population": 57688,
+    "administrativeCenter": "UBND phường An Hòa",
+    "longitude": 105.781,
+    "latitude": 10.0517,
+    "previous": [
+      "Phường An Hòa",
+      "Phường Cái Khế",
+      "Phường Bùi Hữu Nghĩa"
+    ],
+    "treeCode": "3187.3193"
+  },
+  {
+    "id": 3194,
+    "communeCode": 262,
+    "name": "Cái Răng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 26.88,
+    "population": 71106,
+    "administrativeCenter": "Quận ủy - UBND quận Cái Răng (cũ)",
+    "longitude": 105.761,
+    "latitude": 9.98744,
+    "previous": [
+      "Phường Lê Bình",
+      "Phường Thường Thạnh",
+      "Phường Ba Láng",
+      "Phường Hưng Thạnh"
+    ],
+    "treeCode": "3187.3194"
+  },
+  {
+    "id": 3195,
+    "communeCode": 278,
+    "name": "Châu Thành",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 47.71,
+    "population": 39104,
+    "administrativeCenter": "UBND huyện Châu Thành",
+    "longitude": 105.841,
+    "latitude": 9.96217,
+    "previous": [
+      "Thị trấn Mái Dầm",
+      "Thị trấn Ngã Sáu",
+      "Xã Đông Phú"
+    ],
+    "treeCode": "3187.3195"
+  },
+  {
+    "id": 3196,
+    "communeCode": 248,
+    "name": "Cờ Đỏ",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 44.6265,
+    "population": null,
+    "administrativeCenter": "Huyện ủy Cờ Đỏ",
+    "longitude": 105.416,
+    "latitude": 10.0678,
+    "previous": [
+      "Thị trấn Cờ Đỏ",
+      "Xã Thới Đông",
+      "Xã Thới Xuân"
+    ],
+    "treeCode": "3187.3196"
+  },
+  {
+    "id": 3197,
+    "communeCode": 300,
+    "name": "Cù Lao Dung",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 150.13,
+    "population": 44937,
+    "administrativeCenter": "UBND xã An Thạnh 3",
+    "longitude": 106.225,
+    "latitude": 9.57508,
+    "previous": [
+      "Xã An Thạnh 2",
+      "Xã Đại Ân 1",
+      "Xã An Thạnh 3",
+      "Xã An Thạnh Nam"
+    ],
+    "treeCode": "3187.3197"
+  },
+  {
+    "id": 3198,
+    "communeCode": 290,
+    "name": "Đại Hải",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 70.52,
+    "population": 43579,
+    "administrativeCenter": "UBND xã Đại Hải",
+    "longitude": 105.881,
+    "latitude": 9.79863,
+    "previous": [
+      "Xã Ba Trinh",
+      "Xã Đại Hải"
+    ],
+    "treeCode": "3187.3198"
+  },
+  {
+    "id": 3199,
+    "communeCode": 301,
+    "name": "Đại Ngãi",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 37.67,
+    "population": 24532,
+    "administrativeCenter": "UBND thị trấn Đại Ngãi",
+    "longitude": 106.08,
+    "latitude": 9.70034,
+    "previous": [
+      "Thị trấn Đại Ngãi",
+      "Xã Long Đức"
+    ],
+    "treeCode": "3187.3199"
+  },
+  {
+    "id": 3200,
+    "communeCode": 64,
+    "name": "Đại Thành",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 53,
+    "population": 34594,
+    "administrativeCenter": "UBND TP Ngã Bảy",
+    "longitude": 105.82,
+    "latitude": 9.84481,
+    "previous": [
+      "Phường Hiệp Lợi",
+      "Xã Tân Thành",
+      "Xã Đại Thành"
+    ],
+    "treeCode": "3187.3200"
+  },
+  {
+    "id": 3201,
+    "communeCode": 252,
+    "name": "Đông Hiệp",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 46.25,
+    "population": 22762,
+    "administrativeCenter": "UBND xã Đông Hiệp",
+    "longitude": 105.503,
+    "latitude": 10.0745,
+    "previous": [
+      "Xã Đông Thắng",
+      "Xã Xuân Thắng",
+      "Xã Đông Hiệp"
+    ],
+    "treeCode": "3187.3201"
+  },
+  {
+    "id": 3202,
+    "communeCode": 61,
+    "name": "Đông Phước",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 40,
+    "population": 40105,
+    "administrativeCenter": "UBND xã Đông Thạnh",
+    "longitude": 105.763,
+    "latitude": 9.93409,
+    "previous": [
+      "Thị trấn Cái Tắc",
+      "Xã Đông Thạnh",
+      "Xã Đông Phước A"
+    ],
+    "treeCode": "3187.3202"
+  },
+  {
+    "id": 3203,
+    "communeCode": 253,
+    "name": "Đông Thuận",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 60.89,
+    "population": 24586,
+    "administrativeCenter": "UBND xã Đông Thuận",
+    "longitude": 105.469,
+    "latitude": 10.0238,
+    "previous": [
+      "Xã Đông Bình",
+      "Xã Đông Thuận"
+    ],
+    "treeCode": "3187.3203"
+  },
+  {
+    "id": 3204,
+    "communeCode": 232,
+    "name": "Gia Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 77.06,
+    "population": 40135,
+    "administrativeCenter": "UBND xã Gia Hòa 2",
+    "longitude": 105.8,
+    "latitude": 9.43175,
+    "previous": [
+      "Xã Thạnh Quới",
+      "Xã Gia Hòa 2"
+    ],
+    "treeCode": "3187.3204"
+  },
+  {
+    "id": 3205,
+    "communeCode": 279,
+    "name": "Hiệp Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 69.25,
+    "population": 33514,
+    "administrativeCenter": "UBND huyện Phụng Hiệp",
+    "longitude": 105.741,
+    "latitude": 9.76771,
+    "previous": [
+      "Thị trấn Cây Dương",
+      "Xã Hiệp Hưng"
+    ],
+    "treeCode": "3187.3205"
+  },
+  {
+    "id": 3206,
+    "communeCode": 291,
+    "name": "Hồ Đắc Kiện",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 72.61,
+    "population": 31322,
+    "administrativeCenter": "UBND xã Hồ Đắc Kiện",
+    "longitude": 105.857,
+    "latitude": 9.7071,
+    "previous": [
+      "Xã Thiện Mỹ",
+      "Xã Hồ Đắc Kiện"
+    ],
+    "treeCode": "3187.3206"
+  },
+  {
+    "id": 3207,
+    "communeCode": 66,
+    "name": "Hòa An",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 61.62,
+    "population": 32937,
+    "administrativeCenter": "UBND thị trấn Kinh Cùng",
+    "longitude": 105.635,
+    "latitude": 9.78092,
+    "previous": [
+      "Thị trấn Kinh Cùng",
+      "Xã Hòa An"
+    ],
+    "treeCode": "3187.3207"
+  },
+  {
+    "id": 3208,
+    "communeCode": 48,
+    "name": "Hỏa Lựu",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 59.7457,
+    "population": null,
+    "administrativeCenter": "UBND xã Hoả Lựu",
+    "longitude": 105.401,
+    "latitude": 9.71728,
+    "previous": [
+      "Xã Tân Tiến",
+      "Xã Hỏa Tiến",
+      "Xã Hỏa Lựu"
+    ],
+    "treeCode": "3187.3208"
+  },
+  {
+    "id": 3209,
+    "communeCode": 312,
+    "name": "Hòa Tú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 67.15,
+    "population": 24499,
+    "administrativeCenter": "UBND huyện Mỹ Xuyên",
+    "longitude": 105.888,
+    "latitude": 9.4164,
+    "previous": [
+      "Xã Hòa Tú 1",
+      "Xã Hòa Tú 2"
+    ],
+    "treeCode": "3187.3209"
+  },
+  {
+    "id": 3210,
+    "communeCode": 263,
+    "name": "Hưng Phú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 40.93,
+    "population": 58543,
+    "administrativeCenter": "UBND quận Cái Răng (mới)",
+    "longitude": 105.803,
+    "latitude": 9.99405,
+    "previous": [
+      "Phường Tân Phú",
+      "Phường Phú Thứ",
+      "Phường Hưng Phú"
+    ],
+    "treeCode": "3187.3210"
+  },
+  {
+    "id": 3211,
+    "communeCode": 84,
+    "name": "Kế Sách",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 61.58,
+    "population": 43332,
+    "administrativeCenter": "UBND huyện Kế Sách",
+    "longitude": 105.944,
+    "latitude": 9.77057,
+    "previous": [
+      "Thị trấn Kế Sách",
+      "Xã Kế An",
+      "Xã Kế Thành"
+    ],
+    "treeCode": "3187.3211"
+  },
+  {
+    "id": 3212,
+    "communeCode": 244,
+    "name": "Khánh Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 130.48,
+    "population": 37634,
+    "administrativeCenter": "UBND phường Khánh Hòa",
+    "longitude": 106.026,
+    "latitude": 9.40992,
+    "previous": [
+      "Phường Khánh Hòa",
+      "Xã Vĩnh Hiệp",
+      "Xã Hòa Đông"
+    ],
+    "treeCode": "3187.3212"
+  },
+  {
+    "id": 3213,
+    "communeCode": 51,
+    "name": "Lai Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 55.37,
+    "population": 29426,
+    "administrativeCenter": "UBND xã Lai Hòa",
+    "longitude": 105.844,
+    "latitude": 9.29803,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3213"
+  },
+  {
+    "id": 3214,
+    "communeCode": 241,
+    "name": "Lâm Tân",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 90.83,
+    "population": 32006,
+    "administrativeCenter": "UBND xã Lâm Tân",
+    "longitude": 105.773,
+    "latitude": 9.50692,
+    "previous": [
+      "Xã Tuân Tức",
+      "Xã Lâm Kiết",
+      "Xã Lâm Tân"
+    ],
+    "treeCode": "3187.3214"
+  },
+  {
+    "id": 3215,
+    "communeCode": 307,
+    "name": "Lịch Hội Thượng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 48.99,
+    "population": 27913,
+    "administrativeCenter": "UBND thị trấn Lịch Hội Thượng",
+    "longitude": 106.148,
+    "latitude": 9.4652,
+    "previous": [
+      "Thị trấn Lịch Hội Thượng",
+      "Xã Lịch Hội Thượng"
+    ],
+    "treeCode": "3187.3215"
+  },
+  {
+    "id": 3216,
+    "communeCode": 306,
+    "name": "Liêu Tú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 83.15,
+    "population": 3137,
+    "administrativeCenter": "UBND xã Liêu Tú",
+    "longitude": 106.1,
+    "latitude": 9.48141,
+    "previous": [
+      "Xã Viên Bình",
+      "Xã Liêu Tú"
+    ],
+    "treeCode": "3187.3216"
+  },
+  {
+    "id": 3217,
+    "communeCode": 285,
+    "name": "Long Bình",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 40.2,
+    "population": 26378,
+    "administrativeCenter": "UBND thị xã Long Mỹ",
+    "longitude": 105.587,
+    "latitude": 9.72868,
+    "previous": [
+      "Phường Bình Thạnh",
+      "Phường Vĩnh Tường",
+      "Xã Long Bình"
+    ],
+    "treeCode": "3187.3217"
+  },
+  {
+    "id": 3218,
+    "communeCode": 293,
+    "name": "Long Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 79.71,
+    "population": 33579,
+    "administrativeCenter": "UBND xã Long Hưng",
+    "longitude": 105.798,
+    "latitude": 9.68836,
+    "previous": [
+      "Xã Hưng Phú",
+      "Xã Long Hưng"
+    ],
+    "treeCode": "3187.3218"
+  },
+  {
+    "id": 3219,
+    "communeCode": 284,
+    "name": "Long Mỹ",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 51.4,
+    "population": 35865,
+    "administrativeCenter": "Thị uỷ Long Mỹ",
+    "longitude": 105.609,
+    "latitude": 9.6862,
+    "previous": [
+      "Phường Thuận An (thị xã Long Mỹ)",
+      "Xã Long Trị",
+      "Xã Long Trị A"
+    ],
+    "treeCode": "3187.3219"
+  },
+  {
+    "id": 3220,
+    "communeCode": 304,
+    "name": "Long Phú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 76.77,
+    "population": 39763,
+    "administrativeCenter": "UBND huyện Long Phú",
+    "longitude": 106.123,
+    "latitude": 9.59559,
+    "previous": [
+      "Thị trấn Long Phú",
+      "Xã Long Phú"
+    ],
+    "treeCode": "3187.3220"
+  },
+  {
+    "id": 3221,
+    "communeCode": 286,
+    "name": "Long Phú 1",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 57.67,
+    "population": 30365,
+    "administrativeCenter": "UBND xã Long Phú",
+    "longitude": 105.639,
+    "latitude": 9.6522,
+    "previous": [
+      "Phường Trà Lồng",
+      "Xã Tân Phú",
+      "Xã Long Phú"
+    ],
+    "treeCode": "3187.3221"
+  },
+  {
+    "id": 3222,
+    "communeCode": 261,
+    "name": "Long Tuyền",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 28.48,
+    "population": 45292,
+    "administrativeCenter": "UBND phường Long Tuyền",
+    "longitude": 105.725,
+    "latitude": 10.0432,
+    "previous": [
+      "Phường Long Hòa",
+      "Phường Long Tuyền (phần còn lại sau khi sáp nhập vào phường An Bình)"
+    ],
+    "treeCode": "3187.3222"
+  },
+  {
+    "id": 3223,
+    "communeCode": 71,
+    "name": "Lương Tâm",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 60.53,
+    "population": 2402,
+    "administrativeCenter": "UBND xã Lương Tâm",
+    "longitude": 105.428,
+    "latitude": 9.62804,
+    "previous": [
+      "Xã Lương Nghĩa",
+      "Xã Lương Tâm"
+    ],
+    "treeCode": "3187.3223"
+  },
+  {
+    "id": 3224,
+    "communeCode": 295,
+    "name": "Mỹ Hương",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 104.74,
+    "population": 51412,
+    "administrativeCenter": "UBND xã Mỹ Hương",
+    "longitude": 105.861,
+    "latitude": 9.5898,
+    "previous": [
+      "Xã Thuận Hưng",
+      "Xã Phú Mỹ",
+      "Xã Mỹ Hương"
+    ],
+    "treeCode": "3187.3224"
+  },
+  {
+    "id": 3225,
+    "communeCode": 298,
+    "name": "Mỹ Phước",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 97.36,
+    "population": 23539,
+    "administrativeCenter": "UBND xã Mỹ Phước",
+    "longitude": 105.721,
+    "latitude": 9.58793,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3225"
+  },
+  {
+    "id": 3226,
+    "communeCode": 239,
+    "name": "Mỹ Quới",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 83.91,
+    "population": 3024,
+    "administrativeCenter": "UBND xã Mỹ Quới",
+    "longitude": 105.58,
+    "latitude": 9.4866,
+    "previous": [
+      "Phường 3 (thị xã Ngã Năm)",
+      "Xã Mỹ Bình",
+      "Xã Mỹ Quới"
+    ],
+    "treeCode": "3187.3226"
+  },
+  {
+    "id": 3227,
+    "communeCode": 296,
+    "name": "Mỹ Tú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 86.63,
+    "population": 38049,
+    "administrativeCenter": "UBND huyện Mỹ Tú",
+    "longitude": 105.792,
+    "latitude": 9.59959,
+    "previous": [
+      "Thị trấn Huỳnh Hữu Nghĩa",
+      "Xã Mỹ Thuận",
+      "Xã Mỹ Tú"
+    ],
+    "treeCode": "3187.3227"
+  },
+  {
+    "id": 3228,
+    "communeCode": 308,
+    "name": "Mỹ Xuyên",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 48.34,
+    "population": 51769,
+    "administrativeCenter": "UBND thị trấn Mỹ Xuyên",
+    "longitude": 105.918,
+    "latitude": 9.54742,
+    "previous": [
+      "Phường 10",
+      "Thị trấn Mỹ Xuyên",
+      "Xã Đại Tâm"
+    ],
+    "treeCode": "3187.3228"
+  },
+  {
+    "id": 3229,
+    "communeCode": 274,
+    "name": "Ngã Bảy",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 25.17,
+    "population": 37861,
+    "administrativeCenter": "UBND xã Ngã Bảy",
+    "longitude": 105.82,
+    "latitude": 9.80178,
+    "previous": [
+      "Phường Lái Hiếu",
+      "Phường Hiệp Thành",
+      "Phường Ngã Bảy"
+    ],
+    "treeCode": "3187.3229"
+  },
+  {
+    "id": 3230,
+    "communeCode": 237,
+    "name": "Ngã Năm",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 95.3,
+    "population": 58588,
+    "administrativeCenter": "UBND thị xã Ngã Năm",
+    "longitude": 105.612,
+    "latitude": 9.58612,
+    "previous": [
+      "Phường 1 (thị xã Ngã Năm)",
+      "Phường 2 (thị xã Ngã Năm)",
+      "Xã Vĩnh Quới"
+    ],
+    "treeCode": "3187.3230"
+  },
+  {
+    "id": 3231,
+    "communeCode": 100,
+    "name": "Ngọc Tố",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 112.53,
+    "population": 47,
+    "administrativeCenter": "UBND xã Ngọc Tố",
+    "longitude": 105.939,
+    "latitude": 9.47663,
+    "previous": [
+      "Xã Tham Đôn",
+      "Xã Ngọc Đông",
+      "Xã Ngọc Tố"
+    ],
+    "treeCode": "3187.3231"
+  },
+  {
+    "id": 3232,
+    "communeCode": 255,
+    "name": "Nhơn Ái",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 38.16,
+    "population": 40707,
+    "administrativeCenter": "UBND xã Nhơn Ái",
+    "longitude": 105.682,
+    "latitude": 9.97745,
+    "previous": [
+      "Xã Nhơn Nghĩa",
+      "Xã Nhơn Ái"
+    ],
+    "treeCode": "3187.3232"
+  },
+  {
+    "id": 3233,
+    "communeCode": 289,
+    "name": "Nhơn Mỹ",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 79.73,
+    "population": 42213,
+    "administrativeCenter": "UBND xã Nhơn Mỹ",
+    "longitude": 106.025,
+    "latitude": 9.7621,
+    "previous": [
+      "Xã An Mỹ",
+      "Xã Song Phụng",
+      "Xã Nhơn Mỹ"
+    ],
+    "treeCode": "3187.3233"
+  },
+  {
+    "id": 3234,
+    "communeCode": 311,
+    "name": "Nhu Gia",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 75.59,
+    "population": 3839,
+    "administrativeCenter": "UBND xã Thạnh Phú",
+    "longitude": 105.855,
+    "latitude": 9.47039,
+    "previous": [
+      "Xã Thạnh Phú",
+      "Xã Gia Hòa 1"
+    ],
+    "treeCode": "3187.3234"
+  },
+  {
+    "id": 3235,
+    "communeCode": 250,
+    "name": "Ninh Kiều",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 5.42,
+    "population": 119547,
+    "administrativeCenter": "UBND quận Ninh Kiều",
+    "longitude": 105.777,
+    "latitude": 10.0331,
+    "previous": [
+      "Phường Tân An",
+      "Phường Thới Bình",
+      "Phường Xuân Khánh"
+    ],
+    "treeCode": "3187.3235"
+  },
+  {
+    "id": 3236,
+    "communeCode": 234,
+    "name": "Ô Môn",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 54.69,
+    "population": 73412,
+    "administrativeCenter": "UBND quận Ô Môn",
+    "longitude": 105.625,
+    "latitude": 10.1245,
+    "previous": [
+      "Phường Châu Văn Liêm",
+      "Phường Thới Hòa",
+      "Phường Thới An",
+      "Xã Thới Thạnh"
+    ],
+    "treeCode": "3187.3236"
+  },
+  {
+    "id": 3237,
+    "communeCode": 254,
+    "name": "Phong Điền",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 45.58,
+    "population": 51949,
+    "administrativeCenter": "Huyện ủy Phong Điền",
+    "longitude": 105.669,
+    "latitude": 10.0279,
+    "previous": [
+      "Thị trấn Phong Điền",
+      "Xã Tân Thới",
+      "Xã Giai Xuân"
+    ],
+    "treeCode": "3187.3237"
+  },
+  {
+    "id": 3238,
+    "communeCode": 287,
+    "name": "Phong Nẫm",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 17.3,
+    "population": 6416,
+    "administrativeCenter": "UBND xã Phong Nẫm",
+    "longitude": 105.953,
+    "latitude": 9.8964,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3238"
+  },
+  {
+    "id": 3239,
+    "communeCode": 60,
+    "name": "Phú Hữu",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 60.54,
+    "population": 41254,
+    "administrativeCenter": "UBND xã Phú Hữu.",
+    "longitude": 105.852,
+    "latitude": 9.90089,
+    "previous": [
+      "Xã Phú Tân",
+      "Xã Đông Phước",
+      "Xã Phú Hữu"
+    ],
+    "treeCode": "3187.3239"
+  },
+  {
+    "id": 3240,
+    "communeCode": 240,
+    "name": "Phú Lộc",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 80.15,
+    "population": 50929,
+    "administrativeCenter": "Huyện ủy Thạnh Trị",
+    "longitude": 105.711,
+    "latitude": 9.43517,
+    "previous": [
+      "Thị trấn Hưng Lợi",
+      "Thị trấn Phú Lộc",
+      "Xã Thạnh Trị"
+    ],
+    "treeCode": "3187.3240"
+  },
+  {
+    "id": 3241,
+    "communeCode": 83,
+    "name": "Phú Lợi",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 26.79,
+    "population": 95516,
+    "administrativeCenter": "UBND TP Sóc Trăng",
+    "longitude": 105.985,
+    "latitude": 9.59174,
+    "previous": [
+      "Phường 1 (thành phố Sóc Trăng)",
+      "Phường 2 (thành phố Sóc Trăng)",
+      "Phường 3 (thành phố Sóc Trăng)",
+      "Phường 4"
+    ],
+    "treeCode": "3187.3241"
+  },
+  {
+    "id": 3242,
+    "communeCode": 292,
+    "name": "Phú Tâm",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 48.88,
+    "population": 33318,
+    "administrativeCenter": "UBND huyện Châu Thành",
+    "longitude": 105.944,
+    "latitude": 9.71385,
+    "previous": [
+      "Thị trấn Châu Thành",
+      "Xã Phú Tâm"
+    ],
+    "treeCode": "3187.3242"
+  },
+  {
+    "id": 3243,
+    "communeCode": 65,
+    "name": "Phụng Hiệp",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 66.78,
+    "population": 33408,
+    "administrativeCenter": "UBND xã Hoà Mỹ",
+    "longitude": 105.684,
+    "latitude": 9.80551,
+    "previous": [
+      "Xã Hòa Mỹ",
+      "Xã Phụng Hiệp"
+    ],
+    "treeCode": "3187.3243"
+  },
+  {
+    "id": 3244,
+    "communeCode": 236,
+    "name": "Phước Thới",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 53.11,
+    "population": 46788,
+    "administrativeCenter": "UBND phường Phước Thới",
+    "longitude": 105.686,
+    "latitude": 10.1078,
+    "previous": [
+      "Phường Trường Lạc",
+      "Phường Phước Thới"
+    ],
+    "treeCode": "3187.3244"
+  },
+  {
+    "id": 3245,
+    "communeCode": 67,
+    "name": "Phương Bình",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 85.87,
+    "population": 33937,
+    "administrativeCenter": "UBND xã Phương Bình",
+    "longitude": 105.688,
+    "latitude": 9.71564,
+    "previous": [
+      "Xã Phương Phú",
+      "Xã Phương Bình"
+    ],
+    "treeCode": "3187.3245"
+  },
+  {
+    "id": 3246,
+    "communeCode": 82,
+    "name": "Sóc Trăng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 41.67,
+    "population": 61253,
+    "administrativeCenter": "UBND phường 6",
+    "longitude": 105.991,
+    "latitude": 9.62716,
+    "previous": [
+      "Phường 5",
+      "Phường 6",
+      "Phường 7",
+      "Phường 8"
+    ],
+    "treeCode": "3187.3246"
+  },
+  {
+    "id": 3247,
+    "communeCode": 309,
+    "name": "Tài Văn",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 68.07,
+    "population": 3449,
+    "administrativeCenter": "UBND xã Tài Văn",
+    "longitude": 106.049,
+    "latitude": 9.54262,
+    "previous": [
+      "Xã Viên An",
+      "Xã Tài Văn"
+    ],
+    "treeCode": "3187.3247"
+  },
+  {
+    "id": 3248,
+    "communeCode": 257,
+    "name": "Tân An",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 8.06,
+    "population": 85997,
+    "administrativeCenter": "UBND phường Hưng Lợi",
+    "longitude": 105.76,
+    "latitude": 10.0258,
+    "previous": [
+      "Phường An Khánh",
+      "Phường Hưng Lợi"
+    ],
+    "treeCode": "3187.3248"
+  },
+  {
+    "id": 3249,
+    "communeCode": 62,
+    "name": "Tân Bình",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 61.85,
+    "population": 38032,
+    "administrativeCenter": "UBND xã Tân Bình",
+    "longitude": 105.646,
+    "latitude": 9.86425,
+    "previous": [
+      "Xã Bình Thành",
+      "Xã Tân Bình"
+    ],
+    "treeCode": "3187.3249"
+  },
+  {
+    "id": 3250,
+    "communeCode": 275,
+    "name": "Tân Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 58.6,
+    "population": 50989,
+    "administrativeCenter": "UBND huyện Châu Thành A",
+    "longitude": 105.617,
+    "latitude": 9.9186,
+    "previous": [
+      "Thị trấn Một Ngàn",
+      "Thị trấn Bảy Ngàn",
+      "Xã Nhơn Nghĩa A",
+      "Xã Tân Hòa"
+    ],
+    "treeCode": "3187.3250"
+  },
+  {
+    "id": 3251,
+    "communeCode": 265,
+    "name": "Tân Lộc",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 33.4,
+    "population": 35621,
+    "administrativeCenter": "UBND phường Tân Lộc",
+    "longitude": 105.571,
+    "latitude": 10.2538,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3251"
+  },
+  {
+    "id": 3252,
+    "communeCode": 238,
+    "name": "Tân Long",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 102.12,
+    "population": 35492,
+    "administrativeCenter": "UBND xã Tân Long",
+    "longitude": 105.669,
+    "latitude": 9.52249,
+    "previous": [
+      "Xã Thạnh Tân",
+      "Xã Long Bình",
+      "Xã Tân Long"
+    ],
+    "treeCode": "3187.3252"
+  },
+  {
+    "id": 3253,
+    "communeCode": 280,
+    "name": "Tân Phước Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 57.77,
+    "population": 25745,
+    "administrativeCenter": "UBND xã Tân Phước Hưng",
+    "longitude": 105.795,
+    "latitude": 9.74639,
+    "previous": [
+      "Thị trấn Búng Tàu",
+      "Xã Tân Phước Hưng"
+    ],
+    "treeCode": "3187.3253"
+  },
+  {
+    "id": 3254,
+    "communeCode": 303,
+    "name": "Tân Thạnh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 70.8,
+    "population": 35806,
+    "administrativeCenter": "UBND xã Tân Thạnh",
+    "longitude": 106.064,
+    "latitude": 9.62301,
+    "previous": [
+      "Xã Tân Hưng",
+      "Xã Châu Khánh",
+      "Xã Tân Thạnh"
+    ],
+    "treeCode": "3187.3254"
+  },
+  {
+    "id": 3255,
+    "communeCode": 268,
+    "name": "Thạnh An",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 85.97,
+    "population": 30682,
+    "administrativeCenter": "UBND thị trấn Thạnh An",
+    "longitude": 105.29,
+    "latitude": 10.1854,
+    "previous": [
+      "Thị trấn Thạnh An",
+      "Xã Thạnh Lợi",
+      "Xã Thạnh Thắng"
+    ],
+    "treeCode": "3187.3255"
+  },
+  {
+    "id": 3256,
+    "communeCode": 63,
+    "name": "Thạnh Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 81.36,
+    "population": 63248,
+    "administrativeCenter": "UBND xã Long Thạnh",
+    "longitude": 105.728,
+    "latitude": 9.87692,
+    "previous": [
+      "Xã Long Thạnh",
+      "Xã Tân Long",
+      "Xã Thạnh Hòa"
+    ],
+    "treeCode": "3187.3256"
+  },
+  {
+    "id": 3257,
+    "communeCode": 272,
+    "name": "Thạnh Phú",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 99.07,
+    "population": 25699,
+    "administrativeCenter": "UBND xã Thạnh Phú",
+    "longitude": 105.405,
+    "latitude": 10.1295,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3257"
+  },
+  {
+    "id": 3258,
+    "communeCode": 271,
+    "name": "Thạnh Quới",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 103.86,
+    "population": 3911,
+    "administrativeCenter": "UBND xã Thạnh Quới",
+    "longitude": 105.348,
+    "latitude": 10.2075,
+    "previous": [
+      "Xã Thạnh Tiến",
+      "Xã Thạnh An",
+      "Xã Thạnh Quới"
+    ],
+    "treeCode": "3187.3258"
+  },
+  {
+    "id": 3259,
+    "communeCode": 310,
+    "name": "Thạnh Thới An",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 87.15,
+    "population": 29019,
+    "administrativeCenter": "UBND xã Thạnh Thới An",
+    "longitude": 106.007,
+    "latitude": 9.48256,
+    "previous": [
+      "Xã Thạnh Thới Thuận",
+      "Xã Thạnh Thới An"
+    ],
+    "treeCode": "3187.3259"
+  },
+  {
+    "id": 3260,
+    "communeCode": 277,
+    "name": "Thạnh Xuân",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 43.95,
+    "population": 41039,
+    "administrativeCenter": "UBND xã Thạnh Xuân",
+    "longitude": 105.696,
+    "latitude": 9.9338,
+    "previous": [
+      "Thị trấn Rạch Gòi",
+      "Xã Tân Phú Thạnh",
+      "Xã Thạnh Xuân"
+    ],
+    "treeCode": "3187.3260"
+  },
+  {
+    "id": 3261,
+    "communeCode": 260,
+    "name": "Thới An Đông",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 25.04,
+    "population": 39401,
+    "administrativeCenter": "UBND phường Thới An Đông",
+    "longitude": 105.701,
+    "latitude": 10.0815,
+    "previous": [
+      "Phường Trà An",
+      "Phường Trà Nóc",
+      "Phường Thới An Đông"
+    ],
+    "treeCode": "3187.3261"
+  },
+  {
+    "id": 3262,
+    "communeCode": 288,
+    "name": "Thới An Hội",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 60.32,
+    "population": 31726,
+    "administrativeCenter": "UBND xã An Lạc Tây",
+    "longitude": 105.979,
+    "latitude": 9.82553,
+    "previous": [
+      "Xã An Lạc Tây",
+      "Xã Thới An Hội"
+    ],
+    "treeCode": "3187.3262"
+  },
+  {
+    "id": 3263,
+    "communeCode": 251,
+    "name": "Thới Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 69.92,
+    "population": 19044,
+    "administrativeCenter": "UBND xã Thới Hưng",
+    "longitude": 105.519,
+    "latitude": 10.124,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3263"
+  },
+  {
+    "id": 3264,
+    "communeCode": 247,
+    "name": "Thới Lai",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 50.78,
+    "population": 36371,
+    "administrativeCenter": "Huyện ủy Thới Lai",
+    "longitude": 105.551,
+    "latitude": 10.0411,
+    "previous": [
+      "Thị trấn Thới Lai",
+      "Xã Thới Tân",
+      "Xã Trường Thắng"
+    ],
+    "treeCode": "3187.3264"
+  },
+  {
+    "id": 3265,
+    "communeCode": 235,
+    "name": "Thới Long",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 54.1,
+    "population": 52979,
+    "administrativeCenter": "UBND phường Long Hưng",
+    "longitude": 105.583,
+    "latitude": 10.1701,
+    "previous": [
+      "Phường Long Hưng",
+      "Phường Tân Hưng",
+      "Phường Thới Long"
+    ],
+    "treeCode": "3187.3265"
+  },
+  {
+    "id": 3266,
+    "communeCode": 264,
+    "name": "Thốt Nốt",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 23.61,
+    "population": 61387,
+    "administrativeCenter": "Quận ủy Thốt Nốt",
+    "longitude": 105.504,
+    "latitude": 10.2917,
+    "previous": [
+      "Phường Thuận An (quận Thốt Nốt)",
+      "Phường Thới Thuận",
+      "Phường Thốt Nốt (phần còn lại sau khi sáp nhập vào phường Thuận Hưng)"
+    ],
+    "treeCode": "3187.3266"
+  },
+  {
+    "id": 3267,
+    "communeCode": 294,
+    "name": "Thuận Hòa",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 45.86,
+    "population": 29846,
+    "administrativeCenter": "UBND xã Phú Tân",
+    "longitude": 105.928,
+    "latitude": 9.68571,
+    "previous": [
+      "Xã Thuận Hòa (huyện Châu Thành)",
+      "Xã Phú Tân"
+    ],
+    "treeCode": "3187.3267"
+  },
+  {
+    "id": 3268,
+    "communeCode": 267,
+    "name": "Thuận Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 31.13,
+    "population": 56878,
+    "administrativeCenter": "UBND quận Thốt Nốt",
+    "longitude": 105.562,
+    "latitude": 10.2263,
+    "previous": [
+      "Phường Trung Kiên",
+      "Phường Thuận Hưng",
+      "Phường Thốt Nốt"
+    ],
+    "treeCode": "3187.3268"
+  },
+  {
+    "id": 3269,
+    "communeCode": 305,
+    "name": "Trần Đề",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 93.92,
+    "population": 52771,
+    "administrativeCenter": "UBND huyện Trần Đề",
+    "longitude": 106.176,
+    "latitude": 9.51405,
+    "previous": [
+      "Thị trấn Trần Đề",
+      "Xã Đại Ân 2",
+      "Xã Trung Bình"
+    ],
+    "treeCode": "3187.3269"
+  },
+  {
+    "id": 3270,
+    "communeCode": 273,
+    "name": "Trung Hưng",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 61.07,
+    "population": 55012,
+    "administrativeCenter": "UBND xã Trung Hưng",
+    "longitude": 105.499,
+    "latitude": 10.1766,
+    "previous": [
+      "Xã Trung Thạnh",
+      "Xã Trung Hưng"
+    ],
+    "treeCode": "3187.3270"
+  },
+  {
+    "id": 3271,
+    "communeCode": 266,
+    "name": "Trung Nhứt",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 30.84,
+    "population": 37469,
+    "administrativeCenter": "UBND phường Thạnh Hòa",
+    "longitude": 105.51,
+    "latitude": 10.2336,
+    "previous": [
+      "Phường Thạnh Hòa",
+      "Phường Trung Nhứt",
+      "Xã Trung An"
+    ],
+    "treeCode": "3187.3271"
+  },
+  {
+    "id": 3272,
+    "communeCode": 302,
+    "name": "Trường Khánh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 58.33,
+    "population": 34621,
+    "administrativeCenter": "UBND xã Trường Khánh",
+    "longitude": 106.029,
+    "latitude": 9.68798,
+    "previous": [
+      "Xã Hậu Thạnh",
+      "Xã Phú Hữu",
+      "Xã Trường Khánh"
+    ],
+    "treeCode": "3187.3272"
+  },
+  {
+    "id": 3273,
+    "communeCode": 256,
+    "name": "Trường Long",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 31.01,
+    "population": 24064,
+    "administrativeCenter": "UBND xã Trường Long",
+    "longitude": 105.618,
+    "latitude": 9.98011,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3273"
+  },
+  {
+    "id": 3274,
+    "communeCode": 276,
+    "name": "Trường Long Tây",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 50.59,
+    "population": 25313,
+    "administrativeCenter": "UBND xã Trường Long Tây",
+    "longitude": 105.572,
+    "latitude": 9.94336,
+    "previous": [
+      "Xã Trường Long A",
+      "Xã Trường Long Tây"
+    ],
+    "treeCode": "3187.3274"
+  },
+  {
+    "id": 3275,
+    "communeCode": 45,
+    "name": "Trường Thành",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 59.09,
+    "population": 37802,
+    "administrativeCenter": "UBND xã Định Môn",
+    "longitude": 105.61,
+    "latitude": 10.0423,
+    "previous": [
+      "Xã Tân Thạnh",
+      "Xã Định Môn",
+      "Xã Trường Thành"
+    ],
+    "treeCode": "3187.3275"
+  },
+  {
+    "id": 3276,
+    "communeCode": 44,
+    "name": "Trường Xuân",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 67.94,
+    "population": 36405,
+    "administrativeCenter": "UBND xã Trường Xuân",
+    "longitude": 105.525,
+    "latitude": 9.97916,
+    "previous": [
+      "Xã Trường Xuân A",
+      "Xã Trường Xuân B",
+      "Xã Trường Xuân"
+    ],
+    "treeCode": "3187.3276"
+  },
+  {
+    "id": 3277,
+    "communeCode": 47,
+    "name": "Vị Tân",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 37.07,
+    "population": 36079,
+    "administrativeCenter": "UBND xã Vị Tân",
+    "longitude": 105.454,
+    "latitude": 9.79155,
+    "previous": [
+      "Phường IV",
+      "Phường V",
+      "Xã Vị Tân"
+    ],
+    "treeCode": "3187.3277"
+  },
+  {
+    "id": 3278,
+    "communeCode": 46,
+    "name": "Vị Thanh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 22.11,
+    "population": 32766,
+    "administrativeCenter": "UBND TP Vị Thanh",
+    "longitude": 105.47,
+    "latitude": 9.76382,
+    "previous": [
+      "Phường I",
+      "Phường III",
+      "Phường VII"
+    ],
+    "treeCode": "3187.3278"
+  },
+  {
+    "id": 3279,
+    "communeCode": 283,
+    "name": "Vị Thanh 1",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 71.12,
+    "population": 42766,
+    "administrativeCenter": "UBND xã Vị Thanh",
+    "longitude": 105.559,
+    "latitude": 9.86743,
+    "previous": [
+      "Xã Vị Đông",
+      "Xã Vị Bình",
+      "Xã Vị Thanh"
+    ],
+    "treeCode": "3187.3279"
+  },
+  {
+    "id": 3280,
+    "communeCode": 281,
+    "name": "Vị Thủy",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 49.84,
+    "population": 32394,
+    "administrativeCenter": "UBND huyện Vị Thủy",
+    "longitude": 105.536,
+    "latitude": 9.76016,
+    "previous": [
+      "Thị trấn Nàng Mau",
+      "Xã Vị Thắng",
+      "Xã Vị Trung"
+    ],
+    "treeCode": "3187.3280"
+  },
+  {
+    "id": 3281,
+    "communeCode": 243,
+    "name": "Vĩnh Châu",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 98.26,
+    "population": 68437,
+    "administrativeCenter": "UBND thị xã Vĩnh Châu",
+    "longitude": 106.034,
+    "latitude": 9.34799,
+    "previous": [
+      "Phường 1 (thị xã Vĩnh Châu)",
+      "Phường 2 (thị xã Vĩnh Châu)",
+      "Xã Lạc Hòa"
+    ],
+    "treeCode": "3187.3281"
+  },
+  {
+    "id": 3282,
+    "communeCode": 49,
+    "name": "Vĩnh Hải",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 83.75,
+    "population": 2782,
+    "administrativeCenter": "UBND xã Vĩnh Hải",
+    "longitude": 106.134,
+    "latitude": 9.37338,
+    "previous": [
+      "Không sáp nhập"
+    ],
+    "treeCode": "3187.3282"
+  },
+  {
+    "id": 3283,
+    "communeCode": 242,
+    "name": "Vĩnh Lợi",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 31.98,
+    "population": 17236,
+    "administrativeCenter": "UBND xã Vĩnh Lợi",
+    "longitude": 105.643,
+    "latitude": 9.4381,
+    "previous": [
+      "Xã Châu Hưng",
+      "Xã Vĩnh Thành",
+      "Xã Vĩnh Lợi"
+    ],
+    "treeCode": "3187.3283"
+  },
+  {
+    "id": 3284,
+    "communeCode": 50,
+    "name": "Vĩnh Phước",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "phường",
+    "areaKm2": 103.15,
+    "population": 51897,
+    "administrativeCenter": "UBND phường Vĩnh Phước",
+    "longitude": 105.912,
+    "latitude": 9.32011,
+    "previous": [
+      "Phường Vĩnh Phước",
+      "Xã Vĩnh Tân"
+    ],
+    "treeCode": "3187.3284"
+  },
+  {
+    "id": 3285,
+    "communeCode": 269,
+    "name": "Vĩnh Thạnh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 65.9,
+    "population": 30522,
+    "administrativeCenter": "UBND huyện Vĩnh Thạnh",
+    "longitude": 105.43,
+    "latitude": 10.2179,
+    "previous": [
+      "Thị trấn Vĩnh Thạnh",
+      "Xã Thạnh Lộc",
+      "Xã Thạnh Mỹ"
+    ],
+    "treeCode": "3187.3285"
+  },
+  {
+    "id": 3286,
+    "communeCode": 70,
+    "name": "Vĩnh Thuận Đông",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 72.2,
+    "population": 39808,
+    "administrativeCenter": "UBND xã Vĩnh Thuận Tây",
+    "longitude": 105.503,
+    "latitude": 9.71711,
+    "previous": [
+      "Xã Vĩnh Thuận Tây",
+      "Xã Vị Thủy",
+      "Xã Vĩnh Thuận Đông"
+    ],
+    "treeCode": "3187.3286"
+  },
+  {
+    "id": 3287,
+    "communeCode": 270,
+    "name": "Vĩnh Trinh",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 51.01,
+    "population": 27026,
+    "administrativeCenter": "UBND xã Vĩnh Trinh",
+    "longitude": 105.464,
+    "latitude": 10.2688,
+    "previous": [
+      "Xã Vĩnh Bình",
+      "Xã Vĩnh Trinh"
+    ],
+    "treeCode": "3187.3287"
+  },
+  {
+    "id": 3288,
+    "communeCode": 282,
+    "name": "Vĩnh Tường",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 67.01,
+    "population": 31676,
+    "administrativeCenter": "UBND xã Vĩnh Tường",
+    "longitude": 105.577,
+    "latitude": 9.81249,
+    "previous": [
+      "Xã Vĩnh Trung",
+      "Xã Vĩnh Tường"
+    ],
+    "treeCode": "3187.3288"
+  },
+  {
+    "id": 3289,
+    "communeCode": 80,
+    "name": "Vĩnh Viễn",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 68.86,
+    "population": 24432,
+    "administrativeCenter": "UBND huyện Long Mỹ",
+    "longitude": 105.432,
+    "latitude": 9.67488,
+    "previous": [
+      "Thị trấn Vĩnh Viễn",
+      "Xã Vĩnh Viễn A"
+    ],
+    "treeCode": "3187.3289"
+  },
+  {
+    "id": 3290,
+    "communeCode": 79,
+    "name": "Xà Phiên",
+    "provinceCode": 33,
+    "provinceName": "thành phố Cần Thơ",
+    "type": "xã",
+    "areaKm2": 100.48,
+    "population": 46156,
+    "administrativeCenter": "UBND xã Xà Phiên",
+    "longitude": 105.527,
+    "latitude": 9.6319,
+    "previous": [
+      "Xã Thuận Hòa (huyện Long Mỹ)",
+      "Xã Thuận Hưng",
+      "Xã Xà Phiên"
+    ],
+    "treeCode": "3187.3290"
+  }
+]

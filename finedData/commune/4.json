@@ -1,0 +1,2277 @@
+[
+  {
+    "id": 1035,
+    "communeCode": 849,
+    "name": "Ái Quốc",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 17.6,
+    "population": 24736,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND Ái Quốc hiện tại",
+    "longitude": 106.383,
+    "latitude": 20.9433,
+    "previous": [
+      "Phường Ái Quốc",
+      "Xã Quyết Thắng",
+      "Xã Hồng Lạc"
+    ],
+    "treeCode": "1034.1035"
+  },
+  {
+    "id": 1036,
+    "communeCode": 1066,
+    "name": "An Biên",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 6.56,
+    "population": 116091,
+    "administrativeCenter": "Trụ sở của Đảng ủy – HĐND – UBND Vĩnh Niệm tại số 387 Thiên Lôi",
+    "longitude": 106.677,
+    "latitude": 20.8256,
+    "previous": [
+      "Phường An Dương",
+      "Phường An Biên",
+      "Phường Trần Nguyên Hãn",
+      "Phường Vĩnh Niệm"
+    ],
+    "treeCode": "1034.1036"
+  },
+  {
+    "id": 1037,
+    "communeCode": 1047,
+    "name": "An Dương",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 31.23,
+    "population": 76879,
+    "administrativeCenter": "Trung tâm hành chính – chính trị quận An Dương tại số 15 đường 351",
+    "longitude": 106.596,
+    "latitude": 20.8615,
+    "previous": [
+      "Phường Nam Sơn (quận An Dương)",
+      "Phường An Hải",
+      "Phường Lê Lợi",
+      "Phường Đồng Thái",
+      "Phường Tân Tiến",
+      "Phường An Hưng"
+    ],
+    "treeCode": "1034.1037"
+  },
+  {
+    "id": 1038,
+    "communeCode": 1092,
+    "name": "An Hải",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 20.2838,
+    "population": null,
+    "administrativeCenter": "Trụ sở cũ của UBND phường Đồng Thái, tổ dân phố Bạch Mai",
+    "longitude": 106.634,
+    "latitude": 20.8441,
+    "previous": [
+      "Phường An Đồng",
+      "Phường Hồng Thái",
+      "Phường Lê Lợi",
+      "Phường An Hải",
+      "Phường Đồng Thái"
+    ],
+    "treeCode": "1034.1038"
+  },
+  {
+    "id": 1039,
+    "communeCode": 988,
+    "name": "An Hưng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 20.23,
+    "population": 25535,
+    "administrativeCenter": "Trụ sở cũ của UBND An Thọ, thôn Trần Thành, An Thọ, huyện An Lão",
+    "longitude": 106.593,
+    "latitude": 20.7436,
+    "previous": [
+      "Xã An Thái",
+      "Xã An Thọ",
+      "Xã Chiến Thắng"
+    ],
+    "treeCode": "1034.1039"
+  },
+  {
+    "id": 1040,
+    "communeCode": 997,
+    "name": "An Khánh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 45.09,
+    "population": 20104,
+    "administrativeCenter": "Trụ sở cũ của UBND Mỹ Đức, thôn Tân Nam, Mỹ Đức",
+    "longitude": 106.599,
+    "latitude": 20.7756,
+    "previous": [
+      "Xã Tân Viên",
+      "Xã Mỹ Đức",
+      "Xã Thái Sơn"
+    ],
+    "treeCode": "1034.1040"
+  },
+  {
+    "id": 1041,
+    "communeCode": 1001,
+    "name": "An Lão",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 103.87,
+    "population": 10703,
+    "administrativeCenter": "Trụ sở UBND huyện An Lão, số 17 đường Nguyễn Văn Trỗi, thị trấn An Lão",
+    "longitude": 106.575,
+    "latitude": 20.8159,
+    "previous": [
+      "Thị trấn An Lão",
+      "Xã An Thắng",
+      "Xã Tân Dân",
+      "Xã An Tiến",
+      "Thị trấn Trường Sơn",
+      "Xã Thái Sơn"
+    ],
+    "treeCode": "1034.1041"
+  },
+  {
+    "id": 1042,
+    "communeCode": 918,
+    "name": "An Phong",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 36.3918,
+    "population": null,
+    "administrativeCenter": "Trụ sở cũ của UBND Hồng Phong, tổ dân phố Đình Ngọ",
+    "longitude": 106.565,
+    "latitude": 20.8915,
+    "previous": [
+      "Phường An Hòa",
+      "Phường Hồng Phong",
+      "Phường Đại Bản",
+      "Phường Lê Thiện",
+      "Phường Tân Tiến",
+      "Phường Lê Lợi"
+    ],
+    "treeCode": "1034.1042"
+  },
+  {
+    "id": 1043,
+    "communeCode": 930,
+    "name": "An Phú",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 34.7,
+    "population": 49051,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND An Phú hiện tại",
+    "longitude": 106.374,
+    "latitude": 21.007,
+    "previous": [
+      "Xã An Bình",
+      "Xã An Phú",
+      "Xã Cộng Hòa"
+    ],
+    "treeCode": "1034.1043"
+  },
+  {
+    "id": 1044,
+    "communeCode": 998,
+    "name": "An Quang",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 21.4,
+    "population": 29091,
+    "administrativeCenter": "Trụ sở cũ của UBND Quang Trung, thôn Câu Hạ A, Quang Trung",
+    "longitude": 106.527,
+    "latitude": 20.8117,
+    "previous": [
+      "Xã Quốc Tuấn",
+      "Xã Quang Trung (huyện An Lão)",
+      "Xã Quang Hưng"
+    ],
+    "treeCode": "1034.1044"
+  },
+  {
+    "id": 1045,
+    "communeCode": 921,
+    "name": "An Thành",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 23.66,
+    "population": 28785,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Kim Đính",
+    "longitude": 106.502,
+    "latitude": 20.9292,
+    "previous": [
+      "Xã Ngũ Phúc (huyện Kim Thành)",
+      "Xã Kim Tân",
+      "Xã Kim Đính"
+    ],
+    "treeCode": "1034.1045"
+  },
+  {
+    "id": 1046,
+    "communeCode": 916,
+    "name": "An Trường",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 72.61,
+    "population": 45505,
+    "administrativeCenter": "Trụ sở cũ của UBND Trường Thọ, thôn Ngọc Chử 2, Trường Thọ",
+    "longitude": 106.529,
+    "latitude": 20.8404,
+    "previous": [
+      "Xã Bát Trang",
+      "Xã Trường Thọ",
+      "Xã Trường Thành"
+    ],
+    "treeCode": "1034.1046"
+  },
+  {
+    "id": 1047,
+    "communeCode": 879,
+    "name": "Bắc An Phụ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 26.1,
+    "population": 2278,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Bạch Đằng",
+    "longitude": 106.461,
+    "latitude": 21.0505,
+    "previous": [
+      "Phường Thất Hùng",
+      "Xã Bạch Đằng (thị xã Kinh Môn)",
+      "Xã Lê Ninh",
+      "Phường Văn Đức"
+    ],
+    "treeCode": "1034.1047"
+  },
+  {
+    "id": 1048,
+    "communeCode": 980,
+    "name": "Bắc Thanh Miện",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 25.27,
+    "population": 27227,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hồng Quang",
+    "longitude": 106.205,
+    "latitude": 20.7974,
+    "previous": [
+      "Xã Hồng Quang",
+      "Xã Lam Sơn",
+      "Xã Lê Hồng"
+    ],
+    "treeCode": "1034.1048"
+  },
+  {
+    "id": 1049,
+    "communeCode": 1049,
+    "name": "Bạch Đằng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 53.49,
+    "population": 51633,
+    "administrativeCenter": "Trụ sở cũ của UBND Minh Đức",
+    "longitude": 106.725,
+    "latitude": 20.9698,
+    "previous": [
+      "Phường Minh Đức",
+      "Xã Bạch Đằng (thành phố Thủy Nguyên)",
+      "Phường Phạm Ngũ Lão"
+    ],
+    "treeCode": "1034.1049"
+  },
+  {
+    "id": 1050,
+    "communeCode": 3309,
+    "name": "Bạch Long Vĩ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "đặc khu",
+    "areaKm2": 3.07,
+    "population": 687,
+    "administrativeCenter": "Trụ sở huyện Bạch Long Vĩ hiện trạng",
+    "longitude": 107.7307,
+    "latitude": 20.1346,
+    "previous": [
+      "Huyện Bạch Long Vĩ"
+    ],
+    "treeCode": "1034.1050"
+  },
+  {
+    "id": 1051,
+    "communeCode": 957,
+    "name": "Bình Giang",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 163.7,
+    "population": 18257,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Việt",
+    "longitude": 106.222,
+    "latitude": 20.884,
+    "previous": [
+      "Xã Tân Việt (huyện Bình Giang)",
+      "Xã Long Xuyên",
+      "Xã Hồng Khê",
+      "Xã Cổ Bì",
+      "Xã Vĩnh Hồng"
+    ],
+    "treeCode": "1034.1051"
+  },
+  {
+    "id": 1052,
+    "communeCode": 955,
+    "name": "Cẩm Giang",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 26.64,
+    "population": 34523,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND thị trấn Cẩm Giang",
+    "longitude": 106.21,
+    "latitude": 20.9687,
+    "previous": [
+      "Thị trấn Cẩm Giang",
+      "Xã Định Sơn",
+      "Xã Cẩm Hoàng"
+    ],
+    "treeCode": "1034.1052"
+  },
+  {
+    "id": 1053,
+    "communeCode": 960,
+    "name": "Cẩm Giàng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 110.79,
+    "population": 11342,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Ngọc Liên",
+    "longitude": 106.157,
+    "latitude": 20.9631,
+    "previous": [
+      "Xã Lương Điền",
+      "Xã Ngọc Liên",
+      "Xã Cẩm Hưng",
+      "Xã Phúc Điền"
+    ],
+    "treeCode": "1034.1053"
+  },
+  {
+    "id": 1054,
+    "communeCode": 857,
+    "name": "Cát Hải",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "đặc khu",
+    "areaKm2": 286.98,
+    "population": 71211,
+    "administrativeCenter": "Trụ sở UBND huyện Cát Hải, đường Hà Sen, thị trấn Cát Bà và trụ sở UBND thị trấn Cát Hải",
+    "longitude": 106.869,
+    "latitude": 20.8087,
+    "previous": [
+      "Thị trấn Cát Hải",
+      "Thị trấn Cát Bà",
+      "Xã Đồng Bài",
+      "Xã Hoàng Châu",
+      "Xã Nghĩa Lộ",
+      "Xã Văn Phong",
+      "Xã Gia Luận",
+      "Xã Hiền Hào",
+      "Xã Phù Long",
+      "Xã Trân Châu",
+      "Xã Việt Hải",
+      "Xã Xuân Đám"
+    ],
+    "treeCode": "1034.1054"
+  },
+  {
+    "id": 1055,
+    "communeCode": 1024,
+    "name": "Chấn Hưng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 32.11,
+    "population": 26092,
+    "administrativeCenter": "Trụ sở cũ của UBND Nam Hưng",
+    "longitude": 106.635,
+    "latitude": 20.646,
+    "previous": [
+      "Xã Nam Hưng (huyện Tiên Lãng)",
+      "Xã Bắc Hưng",
+      "Xã Đông Hưng",
+      "Xã Tây Hưng"
+    ],
+    "treeCode": "1034.1055"
+  },
+  {
+    "id": 1056,
+    "communeCode": 880,
+    "name": "Chí Linh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 26.79,
+    "population": 31983,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Phả Lại",
+    "longitude": 106.319,
+    "latitude": 21.1031,
+    "previous": [
+      "Phường Phả Lại",
+      "Phường Cổ Thành",
+      "Xã Nhân Huệ"
+    ],
+    "treeCode": "1034.1056"
+  },
+  {
+    "id": 1057,
+    "communeCode": 909,
+    "name": "Chí Minh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 20.73,
+    "population": 35259,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Văn Tố",
+    "longitude": 106.462,
+    "latitude": 20.8078,
+    "previous": [
+      "Xã An Thanh",
+      "Xã Văn Tố",
+      "Xã Chí Minh"
+    ],
+    "treeCode": "1034.1057"
+  },
+  {
+    "id": 1058,
+    "communeCode": 881,
+    "name": "Chu Văn An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 40.86,
+    "population": 56251,
+    "administrativeCenter": "Trụ sở cũ của Thành ủy, HĐND, UBND TP Chí Linh",
+    "longitude": 106.374,
+    "latitude": 21.0949,
+    "previous": [
+      "Phường Sao Đỏ",
+      "Phường Văn An",
+      "Phường Chí Minh",
+      "Phường Thái Học",
+      "Phường Cộng Hòa",
+      "Phường Văn Đức"
+    ],
+    "treeCode": "1034.1058"
+  },
+  {
+    "id": 1059,
+    "communeCode": 923,
+    "name": "Đại Sơn",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 22.99,
+    "population": 30616,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hưng Đạo",
+    "longitude": 106.378,
+    "latitude": 20.8723,
+    "previous": [
+      "Xã Bình Lãng",
+      "Xã Đại Sơn",
+      "Xã Thanh Hải",
+      "Xã Hưng Đạo (huyện Tứ Kỳ)"
+    ],
+    "treeCode": "1034.1059"
+  },
+  {
+    "id": 1060,
+    "communeCode": 856,
+    "name": "Đồ Sơn",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 25.54,
+    "population": 36494,
+    "administrativeCenter": "Trụ sở cũ của UBND quận Đồ Sơn, số 195 Lý Thánh Tông",
+    "longitude": 106.778,
+    "latitude": 20.7133,
+    "previous": [
+      "Phường Hải Sơn",
+      "Phường Tân Thành",
+      "Phường Vạn Hương",
+      "Phường Ngọc Xuyên"
+    ],
+    "treeCode": "1034.1060"
+  },
+  {
+    "id": 1061,
+    "communeCode": 751,
+    "name": "Đông Hải",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 11,
+    "population": 54615,
+    "administrativeCenter": "– Số 40 đường Nam Phong (trụ sở cơ quan Đảng)\n– Số 433 đường Đông Hải (trụ sở HĐND, UBND, Trung tâm Phục vụ Hành chính công)",
+    "longitude": 106.773,
+    "latitude": 20.821,
+    "previous": [
+      "Phường Đông Hải 1",
+      "Phường Đông Hải 2",
+      "Phường Nam Hải"
+    ],
+    "treeCode": "1034.1061"
+  },
+  {
+    "id": 1062,
+    "communeCode": 956,
+    "name": "Đường An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 25.53,
+    "population": 34341,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Hồng",
+    "longitude": 106.171,
+    "latitude": 20.8725,
+    "previous": [
+      "Xã Thúc Kháng",
+      "Xã Thái Minh",
+      "Xã Tân Hồng",
+      "Xã Thái Dương",
+      "Xã Thái Hòa"
+    ],
+    "treeCode": "1034.1062"
+  },
+  {
+    "id": 1063,
+    "communeCode": 851,
+    "name": "Dương Kinh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 26.419,
+    "population": null,
+    "administrativeCenter": "Trụ sở cũ của UBND Hải Thành, số 869 đường Phạm Văn Đồng",
+    "longitude": 106.718,
+    "latitude": 20.7735,
+    "previous": [
+      "Phường Hòa Nghĩa",
+      "Phường Tân Thành",
+      "Phường Anh Dũng",
+      "Phường Hải Thành"
+    ],
+    "treeCode": "1034.1063"
+  },
+  {
+    "id": 1064,
+    "communeCode": 941,
+    "name": "Gia Lộc",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 31.7995,
+    "population": null,
+    "administrativeCenter": "Trụ sở Huyện ủy, HĐND, UBND huyện Gia Lộc hiện tại",
+    "longitude": 106.291,
+    "latitude": 20.8345,
+    "previous": [
+      "Xã Gia Tiến",
+      "Thị trấn Gia Lộc",
+      "Xã Gia Phúc",
+      "Xã Yết Kiêu",
+      "Xã Lê Lợi (huyện Gia Lộc)"
+    ],
+    "treeCode": "1034.1064"
+  },
+  {
+    "id": 1065,
+    "communeCode": 948,
+    "name": "Gia Phúc",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 21.78,
+    "population": 46735,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hồng Hưng",
+    "longitude": 106.311,
+    "latitude": 20.8713,
+    "previous": [
+      "Xã Toàn Thắng",
+      "Xã Hoàng Diệu",
+      "Xã Hồng Hưng",
+      "Xã Thống Kênh",
+      "Xã Đoàn Thượng",
+      "Xã Quang Đức",
+      "Thị trấn Gia Lộc",
+      "Xã Gia Phúc"
+    ],
+    "treeCode": "1034.1065"
+  },
+  {
+    "id": 1066,
+    "communeCode": 1061,
+    "name": "Gia Viên",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 5.01,
+    "population": 102246,
+    "administrativeCenter": "– 212 Lê Lợi (trụ sở cơ quan Đảng)\n– Trụ sở của UBND Đằng Giang cũ tại số 1/126 An Đà (trụ sở HĐND-UBND)\n– 201 Lạch Tray (Trung tâm phục vụ Hành chính công)",
+    "longitude": 106.697,
+    "latitude": 20.8476,
+    "previous": [
+      "Phường Đằng Giang",
+      "Phường Cầu Đất",
+      "Phường Lạch Tray",
+      "Phường Gia Viên",
+      "Phường Đông Khê"
+    ],
+    "treeCode": "1034.1066"
+  },
+  {
+    "id": 1067,
+    "communeCode": 915,
+    "name": "Hà Bắc",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 26.29,
+    "population": 36429,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Cẩm Việt",
+    "longitude": 106.414,
+    "latitude": 20.942,
+    "previous": [
+      "Xã Tân Việt (huyện Thanh Hà)",
+      "Xã Cẩm Việt",
+      "Xã Hồng Lạc"
+    ],
+    "treeCode": "1034.1067"
+  },
+  {
+    "id": 1068,
+    "communeCode": 850,
+    "name": "Hà Đông",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 33.15,
+    "population": 33499,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Thanh Quang",
+    "longitude": 106.473,
+    "latitude": 20.8357,
+    "previous": [
+      "Xã Thanh Hồng",
+      "Xã Vĩnh Cường",
+      "Xã Thanh Quang"
+    ],
+    "treeCode": "1034.1068"
+  },
+  {
+    "id": 1069,
+    "communeCode": 920,
+    "name": "Hà Nam",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 27.78,
+    "population": 278,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Liên Mạc",
+    "longitude": 106.463,
+    "latitude": 20.921,
+    "previous": [
+      "Xã Thanh Xuân",
+      "Xã Liên Mạc",
+      "Xã Thanh Lang",
+      "Xã Thanh An",
+      "Xã Hòa Bình"
+    ],
+    "treeCode": "1034.1069"
+  },
+  {
+    "id": 1070,
+    "communeCode": 924,
+    "name": "Hà Tây",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.41,
+    "population": 34187,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Thanh Hải",
+    "longitude": 106.406,
+    "latitude": 20.882,
+    "previous": [
+      "Xã Tân An",
+      "Xã An Phượng",
+      "Xã Thanh Hải"
+    ],
+    "treeCode": "1034.1070"
+  },
+  {
+    "id": 1071,
+    "communeCode": 834,
+    "name": "Hải An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 39.99,
+    "population": 102648,
+    "administrativeCenter": "Số 10/15A Lê Hồng Phong (trụ sở Sở Tài chính)",
+    "longitude": 106.737,
+    "latitude": 20.8093,
+    "previous": [
+      "Phường Cát Bi",
+      "Phường Đằng Lâm",
+      "Phường Thành Tô",
+      "Phường Đằng Hải",
+      "Phường Tràng Cát",
+      "Phường Nam Hải",
+      "Phường Đông Hải 2"
+    ],
+    "treeCode": "1034.1071"
+  },
+  {
+    "id": 1072,
+    "communeCode": 938,
+    "name": "Hải Dương",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 6.51,
+    "population": 51522,
+    "administrativeCenter": "Trụ sở HĐND, UBND TP Hải Dương hiện tại",
+    "longitude": 106.344,
+    "latitude": 20.941,
+    "previous": [
+      "Phường Trần Hưng Đạo (thành phố Hải Dương)",
+      "Phường Nhị Châu",
+      "Phường Ngọc Châu",
+      "Phường Quang Trung"
+    ],
+    "treeCode": "1034.1072"
+  },
+  {
+    "id": 1073,
+    "communeCode": 981,
+    "name": "Hải Hưng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 39.89,
+    "population": 64918,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Trào",
+    "longitude": 106.163,
+    "latitude": 20.8038,
+    "previous": [
+      "Xã Tân Trào (huyện Thanh Miện)",
+      "Xã Ngô Quyền",
+      "Xã Đoàn Kết"
+    ],
+    "treeCode": "1034.1073"
+  },
+  {
+    "id": 1074,
+    "communeCode": 1050,
+    "name": "Hòa Bình",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 0.98,
+    "population": 69318,
+    "administrativeCenter": "Trụ sở cũ của UBND An Lư",
+    "longitude": 106.694,
+    "latitude": 20.9383,
+    "previous": [
+      "Phường Hòa Bình",
+      "Phường An Lư",
+      "Phường Thủy Hà"
+    ],
+    "treeCode": "1034.1074"
+  },
+  {
+    "id": 1075,
+    "communeCode": 1082,
+    "name": "Hồng An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 27.64,
+    "population": 64771,
+    "administrativeCenter": "Trụ sở UBND phường An Hồng (tổ dân phố Lê Lác 2)",
+    "longitude": 106.599,
+    "latitude": 20.9073,
+    "previous": [
+      "Phường Quán Toan",
+      "Phường An Hồng",
+      "Phường An Hưng",
+      "Phường Đại Bản",
+      "Phường Lê Thiện",
+      "Phường Tân Tiến"
+    ],
+    "treeCode": "1034.1075"
+  },
+  {
+    "id": 1076,
+    "communeCode": 1052,
+    "name": "Hồng Bàng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 12.11,
+    "population": 1132,
+    "administrativeCenter": "-Số 1 Đinh Tiên Hoàng (trụ sở Sở Tài chính)\n-Bộ phận một cửa ở số 203 đường Bạch Đằng",
+    "longitude": 106.656,
+    "latitude": 20.8712,
+    "previous": [
+      "Phường Hoàng Văn Thụ",
+      "Phường Minh Khai",
+      "Phường Phan Bội Châu",
+      "Phường Thượng Lý",
+      "Phường Sở Dầu",
+      "Phường Hùng Vương",
+      "Phường Gia Viên"
+    ],
+    "treeCode": "1034.1076"
+  },
+  {
+    "id": 1077,
+    "communeCode": 972,
+    "name": "Hồng Châu",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 29.59,
+    "population": 32742,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Văn Hội",
+    "longitude": 106.284,
+    "latitude": 20.7295,
+    "previous": [
+      "Xã Tân Quang",
+      "Xã Văn Hội",
+      "Xã Hưng Long"
+    ],
+    "treeCode": "1034.1077"
+  },
+  {
+    "id": 1078,
+    "communeCode": 884,
+    "name": "Hợp Tiến",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 43.11,
+    "population": 33086,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Hợp Tiến hiện tại",
+    "longitude": 106.338,
+    "latitude": 21.0626,
+    "previous": [
+      "Xã Nam Hưng (huyện Nam Sách)",
+      "Xã Nam Tân",
+      "Xã Hợp Tiến"
+    ],
+    "treeCode": "1034.1078"
+  },
+  {
+    "id": 1079,
+    "communeCode": 799,
+    "name": "Hưng Đạo",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 18.64,
+    "population": 37859,
+    "administrativeCenter": "Trung tâm hành chính quận Dương Kinh, đường Mạc Đăng Doanh",
+    "longitude": 106.683,
+    "latitude": 20.8016,
+    "previous": [
+      "Phường Đa Phúc",
+      "Phường Hưng Đạo",
+      "Phường Anh Dũng",
+      "Phường Hải Thành"
+    ],
+    "treeCode": "1034.1079"
+  },
+  {
+    "id": 1080,
+    "communeCode": 855,
+    "name": "Hùng Thắng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 43.59,
+    "population": 26877,
+    "administrativeCenter": "Trụ sở của UBND Hùng Thắng, thôn Vấn Đông",
+    "longitude": 106.676,
+    "latitude": 20.6621,
+    "previous": [
+      "Xã Hùng Thắng (huyện Tiên Lãng)",
+      "Xã Vinh Quang"
+    ],
+    "treeCode": "1034.1080"
+  },
+  {
+    "id": 1081,
+    "communeCode": 959,
+    "name": "Kẻ Sặt",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.67,
+    "population": 39554,
+    "administrativeCenter": "Trụ sở cũ của Huyện ủy, HĐND, UBND huyện Bình Giang",
+    "longitude": 106.181,
+    "latitude": 20.9062,
+    "previous": [
+      "Xã Vĩnh Hưng",
+      "Xã Hùng Thắng (huyện Bình Giang)",
+      "Thị trấn Kẻ Sặt",
+      "Xã Vĩnh Hồng"
+    ],
+    "treeCode": "1034.1081"
+  },
+  {
+    "id": 1082,
+    "communeCode": 973,
+    "name": "Khúc Thừa Dụ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 28.79,
+    "population": 33784,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hồng Phong",
+    "longitude": 106.336,
+    "latitude": 20.7391,
+    "previous": [
+      "Xã Bình Xuyên",
+      "Xã Hồng Phong (huyện Ninh Giang)",
+      "Xã Kiến Phúc"
+    ],
+    "treeCode": "1034.1082"
+  },
+  {
+    "id": 1083,
+    "communeCode": 1087,
+    "name": "Kiến An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 11.18,
+    "population": 67236,
+    "administrativeCenter": "Trụ sở cũ của Quận ủy, HĐND, UBND quận Kiến An, số 2 Cao Toàn",
+    "longitude": 106.646,
+    "latitude": 20.822,
+    "previous": [
+      "Phường Nam Sơn (quận Kiến An)",
+      "Phường Đồng Hòa",
+      "Phường Bắc Sơn",
+      "Phường Trần Thành Ngọ",
+      "Phường Văn Đẩu"
+    ],
+    "treeCode": "1034.1083"
+  },
+  {
+    "id": 1084,
+    "communeCode": 854,
+    "name": "Kiến Hải",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 31.86,
+    "population": 44862,
+    "administrativeCenter": "Trụ sở cũ của UBND Tú Sơn, thôn 3",
+    "longitude": 106.714,
+    "latitude": 20.7107,
+    "previous": [
+      "Xã Tân Phong",
+      "Xã Đại Hợp (huyện Kiến Thụy)",
+      "Xã Tú Sơn",
+      "Xã Đoàn Xá"
+    ],
+    "treeCode": "1034.1084"
+  },
+  {
+    "id": 1085,
+    "communeCode": 852,
+    "name": "Kiến Hưng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 21.02,
+    "population": 28044,
+    "administrativeCenter": "Trụ sở UBND Kiến Hưng (trụ sở UBND Đại Hà cũ), thôn Cao Bộ",
+    "longitude": 106.671,
+    "latitude": 20.7167,
+    "previous": [
+      "Xã Tân Trào (huyện Kiến Thụy)",
+      "Xã Kiến Hưng",
+      "Xã Đoàn Xá"
+    ],
+    "treeCode": "1034.1085"
+  },
+  {
+    "id": 1086,
+    "communeCode": 1072,
+    "name": "Kiến Minh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 16.32,
+    "population": 26181,
+    "administrativeCenter": "Trụ sở cũ của UBND Minh Tân, thôn Vũ Vị",
+    "longitude": 106.689,
+    "latitude": 20.7682,
+    "previous": [
+      "Xã Minh Tân (huyện Kiến Thụy)",
+      "Xã Đại Đồng",
+      "Xã Đông Phương"
+    ],
+    "treeCode": "1034.1086"
+  },
+  {
+    "id": 1087,
+    "communeCode": 1073,
+    "name": "Kiến Thụy",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 20.18,
+    "population": 3802,
+    "administrativeCenter": "Trụ sở UBND huyện Kiến Thụy, số 8 Mạc Thái Tổ",
+    "longitude": 106.655,
+    "latitude": 20.7589,
+    "previous": [
+      "Thị trấn Núi Đối",
+      "Xã Thanh Sơn (huyện Kiến Thụy)",
+      "Xã Thuận Thiên",
+      "Xã Hữu Bằng",
+      "Xã Kiến Hưng"
+    ],
+    "treeCode": "1034.1087"
+  },
+  {
+    "id": 1088,
+    "communeCode": 885,
+    "name": "Kim Thành",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 33.79,
+    "population": 42915,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Đồng Cẩm",
+    "longitude": 106.514,
+    "latitude": 20.885,
+    "previous": [
+      "Xã Đồng Cẩm",
+      "Xã Tam Kỳ",
+      "Xã Đại Đức",
+      "Xã Hòa Bình"
+    ],
+    "treeCode": "1034.1088"
+  },
+  {
+    "id": 1089,
+    "communeCode": 969,
+    "name": "Kinh Môn",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 11.47,
+    "population": 24948,
+    "administrativeCenter": "Trụ sở của Thị ủy, HĐND, UBND thị Kinh Môn hiện tại",
+    "longitude": 106.543,
+    "latitude": 20.9806,
+    "previous": [
+      "Phường An Lưu",
+      "Phường Hiệp An",
+      "Phường Long Xuyên"
+    ],
+    "treeCode": "1034.1089"
+  },
+  {
+    "id": 1090,
+    "communeCode": 977,
+    "name": "Lạc Phượng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.71,
+    "population": 28613,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Lạc Phượng hiện tại",
+    "longitude": 106.452,
+    "latitude": 20.7763,
+    "previous": [
+      "Xã Quang Trung (huyện Tứ Kỳ)",
+      "Xã Lạc Phượng",
+      "Xã Tiên Động"
+    ],
+    "treeCode": "1034.1090"
+  },
+  {
+    "id": 1091,
+    "communeCode": 917,
+    "name": "Lai Khê",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 30.07,
+    "population": 42875,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Lai Khê hiện tại",
+    "longitude": 106.433,
+    "latitude": 20.978,
+    "previous": [
+      "Xã Lai Khê",
+      "Xã Vũ Dũng",
+      "Xã Tuấn Việt",
+      "Xã Cộng Hoà",
+      "Xã Thanh An",
+      "Xã Cẩm Việt"
+    ],
+    "treeCode": "1034.1091"
+  },
+  {
+    "id": 1092,
+    "communeCode": 824,
+    "name": "Lê Chân",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 5.65,
+    "population": 161051,
+    "administrativeCenter": "Số 10G, 10H, 10A Hồ Sen",
+    "longitude": 106.684,
+    "latitude": 20.8429,
+    "previous": [
+      "Phường Hàng Kênh",
+      "Phường Dư Hàng Kênh",
+      "Phường Kênh Dương",
+      "Phường An Biên",
+      "Phường Trần Nguyên Hãn",
+      "Phường Vĩnh Niệm",
+      "Phường Cầu Đất",
+      "Phường Lạch Tray"
+    ],
+    "treeCode": "1034.1092"
+  },
+  {
+    "id": 1093,
+    "communeCode": 964,
+    "name": "Lê Đại Hành",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 31.62,
+    "population": 24638,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Dân",
+    "longitude": 106.397,
+    "latitude": 21.0518,
+    "previous": [
+      "Phường Tân Dân (thành phố Chí Linh)",
+      "Phường An Lạc",
+      "Phường Đồng Lạc"
+    ],
+    "treeCode": "1034.1093"
+  },
+  {
+    "id": 1094,
+    "communeCode": 1083,
+    "name": "Lê Ích Mộc",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 27.04,
+    "population": 51853,
+    "administrativeCenter": "Trụ sở cũ của UBND Quảng Thanh",
+    "longitude": 106.616,
+    "latitude": 20.9523,
+    "previous": [
+      "Phường Quảng Thanh",
+      "Phường Lê Hồng Phong",
+      "Xã Quang Trung (thành phố Thủy Nguyên)"
+    ],
+    "treeCode": "1034.1094"
+  },
+  {
+    "id": 1095,
+    "communeCode": 933,
+    "name": "Lê Thanh Nghị",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 8.04,
+    "population": 815,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Bình",
+    "longitude": 106.312,
+    "latitude": 20.9303,
+    "previous": [
+      "Phường Tân Bình",
+      "Phường Thanh Bình",
+      "Phường Lê Thanh Nghị",
+      "Phường Trần Phú"
+    ],
+    "treeCode": "1034.1095"
+  },
+  {
+    "id": 1096,
+    "communeCode": 1048,
+    "name": "Lưu Kiếm",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 42.17,
+    "population": 49376,
+    "administrativeCenter": "Trụ sở của UBND Lưu Kiếm",
+    "longitude": 106.656,
+    "latitude": 20.979,
+    "previous": [
+      "Phường Trần Hưng Đạo (thành phố Thủy Nguyên)",
+      "Phường Lưu Kiếm",
+      "Xã Liên Xuân",
+      "Xã Quang Trung (thành phố Thủy Nguyên)"
+    ],
+    "treeCode": "1034.1096"
+  },
+  {
+    "id": 1097,
+    "communeCode": 958,
+    "name": "Mao Điền",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.37,
+    "population": 43333,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Trường",
+    "longitude": 106.213,
+    "latitude": 20.9312,
+    "previous": [
+      "Xã Tân Trường",
+      "Xã Cẩm Đông",
+      "Xã Phúc Điền"
+    ],
+    "treeCode": "1034.1097"
+  },
+  {
+    "id": 1098,
+    "communeCode": 929,
+    "name": "Nam An Phụ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 25.9,
+    "population": 27841,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Quang Thành",
+    "longitude": 106.435,
+    "latitude": 21.0153,
+    "previous": [
+      "Xã Quang Thành",
+      "Xã Lạc Long",
+      "Xã Thăng Long",
+      "Xã Tuấn Việt",
+      "Xã Vũ Dũng",
+      "Xã Cộng Hòa"
+    ],
+    "treeCode": "1034.1098"
+  },
+  {
+    "id": 1099,
+    "communeCode": 853,
+    "name": "Nam Đồ Sơn",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 21,
+    "population": 30372,
+    "administrativeCenter": "Trụ sở cũ của UBND Hợp Đức, tổ dân phố Đức Hậu",
+    "longitude": 106.745,
+    "latitude": 20.7251,
+    "previous": [
+      "Phường Minh Đức (quận Đồ Sơn)",
+      "Phường Bàng La",
+      "Phường Hợp Đức",
+      "Phường Vạn Hương",
+      "Phường Ngọc Xuyên"
+    ],
+    "treeCode": "1034.1099"
+  },
+  {
+    "id": 1100,
+    "communeCode": 949,
+    "name": "Nam Đồng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 19.67,
+    "population": 249,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Tiền Tiến",
+    "longitude": 106.355,
+    "latitude": 20.9219,
+    "previous": [
+      "Phường Nam Đồng",
+      "Xã Tiền Tiến"
+    ],
+    "treeCode": "1034.1100"
+  },
+  {
+    "id": 1101,
+    "communeCode": 867,
+    "name": "Nam Sách",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 19.75,
+    "population": 36758,
+    "administrativeCenter": "Trụ sở của Huyện ủy, HĐND, UBND huyện Nam Sách hiện tại",
+    "longitude": 106.354,
+    "latitude": 20.9805,
+    "previous": [
+      "Thị trấn Nam Sách",
+      "Xã Hồng Phong (huyện Nam Sách)",
+      "Xã Đồng Lạc"
+    ],
+    "treeCode": "1034.1101"
+  },
+  {
+    "id": 1102,
+    "communeCode": 971,
+    "name": "Nam Thanh Miện",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 23.99,
+    "population": 3323,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Chi Lăng Nam",
+    "longitude": 106.241,
+    "latitude": 20.7235,
+    "previous": [
+      "Xã Hồng Phong (huyện Thanh Miện)",
+      "Xã Thanh Giang",
+      "Xã Chi Lăng Bắc",
+      "Xã Chi Lăng Nam"
+    ],
+    "treeCode": "1034.1102"
+  },
+  {
+    "id": 1103,
+    "communeCode": 798,
+    "name": "Nam Triệu",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 29.51,
+    "population": 40224,
+    "administrativeCenter": "Trụ sở cũ của UBND Nam Triệu Giang",
+    "longitude": 106.747,
+    "latitude": 20.9136,
+    "previous": [
+      "Phường Nam Triệu Giang",
+      "Phường Lập Lễ",
+      "Phường Tam Hưng"
+    ],
+    "treeCode": "1034.1103"
+  },
+  {
+    "id": 1104,
+    "communeCode": 983,
+    "name": "Nghi Dương",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 19.48,
+    "population": 2566,
+    "administrativeCenter": "Trụ sở cũ của UBND Kiến Quốc, thôn 4",
+    "longitude": 106.63,
+    "latitude": 20.7269,
+    "previous": [
+      "Xã Ngũ Phúc (huyện Kiến Thụy)",
+      "Xã Kiến Quốc",
+      "Xã Du Lễ"
+    ],
+    "treeCode": "1034.1104"
+  },
+  {
+    "id": 1105,
+    "communeCode": 712,
+    "name": "Ngô Quyền",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 5.81,
+    "population": 88595,
+    "administrativeCenter": "226 Lê Lai (trụ sở cơ quan Đảng)\n46 Lê Lai (UBND, Trung tâm phục vụ hành chính công)",
+    "longitude": 106.704,
+    "latitude": 20.866,
+    "previous": [
+      "Phường Máy Chai",
+      "Phường Vạn Mỹ",
+      "Phường Cầu Tre",
+      "Phường Gia Viên",
+      "Phường Đông Khê"
+    ],
+    "treeCode": "1034.1105"
+  },
+  {
+    "id": 1106,
+    "communeCode": 1006,
+    "name": "Nguyễn Bỉnh Khiêm",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 26.37,
+    "population": 24575,
+    "administrativeCenter": "Trụ sở cũ của UBND Trấn Dương",
+    "longitude": 106.563,
+    "latitude": 20.6622,
+    "previous": [
+      "Xã Trấn Dương",
+      "Xã Hòa Bình",
+      "Xã Lý Học"
+    ],
+    "treeCode": "1034.1106"
+  },
+  {
+    "id": 1107,
+    "communeCode": 965,
+    "name": "Nguyễn Đại Năng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 17.4,
+    "population": 29083,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hiến Thành",
+    "longitude": 106.567,
+    "latitude": 20.9579,
+    "previous": [
+      "Phường Thái Thịnh",
+      "Phường Hiến Thành",
+      "Xã Minh Hòa"
+    ],
+    "treeCode": "1034.1107"
+  },
+  {
+    "id": 1108,
+    "communeCode": 978,
+    "name": "Nguyên Giáp",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 27.21,
+    "population": 28127,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Nguyên Giáp hiện tại",
+    "longitude": 106.423,
+    "latitude": 20.7507,
+    "previous": [
+      "Xã Hà Kỳ",
+      "Xã Nguyên Giáp",
+      "Xã Hà Thanh",
+      "Xã Tiên Động"
+    ],
+    "treeCode": "1034.1108"
+  },
+  {
+    "id": 1109,
+    "communeCode": 905,
+    "name": "Nguyễn Lương Bằng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 21.78,
+    "population": 33838,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Thanh Tùng",
+    "longitude": 106.224,
+    "latitude": 20.8353,
+    "previous": [
+      "Xã Phạm Kha",
+      "Xã Nhân Quyền",
+      "Xã Thanh Tùng",
+      "Xã Đoàn Tùng"
+    ],
+    "treeCode": "1034.1109"
+  },
+  {
+    "id": 1110,
+    "communeCode": 962,
+    "name": "Nguyễn Trãi",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 76.28,
+    "population": 16098,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Bến Tắm",
+    "longitude": 106.448,
+    "latitude": 21.1918,
+    "previous": [
+      "Phường Bến Tắm",
+      "Xã Bắc An",
+      "Xã Hoàng Hoa Thám"
+    ],
+    "treeCode": "1034.1110"
+  },
+  {
+    "id": 1111,
+    "communeCode": 878,
+    "name": "Nhị Chiểu",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 39.28,
+    "population": 43799,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Phú Thứ",
+    "longitude": 106.557,
+    "latitude": 21.0346,
+    "previous": [
+      "Phường Tân Dân (thị xã Kinh Môn)",
+      "Phường Minh Tân",
+      "Phường Duy Tân",
+      "Phường Phú Thứ"
+    ],
+    "treeCode": "1034.1111"
+  },
+  {
+    "id": 1112,
+    "communeCode": 976,
+    "name": "Ninh Giang",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 23.69,
+    "population": 38745,
+    "administrativeCenter": "Trụ sở của HĐND, UBND huyện Ninh Giang hiện tại",
+    "longitude": 106.382,
+    "latitude": 20.7388,
+    "previous": [
+      "Thị trấn Ninh Giang",
+      "Xã Vĩnh Hòa (huyện Ninh Giang)",
+      "Xã Hồng Dụ",
+      "Xã Hiệp Lực"
+    ],
+    "treeCode": "1034.1112"
+  },
+  {
+    "id": 1113,
+    "communeCode": 871,
+    "name": "Phạm Sư Mạnh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 22.34,
+    "population": 24919,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hiệp Sơn",
+    "longitude": 106.512,
+    "latitude": 21.0179,
+    "previous": [
+      "Phường Phạm Thái",
+      "Phường An Sinh",
+      "Phường Hiệp Sơn"
+    ],
+    "treeCode": "1034.1113"
+  },
+  {
+    "id": 1114,
+    "communeCode": 1085,
+    "name": "Phù Liễn",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 18.46,
+    "population": 60733,
+    "administrativeCenter": "Trụ sở cũ của UBND Văn Đẩu, số 618 Nguyễn Lương Bằng",
+    "longitude": 106.636,
+    "latitude": 20.7916,
+    "previous": [
+      "Phường Bắc Hà",
+      "Phường Ngọc Sơn",
+      "Thị trấn Trường Sơn",
+      "Phường Nam Sơn (quận Kiến An)",
+      "Phường Đồng Hòa",
+      "Phường Bắc Sơn",
+      "Phường Trần Thành Ngọ",
+      "Phường Văn Đẩu"
+    ],
+    "treeCode": "1034.1114"
+  },
+  {
+    "id": 1115,
+    "communeCode": 848,
+    "name": "Phú Thái",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 28.89,
+    "population": 46234,
+    "administrativeCenter": "Trụ sở cũ của Huyện ủy, HĐND, UBND huyện Kim Thành",
+    "longitude": 106.505,
+    "latitude": 20.9594,
+    "previous": [
+      "Thị trấn Phú Thái",
+      "Xã Kim Xuyên",
+      "Xã Kim Anh",
+      "Xã Kim Liên",
+      "Xã Thượng Quận"
+    ],
+    "treeCode": "1034.1115"
+  },
+  {
+    "id": 1116,
+    "communeCode": 993,
+    "name": "Quyết Thắng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 59.66,
+    "population": 22746,
+    "administrativeCenter": "Trụ sở cũ của UBND Tiên Cường, thôn Sinh Đan",
+    "longitude": 106.517,
+    "latitude": 20.7754,
+    "previous": [
+      "Xã Đại Thắng",
+      "Xã Tiên Cường",
+      "Xã Tự Cường"
+    ],
+    "treeCode": "1034.1116"
+  },
+  {
+    "id": 1117,
+    "communeCode": 974,
+    "name": "Tân An",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 40.61,
+    "population": 41922,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Đức Phúc",
+    "longitude": 106.312,
+    "latitude": 20.7617,
+    "previous": [
+      "Xã Tân Phong (huyện Ninh Giang)",
+      "Xã An Đức",
+      "Xã Đức Phúc"
+    ],
+    "treeCode": "1034.1117"
+  },
+  {
+    "id": 1118,
+    "communeCode": 947,
+    "name": "Tân Hưng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 8.54,
+    "population": 153674,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hải Tân",
+    "longitude": 106.336,
+    "latitude": 20.9056,
+    "previous": [
+      "Phường Hải Tân",
+      "Phường Tân Hưng",
+      "Xã Ngọc Sơn",
+      "Phường Trần Phú"
+    ],
+    "treeCode": "1034.1118"
+  },
+  {
+    "id": 1119,
+    "communeCode": 906,
+    "name": "Tân Kỳ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 116.5,
+    "population": 32974,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Tân Kỳ hiện tại",
+    "longitude": 106.344,
+    "latitude": 20.8232,
+    "previous": [
+      "Xã Đại Hợp (huyện Tứ Kỳ)",
+      "Xã Tân Kỳ",
+      "Xã Dân An",
+      "Xã Kỳ Sơn",
+      "Xã Hưng Đạo (huyện Tứ Kỳ)"
+    ],
+    "treeCode": "1034.1119"
+  },
+  {
+    "id": 1120,
+    "communeCode": 1027,
+    "name": "Tân Minh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 223.76,
+    "population": 22292,
+    "administrativeCenter": "Trụ sở cũ của UBND Cấp Tiến",
+    "longitude": 106.547,
+    "latitude": 20.6914,
+    "previous": [
+      "Xã Cấp Tiến",
+      "Xã Kiến Thiết",
+      "Xã Đoàn Lập",
+      "Xã Tân Minh"
+    ],
+    "treeCode": "1034.1120"
+  },
+  {
+    "id": 1121,
+    "communeCode": 935,
+    "name": "Thạch Khôi",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 19.94,
+    "population": 34432,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Thạch Khôi hiện tại",
+    "longitude": 106.297,
+    "latitude": 20.901,
+    "previous": [
+      "Phường Thạch Khôi",
+      "Xã Gia Xuyên",
+      "Xã Liên Hồng",
+      "Xã Thống Nhất"
+    ],
+    "treeCode": "1034.1121"
+  },
+  {
+    "id": 1122,
+    "communeCode": 954,
+    "name": "Thái Tân",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 20.73,
+    "population": 20334,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Thái Tân hiện tại",
+    "longitude": 106.298,
+    "latitude": 20.9762,
+    "previous": [
+      "Xã Minh Tân (huyện Nam Sách)",
+      "Xã An Sơn",
+      "Xã Thái Tân"
+    ],
+    "treeCode": "1034.1122"
+  },
+  {
+    "id": 1123,
+    "communeCode": 934,
+    "name": "Thành Đông",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 12.22,
+    "population": 50307,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND và Công an Cẩm Thượng",
+    "longitude": 106.325,
+    "latitude": 20.9594,
+    "previous": [
+      "Phường Cẩm Thượng",
+      "Phường Bình Hàn",
+      "Phường Nguyễn Trãi",
+      "Xã An Thượng"
+    ],
+    "treeCode": "1034.1123"
+  },
+  {
+    "id": 1124,
+    "communeCode": 931,
+    "name": "Thanh Hà",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 25.9,
+    "population": 36173,
+    "administrativeCenter": "Trụ sở của Huyện ủy, HĐND, UBND huyện Thanh Hà",
+    "longitude": 106.439,
+    "latitude": 20.8854,
+    "previous": [
+      "Thị trấn Thanh Hà",
+      "Xã Thanh Sơn (huyện Thanh Hà)",
+      "Xã Thanh Tân"
+    ],
+    "treeCode": "1034.1124"
+  },
+  {
+    "id": 1125,
+    "communeCode": 979,
+    "name": "Thanh Miện",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 33.47,
+    "population": 45388,
+    "administrativeCenter": "Trụ sở của Huyện ủy, HĐND, UBND huyện Thanh Miện hiện tại",
+    "longitude": 106.24,
+    "latitude": 20.7742,
+    "previous": [
+      "Xã Cao Thắng",
+      "Xã Ngũ Hùng",
+      "Xã Tứ Cường",
+      "Thị trấn Thanh Miện"
+    ],
+    "treeCode": "1034.1125"
+  },
+  {
+    "id": 1126,
+    "communeCode": 1074,
+    "name": "Thiên Hương",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 21.1,
+    "population": 4514,
+    "administrativeCenter": "Trụ sở của UBND Thiên Hương",
+    "longitude": 106.643,
+    "latitude": 20.9056,
+    "previous": [
+      "Phường Thiên Hương",
+      "Phường Hoàng Lâm",
+      "Phường Lê Hồng Phong",
+      "Phường Hoa Động"
+    ],
+    "treeCode": "1034.1126"
+  },
+  {
+    "id": 1127,
+    "communeCode": 970,
+    "name": "Thượng Hồng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.01,
+    "population": 24584,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Thái Hòa",
+    "longitude": 106.188,
+    "latitude": 20.8367,
+    "previous": [
+      "Xã Bình Xuyên (huyện Bình Giang)",
+      "Xã Thanh Tùng",
+      "Xã Đoàn Tùng",
+      "Xã Thúc Kháng",
+      "Xã Thái Minh",
+      "Xã Tân Hồng",
+      "Xã Thái Dương",
+      "Xã Thái Hòa"
+    ],
+    "treeCode": "1034.1127"
+  },
+  {
+    "id": 1128,
+    "communeCode": 792,
+    "name": "Thủy Nguyên",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 35.4545,
+    "population": null,
+    "administrativeCenter": "Trụ sở của UBND TP Thủy Nguyên hiện tại",
+    "longitude": 106.695,
+    "latitude": 20.8897,
+    "previous": [
+      "Phường Dương Quan",
+      "Phường Thủy Đường",
+      "Phường Hoa Động",
+      "Phường An Lư",
+      "Phường Thủy Hà"
+    ],
+    "treeCode": "1034.1128"
+  },
+  {
+    "id": 1129,
+    "communeCode": 1040,
+    "name": "Tiên Lãng",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 27.89,
+    "population": 40446,
+    "administrativeCenter": "Trụ sở cũ của Huyện ủy, Mặt trận TQVN huyện Tiên Lãng",
+    "longitude": 106.542,
+    "latitude": 20.7349,
+    "previous": [
+      "Thị trấn Tiên Lãng",
+      "Xã Quyết Tiến",
+      "Xã Tiên Thanh",
+      "Xã Khởi Nghĩa"
+    ],
+    "treeCode": "1034.1129"
+  },
+  {
+    "id": 1130,
+    "communeCode": 1037,
+    "name": "Tiên Minh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 36.48,
+    "population": 36236,
+    "administrativeCenter": "Trụ sở cũ của UBND Tân Minh, thôn Đông Quy, Tân Minh (Toàn Thắng cũ)",
+    "longitude": 106.603,
+    "latitude": 20.6954,
+    "previous": [
+      "Xã Tiên Thắng",
+      "Xã Tiên Minh",
+      "Xã Tân Minh"
+    ],
+    "treeCode": "1034.1130"
+  },
+  {
+    "id": 1131,
+    "communeCode": 963,
+    "name": "Trần Hưng Đạo",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 9.32,
+    "population": 45657,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Cộng Hòa",
+    "longitude": 106.371,
+    "latitude": 21.1515,
+    "previous": [
+      "Xã Lê Lợi",
+      "Xã Hưng Đạo (thành phố Chí Linh)",
+      "Phường Cộng Hòa"
+    ],
+    "treeCode": "1034.1131"
+  },
+  {
+    "id": 1132,
+    "communeCode": 932,
+    "name": "Trần Liễu",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 23.87,
+    "population": 26696,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Thượng Quận",
+    "longitude": 106.492,
+    "latitude": 20.9958,
+    "previous": [
+      "Phường An Phụ",
+      "Xã Hiệp Hòa",
+      "Xã Thượng Quận"
+    ],
+    "treeCode": "1034.1132"
+  },
+  {
+    "id": 1133,
+    "communeCode": 961,
+    "name": "Trần Nhân Tông",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 39.97,
+    "population": 27053,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Hoàng Tân",
+    "longitude": 106.469,
+    "latitude": 21.1313,
+    "previous": [
+      "Phường Hoàng Tân",
+      "Phường Hoàng Tiến",
+      "Phường Văn Đức"
+    ],
+    "treeCode": "1034.1133"
+  },
+  {
+    "id": 1134,
+    "communeCode": 883,
+    "name": "Trần Phú",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 145.29,
+    "population": 7049,
+    "administrativeCenter": "Trụ sở Đảng ủy, HĐND, UBND Trần Phú hiện tại",
+    "longitude": 106.328,
+    "latitude": 21.0319,
+    "previous": [
+      "Xã Quốc Tuấn (huyện Nam Sách)",
+      "Xã Hiệp Cát",
+      "Xã Trần Phú"
+    ],
+    "treeCode": "1034.1134"
+  },
+  {
+    "id": 1135,
+    "communeCode": 904,
+    "name": "Trường Tân",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 24.56,
+    "population": 31736,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Nhật Quang",
+    "longitude": 106.269,
+    "latitude": 20.8055,
+    "previous": [
+      "Xã Phạm Trấn",
+      "Xã Nhật Quang",
+      "Xã Thống Kênh",
+      "Xã Đoàn Thượng",
+      "Xã Quang Đức",
+      "Thị trấn Thanh Miện"
+    ],
+    "treeCode": "1034.1135"
+  },
+  {
+    "id": 1136,
+    "communeCode": 908,
+    "name": "Tứ Kỳ",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 30.86,
+    "population": 37792,
+    "administrativeCenter": "Trụ sở của Huyện ủy, HĐND, UBND huyện Tứ Kỳ",
+    "longitude": 106.391,
+    "latitude": 20.8088,
+    "previous": [
+      "Thị trấn Tứ Kỳ",
+      "Xã Minh Đức",
+      "Xã Quang Khải",
+      "Xã Quang Phục"
+    ],
+    "treeCode": "1034.1136"
+  },
+  {
+    "id": 1137,
+    "communeCode": 953,
+    "name": "Tứ Minh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 14.77,
+    "population": 30416,
+    "administrativeCenter": "Trụ sở cũ của Huyện ủy, HĐND, UBND huyện Cẩm Giàng",
+    "longitude": 106.268,
+    "latitude": 20.9254,
+    "previous": [
+      "Xã Cẩm Đoài",
+      "Phường Tứ Minh",
+      "Thị trấn Lai Cách"
+    ],
+    "treeCode": "1034.1137"
+  },
+  {
+    "id": 1138,
+    "communeCode": 940,
+    "name": "Tuệ Tĩnh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 17.78,
+    "population": 27202,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Cẩm Vũ",
+    "longitude": 106.262,
+    "latitude": 20.9738,
+    "previous": [
+      "Xã Đức Chính",
+      "Xã Cẩm Vũ",
+      "Xã Cẩm Văn"
+    ],
+    "treeCode": "1034.1138"
+  },
+  {
+    "id": 1139,
+    "communeCode": 939,
+    "name": "Việt Hòa",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 17.02,
+    "population": 31001,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Việt Hòa hiện tại",
+    "longitude": 106.254,
+    "latitude": 20.948,
+    "previous": [
+      "Phường Việt Hòa",
+      "Xã Cao An",
+      "Phường Tứ Minh",
+      "Thị trấn Lai Cách"
+    ],
+    "treeCode": "1034.1139"
+  },
+  {
+    "id": 1140,
+    "communeCode": 1084,
+    "name": "Việt Khê",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 30.98,
+    "population": 37936,
+    "administrativeCenter": "Trụ sở của UBND Ninh Sơn (Phù Ninh cũ)",
+    "longitude": 106.592,
+    "latitude": 20.9951,
+    "previous": [
+      "Xã Ninh Sơn",
+      "Xã Liên Xuân"
+    ],
+    "treeCode": "1034.1140"
+  },
+  {
+    "id": 1141,
+    "communeCode": 1002,
+    "name": "Vĩnh Am",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 27.34,
+    "population": 34562,
+    "administrativeCenter": "Trụ sở cũ của UBND Tam Cường",
+    "longitude": 106.519,
+    "latitude": 20.6348,
+    "previous": [
+      "Xã Tam Cường",
+      "Xã Cao Minh",
+      "Xã Liên Am"
+    ],
+    "treeCode": "1034.1141"
+  },
+  {
+    "id": 1142,
+    "communeCode": 1046,
+    "name": "Vĩnh Bảo",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 30.6,
+    "population": 45332,
+    "administrativeCenter": "Trụ sở của UBND huyện Vĩnh Bảo hiện tại",
+    "longitude": 106.487,
+    "latitude": 20.6796,
+    "previous": [
+      "Thị trấn Vĩnh Bảo",
+      "Xã Vĩnh Hưng (huyện Vĩnh Bảo)",
+      "Xã Tân Hưng",
+      "Xã Tân Liên"
+    ],
+    "treeCode": "1034.1142"
+  },
+  {
+    "id": 1143,
+    "communeCode": 1017,
+    "name": "Vĩnh Hải",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 32.0071,
+    "population": null,
+    "administrativeCenter": "Trụ sở của UBND Vĩnh Hải (Thanh Lương cũ)",
+    "longitude": 106.475,
+    "latitude": 20.6361,
+    "previous": [
+      "Xã Tiền Phong",
+      "Xã Vĩnh Hải"
+    ],
+    "treeCode": "1034.1143"
+  },
+  {
+    "id": 1144,
+    "communeCode": 1044,
+    "name": "Vĩnh Hòa",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "phường",
+    "areaKm2": 21.5277,
+    "population": null,
+    "administrativeCenter": "Trụ sở của UBND Vĩnh Hòa (Hiệp Hòa cũ)",
+    "longitude": 106.432,
+    "latitude": 20.6908,
+    "previous": [
+      "Xã Vĩnh Hòa (huyện Vĩnh Bảo)",
+      "Xã Hùng Tiến"
+    ],
+    "treeCode": "1034.1144"
+  },
+  {
+    "id": 1145,
+    "communeCode": 975,
+    "name": "Vĩnh Lại",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 26.15,
+    "population": 38963,
+    "administrativeCenter": "Trụ sở cũ của Đảng ủy, HĐND, UBND Nghĩa An",
+    "longitude": 106.359,
+    "latitude": 20.7819,
+    "previous": [
+      "Xã Ứng Hòe",
+      "Xã Tân Hương",
+      "Xã Nghĩa An"
+    ],
+    "treeCode": "1034.1145"
+  },
+  {
+    "id": 1146,
+    "communeCode": 1045,
+    "name": "Vĩnh Thịnh",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 133.91,
+    "population": 10839,
+    "administrativeCenter": "Trụ sở của UBND Trung Lập",
+    "longitude": 106.475,
+    "latitude": 20.7168,
+    "previous": [
+      "Xã Thắng Thủy",
+      "Xã Trung Lập",
+      "Xã Việt Tiến"
+    ],
+    "treeCode": "1034.1146"
+  },
+  {
+    "id": 1147,
+    "communeCode": 989,
+    "name": "Vĩnh Thuận",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 95.46,
+    "population": 30511,
+    "administrativeCenter": "Trụ sở của UBND Vĩnh An",
+    "longitude": 106.487,
+    "latitude": 20.7414,
+    "previous": [
+      "Xã Vĩnh An",
+      "Xã Giang Biên",
+      "Xã Dũng Tiến"
+    ],
+    "treeCode": "1034.1147"
+  },
+  {
+    "id": 1148,
+    "communeCode": 982,
+    "name": "Yết Kiêu",
+    "provinceCode": 4,
+    "provinceName": "thành phố Hải Phòng",
+    "type": "xã",
+    "areaKm2": 21.53,
+    "population": 33499,
+    "administrativeCenter": "Trụ sở của Đảng ủy, HĐND, UBND Yết Kiêu hiện tại",
+    "longitude": 106.262,
+    "latitude": 20.8746,
+    "previous": [
+      "Xã Thống Nhất",
+      "Xã Lê Lợi (huyện Gia Lộc)",
+      "Xã Yết Kiêu"
+    ],
+    "treeCode": "1034.1148"
+  }
+]
