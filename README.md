@@ -7,7 +7,7 @@
 # Data Structure
 
 - Data raw từ https://sapnhap.bando.com.vn/ được lưu trong folder `raw`.
-- Data đã được xử lý được lưu trong folder `finedData`. Việc sử lý có thể gây ra sai sót hoặc thiếu dữ liệu, vui lòng kiểm tra trước khi sử dụng.
+- Data đã được xử lý được lưu trong folder `finedData`. Việc xử lý có thể gây ra sai sót hoặc thiếu dữ liệu, vui lòng kiểm tra trước khi sử dụng.
 
 # Crawled Data
 
